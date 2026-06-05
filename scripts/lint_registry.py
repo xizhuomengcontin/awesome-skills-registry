@@ -57,7 +57,10 @@ def _normalize_description(desc: str) -> str:
 
 def lint_file(filepath: Path, fix: bool = False) -> list[LintIssue]:
     """Lint a single registry YAML file. Returns list of issues found."""
-    rel = filepath.relative_to(REPO_ROOT)
+    try:
+        rel = filepath.relative_to(REPO_ROOT)
+    except ValueError:
+        rel = filepath
     issues: list[LintIssue] = []
 
     raw_text = filepath.read_text(encoding="utf-8")

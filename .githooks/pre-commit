@@ -1,0 +1,20 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+REPO_ROOT="$(git rev-parse --show-toplevel 2>/dev/null || cd "$(dirname "$0")/../.." && pwd)"
+PYTHON="${LINT_PYTHON:-python3}"
+
+# Prefer the pyenv venv that has PyYAML installed
+if [ -x "$HOME/.pyenv/versions/venv/bin/python" ]; then
+  PYTHON="$HOME/.pyenv/versions/venv/bin/python"
+fi
+
+STAGED_YAML=$(git diff --cached --name-only --diff-filter=ACM -- 'registry/*.yaml' 'registry/**/*.yaml') || true
+
+if [ -z "$STAGED_YAML" ]; then
+  exit 0
+fi
+
+echo "Linting staged registry YAML files..."
+# shellcheck disable=SC2086
+"$PYTHON" "$REPO_ROOT/scripts/lint_registry.py" $STAGED_YAML
