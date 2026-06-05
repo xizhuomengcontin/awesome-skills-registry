@@ -381,14 +381,31 @@ def write_skill_yaml(
     description = re.sub(r"\s+", " ", raw_desc).strip()
     source_path = "/" + str(Path(skill_file.path).parent)
 
+    # Classify via the TFY gateway; degrade to none/[] if it's unavailable so the
+    # pipeline never breaks (e.g. TFY_API_KEY unset in CI).
+    category, tags = "none", []
+    try:
+        from classify import classify
+
+        if os.environ.get("TFY_API_KEY") and (
+            result := classify(
+                [{"id": entry_id, "display_name": display_name, "description": description}]
+            ).get(entry_id)
+        ):
+            category = result["category"]
+            tags = result["tags"]
+            display_name = result["display_name"]
+    except Exception as exc:  # noqa: BLE001 — classification is best-effort
+        logger.warning("Classification failed for %s: %s", entry_id, exc)
+
     entry = {
         "id": entry_id,
         "display_name": display_name,
         "description": description,
         "authors": skill_file.authors or [skill_file.owner],
         "is_official": skill_file.is_official,
-        "tags": [],
-        "category": "none",
+        "tags": tags,
+        "category": category,
         "source": {
             "path": source_path,
             "repo": f"{skill_file.owner}/{skill_file.repo}",
