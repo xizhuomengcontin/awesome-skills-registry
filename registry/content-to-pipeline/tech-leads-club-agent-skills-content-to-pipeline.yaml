@@ -1,0 +1,13 @@
+id: tech-leads-club-agent-skills-content-to-pipeline
+description: When the user wants to turn content into revenue, build a content-led
+  GTM motion, reverse engineer distribution, or repurpose content across platforms.
+  Also use when the user mentions 'content marketing,' 'content-led growth,' 'content
+  to pipeline,' 'distribution,' 'content repurposing,' 'content strategy,' 'thought
+  leadership,' 'newsletter,' 'content flywheel,' 'organic growth.' This skill covers
+  content-to-revenue systems from creation through pipeline attribution. Do NOT use
+  for technical implementation, code review, or software architecture.
+url: https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(gtm)/content-to-pipeline/SKILL.md
+folder_url: https://github.com/tech-leads-club/agent-skills/tree/main/packages/skills-catalog/skills/(gtm)/content-to-pipeline
+repo: tech-leads-club/agent-skills
+skill_dir: content-to-pipeline
+added_at: '2026-06-05'

@@ -1,0 +1,11 @@
+id: tech-leads-club-agent-skills-docs-writer
+description: Write, review, and edit documentation files with consistent structure,
+  tone, and technical accuracy. Use when creating docs, reviewing markdown files,
+  writing READMEs, updating `/docs` directories, or when user says "write documentation",
+  "review this doc", "improve this README", "create a guide", or "edit markdown".
+  Do NOT use for code comments, inline JSDoc, or API reference generation.
+url: https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(development)/docs-writer/SKILL.md
+folder_url: https://github.com/tech-leads-club/agent-skills/tree/main/packages/skills-catalog/skills/(development)/docs-writer
+repo: tech-leads-club/agent-skills
+skill_dir: docs-writer
+added_at: '2026-06-05'

@@ -1,0 +1,11 @@
+id: garrytan-gbrain-academic-verify
+description: "Verify a research claim or academic citation by tracing it through publication\
+  \ \u2192 methodology \u2192 raw data \u2192 independent replication. Routes through\
+  \ perplexity-research for the actual web lookup, then formats results as a citation-checked\
+  \ brain page. Use when a book/article/conversation cites a study and you want to\
+  \ confirm the claim is real, replicated, and accurately characterized."
+url: https://raw.githubusercontent.com/garrytan/gbrain/master/skills/academic-verify/SKILL.md
+folder_url: https://github.com/garrytan/gbrain/tree/master/skills/academic-verify
+repo: garrytan/gbrain
+skill_dir: academic-verify
+added_at: '2026-06-05'

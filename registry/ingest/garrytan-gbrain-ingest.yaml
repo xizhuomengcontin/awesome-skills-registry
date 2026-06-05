@@ -1,0 +1,8 @@
+id: garrytan-gbrain-ingest
+description: Route content to specialized ingestion skills. Detects input type and
+  delegates.
+url: https://raw.githubusercontent.com/garrytan/gbrain/master/skills/ingest/SKILL.md
+folder_url: https://github.com/garrytan/gbrain/tree/master/skills/ingest
+repo: garrytan/gbrain
+skill_dir: ingest
+added_at: '2026-06-05'

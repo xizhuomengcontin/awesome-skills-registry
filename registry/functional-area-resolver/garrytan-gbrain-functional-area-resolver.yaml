@@ -1,0 +1,9 @@
+id: garrytan-gbrain-functional-area-resolver
+description: 'Compress an agent''s routing file (RESOLVER.md or AGENTS.md) by converting granular skill-per-row tables into
+  functional-area dispatchers. Each area lists sub-skills in a "(dispatcher for: ...)" clause. The LLM reads one area entry
+  and routes to the correct sub-skill. Proven via held-out A/B eval: dispatcher pattern outperforms naive pipe-table compression.'
+url: https://raw.githubusercontent.com/garrytan/gbrain/master/skills/functional-area-resolver/SKILL.md
+folder_url: https://github.com/garrytan/gbrain/tree/master/skills/functional-area-resolver
+repo: garrytan/gbrain
+skill_dir: functional-area-resolver
+added_at: '2026-06-05'

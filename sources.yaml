@@ -6,11 +6,172 @@ sources:
   - url: https://github.com/tech-leads-club/agent-skills
     skills_path: packages/skills-catalog/skills/
 
-  # --- Whole-repo skills (default skills_path = "/") ---
-  # - url: https://github.com/jane/pr-reviewer     # SKILL.md at repo root
+  # --- Sourced from: https://github.com/VoltAgent/awesome-agent-skills ---
+
+  # Whole-repo skills (SKILL.md at root, skills_path defaults to /)
+  - url: https://github.com/AgriciDaniel/claude-seo
+  - url: https://github.com/antonbabenko/terraform-skill
+  - url: https://github.com/AvdLee/SwiftUI-Agent-Skill
+  - url: https://github.com/BehiSecc/VibeSec-Skill
+  - url: https://github.com/blader/humanizer
+  - url: https://github.com/conorluddy/ios-simulator-skill
+  - url: https://github.com/CosmoBlk/email-marketing-bible
+  - url: https://github.com/deusyu/translate-book
+  - url: https://github.com/Digidai/product-manager-skills
+  - url: https://github.com/ehmo/platform-design-skills
+  - url: https://github.com/ethos-link/rails-conventions
+  - url: https://github.com/EveryInc/charlie-cfo-skill
+  - url: https://github.com/foryourhealth111-pixel/Vibe-Skills
+  - url: https://github.com/Kevin7Qi/codex-collab
+  - url: https://github.com/meodai/skill.color-expert
+  - url: https://github.com/omkamal/pypict-claude-skill
+  - url: https://github.com/op7418/NanoBanana-PPT-Skills
+  - url: https://github.com/op7418/Youtube-clipper-skill
+  - url: https://github.com/PleasePrompto/notebooklm-skill
+  - url: https://github.com/robzolkos/skill-rails-upgrade
+  - url: https://github.com/SHADOWPR0/beautiful_prose
+  - url: https://github.com/SHADOWPR0/security-bluebook-builder
+  - url: https://github.com/talkstream/ru-text
+  - url: https://github.com/testdino-hq/playwright-skill
+  - url: https://github.com/truongduy2611/app-store-preflight-skills
+  - url: https://github.com/trycourier/courier-skills
+  - url: https://github.com/wrsmith108/linear-claude-skill
+  - url: https://github.com/zarazhangrui/frontend-slides
+  - url: https://github.com/zechenzhangAGI/AI-research-SKILLs
+  - url: https://github.com/zscole/model-hierarchy-skill
+  - url: https://github.com/zw008/VMware-AIops
+
+  # Multi-skill repos (SKILL.md files in skills/ subdirectory)
+  - url: https://github.com/aklofas/kicad-happy
+    skills_path: skills/
+  - url: https://github.com/angular/skills
+    skills_path: skills/
+  - url: https://github.com/BrianRWagner/ai-marketing-skills
+    skills_path: skills/
+  - url: https://github.com/Charlie85270/Dorothy
+    skills_path: skills/
+  - url: https://github.com/coderabbitai/skills
+    skills_path: skills/
+  - url: https://github.com/coreyhaines31/marketingskills
+    skills_path: skills/
+  - url: https://github.com/cypress-io/ai-toolkit
+    skills_path: skills/
+  - url: https://github.com/degausai/wonda
+    skills_path: skills/
+  - url: https://github.com/dembrandt/dembrandt-skills
+    skills_path: skills/
+  - url: https://github.com/Eronred/aso-skills
+    skills_path: skills/
+  - url: https://github.com/frmoretto/clarity-gate
+    skills_path: skills/
+  - url: https://github.com/gitroomhq/postiz-agent
+    skills_path: skills/
+  - url: https://github.com/honeydew-ai/honeydew-ai-coding-agents-plugins
+    skills_path: skills/
+  - url: https://github.com/huifer/Claude-Ally-Health
+    skills_path: skills/
+  - url: https://github.com/ibelick/ui-skills
+    skills_path: skills/
+  - url: https://github.com/indranilbanerjee/digital-marketing-pro
+    skills_path: skills/
+  - url: https://github.com/Joannis/claude-skills
+    skills_path: skills/
+  - url: https://github.com/K-Dense-AI/claude-scientific-skills
+    skills_path: skills/
+  - url: https://github.com/k-kolomeitsev/data-structure-protocol
+    skills_path: skills/
+  - url: https://github.com/kreuzberg-dev/kreuzberg
+    skills_path: skills/
+  - url: https://github.com/lackeyjb/playwright-skill
+    skills_path: skills/
+  - url: https://github.com/LambdaTest/agent-skills
+    skills_path: skills/
+  - url: https://github.com/lawvable/awesome-legal-skills
+    skills_path: skills/
+  - url: https://github.com/Leonxlnx/taste-skill
+    skills_path: skills/
+  - url: https://github.com/makenotion/claude-code-notion-plugin
+    skills_path: skills/
+  - url: https://github.com/makenotion/notion-cookbook
+    skills_path: skills/
+  - url: https://github.com/mattpocock/skills
+    skills_path: skills/
+  - url: https://github.com/mcollina/skills
+    skills_path: skills/
+  - url: https://github.com/metalbear-co/skills
+    skills_path: skills/
+  - url: https://github.com/MohamedAbdallah-14/unslop
+    skills_path: skills/
+  - url: https://github.com/more-io/claude-apple-bridges
+    skills_path: skills/
+  - url: https://github.com/mukul975/Anthropic-Cybersecurity-Skills
+    skills_path: skills/
+  - url: https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering
+    skills_path: skills/
+  - url: https://github.com/mvanhorn/last30days-skill
+    skills_path: skills/
+  - url: https://github.com/NoizAI/skills
+    skills_path: skills/
+  - url: https://github.com/NotMyself/claude-win11-speckit-update-skill
+    skills_path: skills/
+  - url: https://github.com/NVIDIA/skills
+    skills_path: skills/
+  - url: https://github.com/obra/superpowers
+    skills_path: skills/
+  - url: https://github.com/obra/superpowers-lab
+    skills_path: skills/
+  - url: https://github.com/ognjengt/founder-skills
+    skills_path: skills/
+  - url: https://github.com/openaccountants/openaccountants
+    skills_path: skills/
+  - url: https://github.com/Paramchoudhary/ResumeSkills
+    skills_path: skills/
+  - url: https://github.com/prompt-security/clawsec
+    skills_path: skills/
+  - url: https://github.com/qdrant/skills
+    skills_path: skills/
+  - url: https://github.com/raintree-technology/apple-hig-skills
+    skills_path: skills/
+  - url: https://github.com/rameerez/claude-code-startup-skills
+    skills_path: skills/
+  - url: https://github.com/realkimbarrett/advertising-skills
+    skills_path: skills/
+  - url: https://github.com/redis/agent-skills
+    skills_path: skills/
+  - url: https://github.com/ReScienceLab/opc-skills
+    skills_path: skills/
+  - url: https://github.com/resend/resend-skills
+    skills_path: skills/
+  - url: https://github.com/RoundTable02/tutor-skills
+    skills_path: skills/
+  - url: https://github.com/sanjay3290/ai-skills
+    skills_path: skills/
+  - url: https://github.com/transloadit/skills
+    skills_path: skills/
+  - url: https://github.com/veniceai/skills
+    skills_path: skills/
+  - url: https://github.com/yusufkaraaslan/Skill_Seekers
+    skills_path: skills/
+
+  # Multi-skill repos (SKILL.md files in plugins/ subdirectory)
+  - url: https://github.com/massimodeluisa/recursive-decomposition-skill
+    skills_path: plugins/
+  - url: https://github.com/zxkane/aws-skills
+    skills_path: plugins/
+
+  # Single-skill repos with non-standard skill paths
+  - url: https://github.com/efremidze/swift-patterns-skill
+    skills_path: swift-patterns/
+  - url: https://github.com/jthack/ffuf_claude_skill
+    skills_path: ffuf-skill/
+  - url: https://github.com/PSPDFKit-labs/nutrient-agent-skill
+    skills_path: nutrient-document-processing/
+  - url: https://github.com/ramzesenok/iOS-Accessibility-Audit-Skill
+    skills_path: swiftui-wcag-accessibility-auditor/
 
   # --- Awesome-list repos (NOT scannable — link directories, no SKILL.md files) ---
   # These are curated README-based discovery sources, not skill containers.
   # Future: parse README for GitHub links to add new entries above.
   # - url: https://github.com/VoltAgent/awesome-agent-skills
+  # - url: https://github.com/VoltAgent/awesome-codex-subagents
   # - url: https://github.com/heilcheng/awesome-agent-skills

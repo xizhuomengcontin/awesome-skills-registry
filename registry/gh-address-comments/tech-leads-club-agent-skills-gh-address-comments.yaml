@@ -1,0 +1,11 @@
+id: tech-leads-club-agent-skills-gh-address-comments
+description: Address review and issue comments on the open GitHub PR for the current
+  branch using gh CLI. Use when user says "address PR comments", "fix review feedback",
+  "respond to PR review", or "handle PR comments". Verifies gh auth first and prompts
+  to authenticate if not logged in. Do NOT use for creating PRs, CI debugging (use
+  gh-fix-ci), or general Git operations.
+url: https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(development)/gh-address-comments/SKILL.md
+folder_url: https://github.com/tech-leads-club/agent-skills/tree/main/packages/skills-catalog/skills/(development)/gh-address-comments
+repo: tech-leads-club/agent-skills
+skill_dir: gh-address-comments
+added_at: '2026-06-05'

@@ -1,0 +1,12 @@
+id: tech-leads-club-agent-skills-gh-fix-ci
+description: Use when a user asks to debug or fix failing GitHub PR checks that run
+  in GitHub Actions. Uses `gh` to inspect checks and logs, summarize failure context,
+  draft a fix plan, and implement only after explicit approval. Treats external providers
+  (for example Buildkite) as out of scope and reports only the details URL. Do NOT
+  use for addressing PR review comments (use gh-address-comments) or general CI outside
+  GitHub Actions.
+url: https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(tooling)/gh-fix-ci/SKILL.md
+folder_url: https://github.com/tech-leads-club/agent-skills/tree/main/packages/skills-catalog/skills/(tooling)/gh-fix-ci
+repo: tech-leads-club/agent-skills
+skill_dir: gh-fix-ci
+added_at: '2026-06-05'

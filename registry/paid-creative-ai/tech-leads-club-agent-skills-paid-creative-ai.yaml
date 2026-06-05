@@ -1,0 +1,13 @@
+id: tech-leads-club-agent-skills-paid-creative-ai
+description: When the user wants to create AI-generated ad creative, test performance
+  creative, manage creative fatigue, or optimize paid media with AI tools. Also use
+  when the user mentions 'ad creative,' 'performance creative,' 'creative testing,'
+  'creative fatigue,' 'Meta ads,' 'Google ads,' 'TikTok ads,' 'AI ads,' 'ad budget,'
+  'ROAS,' 'Advantage+,' or 'Performance Max.' This skill covers AI-powered paid creative
+  from generation through performance optimization. Do NOT use for technical implementation,
+  code review, or software architecture.
+url: https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(gtm)/paid-creative-ai/SKILL.md
+folder_url: https://github.com/tech-leads-club/agent-skills/tree/main/packages/skills-catalog/skills/(gtm)/paid-creative-ai
+repo: tech-leads-club/agent-skills
+skill_dir: paid-creative-ai
+added_at: '2026-06-05'

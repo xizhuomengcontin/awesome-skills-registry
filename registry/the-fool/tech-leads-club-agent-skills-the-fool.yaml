@@ -1,0 +1,11 @@
+id: tech-leads-club-agent-skills-the-fool
+description: "Use when challenging ideas, plans, decisions, or proposals. Invoke to\
+  \ play devil's advocate, run a pre-mortem, red team, stress test assumptions, audit\
+  \ evidence quality, or find blind spots before committing. Do NOT use for building\
+  \ plans, making decisions, or generating solutions \u2014 this skill only challenges\
+  \ and critiques."
+url: https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(decision-making)/the-fool/SKILL.md
+folder_url: https://github.com/tech-leads-club/agent-skills/tree/main/packages/skills-catalog/skills/(decision-making)/the-fool
+repo: tech-leads-club/agent-skills
+skill_dir: the-fool
+added_at: '2026-06-05'

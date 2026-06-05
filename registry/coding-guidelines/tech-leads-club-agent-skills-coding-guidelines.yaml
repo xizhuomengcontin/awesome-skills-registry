@@ -1,0 +1,10 @@
+id: tech-leads-club-agent-skills-coding-guidelines
+description: "Behavioral guidelines to reduce common LLM coding mistakes. Use when\
+  \ writing, modifying, or reviewing code \u2014 implementation tasks, code changes,\
+  \ refactoring, bug fixes, or feature development. Do NOT use for architecture design,\
+  \ documentation, or non-code tasks."
+url: https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(development)/coding-guidelines/SKILL.md
+folder_url: https://github.com/tech-leads-club/agent-skills/tree/main/packages/skills-catalog/skills/(development)/coding-guidelines
+repo: tech-leads-club/agent-skills
+skill_dir: coding-guidelines
+added_at: '2026-06-05'

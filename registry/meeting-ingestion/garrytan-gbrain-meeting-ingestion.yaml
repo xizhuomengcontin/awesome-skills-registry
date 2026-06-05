@@ -1,0 +1,8 @@
+id: garrytan-gbrain-meeting-ingestion
+description: Ingest meeting transcripts into brain pages with attendee enrichment, entity propagation, and timeline merge.
+  A meeting is NOT fully ingested until the enrich skill has processed every entity.
+url: https://raw.githubusercontent.com/garrytan/gbrain/master/skills/meeting-ingestion/SKILL.md
+folder_url: https://github.com/garrytan/gbrain/tree/master/skills/meeting-ingestion
+repo: garrytan/gbrain
+skill_dir: meeting-ingestion
+added_at: '2026-06-05'

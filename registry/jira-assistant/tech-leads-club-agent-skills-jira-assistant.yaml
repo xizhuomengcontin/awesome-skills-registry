@@ -1,0 +1,11 @@
+id: tech-leads-club-agent-skills-jira-assistant
+description: "Manage Jira issues via Atlassian MCP \u2014 search, create, update,\
+  \ transition status, and handle sprint tasks. Auto-detects workspace configuration.\
+  \ Use when user says \"create a Jira ticket\", \"update my sprint\", \"check Jira\
+  \ status\", \"transition this issue\", \"search Jira\", or \"move ticket to done\"\
+  . Do NOT use for Confluence pages (use confluence-assistant)."
+url: https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(development)/jira-assistant/SKILL.md
+folder_url: https://github.com/tech-leads-club/agent-skills/tree/main/packages/skills-catalog/skills/(development)/jira-assistant
+repo: tech-leads-club/agent-skills
+skill_dir: jira-assistant
+added_at: '2026-06-05'

@@ -1,0 +1,13 @@
+id: tech-leads-club-agent-skills-create-adr
+description: Creates Architecture Decision Records (ADRs) to document significant
+  architectural choices and their rationale for future team members. Use when the
+  user says "write an ADR", "document this decision", "record why we chose X", "add
+  an architecture decision record", "create an ADR for", or wants to capture the reasoning
+  behind a technical choice so the team understands it later. Do NOT use when the
+  decision hasn't been made yet (use create-rfc instead), for implementation planning
+  (use technical-design-doc-creator), or for general documentation.
+url: https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(creation)/create-adr/SKILL.md
+folder_url: https://github.com/tech-leads-club/agent-skills/tree/main/packages/skills-catalog/skills/(creation)/create-adr
+repo: tech-leads-club/agent-skills
+skill_dir: create-adr
+added_at: '2026-06-05'

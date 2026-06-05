@@ -1,0 +1,11 @@
+id: tech-leads-club-agent-skills-security-best-practices
+description: Perform language and framework specific security best-practice reviews
+  and suggest improvements. Use when the user explicitly requests security best practices
+  guidance, a security review or report, or secure-by-default coding help. Supports
+  Python, JavaScript/TypeScript, and Go. Do NOT use for general code review, debugging,
+  threat modeling (use security-threat-model), or non-security tasks.
+url: https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(security)/security-best-practices/SKILL.md
+folder_url: https://github.com/tech-leads-club/agent-skills/tree/main/packages/skills-catalog/skills/(security)/security-best-practices
+repo: tech-leads-club/agent-skills
+skill_dir: security-best-practices
+added_at: '2026-06-05'

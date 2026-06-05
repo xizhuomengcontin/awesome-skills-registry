@@ -1,0 +1,11 @@
+id: tech-leads-club-agent-skills-frontend-design
+description: Create distinctive, production-grade frontend interfaces with high design
+  quality. Use this skill when the user asks to build web components, pages, artifacts,
+  posters, or applications. Generates creative, polished code that avoids generic
+  AI aesthetics. Do NOT use for design review or audit (use web-design-guidelines
+  or web-quality-audit).
+url: https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(design)/frontend-design/SKILL.md
+folder_url: https://github.com/tech-leads-club/agent-skills/tree/main/packages/skills-catalog/skills/(design)/frontend-design
+repo: tech-leads-club/agent-skills
+skill_dir: frontend-design
+added_at: '2026-06-05'
