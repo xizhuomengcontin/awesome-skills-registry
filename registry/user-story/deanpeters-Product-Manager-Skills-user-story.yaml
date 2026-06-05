@@ -1,0 +1,9 @@
+id: deanpeters-Product-Manager-Skills-user-story
+description: Create user stories with Mike Cohn format and Gherkin acceptance criteria.
+  Use when turning user needs into development-ready work with clear outcomes and
+  testable conditions.
+url: https://raw.githubusercontent.com/deanpeters/Product-Manager-Skills/main/skills/user-story/SKILL.md
+folder_url: https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/user-story
+repo: deanpeters/Product-Manager-Skills
+skill_dir: user-story
+added_at: '2026-06-05'

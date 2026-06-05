@@ -1,0 +1,9 @@
+id: bitwize-music-studio-claude-ai-music-skills-suno-engineer
+description: Constructs technical Suno V5/V5.5 style prompts, selects genres, and
+  optimizes generation settings. Use when creating or refining Suno prompts for track
+  generation.
+url: https://raw.githubusercontent.com/bitwize-music-studio/claude-ai-music-skills/main/skills/suno-engineer/SKILL.md
+folder_url: https://github.com/bitwize-music-studio/claude-ai-music-skills/tree/main/skills/suno-engineer
+repo: bitwize-music-studio/claude-ai-music-skills
+skill_dir: suno-engineer
+added_at: '2026-06-05'

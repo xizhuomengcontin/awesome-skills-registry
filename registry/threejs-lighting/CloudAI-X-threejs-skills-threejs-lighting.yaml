@@ -1,0 +1,8 @@
+id: CloudAI-X-threejs-skills-threejs-lighting
+description: Three.js lighting - light types, shadows, environment lighting. Use when
+  adding lights, configuring shadows, setting up IBL, or optimizing lighting performance.
+url: https://raw.githubusercontent.com/CloudAI-X/threejs-skills/main/skills/threejs-lighting/SKILL.md
+folder_url: https://github.com/CloudAI-X/threejs-skills/tree/main/skills/threejs-lighting
+repo: CloudAI-X/threejs-skills
+skill_dir: threejs-lighting
+added_at: '2026-06-05'

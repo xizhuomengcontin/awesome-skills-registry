@@ -1,0 +1,11 @@
+id: bitwize-music-studio-claude-ai-music-skills-voice-checker
+description: "Reviews lyrics and prose for AI-written patterns (abstract noun stacking,\
+  \ over-explained metaphors, cliche escalation, missing idiosyncrasy, prose AI tells).\
+  \ Advisory Warning/Info severity \u2014 flags issues, does not block or rewrite.\
+  \ Use when reviewing lyrics for authenticity or before generation to catch AI-sounding\
+  \ language."
+url: https://raw.githubusercontent.com/bitwize-music-studio/claude-ai-music-skills/main/skills/voice-checker/SKILL.md
+folder_url: https://github.com/bitwize-music-studio/claude-ai-music-skills/tree/main/skills/voice-checker
+repo: bitwize-music-studio/claude-ai-music-skills
+skill_dir: voice-checker
+added_at: '2026-06-05'

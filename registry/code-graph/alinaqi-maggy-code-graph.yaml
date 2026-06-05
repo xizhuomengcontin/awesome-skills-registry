@@ -1,0 +1,8 @@
+id: alinaqi-maggy-code-graph
+description: AST-based code graph for fast symbol lookup, dependency analysis, and
+  blast radius via codebase-memory-mcp MCP server
+url: https://raw.githubusercontent.com/alinaqi/maggy/main/skills/code-graph/SKILL.md
+folder_url: https://github.com/alinaqi/maggy/tree/main/skills/code-graph
+repo: alinaqi/maggy
+skill_dir: code-graph
+added_at: '2026-06-05'

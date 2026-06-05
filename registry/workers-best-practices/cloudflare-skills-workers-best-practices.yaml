@@ -1,0 +1,11 @@
+id: cloudflare-skills-workers-best-practices
+description: Reviews and authors Cloudflare Workers code against production best practices.
+  Load when writing new Workers, reviewing Worker code, configuring wrangler.jsonc,
+  or checking for common Workers anti-patterns (streaming, floating promises, global
+  state, secrets, bindings, observability). Biases towards retrieval from Cloudflare
+  docs over pre-trained knowledge.
+url: https://raw.githubusercontent.com/cloudflare/skills/main/skills/workers-best-practices/SKILL.md
+folder_url: https://github.com/cloudflare/skills/tree/main/skills/workers-best-practices
+repo: cloudflare/skills
+skill_dir: workers-best-practices
+added_at: '2026-06-05'

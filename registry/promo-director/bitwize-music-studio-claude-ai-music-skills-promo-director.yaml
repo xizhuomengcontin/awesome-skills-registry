@@ -1,0 +1,9 @@
+id: bitwize-music-studio-claude-ai-music-skills-promo-director
+description: Generates 15-second vertical promo videos for social media from mastered
+  audio. Use after mastering is complete and before release, when the user wants social
+  media content.
+url: https://raw.githubusercontent.com/bitwize-music-studio/claude-ai-music-skills/main/skills/promo-director/SKILL.md
+folder_url: https://github.com/bitwize-music-studio/claude-ai-music-skills/tree/main/skills/promo-director
+repo: bitwize-music-studio/claude-ai-music-skills
+skill_dir: promo-director
+added_at: '2026-06-05'

@@ -1,0 +1,8 @@
+id: bitwize-music-studio-claude-ai-music-skills-new-album
+description: Creates a new album with the correct directory structure and templates.
+  Use IMMEDIATELY when the user says 'make a new album' or similar, before any discussion.
+url: https://raw.githubusercontent.com/bitwize-music-studio/claude-ai-music-skills/main/skills/new-album/SKILL.md
+folder_url: https://github.com/bitwize-music-studio/claude-ai-music-skills/tree/main/skills/new-album
+repo: bitwize-music-studio/claude-ai-music-skills
+skill_dir: new-album
+added_at: '2026-06-05'

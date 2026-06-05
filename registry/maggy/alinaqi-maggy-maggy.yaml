@@ -1,0 +1,9 @@
+id: alinaqi-maggy-maggy
+description: Maggy is a local AI engineering command center. AI-prioritized inbox
+  across issue trackers (GitHub Issues/Asana), one-click TDD execute with iCPG context
+  enrichment, daily competitor intelligence briefing.
+url: https://raw.githubusercontent.com/alinaqi/maggy/main/skills/maggy/SKILL.md
+folder_url: https://github.com/alinaqi/maggy/tree/main/skills/maggy
+repo: alinaqi/maggy
+skill_dir: maggy
+added_at: '2026-06-05'

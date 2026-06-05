@@ -1,0 +1,9 @@
+id: alinaqi-maggy-external-model-delegation
+description: A `UserPromptSubmit` hook classifies every user prompt into one of six
+  cost/performance tiers. The hook injects `additionalContext` instructing Claude
+  to run a specific delegation script and return the output.
+url: https://raw.githubusercontent.com/alinaqi/maggy/main/skills/external-model-delegation/SKILL.md
+folder_url: https://github.com/alinaqi/maggy/tree/main/skills/external-model-delegation
+repo: alinaqi/maggy
+skill_dir: external-model-delegation
+added_at: '2026-06-05'

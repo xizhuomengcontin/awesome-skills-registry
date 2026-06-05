@@ -1,0 +1,11 @@
+id: cloudflare-skills-turnstile-spin
+description: "Set up Cloudflare Turnstile end-to-end in a project \u2014 scan the\
+  \ codebase, create the widget via the Cloudflare API, deploy the managed siteverify\
+  \ Worker, write the frontend snippets, validate, and persist the skill. Load this\
+  \ when a user asks to add Turnstile, set up CAPTCHA, protect a form from bots, or\
+  \ fix a Turnstile integration. Mirrors developers.cloudflare.com/turnstile/spin."
+url: https://raw.githubusercontent.com/cloudflare/skills/main/skills/turnstile-spin/SKILL.md
+folder_url: https://github.com/cloudflare/skills/tree/main/skills/turnstile-spin
+repo: cloudflare/skills
+skill_dir: turnstile-spin
+added_at: '2026-06-05'

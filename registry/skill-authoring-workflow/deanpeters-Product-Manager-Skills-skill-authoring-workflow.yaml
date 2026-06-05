@@ -1,0 +1,8 @@
+id: deanpeters-Product-Manager-Skills-skill-authoring-workflow
+description: Turn raw PM content into a compliant, publish-ready skill. Use when creating
+  or updating a repo skill without breaking standards.
+url: https://raw.githubusercontent.com/deanpeters/Product-Manager-Skills/main/skills/skill-authoring-workflow/SKILL.md
+folder_url: https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/skill-authoring-workflow
+repo: deanpeters/Product-Manager-Skills
+skill_dir: skill-authoring-workflow
+added_at: '2026-06-05'

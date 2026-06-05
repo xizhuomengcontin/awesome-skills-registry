@@ -1,7 +1,7 @@
 # Skills Registry
 
 <!-- skills-count-start -->
-> **759 skills** registered
+> **1023 skills** registered
 <!-- skills-count-end -->
 
 An agent-agnostic registry that scans configured GitHub repositories for `SKILL.md` files, generates structured YAML metadata entries grouped by task similarity, and opens a pull request for human review via a weekly GitHub Actions pipeline.

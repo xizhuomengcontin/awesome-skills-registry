@@ -1,0 +1,9 @@
+id: CloudAI-X-threejs-skills-threejs-interaction
+description: Three.js interaction - raycasting, controls, mouse/touch input, object
+  selection. Use when handling user input, implementing click detection, adding camera
+  controls, or creating interactive 3D experiences.
+url: https://raw.githubusercontent.com/CloudAI-X/threejs-skills/main/skills/threejs-interaction/SKILL.md
+folder_url: https://github.com/CloudAI-X/threejs-skills/tree/main/skills/threejs-interaction
+repo: CloudAI-X/threejs-skills
+skill_dir: threejs-interaction
+added_at: '2026-06-05'

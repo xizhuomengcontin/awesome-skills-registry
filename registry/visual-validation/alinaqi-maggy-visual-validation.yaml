@@ -1,0 +1,10 @@
+id: alinaqi-maggy-visual-validation
+description: "Every UI change should be visually verified before it ships. Peekaboo\
+  \ captures pixel-accurate screenshots. The system compares before/after and flags\
+  \ visual regressions. No manual \"looks good to me\" \u2014 the machine verifies\
+  \ what the machine built."
+url: https://raw.githubusercontent.com/alinaqi/maggy/main/skills/visual-validation/SKILL.md
+folder_url: https://github.com/alinaqi/maggy/tree/main/skills/visual-validation
+repo: alinaqi/maggy
+skill_dir: visual-validation
+added_at: '2026-06-05'
