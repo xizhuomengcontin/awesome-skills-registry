@@ -64,6 +64,7 @@ Each skill is stored as `registry/{task-folder}/{owner}-{repo}-{skill-dir}.yaml`
 id: anthropics-claude-code-commit
 description: Commit message generator following conventional commits spec
 url: https://raw.githubusercontent.com/anthropics/claude-code/main/.claude/skills/commit/SKILL.md
+folder_url: https://github.com/anthropics/claude-code/tree/main/.claude/skills/commit
 repo: anthropics/claude-code
 skill_dir: commit
 added_at: "2026-06-05"

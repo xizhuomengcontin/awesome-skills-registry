@@ -72,6 +72,7 @@ class SkillFile:
     skill_dir: str
     path: str
     raw_url: str
+    folder_url: str = ""
 
 
 @dataclass
@@ -118,6 +119,12 @@ def _build_raw_url(owner: str, repo: str, default_branch: str, path: str) -> str
     return f"https://raw.githubusercontent.com/{owner}/{repo}/{default_branch}/{path}"
 
 
+def _build_folder_url(owner: str, repo: str, default_branch: str, folder_path: str) -> str:
+    if not folder_path or folder_path in (".", "/"):
+        return f"https://github.com/{owner}/{repo}/tree/{default_branch}"
+    return f"https://github.com/{owner}/{repo}/tree/{default_branch}/{folder_path}"
+
+
 @retry()
 def _walk_contents(
     repo,
@@ -146,6 +153,7 @@ def _walk_contents(
             )
         elif item.name == "SKILL.md":
             skill_dir = Path(item.path).parent.name
+            skill_folder_path = str(Path(item.path).parent)
             if not skill_dir or skill_dir == ".":
                 skill_dir = f"skill-{len(results)}"
             results.append(
@@ -155,6 +163,7 @@ def _walk_contents(
                     skill_dir=skill_dir,
                     path=item.path,
                     raw_url=_build_raw_url(owner, repo_name, default_branch, item.path),
+                    folder_url=_build_folder_url(owner, repo_name, default_branch, skill_folder_path),
                 )
             )
 
@@ -185,6 +194,9 @@ def find_skill_files(source: Source, github: Github) -> list[SkillFile]:
                 path="SKILL.md",
                 raw_url=_build_raw_url(
                     source.owner, source.repo, default_branch, "SKILL.md"
+                ),
+                folder_url=_build_folder_url(
+                    source.owner, source.repo, default_branch, ""
                 ),
             )
         ]
@@ -307,6 +319,7 @@ def write_skill_yaml(
         "id": entry_id,
         "description": metadata.get("description", ""),
         "url": skill_file.raw_url,
+        "folder_url": skill_file.folder_url,
         "repo": f"{skill_file.owner}/{skill_file.repo}",
         "skill_dir": skill_file.skill_dir,
         "added_at": date.today().isoformat(),
