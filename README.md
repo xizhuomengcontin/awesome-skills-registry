@@ -43,6 +43,16 @@ sources:
     skills_path: packages/skills-catalog/skills/
 ```
 
+Use `skills_paths` when a repo has multiple scan roots with no shared parent:
+
+```yaml
+sources:
+  - url: https://github.com/huggingface/skills
+    skills_paths:
+      - skills/
+      - hf-mcp/skills/
+```
+
 ### Whole-repo skills
 
 Omit `skills_path` (defaults to `"/"`) when the repo has a single `SKILL.md` at its root:
