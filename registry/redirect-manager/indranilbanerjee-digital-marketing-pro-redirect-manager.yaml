@@ -5,8 +5,15 @@ description: 'Manage URL redirects. Use when: creating 301/302 redirects, auditi
 authors:
 - indranilbanerjee
 is_official: false
-tags: []
-category: none
+tags:
+- url-redirects
+- 301-redirect
+- 302-redirect
+- seo
+- redirect-chains
+- cms
+- technical-seo
+category: marketing
 source:
   path: /skills/redirect-manager
   repo: indranilbanerjee/digital-marketing-pro

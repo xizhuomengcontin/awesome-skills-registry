@@ -4,8 +4,14 @@ description: 'Validate content structure. Use when: checking schema compliance, 
 authors:
 - indranilbanerjee
 is_official: false
-tags: []
-category: none
+tags:
+- validation
+- content-structure
+- schema-compliance
+- word-count
+- quality-check
+- content-marketing
+category: marketing
 source:
   path: /skills/validate-output
   repo: indranilbanerjee/digital-marketing-pro

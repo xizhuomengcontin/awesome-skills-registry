@@ -1,11 +1,15 @@
 id: garrytan-gbrain-install
-display_name: Install
+display_name: Install (Deprecated)
 description: This skill has been replaced by the **setup** skill. See `skills/setup/SKILL.md`.
 authors:
 - garrytan
 is_official: false
-tags: []
-category: none
+tags:
+- deprecated
+- setup
+- installation
+- replaced
+category: productivity
 source:
   path: /skills/install
   repo: garrytan/gbrain

@@ -1,5 +1,5 @@
 id: K-Dense-AI-claude-scientific-skills-pydicom
-display_name: Pydicom
+display_name: PyDICOM Medical Imaging
 description: Python library for working with DICOM (Digital Imaging and Communications in Medicine) files. Use this skill
   when reading, writing, or modifying medical imaging data in DICOM format, extracting pixel data from medical images (CT,
   MRI, X-ray, ultrasound), anonymizing DICOM files, working with DICOM metadata and tags, converting DICOM images to other
@@ -8,8 +8,15 @@ description: Python library for working with DICOM (Digital Imaging and Communic
 authors:
 - K-Dense-AI
 is_official: false
-tags: []
-category: none
+tags:
+- dicom
+- medical-imaging
+- radiology
+- ct-mri
+- healthcare
+- pixel-data
+- anonymization
+category: science
 source:
   path: /skills/pydicom
   repo: K-Dense-AI/claude-scientific-skills

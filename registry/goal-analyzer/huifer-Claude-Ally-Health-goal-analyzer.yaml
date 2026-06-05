@@ -4,8 +4,15 @@ description: 分析健康目标数据、识别目标模式、评估目标进度,
 authors:
 - huifer
 is_official: false
-tags: []
-category: none
+tags:
+- health-goals
+- goal-tracking
+- nutrition
+- fitness
+- sleep-analysis
+- personalized-recommendations
+- progress-monitoring
+category: health
 source:
   path: /skills/goal-analyzer
   repo: huifer/Claude-Ally-Health

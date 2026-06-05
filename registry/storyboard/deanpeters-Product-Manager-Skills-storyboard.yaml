@@ -5,8 +5,15 @@ description: Create a six-frame storyboard that shows a user's journey from prob
 authors:
 - deanpeters
 is_official: false
-tags: []
-category: none
+tags:
+- storyboard
+- user-journey
+- product-management
+- narrative
+- ux
+- concept-design
+- alignment
+category: design
 source:
   path: /skills/storyboard
   repo: deanpeters/Product-Manager-Skills

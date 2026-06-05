@@ -9,8 +9,16 @@ description: Guides Stripe integration decisions — API selection (Checkout Ses
 authors:
 - stripe
 is_official: true
-tags: []
-category: none
+tags:
+- stripe
+- payments
+- api-integration
+- subscriptions
+- webhooks
+- security
+- fintech
+- checkout
+category: coding
 source:
   path: /skills/stripe-best-practices
   repo: stripe/ai

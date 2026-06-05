@@ -1,5 +1,5 @@
 id: tech-leads-club-agent-skills-create-adr
-display_name: Create Adr
+display_name: Create ADR
 description: Creates Architecture Decision Records (ADRs) to document significant architectural choices and their rationale
   for future team members. Use when the user says "write an ADR", "document this decision", "record why we chose X", "add
   an architecture decision record", "create an ADR for", or wants to capture the reasoning behind a technical choice so the
@@ -8,8 +8,14 @@ description: Creates Architecture Decision Records (ADRs) to document significan
 authors:
 - tech-leads-club
 is_official: false
-tags: []
-category: none
+tags:
+- architecture-decision-record
+- adr
+- technical-documentation
+- software-architecture
+- decision-logging
+- team-knowledge
+category: coding
 source:
   path: /packages/skills-catalog/skills/(creation)/create-adr
   repo: tech-leads-club/agent-skills

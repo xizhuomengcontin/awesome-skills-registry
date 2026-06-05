@@ -9,8 +9,16 @@ description: Select and configure time integration methods for ODE and PDE simul
 authors:
 - HeshamFS
 is_official: false
-tags: []
-category: none
+tags:
+- numerical-integration
+- ode-solvers
+- runge-kutta
+- bdf
+- adaptive-step-size
+- imex
+- scientific-computing
+- pde
+category: science
 source:
   path: /skills/core-numerical/numerical-integration
   repo: HeshamFS/materials-simulation-skills

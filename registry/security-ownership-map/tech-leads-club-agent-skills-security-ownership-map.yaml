@@ -8,8 +8,16 @@ description: 'Analyze git repositories to build a security ownership topology (p
 authors:
 - tech-leads-club
 is_official: false
-tags: []
-category: none
+tags:
+- git-analysis
+- security
+- bus-factor
+- code-ownership
+- codeowners
+- graph-export
+- sensitive-code
+- repository-analysis
+category: coding
 source:
   path: /packages/skills-catalog/skills/(security)/security-ownership-map
   repo: tech-leads-club/agent-skills

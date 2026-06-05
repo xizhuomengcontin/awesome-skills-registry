@@ -1,13 +1,20 @@
 id: K-Dense-AI-claude-scientific-skills-usfiscaldata
-display_name: Usfiscaldata
+display_name: US Fiscal Data
 description: Query the U.S. Treasury Fiscal Data REST API for federal financial data. No API key required. Use for national
   debt (Debt to the Penny), Daily Treasury Statements, Monthly Treasury Statements, Treasury securities auctions, interest
   rates, foreign exchange rates, savings bonds, or U.S. government revenue and spending statistics.
 authors:
 - K-Dense-AI
 is_official: false
-tags: []
-category: none
+tags:
+- us-treasury
+- fiscal-data
+- rest-api
+- federal-finance
+- national-debt
+- government-data
+- economics
+category: data-ai
 source:
   path: /skills/usfiscaldata
   repo: K-Dense-AI/claude-scientific-skills

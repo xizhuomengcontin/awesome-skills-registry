@@ -6,8 +6,15 @@ description: Comprehensive citation management for academic research. Search Goo
 authors:
 - K-Dense-AI
 is_official: false
-tags: []
-category: none
+tags:
+- citation-management
+- bibtex
+- google-scholar
+- pubmed
+- academic-research
+- reference-validation
+- scientific-writing
+category: science
 source:
   path: /skills/citation-management
   repo: K-Dense-AI/claude-scientific-skills

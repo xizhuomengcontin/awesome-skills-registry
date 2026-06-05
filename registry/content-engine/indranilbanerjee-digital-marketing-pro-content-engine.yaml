@@ -5,8 +5,16 @@ description: 'Create or optimize marketing content. Use when: blog posts, ad cop
 authors:
 - indranilbanerjee
 is_official: false
-tags: []
-category: none
+tags:
+- content-creation
+- copywriting
+- blog-posts
+- ad-copy
+- email-marketing
+- social-media
+- landing-pages
+- brand-voice
+category: marketing
 source:
   path: /skills/content-engine
   repo: indranilbanerjee/digital-marketing-pro

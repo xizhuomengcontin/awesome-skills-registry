@@ -1,5 +1,5 @@
 id: tech-leads-club-agent-skills-gtm-engineering
-display_name: Gtm Engineering
+display_name: GTM Engineering
 description: When the user wants to build GTM automation with code, design workflow architectures, use AI agents for GTM tasks,
   or implement the 'architecture over tools' principle. Also use when the user mentions 'GTM engineering,' 'GTM automation,'
   'n8n,' 'Make,' 'Zapier,' 'workflow automation,' 'Clay API,' 'instruction stacks,' 'AI agents for GTM,' or 'revenue automation.'
@@ -8,8 +8,16 @@ description: When the user wants to build GTM automation with code, design workf
 authors:
 - tech-leads-club
 is_official: false
-tags: []
-category: none
+tags:
+- gtm-automation
+- workflow-automation
+- n8n
+- zapier
+- ai-agents
+- revenue-automation
+- clay-api
+- go-to-market
+category: marketing
 source:
   path: /packages/skills-catalog/skills/(gtm)/gtm-engineering
   repo: tech-leads-club/agent-skills

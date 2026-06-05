@@ -1,12 +1,20 @@
 id: deanpeters-Product-Manager-Skills-saas-economics-efficiency-metrics
-display_name: Saas Economics Efficiency Metrics
+display_name: SaaS Economics & Efficiency Metrics
 description: Evaluate SaaS unit economics and capital efficiency. Use when deciding whether the business can scale efficiently
   or needs correction.
 authors:
 - deanpeters
 is_official: false
-tags: []
-category: none
+tags:
+- saas
+- unit-economics
+- capital-efficiency
+- cac
+- ltv
+- burn-rate
+- scalability
+- financial-metrics
+category: business
 source:
   path: /skills/saas-economics-efficiency-metrics
   repo: deanpeters/Product-Manager-Skills

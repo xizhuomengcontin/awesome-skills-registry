@@ -1,5 +1,5 @@
 id: coreyhaines31-marketingskills-ad-creative
-display_name: Ad Creative
+display_name: Ad Creative Generator
 description: When the user wants to generate, iterate, or scale ad creative — headlines, descriptions, primary text, or full
   ad variations — for any paid advertising platform. Also use when the user mentions 'ad copy variations,' 'ad creative,'
   'generate headlines,' 'RSA headlines,' 'bulk ad copy,' 'ad iterations,' 'creative testing,' 'ad performance optimization,'
@@ -9,8 +9,16 @@ description: When the user wants to generate, iterate, or scale ad creative — 
 authors:
 - coreyhaines31
 is_official: false
-tags: []
-category: none
+tags:
+- ad-copy
+- creative-testing
+- paid-advertising
+- google-ads
+- facebook-ads
+- headlines
+- rsa
+- copywriting
+category: marketing
 source:
   path: /skills/ad-creative
   repo: coreyhaines31/marketingskills

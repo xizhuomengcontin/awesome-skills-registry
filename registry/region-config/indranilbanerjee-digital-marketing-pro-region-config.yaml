@@ -4,8 +4,15 @@ description: 'Configure regional settings. Use when: setting timezone, language,
 authors:
 - indranilbanerjee
 is_official: false
-tags: []
-category: none
+tags:
+- regional-settings
+- localization
+- timezone
+- compliance
+- currency
+- language-settings
+- geo-configuration
+category: marketing
 source:
   path: /skills/region-config
   repo: indranilbanerjee/digital-marketing-pro

@@ -6,8 +6,16 @@ description: Audit and fix HTML metadata including page titles, meta description
 authors:
 - ibelick
 is_official: false
-tags: []
-category: none
+tags:
+- seo
+- meta-tags
+- open-graph
+- structured-data
+- canonical-urls
+- twitter-cards
+- json-ld
+- html
+category: marketing
 source:
   path: /skills/fixing-metadata
   repo: ibelick/ui-skills

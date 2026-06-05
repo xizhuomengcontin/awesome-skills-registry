@@ -6,8 +6,15 @@ description: When the user wants to plan a launch strategy for a new app or majo
 authors:
 - Eronred
 is_official: false
-tags: []
-category: none
+tags:
+- app-launch
+- launch-strategy
+- launch-checklist
+- pre-launch
+- mobile-app
+- go-to-market
+- app-store
+category: marketing
 source:
   path: /skills/app-launch
   repo: Eronred/aso-skills

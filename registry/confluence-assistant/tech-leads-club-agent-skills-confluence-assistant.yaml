@@ -6,8 +6,15 @@ description: Expert in Confluence operations using Atlassian MCP. Use when the u
 authors:
 - tech-leads-club
 is_official: false
-tags: []
-category: none
+tags:
+- confluence
+- atlassian
+- documentation
+- wiki
+- knowledge-base
+- page-management
+- mcp
+category: productivity
 source:
   path: /packages/skills-catalog/skills/(development)/confluence-assistant
   repo: tech-leads-club/agent-skills

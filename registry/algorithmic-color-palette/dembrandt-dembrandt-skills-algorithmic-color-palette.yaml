@@ -7,8 +7,15 @@ description: Derive a full UI colour palette algorithmically from one or two bra
 authors:
 - dembrandt
 is_official: false
-tags: []
-category: none
+tags:
+- color-palette
+- ui-design
+- brand-colors
+- design-system
+- color-theory
+- algorithmic-design
+- visual-identity
+category: design
 source:
   path: /skills/algorithmic-color-palette
   repo: dembrandt/dembrandt-skills

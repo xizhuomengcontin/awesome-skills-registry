@@ -6,8 +6,15 @@ description: A set of resources to help me write all kinds of internal communica
 authors:
 - anthropics
 is_official: true
-tags: []
-category: none
+tags:
+- internal-communications
+- status-reports
+- newsletters
+- incident-reports
+- leadership-updates
+- writing
+- business-writing
+category: productivity
 source:
   path: /skills/internal-comms
   repo: anthropics/skills

@@ -5,8 +5,14 @@ description: Produce the 11-section Growth Plan — the flagship Part 8 client-f
 authors:
 - indranilbanerjee
 is_official: false
-tags: []
-category: none
+tags:
+- growth-strategy
+- marketing-plan
+- client-deliverable
+- go-to-market
+- strategic-planning
+- digital-marketing
+category: marketing
 source:
   path: /skills/growth-plan
   repo: indranilbanerjee/digital-marketing-pro

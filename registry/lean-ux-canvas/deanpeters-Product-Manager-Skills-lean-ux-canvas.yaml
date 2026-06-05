@@ -1,12 +1,19 @@
 id: deanpeters-Product-Manager-Skills-lean-ux-canvas
-display_name: Lean Ux Canvas
+display_name: Lean UX Canvas
 description: Guide teams through Lean UX Canvas v2. Use when framing a business problem, surfacing assumptions, and defining
   what to learn next.
 authors:
 - deanpeters
 is_official: false
-tags: []
-category: none
+tags:
+- lean-ux
+- ux-canvas
+- product-design
+- assumptions-mapping
+- user-research
+- agile
+- problem-framing
+category: design
 source:
   path: /skills/lean-ux-canvas
   repo: deanpeters/Product-Manager-Skills

@@ -5,8 +5,15 @@ description: Edit and improve articles by restructuring sections, improving clar
 authors:
 - mattpocock
 is_official: false
-tags: []
-category: none
+tags:
+- article-editing
+- writing
+- prose-improvement
+- content-revision
+- copyediting
+- clarity
+- structure
+category: creative
 source:
   path: /skills/personal/edit-article
   repo: mattpocock/skills

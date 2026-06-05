@@ -5,8 +5,14 @@ description: Ingest links, articles, tweets, and ideas into the brain. Fetch con
 authors:
 - garrytan
 is_official: false
-tags: []
-category: none
+tags:
+- knowledge-management
+- link-saving
+- content-capture
+- second-brain
+- note-taking
+- cross-linking
+category: productivity
 source:
   path: /skills/idea-ingest
   repo: garrytan/gbrain

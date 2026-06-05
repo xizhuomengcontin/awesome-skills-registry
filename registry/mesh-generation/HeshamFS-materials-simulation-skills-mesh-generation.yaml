@@ -9,8 +9,16 @@ description: Plan and evaluate mesh generation for numerical simulations — est
 authors:
 - HeshamFS
 is_official: false
-tags: []
-category: none
+tags:
+- mesh-generation
+- numerical-simulation
+- cfd
+- finite-element
+- grid-resolution
+- adaptive-mesh-refinement
+- boundary-layers
+- solver-diagnostics
+category: science
 source:
   path: /skills/core-numerical/mesh-generation
   repo: HeshamFS/materials-simulation-skills

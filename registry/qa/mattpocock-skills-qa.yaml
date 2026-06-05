@@ -1,13 +1,20 @@
 id: mattpocock-skills-qa
-display_name: Qa
+display_name: QA Session
 description: Interactive QA session where user reports bugs or issues conversationally, and the agent files GitHub issues.
   Explores the codebase in the background for context and domain language. Use when user wants to report bugs, do QA, file
   issues conversationally, or mentions "QA session".
 authors:
 - mattpocock
 is_official: false
-tags: []
-category: none
+tags:
+- qa
+- bug-reporting
+- github-issues
+- codebase-exploration
+- testing
+- issue-tracking
+- conversational-interface
+category: coding
 source:
   path: /skills/deprecated/qa
   repo: mattpocock/skills

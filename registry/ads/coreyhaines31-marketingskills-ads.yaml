@@ -1,5 +1,5 @@
 id: coreyhaines31-marketingskills-ads
-display_name: Ads
+display_name: Ads Campaign Management
 description: When the user wants help with paid advertising campaigns on Google Ads, Meta (Facebook/Instagram), LinkedIn,
   Twitter/X, or other ad platforms. Also use when the user mentions 'PPC,' 'paid media,' 'ROAS,' 'CPA,' 'ad campaign,' 'retargeting,'
   'audience targeting,' 'Google Ads,' 'Facebook ads,' 'LinkedIn ads,' 'ad budget,' 'cost per click,' 'ad spend,' or 'should
@@ -8,8 +8,16 @@ description: When the user wants help with paid advertising campaigns on Google 
 authors:
 - coreyhaines31
 is_official: false
-tags: []
-category: none
+tags:
+- paid-advertising
+- ppc
+- google-ads
+- facebook-ads
+- linkedin-ads
+- roas
+- audience-targeting
+- campaign-strategy
+category: marketing
 source:
   path: /skills/ads
   repo: coreyhaines31/marketingskills

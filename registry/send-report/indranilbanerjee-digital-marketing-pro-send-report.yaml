@@ -4,8 +4,14 @@ description: 'Deliver performance reports. Use when: sending KPI summaries via S
 authors:
 - indranilbanerjee
 is_official: false
-tags: []
-category: none
+tags:
+- reporting
+- kpi
+- slack
+- google-sheets
+- performance-analysis
+- campaign-reports
+category: marketing
 source:
   path: /skills/send-report
   repo: indranilbanerjee/digital-marketing-pro

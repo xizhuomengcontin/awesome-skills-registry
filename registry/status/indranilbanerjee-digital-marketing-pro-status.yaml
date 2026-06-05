@@ -1,12 +1,18 @@
 id: indranilbanerjee-digital-marketing-pro-status
-display_name: Status
+display_name: Brand Status Dashboard
 description: 'Show a unified status snapshot of the active brand: profile, active engagements with current part, recent insights,
   recent compliance violations, Python dependency mode.'
 authors:
 - indranilbanerjee
 is_official: false
-tags: []
-category: none
+tags:
+- brand-management
+- dashboard
+- status-snapshot
+- compliance
+- analytics
+- agency
+category: marketing
 source:
   path: /skills/status
   repo: indranilbanerjee/digital-marketing-pro

@@ -8,8 +8,15 @@ description: Proven workflow architectural patterns from real n8n workflows. Use
 authors:
 - czlonkowski
 is_official: false
-tags: []
-category: none
+tags:
+- n8n
+- workflow-automation
+- architecture
+- webhook
+- api-integration
+- ai-agent
+- design-patterns
+category: coding
 source:
   path: /skills/n8n-workflow-patterns
   repo: czlonkowski/n8n-skills

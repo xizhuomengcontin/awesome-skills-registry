@@ -6,8 +6,15 @@ description: Statistical visualization with pandas integration. Use for quick ex
 authors:
 - K-Dense-AI
 is_official: false
-tags: []
-category: none
+tags:
+- data-visualization
+- python
+- statistical-plots
+- matplotlib
+- exploratory-analysis
+- heatmaps
+- violin-plots
+category: data-ai
 source:
   path: /skills/seaborn
   repo: K-Dense-AI/claude-scientific-skills

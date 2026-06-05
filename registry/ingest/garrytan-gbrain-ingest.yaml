@@ -1,11 +1,16 @@
 id: garrytan-gbrain-ingest
-display_name: Ingest
+display_name: Content Ingest Router
 description: Route content to specialized ingestion skills. Detects input type and delegates.
 authors:
 - garrytan
 is_official: false
-tags: []
-category: none
+tags:
+- content-ingestion
+- routing
+- delegation
+- input-processing
+- workflow-automation
+category: productivity
 source:
   path: /skills/ingest
   repo: garrytan/gbrain

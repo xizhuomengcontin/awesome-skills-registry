@@ -1,12 +1,18 @@
 id: indranilbanerjee-digital-marketing-pro-eval-suite
-display_name: Eval Suite
+display_name: Content Evaluation Suite
 description: 'Batch evaluate multiple content pieces. Use when: scoring a content library, campaign assets, or deliverable
   set.'
 authors:
 - indranilbanerjee
 is_official: false
-tags: []
-category: none
+tags:
+- batch-evaluation
+- content-library
+- campaign-assets
+- content-scoring
+- quality-assurance
+- marketing-ops
+category: marketing
 source:
   path: /skills/eval-suite
   repo: indranilbanerjee/digital-marketing-pro

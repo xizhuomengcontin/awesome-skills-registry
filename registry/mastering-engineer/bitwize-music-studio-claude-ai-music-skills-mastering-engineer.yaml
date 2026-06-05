@@ -5,8 +5,14 @@ description: Guides audio mastering for streaming platforms including loudness o
 authors:
 - bitwize-music-studio
 is_official: false
-tags: []
-category: none
+tags:
+- audio-mastering
+- music-production
+- loudness-optimization
+- streaming-platforms
+- tonal-balance
+- audio-engineering
+category: creative
 source:
   path: /skills/mastering-engineer
   repo: bitwize-music-studio/claude-ai-music-skills

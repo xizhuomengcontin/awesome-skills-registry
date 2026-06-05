@@ -6,8 +6,15 @@ description: Scroll areas inside a layout should be avoided wherever possible. W
 authors:
 - dembrandt
 is_official: false
-tags: []
-category: none
+tags:
+- ui-design
+- scroll-behavior
+- layout
+- ux-patterns
+- data-tables
+- inner-scroll
+- component-design
+category: design
 source:
   path: /skills/scroll-areas
   repo: dembrandt/dembrandt-skills

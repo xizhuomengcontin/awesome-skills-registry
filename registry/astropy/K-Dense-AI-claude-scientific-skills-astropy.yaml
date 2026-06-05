@@ -6,8 +6,16 @@ description: Core Python library for astronomy and astrophysics workflows that n
 authors:
 - K-Dense-AI
 is_official: false
-tags: []
-category: none
+tags:
+- astronomy
+- astrophysics
+- python
+- astropy
+- fits
+- data-analysis
+- wcs
+- coordinates
+category: science
 source:
   path: /skills/astropy
   repo: K-Dense-AI/claude-scientific-skills

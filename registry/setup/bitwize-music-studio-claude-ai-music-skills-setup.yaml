@@ -5,8 +5,14 @@ description: Detects your Python environment and guides you through installing p
 authors:
 - bitwize-music-studio
 is_official: false
-tags: []
-category: none
+tags:
+- setup
+- python-environment
+- plugin-dependencies
+- mcp-server
+- music-studio
+- installation
+category: productivity
 source:
   path: /skills/setup
   repo: bitwize-music-studio/claude-ai-music-skills

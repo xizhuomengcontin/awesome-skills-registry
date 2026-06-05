@@ -1,12 +1,19 @@
 id: bitwize-music-studio-claude-ai-music-skills-researchers-gov
-display_name: Researchers Gov
+display_name: Government Sources Researcher
 description: Researches DOJ/FBI/SEC press releases, agency statements, and government sources. Use when research needs official
   government records or agency documentation.
 authors:
 - bitwize-music-studio
 is_official: false
-tags: []
-category: none
+tags:
+- government-records
+- doj
+- fbi
+- sec
+- agency-documentation
+- music-production
+- official-sources
+category: creative
 source:
   path: /skills/researchers-gov
   repo: bitwize-music-studio/claude-ai-music-skills

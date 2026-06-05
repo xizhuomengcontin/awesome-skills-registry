@@ -1,5 +1,5 @@
 id: K-Dense-AI-claude-scientific-skills-iso-13485-certification
-display_name: Iso 13485 Certification
+display_name: ISO 13485 Certification
 description: Comprehensive toolkit for preparing ISO 13485 certification documentation for medical device Quality Management
   Systems. Use when users need help with ISO 13485 QMS documentation, including (1) conducting gap analysis of existing documentation,
   (2) creating Quality Manuals, (3) developing required procedures and work instructions, (4) preparing Medical Device Files,
@@ -9,8 +9,16 @@ description: Comprehensive toolkit for preparing ISO 13485 certification documen
 authors:
 - K-Dense-AI
 is_official: false
-tags: []
-category: none
+tags:
+- iso-13485
+- medical-devices
+- qms
+- compliance
+- gap-analysis
+- fda
+- eu-mdr
+- quality-management
+category: legal
 source:
   path: /skills/iso-13485-certification
   repo: K-Dense-AI/claude-scientific-skills

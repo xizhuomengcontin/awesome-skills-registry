@@ -6,8 +6,15 @@ description: Buttons, inputs, pills, badges, calendars, and other interactive co
 authors:
 - dembrandt
 is_official: false
-tags: []
-category: none
+tags:
+- design-system
+- component-library
+- ui-consistency
+- visual-design
+- border-radius
+- spacing
+- interactive-components
+category: design
 source:
   path: /skills/component-family-consistency
   repo: dembrandt/dembrandt-skills

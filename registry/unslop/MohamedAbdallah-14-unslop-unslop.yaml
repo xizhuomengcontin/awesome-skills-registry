@@ -8,8 +8,15 @@ description: 'Humanize LLM output so it reads like a careful human wrote it. Sub
 authors:
 - MohamedAbdallah-14
 is_official: false
-tags: []
-category: none
+tags:
+- text-editing
+- humanize-text
+- ai-writing
+- writing-style
+- content-rewriting
+- tone-adjustment
+- llm-output
+category: creative
 source:
   path: /skills/unslop
   repo: MohamedAbdallah-14/unslop

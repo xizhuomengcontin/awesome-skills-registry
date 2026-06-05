@@ -1,5 +1,5 @@
 id: mattpocock-skills-prototype
-display_name: Prototype
+display_name: Rapid Prototype Builder
 description: Build a throwaway prototype to flesh out a design before committing to it. Routes between two branches — a runnable
   terminal app for state/business-logic questions, or several radically different UI variations toggleable from one route.
   Use when the user wants to prototype, sanity-check a data model or state machine, mock up a UI, explore design options,
@@ -7,8 +7,15 @@ description: Build a throwaway prototype to flesh out a design before committing
 authors:
 - mattpocock
 is_official: false
-tags: []
-category: none
+tags:
+- prototyping
+- ui-design
+- state-machine
+- data-modeling
+- rapid-prototyping
+- terminal-app
+- design-exploration
+category: coding
 source:
   path: /skills/engineering/prototype
   repo: mattpocock/skills

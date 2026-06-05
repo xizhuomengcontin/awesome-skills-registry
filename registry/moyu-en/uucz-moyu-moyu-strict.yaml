@@ -11,8 +11,14 @@ description: 'Strict anti-over-engineering enforcement. Activates on ANY code ch
 authors:
 - uucz
 is_official: false
-tags: []
-category: none
+tags:
+- anti-over-engineering
+- strict-mode
+- code-review
+- minimal-edits
+- scope-control
+- coding-discipline
+category: coding
 source:
   path: /skills/moyu-strict
   repo: uucz/moyu

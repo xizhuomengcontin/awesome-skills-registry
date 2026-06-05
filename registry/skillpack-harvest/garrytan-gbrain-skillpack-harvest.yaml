@@ -6,8 +6,14 @@ description: 'Lift a proven skill from a host repo (e.g. your OpenClaw fork) bac
 authors:
 - garrytan
 is_official: false
-tags: []
-category: none
+tags:
+- gbrain
+- skillpack
+- skill-management
+- generalization
+- privacy-lint
+- repo-tooling
+category: productivity
 source:
   path: /skills/skillpack-harvest
   repo: garrytan/gbrain

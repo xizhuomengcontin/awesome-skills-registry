@@ -4,8 +4,15 @@ description: FastAPI with Supabase and SQLAlchemy/SQLModel
 authors:
 - alinaqi
 is_official: false
-tags: []
-category: none
+tags:
+- python
+- fastapi
+- supabase
+- sqlalchemy
+- sqlmodel
+- backend
+- api
+category: coding
 source:
   path: /skills/supabase-python
   repo: alinaqi/maggy

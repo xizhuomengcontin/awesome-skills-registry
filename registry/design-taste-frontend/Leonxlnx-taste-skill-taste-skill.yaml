@@ -6,8 +6,16 @@ description: Anti-slop frontend skill for landing pages, portfolios, and redesig
 authors:
 - Leonxlnx
 is_official: false
-tags: []
-category: none
+tags:
+- frontend
+- landing-page
+- portfolio
+- ui-design
+- design-systems
+- anti-templated
+- redesign
+- web-ui
+category: design
 source:
   path: /skills/taste-skill
   repo: Leonxlnx/taste-skill

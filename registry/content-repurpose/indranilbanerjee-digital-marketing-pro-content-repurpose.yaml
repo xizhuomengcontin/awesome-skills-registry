@@ -5,8 +5,14 @@ description: 'Repurpose content across channels. Use when: blog-to-social, webin
 authors:
 - indranilbanerjee
 is_official: false
-tags: []
-category: none
+tags:
+- content-repurposing
+- cross-channel
+- blog-to-social
+- format-adaptation
+- content-distribution
+- pillar-content
+category: marketing
 source:
   path: /skills/content-repurpose
   repo: indranilbanerjee/digital-marketing-pro

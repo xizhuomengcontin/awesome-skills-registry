@@ -7,8 +7,15 @@ description: Creates step-by-step decomposition plans and migration roadmaps for
 authors:
 - tech-leads-club
 is_official: false
-tags: []
-category: none
+tags:
+- microservices
+- monolith-migration
+- architecture
+- decomposition
+- roadmap
+- service-extraction
+- planning
+category: coding
 source:
   path: /packages/skills-catalog/skills/(architecture)/decomposition-planning-roadmap
   repo: tech-leads-club/agent-skills

@@ -1,5 +1,5 @@
 id: coreyhaines31-marketingskills-cro
-display_name: Cro
+display_name: Conversion Rate Optimization
 description: When the user wants to optimize, improve, or increase conversions on any marketing page or form — including homepage,
   landing pages, pricing pages, feature pages, lead capture forms, or contact forms. Also use when the user says 'CRO,' 'conversion
   rate optimization,' 'this page isn't converting,' 'improve conversions,' 'why isn't this page working,' 'my landing page
@@ -9,8 +9,15 @@ description: When the user wants to optimize, improve, or increase conversions o
 authors:
 - coreyhaines31
 is_official: false
-tags: []
-category: none
+tags:
+- conversion-rate-optimization
+- landing-page
+- a-b-testing
+- form-optimization
+- ux
+- lead-capture
+- pricing-page
+category: marketing
 source:
   path: /skills/cro
   repo: coreyhaines31/marketingskills

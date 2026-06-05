@@ -1,12 +1,18 @@
 id: deanpeters-Product-Manager-Skills-pestel-analysis
-display_name: Pestel Analysis
+display_name: PESTEL Analysis
 description: Analyze political, economic, social, technological, environmental, and legal forces. Use when external market
   shifts could materially affect a product, roadmap, or strategy.
 authors:
 - deanpeters
 is_official: false
-tags: []
-category: none
+tags:
+- pestel
+- market-analysis
+- strategic-planning
+- external-forces
+- product-strategy
+- competitive-analysis
+category: business
 source:
   path: /skills/pestel-analysis
   repo: deanpeters/Product-Manager-Skills

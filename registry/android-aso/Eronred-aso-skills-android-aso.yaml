@@ -1,5 +1,5 @@
 id: Eronred-aso-skills-android-aso
-display_name: Android Aso
+display_name: Android ASO
 description: When the user wants to optimize their Google Play Store listing — title, short description, full description,
   keywords, ratings, or Play Store-specific features. Use when the user mentions "Google Play", "Android", "Play Store", "Play
   Console", "short description", "full description indexed", "Google Play ASO", or wants Google Play-specific keyword, creative,
@@ -7,8 +7,15 @@ description: When the user wants to optimize their Google Play Store listing —
 authors:
 - Eronred
 is_official: false
-tags: []
-category: none
+tags:
+- google-play
+- android
+- app-store-optimization
+- play-store
+- aso
+- keyword-strategy
+- app-listing
+category: marketing
 source:
   path: /skills/android-aso
   repo: Eronred/aso-skills

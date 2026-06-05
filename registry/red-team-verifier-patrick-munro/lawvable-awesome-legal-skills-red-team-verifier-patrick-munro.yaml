@@ -1,5 +1,5 @@
 id: lawvable-awesome-legal-skills-red-team-verifier-patrick-munro
-display_name: Red Team Verifier Patrick Munro
+display_name: Red Team Legal Verifier
 description: Adversarial verification for AI-generated legal content with systematic fact-checking, source validation, and
   quality control. Use when User requests verification of legal documents, fact-checking of regulatory content, red team review,
   or quality assurance before distribution to clients/stakeholders. Provides structured verification reports with severity-categorized
@@ -7,8 +7,16 @@ description: Adversarial verification for AI-generated legal content with system
 authors:
 - lawvable
 is_official: false
-tags: []
-category: none
+tags:
+- red-teaming
+- fact-checking
+- legal-verification
+- document-review
+- quality-assurance
+- regulatory-content
+- adversarial-testing
+- source-validation
+category: legal
 source:
   path: /skills/red-team-verifier-patrick-munro
   repo: lawvable/awesome-legal-skills

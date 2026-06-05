@@ -1,5 +1,5 @@
 id: tech-leads-club-agent-skills-perf-lighthouse
-display_name: Perf Lighthouse
+display_name: Lighthouse Audits
 description: 'Run Lighthouse audits locally via CLI or Node API, parse and interpret reports, and set performance budgets.
   Use when measuring site performance, understanding Lighthouse scores, setting up budgets, or integrating audits into CI.
   Triggers on: lighthouse, run lighthouse, lighthouse score, performance audit, performance budget. Do NOT use for fixing
@@ -7,8 +7,15 @@ description: 'Run Lighthouse audits locally via CLI or Node API, parse and inter
 authors:
 - tech-leads-club
 is_official: false
-tags: []
-category: none
+tags:
+- lighthouse
+- performance-audit
+- web-performance
+- performance-budget
+- ci-cd
+- page-speed
+- cli
+category: coding
 source:
   path: /packages/skills-catalog/skills/(performance)/perf-lighthouse
   repo: tech-leads-club/agent-skills

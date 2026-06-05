@@ -11,8 +11,16 @@ description: When the user needs a comprehensive marketing plan for a client, a 
 authors:
 - coreyhaines31
 is_official: false
-tags: []
-category: none
+tags:
+- marketing-plan
+- go-to-market
+- aarrr-framework
+- growth-roadmap
+- fractional-cmo
+- acquisition-strategy
+- marketing-operations
+- notion
+category: marketing
 source:
   path: /skills/marketing-plan
   repo: coreyhaines31/marketingskills

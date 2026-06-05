@@ -1,5 +1,5 @@
 id: coreyhaines31-marketingskills-popups
-display_name: Popups
+display_name: Popups & Modals
 description: When the user wants to create or optimize popups, modals, overlays, slide-ins, or banners for conversion purposes.
   Also use when the user mentions "exit intent," "popup conversions," "modal optimization," "lead capture popup," "email popup,"
   "announcement banner," "overlay," "collect emails with a popup," "exit popup," "scroll trigger," "sticky bar," or "notification
@@ -8,8 +8,16 @@ description: When the user wants to create or optimize popups, modals, overlays,
 authors:
 - coreyhaines31
 is_official: false
-tags: []
-category: none
+tags:
+- popups
+- modals
+- exit-intent
+- lead-capture
+- conversion-optimization
+- email-collection
+- overlays
+- cro
+category: marketing
 source:
   path: /skills/popups
   repo: coreyhaines31/marketingskills

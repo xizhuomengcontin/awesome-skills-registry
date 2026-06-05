@@ -8,8 +8,15 @@ description: 'Build and navigate DSP (Data Structure Protocol) — graph-based l
 authors:
 - k-kolomeitsev
 is_official: false
-tags: []
-category: none
+tags:
+- codebase-mapping
+- dependency-graph
+- project-structure
+- llm-memory
+- modules
+- architecture
+- dsp
+category: coding
 source:
   path: /skills/data-structure-protocol
   repo: k-kolomeitsev/data-structure-protocol

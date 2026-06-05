@@ -1,11 +1,18 @@
 id: alinaqi-maggy-android-java
-display_name: Android Java
+display_name: Android Java Development
 description: Android Java development with MVVM, ViewBinding, and Espresso testing
 authors:
 - alinaqi
 is_official: false
-tags: []
-category: none
+tags:
+- android
+- java
+- mvvm
+- viewbinding
+- espresso
+- mobile-development
+- android-architecture
+category: coding
 source:
   path: /skills/android-java
   repo: alinaqi/maggy

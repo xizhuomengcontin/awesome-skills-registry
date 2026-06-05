@@ -1,5 +1,5 @@
 id: K-Dense-AI-claude-scientific-skills-aeon
-display_name: Aeon
+display_name: Aeon Time Series ML
 description: This skill should be used for time series machine learning tasks including classification, regression, clustering,
   forecasting, anomaly detection, segmentation, and similarity search. Use when working with temporal data, sequential patterns,
   or time-indexed observations requiring specialized algorithms beyond standard ML approaches. Particularly suited for univariate
@@ -7,8 +7,16 @@ description: This skill should be used for time series machine learning tasks in
 authors:
 - K-Dense-AI
 is_official: false
-tags: []
-category: none
+tags:
+- time-series
+- machine-learning
+- forecasting
+- anomaly-detection
+- classification
+- clustering
+- scikit-learn
+- temporal-data
+category: data-ai
 source:
   path: /skills/aeon
   repo: K-Dense-AI/claude-scientific-skills

@@ -6,8 +6,15 @@ description: Grilling session that mines the user for fragments — heterogeneou
 authors:
 - mattpocock
 is_official: false
-tags: []
-category: none
+tags:
+- writing
+- ideation
+- brainstorming
+- fragments
+- raw-material
+- article-prep
+- idea-mining
+category: creative
 source:
   path: /skills/in-progress/writing-fragments
   repo: mattpocock/skills

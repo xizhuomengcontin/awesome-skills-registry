@@ -6,8 +6,16 @@ description: Distributed computing for larger-than-RAM pandas/NumPy workflows. U
 authors:
 - K-Dense-AI
 is_official: false
-tags: []
-category: none
+tags:
+- dask
+- distributed-computing
+- pandas
+- numpy
+- out-of-core
+- parallel-processing
+- big-data
+- python
+category: data-ai
 source:
   path: /skills/dask
   repo: K-Dense-AI/claude-scientific-skills

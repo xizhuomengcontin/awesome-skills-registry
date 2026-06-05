@@ -1,5 +1,5 @@
 id: trycourier-courier-skills-root
-display_name: Root
+display_name: Courier Notifications
 description: Use when building notifications with Courier across email, SMS, push, in-app inbox, Slack, Teams, or WhatsApp.
   Covers transactional messages (password reset, OTP, orders, billing), growth notifications (onboarding, engagement, referral),
   multi-channel routing, preferences and topics, reliability and webhooks, journeys (multi-step notification sequences via
@@ -8,8 +8,15 @@ description: Use when building notifications with Courier across email, SMS, pus
 authors:
 - trycourier
 is_official: true
-tags: []
-category: none
+tags:
+- notifications
+- multi-channel-messaging
+- email-sms-push
+- transactional-messages
+- courier-api
+- notification-routing
+- webhooks
+category: coding
 source:
   path: /
   repo: trycourier/courier-skills

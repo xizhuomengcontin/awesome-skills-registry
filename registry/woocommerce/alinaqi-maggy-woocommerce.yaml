@@ -1,11 +1,19 @@
 id: alinaqi-maggy-woocommerce
-display_name: Woocommerce
+display_name: WooCommerce Integration
 description: WooCommerce REST API - products, orders, customers, webhooks
 authors:
 - alinaqi
 is_official: false
-tags: []
-category: none
+tags:
+- woocommerce
+- rest-api
+- e-commerce
+- products
+- orders
+- customers
+- webhooks
+- wordpress
+category: business
 source:
   path: /skills/woocommerce
   repo: alinaqi/maggy

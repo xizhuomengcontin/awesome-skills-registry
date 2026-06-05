@@ -5,8 +5,15 @@ description: Ingest meeting transcripts into brain pages with attendee enrichmen
 authors:
 - garrytan
 is_official: false
-tags: []
-category: none
+tags:
+- meeting-transcripts
+- knowledge-base
+- entity-extraction
+- attendee-enrichment
+- timeline-merge
+- note-ingestion
+- brain-pages
+category: productivity
 source:
   path: /skills/meeting-ingestion
   repo: garrytan/gbrain

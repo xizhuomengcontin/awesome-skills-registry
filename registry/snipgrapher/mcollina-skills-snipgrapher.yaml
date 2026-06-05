@@ -8,8 +8,15 @@ description: Configures and uses snipgrapher to generate polished code snippet i
 authors:
 - mcollina
 is_official: false
-tags: []
-category: none
+tags:
+- code-screenshots
+- syntax-highlighting
+- snipgrapher
+- image-export
+- developer-tools
+- documentation
+- cli
+category: coding
 source:
   path: /skills/snipgrapher
   repo: mcollina/skills

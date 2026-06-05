@@ -11,8 +11,16 @@ description: 'All-in-one web toolkit powered by parallel-cli, with a strong emph
 authors:
 - K-Dense-AI
 is_official: false
-tags: []
-category: none
+tags:
+- web-search
+- url-extraction
+- data-enrichment
+- deep-research
+- academic-sources
+- scientific-literature
+- web-scraping
+- bulk-enrichment
+category: data-ai
 source:
   path: /skills/parallel-web
   repo: K-Dense-AI/claude-scientific-skills

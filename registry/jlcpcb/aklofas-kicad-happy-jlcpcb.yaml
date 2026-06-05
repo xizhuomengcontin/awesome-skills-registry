@@ -1,5 +1,5 @@
 id: aklofas-kicad-happy-jlcpcb
-display_name: Jlcpcb
+display_name: JLCPCB
 description: JLCPCB PCB fabrication and assembly — BOM/CPL generation, basic vs extended parts, assembly constraints, design
   rules, ordering workflow. Use with KiCad for JLCPCB manufacturing. Use this skill when the user mentions JLCPCB, wants to
   order PCBs or assembled boards, needs prototype bare PCBs and stencils, wants to know JLCPCB design rules and capabilities,
@@ -8,8 +8,16 @@ description: JLCPCB PCB fabrication and assembly — BOM/CPL generation, basic v
 authors:
 - aklofas
 is_official: false
-tags: []
-category: none
+tags:
+- jlcpcb
+- pcb-fabrication
+- pcb-assembly
+- bom
+- kicad
+- hardware
+- manufacturing
+- design-rules
+category: science
 source:
   path: /skills/jlcpcb
   repo: aklofas/kicad-happy

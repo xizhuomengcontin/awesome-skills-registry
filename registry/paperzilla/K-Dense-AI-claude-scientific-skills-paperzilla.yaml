@@ -6,8 +6,14 @@ description: Chat with your agent about projects, recommendations, and canonical
 authors:
 - K-Dense-AI
 is_official: false
-tags: []
-category: none
+tags:
+- research-recommendations
+- canonical-papers
+- paper-summaries
+- atom-feed
+- literature-management
+- research-projects
+category: science
 source:
   path: /skills/paperzilla
   repo: K-Dense-AI/claude-scientific-skills

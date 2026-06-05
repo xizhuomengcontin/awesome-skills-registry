@@ -1,13 +1,19 @@
 id: indranilbanerjee-digital-marketing-pro-performance-check
-display_name: Performance Check
+display_name: Marketing Performance Check
 description: 'Pull live marketing metrics for a performance snapshot: KPIs vs targets, trend comparison, and cross-platform
   overview. Use when checking current marketing performance, monitoring KPI health, comparing to benchmarks, or getting a
   quick status update across analytics platforms.'
 authors:
 - indranilbanerjee
 is_official: false
-tags: []
-category: none
+tags:
+- kpi-tracking
+- marketing-analytics
+- performance-monitoring
+- benchmarking
+- cross-platform
+- metrics-dashboard
+category: marketing
 source:
   path: /skills/performance-check
   repo: indranilbanerjee/digital-marketing-pro

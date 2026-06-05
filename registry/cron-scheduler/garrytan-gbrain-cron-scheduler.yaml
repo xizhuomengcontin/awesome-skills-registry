@@ -5,8 +5,14 @@ description: Schedule management with staggering, quiet hours, and wake-up overr
 authors:
 - garrytan
 is_official: false
-tags: []
-category: none
+tags:
+- cron
+- scheduling
+- automation
+- quiet-hours
+- task-management
+- collision-prevention
+category: productivity
 source:
   path: /skills/cron-scheduler
   repo: garrytan/gbrain

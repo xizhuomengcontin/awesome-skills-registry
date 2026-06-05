@@ -6,8 +6,16 @@ description: Polishes raw Suno audio by processing per-stem WAVs (vocals, backin
 authors:
 - bitwize-music-studio
 is_official: false
-tags: []
-category: none
+tags:
+- audio-mixing
+- stem-processing
+- eq
+- compression
+- music-production
+- wav-processing
+- suno
+- audio-engineering
+category: creative
 source:
   path: /skills/mix-engineer
   repo: bitwize-music-studio/claude-ai-music-skills

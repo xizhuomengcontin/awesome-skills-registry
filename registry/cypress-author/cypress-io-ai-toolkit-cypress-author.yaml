@@ -7,8 +7,15 @@ description: Creates, updates, and fixes Cypress tests (E2E/end-to-end and compo
 authors:
 - cypress-io
 is_official: true
-tags: []
-category: none
+tags:
+- cypress
+- e2e-testing
+- component-testing
+- test-automation
+- javascript
+- spec-writing
+- flaky-tests
+category: coding
 source:
   path: /skills/cypress-author
   repo: cypress-io/ai-toolkit

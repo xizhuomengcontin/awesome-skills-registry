@@ -1,12 +1,19 @@
 id: alinaqi-maggy-workspace
-display_name: Workspace
+display_name: Workspace Manager
 description: Dynamic multi-repo and monorepo awareness for Claude Code. Analyze workspace topology, track API contracts, and
   maintain cross-repo context.
 authors:
 - alinaqi
 is_official: false
-tags: []
-category: none
+tags:
+- monorepo
+- multi-repo
+- workspace
+- api-contracts
+- cross-repo
+- context-tracking
+- claude-code
+category: coding
 source:
   path: /skills/workspace
   repo: alinaqi/maggy

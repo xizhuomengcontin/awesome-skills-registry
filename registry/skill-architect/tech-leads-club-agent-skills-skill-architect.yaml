@@ -8,8 +8,15 @@ description: Expert guide for designing and building high-quality skills from sc
 authors:
 - tech-leads-club
 is_official: false
-tags: []
-category: none
+tags:
+- skill-design
+- agent-building
+- workflow-automation
+- agents-md
+- mcp
+- prompt-engineering
+- skill-authoring
+category: productivity
 source:
   path: /packages/skills-catalog/skills/(creation)/skill-architect
   repo: tech-leads-club/agent-skills

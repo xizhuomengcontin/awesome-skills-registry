@@ -6,8 +6,14 @@ description: Guides you through creating context items — instructions, skills,
 authors:
 - honeydew-ai
 is_official: true
-tags: []
-category: none
+tags:
+- context-items
+- ai-knowledge-management
+- semantic-layer
+- memory-events
+- ai-configuration
+- naming-conventions
+category: data-ai
 source:
   path: /skills/context-item-creation
   repo: honeydew-ai/honeydew-ai-coding-agents-plugins

@@ -4,8 +4,14 @@ description: 'Research and cluster keywords. Use when: mapping search intent, fi
 authors:
 - indranilbanerjee
 is_official: false
-tags: []
-category: none
+tags:
+- keyword-research
+- seo
+- search-intent
+- content-gaps
+- long-tail
+- keyword-clustering
+category: marketing
 source:
   path: /skills/keyword-research
   repo: indranilbanerjee/digital-marketing-pro

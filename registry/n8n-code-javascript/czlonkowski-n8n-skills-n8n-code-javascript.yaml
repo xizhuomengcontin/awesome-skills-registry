@@ -1,5 +1,5 @@
 id: czlonkowski-n8n-skills-n8n-code-javascript
-display_name: N8N Code Javascript
+display_name: N8N JavaScript Code Nodes
 description: Write JavaScript code in n8n Code nodes. Use when writing JavaScript in n8n, using $input/$json/$node syntax,
   making HTTP requests with $helpers, working with dates using DateTime, troubleshooting Code node errors, choosing between
   Code node modes, or doing any custom data transformation in n8n. Always use this skill when a workflow needs a Code node
@@ -8,8 +8,15 @@ description: Write JavaScript code in n8n Code nodes. Use when writing JavaScrip
 authors:
 - czlonkowski
 is_official: false
-tags: []
-category: none
+tags:
+- n8n
+- javascript
+- workflow-automation
+- code-node
+- data-transformation
+- http-requests
+- batch-processing
+category: coding
 source:
   path: /skills/n8n-code-javascript
   repo: czlonkowski/n8n-skills

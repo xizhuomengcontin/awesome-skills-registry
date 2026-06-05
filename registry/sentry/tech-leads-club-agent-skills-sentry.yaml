@@ -7,8 +7,15 @@ description: Inspect Sentry issues, summarize production errors, and pull health
 authors:
 - tech-leads-club
 is_official: false
-tags: []
-category: none
+tags:
+- sentry
+- error-monitoring
+- production-errors
+- crash-reporting
+- api-integration
+- debugging
+- health-data
+category: coding
 source:
   path: /packages/skills-catalog/skills/(monitoring)/sentry
   repo: tech-leads-club/agent-skills

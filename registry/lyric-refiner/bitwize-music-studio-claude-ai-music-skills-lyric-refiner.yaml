@@ -5,8 +5,14 @@ description: Autonomous multi-pass lyric refinement for tightening, cohesion, an
 authors:
 - bitwize-music-studio
 is_official: false
-tags: []
-category: none
+tags:
+- lyrics
+- songwriting
+- music-production
+- editing
+- album-cohesion
+- iterative-refinement
+category: creative
 source:
   path: /skills/lyric-refiner
   repo: bitwize-music-studio/claude-ai-music-skills

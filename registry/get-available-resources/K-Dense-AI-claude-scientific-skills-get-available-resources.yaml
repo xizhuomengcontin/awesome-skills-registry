@@ -8,8 +8,16 @@ description: This skill should be used at the start of any computationally inten
 authors:
 - K-Dense-AI
 is_official: false
-tags: []
-category: none
+tags:
+- system-resources
+- gpu-detection
+- parallel-processing
+- hpc
+- memory-management
+- computational-planning
+- dask
+- performance
+category: science
 source:
   path: /skills/get-available-resources
   repo: K-Dense-AI/claude-scientific-skills

@@ -8,8 +8,14 @@ description: Observe the user's screen via screenpipe, detect repeated research 
 authors:
 - K-Dense-AI
 is_official: false
-tags: []
-category: none
+tags:
+- skill-discovery
+- screenpipe
+- workflow-detection
+- research-automation
+- skill-generation
+- local-ai
+category: productivity
 source:
   path: /skills/autoskill
   repo: K-Dense-AI/claude-scientific-skills

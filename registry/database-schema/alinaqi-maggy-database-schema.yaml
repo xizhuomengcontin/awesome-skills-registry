@@ -4,8 +4,14 @@ description: Schema awareness - read before coding, type generation, prevent col
 authors:
 - alinaqi
 is_official: false
-tags: []
-category: none
+tags:
+- database
+- schema
+- type-generation
+- sql
+- column-validation
+- code-generation
+category: coding
 source:
   path: /skills/database-schema
   repo: alinaqi/maggy

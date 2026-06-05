@@ -1,11 +1,17 @@
 id: alinaqi-maggy-posthog-analytics
-display_name: Posthog Analytics
+display_name: PostHog Analytics
 description: PostHog analytics, event tracking, feature flags, dashboards
 authors:
 - alinaqi
 is_official: false
-tags: []
-category: none
+tags:
+- posthog
+- analytics
+- event-tracking
+- feature-flags
+- dashboards
+- product-analytics
+category: data-ai
 source:
   path: /skills/posthog-analytics
   repo: alinaqi/maggy

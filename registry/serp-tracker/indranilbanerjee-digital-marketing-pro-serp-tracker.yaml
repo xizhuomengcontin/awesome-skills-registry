@@ -1,12 +1,19 @@
 id: indranilbanerjee-digital-marketing-pro-serp-tracker
-display_name: Serp Tracker
+display_name: SERP Tracker
 description: 'Track SERP feature changes. Use when: monitoring AI Overviews, featured snippets, PAA, knowledge panels, local
   packs.'
 authors:
 - indranilbanerjee
 is_official: false
-tags: []
-category: none
+tags:
+- serp
+- ai-overviews
+- featured-snippets
+- knowledge-panels
+- local-seo
+- rank-tracking
+- google-search
+category: marketing
 source:
   path: /skills/serp-tracker
   repo: indranilbanerjee/digital-marketing-pro

@@ -1,5 +1,5 @@
 id: K-Dense-AI-claude-scientific-skills-bulk-rnaseq
-display_name: Bulk Rnaseq
+display_name: Bulk RNA-Seq Analysis
 description: End-to-end bulk RNA-seq orchestrator — takes raw FASTQ reads through QC and trimming (FastQC, fastp/Trim Galore),
   alignment and quantification (STAR, Salmon, featureCounts), assembles a gene-level counts matrix, then hands off to differential
   expression (pydeseq2), pathway/GSEA enrichment (pathway-enrichment), and publication figures (scientific-visualization).
@@ -11,8 +11,16 @@ description: End-to-end bulk RNA-seq orchestrator — takes raw FASTQ reads thro
 authors:
 - K-Dense-AI
 is_official: false
-tags: []
-category: none
+tags:
+- rna-seq
+- bioinformatics
+- differential-expression
+- deseq2
+- fastq
+- star-aligner
+- salmon
+- pathway-enrichment
+category: science
 source:
   path: /skills/bulk-rnaseq
   repo: K-Dense-AI/claude-scientific-skills

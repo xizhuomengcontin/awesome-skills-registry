@@ -8,8 +8,15 @@ description: When the user wants to create, optimize, or analyze a referral prog
 authors:
 - coreyhaines31
 is_official: false
-tags: []
-category: none
+tags:
+- referral-marketing
+- affiliate-program
+- word-of-mouth
+- viral-loop
+- ambassador-program
+- customer-acquisition
+- referral-incentives
+category: marketing
 source:
   path: /skills/referrals
   repo: coreyhaines31/marketingskills

@@ -7,8 +7,14 @@ description: Use when a semantic/context layer curator wants to review past anal
 authors:
 - honeydew-ai
 is_official: true
-tags: []
-category: none
+tags:
+- conversation-analysis
+- semantic-layer
+- feedback-classification
+- model-improvement
+- context-layer
+- bulk-review
+category: data-ai
 source:
   path: /skills/conversation-review
   repo: honeydew-ai/honeydew-ai-coding-agents-plugins

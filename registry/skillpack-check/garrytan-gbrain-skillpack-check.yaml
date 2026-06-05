@@ -7,8 +7,15 @@ description: Run `gbrain skillpack-check` to produce an agent-readable JSON heal
 authors:
 - garrytan
 is_official: false
-tags: []
-category: none
+tags:
+- gbrain
+- health-check
+- skillpack
+- diagnostics
+- automation
+- cron
+- ai-agents
+category: productivity
 source:
   path: /skills/skillpack-check
   repo: garrytan/gbrain

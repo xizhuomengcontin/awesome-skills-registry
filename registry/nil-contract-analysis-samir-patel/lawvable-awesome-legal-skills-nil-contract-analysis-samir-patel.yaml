@@ -1,5 +1,5 @@
 id: lawvable-awesome-legal-skills-nil-contract-analysis-samir-patel
-display_name: Nil Contract Analysis Samir Patel
+display_name: NIL Contract Analysis
 description: NIL (Name, Image, and Likeness) contract analysis for NCAA student-athletes from the athlete's perspective. Use
   when user says 'review this NIL contract', 'analyze this NIL deal', 'check this athlete agreement', 'review my NIL agreement',
   or uploads a PDF NIL contract for review. Identifies red flags, missing protections, and compliance issues. Produces a structured
@@ -8,8 +8,15 @@ description: NIL (Name, Image, and Likeness) contract analysis for NCAA student-
 authors:
 - lawvable
 is_official: false
-tags: []
-category: none
+tags:
+- nil-contracts
+- ncaa
+- student-athlete
+- contract-review
+- sports-law
+- endorsement
+- compliance
+category: legal
 source:
   path: /skills/nil-contract-analysis-samir-patel
   repo: lawvable/awesome-legal-skills

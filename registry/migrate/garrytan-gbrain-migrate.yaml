@@ -4,8 +4,16 @@ description: Universal migration from Obsidian, Notion, Logseq, markdown, CSV, J
 authors:
 - garrytan
 is_official: false
-tags: []
-category: none
+tags:
+- migration
+- obsidian
+- notion
+- logseq
+- markdown
+- csv-import
+- knowledge-management
+- data-import
+category: productivity
 source:
   path: /skills/migrate
   repo: garrytan/gbrain

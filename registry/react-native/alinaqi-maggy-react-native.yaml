@@ -4,8 +4,14 @@ description: React Native mobile patterns, platform-specific code
 authors:
 - alinaqi
 is_official: false
-tags: []
-category: none
+tags:
+- react-native
+- mobile
+- ios
+- android
+- cross-platform
+- platform-specific
+category: coding
 source:
   path: /skills/react-native
   repo: alinaqi/maggy

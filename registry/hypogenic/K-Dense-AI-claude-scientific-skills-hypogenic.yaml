@@ -7,8 +7,14 @@ description: Automated LLM-driven hypothesis generation and testing on tabular d
 authors:
 - K-Dense-AI
 is_official: false
-tags: []
-category: none
+tags:
+- hypothesis-generation
+- llm-driven
+- tabular-data
+- automated-testing
+- empirical-analysis
+- data-patterns
+category: science
 source:
   path: /skills/hypogenic
   repo: K-Dense-AI/claude-scientific-skills

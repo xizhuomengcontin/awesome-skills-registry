@@ -1,5 +1,5 @@
 id: coreyhaines31-marketingskills-image
-display_name: Image
+display_name: Marketing Image Creator
 description: When the user wants to create, generate, edit, or optimize images for marketing — blog heroes, social graphics,
   product mockups, profile banners, listing visuals, or brand assets. Also use when the user mentions 'AI image generation,'
   'generate an image,' 'create a graphic,' 'product mockup,' 'hero image,' 'social media graphic,' 'banner image,' 'cover
@@ -10,8 +10,15 @@ description: When the user wants to create, generate, edit, or optimize images f
 authors:
 - coreyhaines31
 is_official: false
-tags: []
-category: none
+tags:
+- image-generation
+- social-graphics
+- brand-assets
+- ai-image
+- content-creation
+- product-mockups
+- visual-marketing
+category: marketing
 source:
   path: /skills/image
   repo: coreyhaines31/marketingskills

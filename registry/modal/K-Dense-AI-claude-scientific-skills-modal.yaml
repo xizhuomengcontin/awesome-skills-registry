@@ -6,8 +6,16 @@ description: Modal is a serverless cloud platform for running Python on demand, 
 authors:
 - K-Dense-AI
 is_official: false
-tags: []
-category: none
+tags:
+- modal
+- serverless
+- gpu-computing
+- ml-deployment
+- python
+- cloud-infrastructure
+- model-serving
+- batch-jobs
+category: coding
 source:
   path: /skills/modal
   repo: K-Dense-AI/claude-scientific-skills

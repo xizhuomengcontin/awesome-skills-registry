@@ -1,5 +1,5 @@
 id: coreyhaines31-marketingskills-sms
-display_name: Sms
+display_name: SMS Marketing
 description: When the user wants to plan, build, or optimize SMS or MMS marketing — including welcome flows, abandoned cart
   texts, post-purchase, win-back, promotional sends, or transactional/auth SMS. Also use when the user mentions "SMS marketing,"
   "text message campaigns," "SMS sequence," "SMS automation," "abandoned cart text," "post-purchase SMS," "Klaviyo SMS," "Postscript,"
@@ -9,8 +9,16 @@ description: When the user wants to plan, build, or optimize SMS or MMS marketin
 authors:
 - coreyhaines31
 is_official: false
-tags: []
-category: none
+tags:
+- sms-marketing
+- mms
+- text-campaigns
+- klaviyo
+- tcpa-compliance
+- automation
+- abandoned-cart
+- a2p-10dlc
+category: marketing
 source:
   path: /skills/sms
   repo: coreyhaines31/marketingskills

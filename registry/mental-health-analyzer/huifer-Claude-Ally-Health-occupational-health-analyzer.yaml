@@ -4,8 +4,15 @@ description: 分析职业健康数据、识别工作相关健康风险、评估�
 authors:
 - huifer
 is_official: false
-tags: []
-category: none
+tags:
+- occupational-health
+- workplace-safety
+- health-risk-assessment
+- work-life-balance
+- health-data-correlation
+- personalized-recommendations
+- wellness-tracking
+category: health
 source:
   path: /skills/occupational-health-analyzer
   repo: huifer/Claude-Ally-Health

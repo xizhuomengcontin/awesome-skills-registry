@@ -1,5 +1,5 @@
 id: K-Dense-AI-claude-scientific-skills-networkx
-display_name: Networkx
+display_name: NetworkX Graph Analysis
 description: Comprehensive toolkit for creating, analyzing, and visualizing complex networks and graphs in Python. Use when
   working with network/graph data structures, analyzing relationships between entities, computing graph algorithms (shortest
   paths, centrality, clustering), detecting communities, generating synthetic networks, or visualizing network topologies.
@@ -8,8 +8,15 @@ description: Comprehensive toolkit for creating, analyzing, and visualizing comp
 authors:
 - K-Dense-AI
 is_official: false
-tags: []
-category: none
+tags:
+- networkx
+- graph-analysis
+- network-science
+- python
+- centrality
+- community-detection
+- visualization
+category: data-ai
 source:
   path: /skills/networkx
   repo: K-Dense-AI/claude-scientific-skills

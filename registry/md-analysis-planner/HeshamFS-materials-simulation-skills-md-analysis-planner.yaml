@@ -1,13 +1,21 @@
 id: HeshamFS-materials-simulation-skills-md-analysis-planner
-display_name: Md Analysis Planner
+display_name: MD Analysis Planner
 description: Plan molecular dynamics post-processing for materials simulations, including RDF, MSD and diffusion, VACF/VDOS,
   coordination numbers, bond-angle distributions, stress-strain curves, equilibration detection, PBC unwrapping, and trajectory
   format choices. Use before writing MD analysis scripts or trusting trajectory-derived results.
 authors:
 - HeshamFS
 is_official: false
-tags: []
-category: none
+tags:
+- molecular-dynamics
+- materials-simulation
+- rdf
+- trajectory-analysis
+- diffusion
+- stress-strain
+- post-processing
+- computational-materials
+category: science
 source:
   path: /skills/simulation-workflow/md-analysis-planner
   repo: HeshamFS/materials-simulation-skills

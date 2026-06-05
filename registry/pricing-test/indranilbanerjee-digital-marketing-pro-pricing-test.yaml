@@ -5,8 +5,15 @@ description: 'Test pricing strategies with synthetic data. Use when: simulating 
 authors:
 - indranilbanerjee
 is_official: false
-tags: []
-category: none
+tags:
+- pricing-test
+- synthetic-data
+- price-sensitivity
+- willingness-to-pay
+- simulation
+- monetization
+- market-research
+category: marketing
 source:
   path: /skills/pricing-test
   repo: indranilbanerjee/digital-marketing-pro

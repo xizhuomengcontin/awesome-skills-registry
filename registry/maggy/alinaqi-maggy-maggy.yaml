@@ -1,12 +1,19 @@
 id: alinaqi-maggy-maggy
-display_name: Maggy
+display_name: Maggy AI Engineering Hub
 description: Maggy is a local AI engineering command center. AI-prioritized inbox across issue trackers (GitHub Issues/Asana),
   one-click TDD execute with iCPG context enrichment, daily competitor intelligence briefing.
 authors:
 - alinaqi
 is_official: false
-tags: []
-category: none
+tags:
+- ai-engineering
+- issue-tracking
+- github
+- asana
+- tdd
+- competitive-intelligence
+- developer-tools
+category: productivity
 source:
   path: /skills/maggy
   repo: alinaqi/maggy

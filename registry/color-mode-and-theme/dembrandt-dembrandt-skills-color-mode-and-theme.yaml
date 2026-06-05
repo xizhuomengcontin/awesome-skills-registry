@@ -1,13 +1,20 @@
 id: dembrandt-dembrandt-skills-color-mode-and-theme
-display_name: Color Mode And Theme
+display_name: Color Mode & Theming
 description: Choose light, dark, or combined color mode deliberately based on brand tone and user context. Offer a theme selector
   only when user control genuinely matters — enterprise tools, data-heavy UIs, or extended-use applications. Use when defining
   the base color palette, designing a design system, or deciding whether to build dark mode support.
 authors:
 - dembrandt
 is_official: false
-tags: []
-category: none
+tags:
+- dark-mode
+- light-mode
+- color-palette
+- design-system
+- theming
+- ui-design
+- brand-design
+category: design
 source:
   path: /skills/color-mode-and-theme
   repo: dembrandt/dembrandt-skills

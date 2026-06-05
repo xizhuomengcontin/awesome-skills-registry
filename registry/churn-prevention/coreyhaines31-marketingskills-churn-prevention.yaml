@@ -9,8 +9,16 @@ description: When the user wants to reduce churn, build cancellation flows, set 
 authors:
 - coreyhaines31
 is_official: false
-tags: []
-category: none
+tags:
+- churn-prevention
+- retention
+- cancellation-flow
+- dunning
+- failed-payment-recovery
+- subscription
+- win-back
+- save-offers
+category: marketing
 source:
   path: /skills/churn-prevention
   repo: coreyhaines31/marketingskills

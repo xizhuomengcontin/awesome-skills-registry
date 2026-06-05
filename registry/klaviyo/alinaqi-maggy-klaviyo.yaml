@@ -4,8 +4,15 @@ description: Klaviyo email/SMS marketing - profiles, events, flows, segmentation
 authors:
 - alinaqi
 is_official: false
-tags: []
-category: none
+tags:
+- klaviyo
+- email-marketing
+- sms-marketing
+- segmentation
+- flows
+- marketing-automation
+- crm
+category: marketing
 source:
   path: /skills/klaviyo
   repo: alinaqi/maggy

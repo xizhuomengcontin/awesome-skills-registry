@@ -1,12 +1,18 @@
 id: BehiSecc-VibeSec-Skill-root
-display_name: Root
+display_name: Secure Web Application Development
 description: This skill helps Claude write secure web applications. Use this when working on any web application or when a
   user requests a scan or audit to ensure security best practices are followed.
 authors:
 - BehiSecc
 is_official: false
-tags: []
-category: none
+tags:
+- web-security
+- security-audit
+- secure-coding
+- vulnerability-scanning
+- best-practices
+- web-applications
+category: coding
 source:
   path: /
   repo: BehiSecc/VibeSec-Skill

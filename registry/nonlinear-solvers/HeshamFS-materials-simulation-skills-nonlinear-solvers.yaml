@@ -9,8 +9,16 @@ description: Select and configure nonlinear solvers for root-finding f(x)=0, opt
 authors:
 - HeshamFS
 is_official: false
-tags: []
-category: none
+tags:
+- nonlinear-solvers
+- newton-method
+- optimization
+- numerical-methods
+- fem
+- convergence
+- root-finding
+- scientific-computing
+category: science
 source:
   path: /skills/core-numerical/nonlinear-solvers
   repo: HeshamFS/materials-simulation-skills

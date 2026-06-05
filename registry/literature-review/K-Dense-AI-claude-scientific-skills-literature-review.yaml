@@ -7,8 +7,16 @@ description: Conduct comprehensive, systematic literature reviews using multiple
 authors:
 - K-Dense-AI
 is_official: false
-tags: []
-category: none
+tags:
+- literature-review
+- systematic-review
+- pubmed
+- arxiv
+- citations
+- meta-analysis
+- academic-research
+- biomedical
+category: science
 source:
   path: /skills/literature-review
   repo: K-Dense-AI/claude-scientific-skills

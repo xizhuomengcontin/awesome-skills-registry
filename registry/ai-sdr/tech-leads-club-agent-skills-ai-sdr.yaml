@@ -1,5 +1,5 @@
 id: tech-leads-club-agent-skills-ai-sdr
-display_name: Ai Sdr
+display_name: AI SDR
 description: When the user wants to deploy AI sales development reps, automate sales qualification, build signal-to-action
   routing, or design AI agent architecture for sales. Also use when the user mentions 'AI SDR,' 'AI sales agent,' 'automated
   qualification,' 'signal routing,' 'sales automation,' '11x,' 'Artisan,' 'AiSDR,' 'AI BDR,' or 'autonomous sales.' This skill
@@ -8,8 +8,15 @@ description: When the user wants to deploy AI sales development reps, automate s
 authors:
 - tech-leads-club
 is_official: false
-tags: []
-category: none
+tags:
+- ai-sdr
+- sales-automation
+- lead-qualification
+- signal-routing
+- ai-sales-agent
+- outbound-sales
+- bdr-automation
+category: marketing
 source:
   path: /packages/skills-catalog/skills/(gtm)/ai-sdr
   repo: tech-leads-club/agent-skills

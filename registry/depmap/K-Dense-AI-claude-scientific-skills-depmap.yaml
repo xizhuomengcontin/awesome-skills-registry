@@ -1,13 +1,21 @@
 id: K-Dense-AI-claude-scientific-skills-depmap
-display_name: Depmap
+display_name: DepMap
 description: Query the Cancer Dependency Map (DepMap) for cancer cell line gene dependency scores (CRISPR Chronos), drug sensitivity
   data, and gene effect profiles. Use for identifying cancer-specific vulnerabilities, synthetic lethal interactions, and
   validating oncology drug targets.
 authors:
 - K-Dense-AI
 is_official: false
-tags: []
-category: none
+tags:
+- cancer-biology
+- depmap
+- crispr
+- gene-dependency
+- drug-sensitivity
+- oncology
+- genomics
+- bioinformatics
+category: science
 source:
   path: /skills/depmap
   repo: K-Dense-AI/claude-scientific-skills

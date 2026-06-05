@@ -5,8 +5,16 @@ description: Molecular featurization for ML (100+ featurizers). ECFP, MACCS, des
 authors:
 - K-Dense-AI
 is_official: false
-tags: []
-category: none
+tags:
+- molecular-featurization
+- cheminformatics
+- qsar
+- smiles
+- ecfp
+- machine-learning
+- chemberta
+- molecular-ml
+category: science
 source:
   path: /skills/molfeat
   repo: K-Dense-AI/claude-scientific-skills

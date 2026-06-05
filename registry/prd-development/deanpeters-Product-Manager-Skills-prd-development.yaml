@@ -1,12 +1,18 @@
 id: deanpeters-Product-Manager-Skills-prd-development
-display_name: Prd Development
+display_name: PRD Development
 description: Build a structured PRD that connects problem, users, solution, and success criteria. Use when turning discovery
   notes into an engineering-ready document for a major initiative.
 authors:
 - deanpeters
 is_official: false
-tags: []
-category: none
+tags:
+- prd
+- product-requirements
+- product-management
+- engineering-handoff
+- discovery
+- documentation
+category: business
 source:
   path: /skills/prd-development
   repo: deanpeters/Product-Manager-Skills

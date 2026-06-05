@@ -6,8 +6,15 @@ description: Universal archivist for personal file archives (Dropbox/B2/Gmail-ta
 authors:
 - garrytan
 is_official: false
-tags: []
-category: none
+tags:
+- personal-archive
+- file-management
+- dropbox
+- gmail
+- knowledge-management
+- content-surfacing
+- local-files
+category: productivity
 source:
   path: /skills/archive-crawler
   repo: garrytan/gbrain

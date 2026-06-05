@@ -5,8 +5,14 @@ description: Transform raw article text dumps in the brain into structured pages
 authors:
 - garrytan
 is_official: false
-tags: []
-category: none
+tags:
+- article-processing
+- knowledge-management
+- summarization
+- content-enrichment
+- note-taking
+- insights-extraction
+category: productivity
 source:
   path: /skills/article-enrichment
   repo: garrytan/gbrain

@@ -8,8 +8,15 @@ description: 'Creates, structures, and reviews technical documentation following
 authors:
 - mcollina
 is_official: false
-tags: []
-category: none
+tags:
+- documentation
+- diataxis
+- technical-writing
+- tutorials
+- api-docs
+- content-structure
+- developer-docs
+category: productivity
 source:
   path: /skills/documentation
   repo: mcollina/skills

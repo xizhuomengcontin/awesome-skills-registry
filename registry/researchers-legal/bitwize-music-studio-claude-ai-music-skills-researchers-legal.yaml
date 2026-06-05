@@ -1,12 +1,18 @@
 id: bitwize-music-studio-claude-ai-music-skills-researchers-legal
-display_name: Researchers Legal
+display_name: Legal Researcher
 description: Researches court documents, indictments, plea agreements, and sentencing records. Use when the album subject
   involves legal proceedings or criminal cases.
 authors:
 - bitwize-music-studio
 is_official: false
-tags: []
-category: none
+tags:
+- legal-research
+- court-documents
+- indictments
+- criminal-cases
+- music-production
+- legal-records
+category: creative
 source:
   path: /skills/researchers-legal
   repo: bitwize-music-studio/claude-ai-music-skills

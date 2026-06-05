@@ -4,8 +4,15 @@ description: 分析皮肤健康数据、识别皮肤问题模式、评估皮肤�
 authors:
 - huifer
 is_official: false
-tags: []
-category: none
+tags:
+- skin-health
+- dermatology
+- health-analysis
+- personalized-recommendations
+- nutrition
+- chronic-disease
+- health-data
+category: health
 source:
   path: /skills/skin-health-analyzer
   repo: huifer/Claude-Ally-Health

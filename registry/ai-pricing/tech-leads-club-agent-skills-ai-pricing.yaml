@@ -1,5 +1,5 @@
 id: tech-leads-club-agent-skills-ai-pricing
-display_name: Ai Pricing
+display_name: AI Pricing Strategy
 description: When the user wants to price an AI product, choose a charge metric, design pricing tiers, or optimize margins.
   Also use when the user mentions 'AI pricing,' 'usage-based pricing,' 'consumption pricing,' 'outcome pricing,' 'BYOK,' 'bring
   your own key,' 'per-seat pricing,' 'pricing tiers,' 'AI margins,' 'cost per token,' or 'pricing model.' This skill covers
@@ -8,8 +8,15 @@ description: When the user wants to price an AI product, choose a charge metric,
 authors:
 - tech-leads-club
 is_official: false
-tags: []
-category: none
+tags:
+- ai-pricing
+- usage-based-pricing
+- pricing-tiers
+- margin-management
+- consumption-pricing
+- byok
+- saas-pricing
+category: business
 source:
   path: /packages/skills-catalog/skills/(gtm)/ai-pricing
   repo: tech-leads-club/agent-skills

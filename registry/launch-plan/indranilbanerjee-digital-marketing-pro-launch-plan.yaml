@@ -4,8 +4,14 @@ description: 'Build product launch playbooks. Use when: planning pre-launch, lau
 authors:
 - indranilbanerjee
 is_official: false
-tags: []
-category: none
+tags:
+- product-launch
+- launch-playbook
+- pre-launch
+- post-launch
+- launch-strategy
+- go-to-market
+category: marketing
 source:
   path: /skills/launch-plan
   repo: indranilbanerjee/digital-marketing-pro

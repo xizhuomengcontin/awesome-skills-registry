@@ -7,8 +7,15 @@ description: Perform language and framework specific security best-practice revi
 authors:
 - tech-leads-club
 is_official: false
-tags: []
-category: none
+tags:
+- security-review
+- owasp
+- python
+- javascript
+- golang
+- secure-coding
+- code-review
+category: coding
 source:
   path: /packages/skills-catalog/skills/(security)/security-best-practices
   repo: tech-leads-club/agent-skills

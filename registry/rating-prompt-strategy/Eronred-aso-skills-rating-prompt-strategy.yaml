@@ -7,8 +7,16 @@ description: When the user wants to improve their app's star rating, increase ra
 authors:
 - Eronred
 is_official: false
-tags: []
-category: none
+tags:
+- app-store-optimization
+- app-rating
+- review-prompt
+- aso
+- mobile-app
+- ios
+- android
+- user-reviews
+category: marketing
 source:
   path: /skills/rating-prompt-strategy
   repo: Eronred/aso-skills

@@ -7,8 +7,16 @@ description: Repository-grounded threat modeling that enumerates trust boundarie
 authors:
 - tech-leads-club
 is_official: false
-tags: []
-category: none
+tags:
+- threat-modeling
+- appsec
+- trust-boundaries
+- abuse-paths
+- repository-analysis
+- markdown-report
+- security
+- mitigations
+category: coding
 source:
   path: /packages/skills-catalog/skills/(security)/security-threat-model
   repo: tech-leads-club/agent-skills

@@ -7,8 +7,15 @@ description: Analyze Neuropixels extracellular recordings end-to-end with SpikeI
 authors:
 - K-Dense-AI
 is_official: false
-tags: []
-category: none
+tags:
+- neuropixels
+- spike-sorting
+- electrophysiology
+- spikeinterface
+- kilosort
+- neuroscience
+- extracellular-recordings
+category: science
 source:
   path: /skills/neuropixels-analysis
   repo: K-Dense-AI/claude-scientific-skills

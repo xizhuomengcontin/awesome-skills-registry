@@ -5,8 +5,15 @@ description: Evaluate acquisition channels using unit economics, customer qualit
 authors:
 - deanpeters
 is_official: false
-tags: []
-category: none
+tags:
+- acquisition
+- growth-channels
+- unit-economics
+- customer-acquisition
+- scalability
+- paid-media
+- channel-strategy
+category: marketing
 source:
   path: /skills/acquisition-channel-advisor
   repo: deanpeters/Product-Manager-Skills

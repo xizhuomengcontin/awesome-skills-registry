@@ -4,8 +4,14 @@ description: Multi-person projects - shared state, todo claiming, handoffs
 authors:
 - alinaqi
 is_official: false
-tags: []
-category: none
+tags:
+- team-coordination
+- multi-person
+- shared-state
+- task-claiming
+- handoffs
+- collaboration
+category: productivity
 source:
   path: /skills/team-coordination
   repo: alinaqi/maggy

@@ -5,8 +5,15 @@ description: Break down epics into user stories with Humanizing Work split patte
 authors:
 - deanpeters
 is_official: false
-tags: []
-category: none
+tags:
+- epic-breakdown
+- user-stories
+- backlog-management
+- agile
+- story-splitting
+- product-management
+- estimation
+category: productivity
 source:
   path: /skills/epic-breakdown-advisor
   repo: deanpeters/Product-Manager-Skills

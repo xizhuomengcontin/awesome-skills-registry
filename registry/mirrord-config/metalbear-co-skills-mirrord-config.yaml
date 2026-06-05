@@ -6,8 +6,16 @@ description: Helps users generate, edit, and validate mirrord.json configuration
 authors:
 - metalbear-co
 is_official: true
-tags: []
-category: none
+tags:
+- mirrord
+- kubernetes
+- configuration
+- json-schema
+- devops
+- local-development
+- network-config
+- mirrord-json
+category: coding
 source:
   path: /skills/mirrord-config
   repo: metalbear-co/skills

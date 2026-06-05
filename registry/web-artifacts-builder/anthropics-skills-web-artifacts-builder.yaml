@@ -6,8 +6,16 @@ description: Suite of tools for creating elaborate, multi-component claude.ai HT
 authors:
 - anthropics
 is_official: true
-tags: []
-category: none
+tags:
+- react
+- tailwind-css
+- shadcn-ui
+- html-artifacts
+- frontend
+- state-management
+- routing
+- component-library
+category: coding
 source:
   path: /skills/web-artifacts-builder
   repo: anthropics/skills

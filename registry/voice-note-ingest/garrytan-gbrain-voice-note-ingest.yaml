@@ -5,8 +5,14 @@ description: Ingest a voice note with exact-phrasing preservation (never paraphr
 authors:
 - garrytan
 is_official: false
-tags: []
-category: none
+tags:
+- voice-notes
+- note-taking
+- content-routing
+- knowledge-management
+- transcription
+- personal-capture
+category: productivity
 source:
   path: /skills/voice-note-ingest
   repo: garrytan/gbrain

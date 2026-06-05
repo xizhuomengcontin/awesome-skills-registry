@@ -6,8 +6,14 @@ description: Validate a brand profile end-to-end — required fields, voice/audi
 authors:
 - indranilbanerjee
 is_official: false
-tags: []
-category: none
+tags:
+- brand-profile
+- validation
+- credentials
+- compliance
+- brand-management
+- digital-marketing
+category: marketing
 source:
   path: /skills/validate-profile
   repo: indranilbanerjee/digital-marketing-pro

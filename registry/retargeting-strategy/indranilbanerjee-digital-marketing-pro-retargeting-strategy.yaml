@@ -4,8 +4,15 @@ description: 'Design retargeting strategy. Use when: planning cross-platform rem
 authors:
 - indranilbanerjee
 is_official: false
-tags: []
-category: none
+tags:
+- retargeting
+- remarketing
+- audience-segmentation
+- ad-sequencing
+- cross-platform
+- paid-ads
+- conversion-optimization
+category: marketing
 source:
   path: /skills/retargeting-strategy
   repo: indranilbanerjee/digital-marketing-pro

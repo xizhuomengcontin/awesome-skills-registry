@@ -6,8 +6,15 @@ description: Official Opentrons Protocol API for OT-2 and Flex robots. Use when 
 authors:
 - K-Dense-AI
 is_official: false
-tags: []
-category: none
+tags:
+- opentrons
+- lab-automation
+- liquid-handling
+- protocol-api
+- ot-2
+- flex-robot
+- laboratory
+category: science
 source:
   path: /skills/opentrons-integration
   repo: K-Dense-AI/claude-scientific-skills

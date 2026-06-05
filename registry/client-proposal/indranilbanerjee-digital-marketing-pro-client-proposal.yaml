@@ -1,12 +1,18 @@
 id: indranilbanerjee-digital-marketing-pro-client-proposal
-display_name: Client Proposal
+display_name: Client Proposal Builder
 description: 'Draft agency proposals. Use when: pitch deck, scope of work, SLA, capabilities presentation for prospects or
   clients.'
 authors:
 - indranilbanerjee
 is_official: false
-tags: []
-category: none
+tags:
+- client-proposal
+- pitch-deck
+- scope-of-work
+- sla
+- agency
+- capabilities-presentation
+category: marketing
 source:
   path: /skills/client-proposal
   repo: indranilbanerjee/digital-marketing-pro

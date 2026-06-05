@@ -5,8 +5,14 @@ description: 'Search stored brand knowledge. Use when: recalling past learnings,
 authors:
 - indranilbanerjee
 is_official: false
-tags: []
-category: none
+tags:
+- brand-knowledge
+- semantic-search
+- knowledge-retrieval
+- brand-guidelines
+- competitor-insights
+- voice-guidelines
+category: marketing
 source:
   path: /skills/search-knowledge
   repo: indranilbanerjee/digital-marketing-pro

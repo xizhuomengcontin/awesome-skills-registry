@@ -1,5 +1,5 @@
 id: uucz-moyu-moyu-en
-display_name: Moyu En
+display_name: Moyu (English)
 description: 'Automatically activates when over-engineering patterns are detected: (1) Modifying code or files the user did
   not explicitly ask to change (2) Creating new abstraction layers (class, interface, factory, wrapper) without being asked
   (3) Adding comments, documentation, JSDoc, or type annotations without being asked (4) Introducing new dependencies without
@@ -10,8 +10,14 @@ description: 'Automatically activates when over-engineering patterns are detecte
 authors:
 - uucz
 is_official: false
-tags: []
-category: none
+tags:
+- anti-over-engineering
+- code-review
+- minimal-edits
+- scope-control
+- coding-discipline
+- refactoring
+category: coding
 source:
   path: /skills/moyu-en
   repo: uucz/moyu

@@ -6,8 +6,15 @@ description: Execute build, test, lint, serve, and other tasks in an Nx workspac
 authors:
 - tech-leads-club
 is_official: false
-tags: []
-category: none
+tags:
+- nx
+- build
+- test
+- lint
+- monorepo
+- task-runner
+- affected-commands
+category: coding
 source:
   path: /packages/skills-catalog/skills/(tooling)/nx-run-tasks
   repo: tech-leads-club/agent-skills

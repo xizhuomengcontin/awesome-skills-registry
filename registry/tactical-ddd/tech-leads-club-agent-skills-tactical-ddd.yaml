@@ -1,5 +1,5 @@
 id: tech-leads-club-agent-skills-tactical-ddd
-display_name: Tactical Ddd
+display_name: Tactical DDD
 description: Detects anemic domain models, validates and refactors them into rich domain models, and enforces tactical DDD
   patterns (Entities, Value Objects, Aggregates, Domain Services, Domain Events). Use when the user asks to validate, review,
   or check domain models or DDD code; detect anemia; refactor domain objects; improve encapsulation; or mentions terms like
@@ -9,8 +9,16 @@ description: Detects anemic domain models, validates and refactors them into ric
 authors:
 - tech-leads-club
 is_official: false
-tags: []
-category: none
+tags:
+- domain-driven-design
+- ddd
+- refactoring
+- aggregates
+- value-objects
+- domain-events
+- code-review
+- architecture
+category: coding
 source:
   path: /packages/skills-catalog/skills/(architecture)/tactical-ddd
   repo: tech-leads-club/agent-skills

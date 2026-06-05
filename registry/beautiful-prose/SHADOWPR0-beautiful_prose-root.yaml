@@ -1,12 +1,20 @@
 id: SHADOWPR0-beautiful_prose-root
-display_name: Root
+display_name: Beautiful Prose
 description: A hard-edged writing style contract for timeless, forceful English prose without modern AI tics. Use when users
   ask for prose or rewrites that must be clean, exact, concrete, and free of AI cadence, filler, or therapeutic tone.
 authors:
 - SHADOWPR0
 is_official: false
-tags: []
-category: none
+tags:
+- prose
+- writing-style
+- copyediting
+- rewriting
+- english
+- style-guide
+- voice
+- anti-ai-tone
+category: creative
 source:
   path: /
   repo: SHADOWPR0/beautiful_prose

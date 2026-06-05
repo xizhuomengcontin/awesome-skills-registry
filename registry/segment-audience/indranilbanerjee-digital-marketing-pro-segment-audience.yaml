@@ -4,8 +4,13 @@ description: 'Create audience segments. Use when: building or updating CRM or em
 authors:
 - indranilbanerjee
 is_official: false
-tags: []
-category: none
+tags:
+- audience-segmentation
+- crm
+- email-marketing
+- campaign-targeting
+- customer-segments
+category: marketing
 source:
   path: /skills/segment-audience
   repo: indranilbanerjee/digital-marketing-pro

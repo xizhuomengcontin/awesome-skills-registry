@@ -6,8 +6,15 @@ description: 'Fast CLI/Python queries to 20+ bioinformatics databases. Use for q
 authors:
 - K-Dense-AI
 is_official: false
-tags: []
-category: none
+tags:
+- bioinformatics
+- gene-lookup
+- blast
+- alphafold
+- enrichment-analysis
+- database-queries
+- python-cli
+category: science
 source:
   path: /skills/gget
   repo: K-Dense-AI/claude-scientific-skills

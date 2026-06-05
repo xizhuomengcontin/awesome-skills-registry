@@ -1,12 +1,18 @@
 id: K-Dense-AI-claude-scientific-skills-pymc
-display_name: Pymc
+display_name: PyMC Bayesian Modeling
 description: Bayesian modeling with PyMC. Build hierarchical models, MCMC (NUTS), variational inference, LOO/WAIC comparison,
   posterior checks, for probabilistic programming and inference.
 authors:
 - K-Dense-AI
 is_official: false
-tags: []
-category: none
+tags:
+- bayesian-modeling
+- mcmc
+- probabilistic-programming
+- hierarchical-models
+- posterior-inference
+- statistical-modeling
+category: science
 source:
   path: /skills/pymc
   repo: K-Dense-AI/claude-scientific-skills

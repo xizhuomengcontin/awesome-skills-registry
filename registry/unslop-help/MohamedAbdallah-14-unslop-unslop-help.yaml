@@ -5,8 +5,14 @@ description: 'Quick-reference card for unslop modes, sub-skills, and slash comma
 authors:
 - MohamedAbdallah-14
 is_official: false
-tags: []
-category: none
+tags:
+- help
+- reference
+- slash-commands
+- documentation
+- unslop
+- quick-reference
+category: productivity
 source:
   path: /skills/unslop-help
   repo: MohamedAbdallah-14/unslop

@@ -6,8 +6,15 @@ description: PyTorch Geometric (PyG) for graph neural networks — node/link/gra
 authors:
 - K-Dense-AI
 is_official: false
-tags: []
-category: none
+tags:
+- graph-neural-networks
+- pytorch
+- node-classification
+- message-passing
+- gnn
+- torch-geometric
+- heterogeneous-graphs
+category: data-ai
 source:
   path: /skills/torch-geometric
   repo: K-Dense-AI/claude-scientific-skills

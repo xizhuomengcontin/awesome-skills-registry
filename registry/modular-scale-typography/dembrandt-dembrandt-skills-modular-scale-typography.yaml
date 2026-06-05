@@ -6,8 +6,14 @@ description: Typography feels cohesive and intentional when font sizes follow a 
 authors:
 - dembrandt
 is_official: false
-tags: []
-category: none
+tags:
+- typography
+- modular-scale
+- design-tokens
+- font-sizing
+- type-system
+- visual-design
+category: design
 source:
   path: /skills/modular-scale-typography
   repo: dembrandt/dembrandt-skills

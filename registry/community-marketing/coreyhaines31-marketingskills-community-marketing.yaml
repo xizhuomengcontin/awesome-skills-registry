@@ -8,8 +8,15 @@ description: 'Build and leverage online communities to drive product growth and 
 authors:
 - coreyhaines31
 is_official: false
-tags: []
-category: none
+tags:
+- community-building
+- discord
+- slack
+- community-led-growth
+- brand-advocates
+- word-of-mouth
+- ambassador-program
+category: marketing
 source:
   path: /skills/community-marketing
   repo: coreyhaines31/marketingskills

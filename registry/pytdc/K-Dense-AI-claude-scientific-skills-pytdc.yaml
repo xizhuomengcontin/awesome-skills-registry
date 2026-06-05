@@ -1,12 +1,19 @@
 id: K-Dense-AI-claude-scientific-skills-pytdc
-display_name: Pytdc
+display_name: PyTDC Therapeutics Data Commons
 description: Therapeutics Data Commons. AI-ready drug discovery datasets (ADME, toxicity, DTI), benchmarks, scaffold splits,
   molecular oracles, for therapeutic ML and pharmacological prediction.
 authors:
 - K-Dense-AI
 is_official: false
-tags: []
-category: none
+tags:
+- drug-discovery
+- therapeutics
+- adme
+- toxicity
+- molecular-ml
+- benchmarking
+- pharmacology
+category: science
 source:
   path: /skills/pytdc
   repo: K-Dense-AI/claude-scientific-skills

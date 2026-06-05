@@ -1,12 +1,20 @@
 id: K-Dense-AI-claude-scientific-skills-etetoolkit
-display_name: Etetoolkit
+display_name: ETE Phylogenetic Toolkit
 description: Phylogenetic tree toolkit (ETE). Tree manipulation (Newick/NHX), evolutionary event detection, orthology/paralogy,
   NCBI taxonomy, visualization (PDF/SVG), for phylogenomics.
 authors:
 - K-Dense-AI
 is_official: false
-tags: []
-category: none
+tags:
+- phylogenetics
+- ete-toolkit
+- tree-manipulation
+- evolutionary-analysis
+- orthology
+- ncbi-taxonomy
+- phylogenomics
+- visualization
+category: science
 source:
   path: /skills/etetoolkit
   repo: K-Dense-AI/claude-scientific-skills

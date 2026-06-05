@@ -5,8 +5,15 @@ description: AST-based code graph for fast symbol lookup, dependency analysis, a
 authors:
 - alinaqi
 is_official: false
-tags: []
-category: none
+tags:
+- ast
+- code-graph
+- symbol-lookup
+- dependency-analysis
+- blast-radius
+- codebase-navigation
+- static-analysis
+category: coding
 source:
   path: /skills/code-graph
   repo: alinaqi/maggy

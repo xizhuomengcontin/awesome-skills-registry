@@ -5,8 +5,15 @@ description: Identify which organic growth path to pursue — new segments, geog
 authors:
 - deanpeters
 is_official: false
-tags: []
-category: none
+tags:
+- growth-strategy
+- market-segmentation
+- product-led-growth
+- channel-strategy
+- mckinsey-framework
+- geographic-expansion
+- growth-diagnosis
+category: business
 source:
   path: /skills/organic-growth-advisor
   repo: deanpeters/Product-Manager-Skills

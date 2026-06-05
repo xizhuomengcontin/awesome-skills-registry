@@ -5,8 +5,14 @@ description: 'Every user prompt goes through a 9-tier classification pipeline be
 authors:
 - alinaqi
 is_official: false
-tags: []
-category: none
+tags:
+- model-routing
+- prompt-classification
+- llm-selection
+- pipeline
+- cost-optimization
+- task-triage
+category: data-ai
 source:
   path: /skills/model-routing
   repo: alinaqi/maggy

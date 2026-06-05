@@ -6,8 +6,15 @@ description: Filing gate for ALL brain writes. Consulted before creating any new
 authors:
 - garrytan
 is_official: false
-tags: []
-category: none
+tags:
+- taxonomy
+- knowledge-base
+- filing
+- schema
+- organization
+- directory-structure
+- drift-detection
+category: productivity
 source:
   path: /skills/brain-taxonomist
   repo: garrytan/gbrain

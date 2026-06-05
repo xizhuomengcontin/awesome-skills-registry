@@ -1,5 +1,5 @@
 id: lawvable-awesome-legal-skills-tech-contract-negotiation-patrick-munro
-display_name: Tech Contract Negotiation Patrick Munro
+display_name: Tech Contract Negotiation
 description: 'Guide to negotiating technology services agreements, professional services contracts, and commercial B2B transactions.
   Provides three-position frameworks (provider-favorable, balanced, client-favorable), deal-size tactics, objection handling
   templates, and concession roadmaps. Use when: (1) Developing negotiation strategies for SaaS, cloud, or managed services
@@ -9,8 +9,16 @@ description: 'Guide to negotiating technology services agreements, professional 
 authors:
 - lawvable
 is_official: false
-tags: []
-category: none
+tags:
+- contract-negotiation
+- saas
+- technology-agreements
+- b2b
+- professional-services
+- ip
+- sla
+- commercial-contracts
+category: legal
 source:
   path: /skills/tech-contract-negotiation-patrick-munro
   repo: lawvable/awesome-legal-skills

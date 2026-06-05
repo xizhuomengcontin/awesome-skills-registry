@@ -5,8 +5,14 @@ description: Guide teams through MITRE's Problem Framing Canvas. Use when you ne
 authors:
 - deanpeters
 is_official: false
-tags: []
-category: none
+tags:
+- problem-framing
+- product-management
+- mitre-canvas
+- discovery
+- workshop-facilitation
+- problem-statement
+category: productivity
 source:
   path: /skills/problem-framing-canvas
   repo: deanpeters/Product-Manager-Skills

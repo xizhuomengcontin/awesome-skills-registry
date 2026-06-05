@@ -1,11 +1,17 @@
 id: garrytan-gbrain-publish
-display_name: Publish
+display_name: Brain Page Publisher
 description: Share brain pages as beautiful password-protected HTML with zero LLM calls
 authors:
 - garrytan
 is_official: false
-tags: []
-category: none
+tags:
+- publishing
+- html-export
+- password-protection
+- knowledge-sharing
+- static-site
+- content-publishing
+category: productivity
 source:
   path: /skills/publish
   repo: garrytan/gbrain

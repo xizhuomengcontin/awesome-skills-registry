@@ -1,13 +1,20 @@
 id: dembrandt-dembrandt-skills-gestalt-ui-organisation
-display_name: Gestalt Ui Organisation
+display_name: Gestalt UI Organisation
 description: UI layout and grouping should follow Gestalt principles so users immediately understand which controls, commands,
   and elements belong together. Use when designing or reviewing component layout, navigation, toolbars, forms, dashboards,
   or any UI where visual grouping communicates relationships.
 authors:
 - dembrandt
 is_official: false
-tags: []
-category: none
+tags:
+- gestalt-principles
+- ui-layout
+- visual-grouping
+- ux-design
+- component-layout
+- dashboard-design
+- forms
+category: design
 source:
   path: /skills/gestalt-ui-organisation
   repo: dembrandt/dembrandt-skills

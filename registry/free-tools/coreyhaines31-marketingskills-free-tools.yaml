@@ -1,5 +1,5 @@
 id: coreyhaines31-marketingskills-free-tools
-display_name: Free Tools
+display_name: Free Marketing Tools
 description: When the user wants to plan, evaluate, or build a free tool for marketing purposes — lead generation, SEO value,
   or brand awareness. Also use when the user mentions "engineering as marketing," "free tool," "marketing tool," "calculator,"
   "generator," "interactive tool," "lead gen tool," "build a tool for leads," "free resource," "ROI calculator," "grader tool,"
@@ -9,8 +9,16 @@ description: When the user wants to plan, evaluate, or build a free tool for mar
 authors:
 - coreyhaines31
 is_official: false
-tags: []
-category: none
+tags:
+- lead-generation
+- free-tools
+- engineering-as-marketing
+- seo
+- calculator
+- interactive-tool
+- brand-awareness
+- lead-magnets
+category: marketing
 source:
   path: /skills/free-tools
   repo: coreyhaines31/marketingskills

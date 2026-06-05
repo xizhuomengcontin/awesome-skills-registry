@@ -9,8 +9,15 @@ description: When the user wants to design, deploy, or measure Apple Custom Prod
 authors:
 - Eronred
 is_official: false
-tags: []
-category: none
+tags:
+- app-store-optimization
+- custom-product-pages
+- ios
+- aso
+- apple-search-ads
+- app-store-connect
+- campaign-landing-page
+category: marketing
 source:
   path: /skills/custom-product-pages
   repo: Eronred/aso-skills

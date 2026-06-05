@@ -1,5 +1,5 @@
 id: K-Dense-AI-claude-scientific-skills-docx
-display_name: Docx
+display_name: Word Document (DOCX)
 description: 'Use this skill whenever the user wants to create, read, edit, or manipulate Word documents (.docx files). Triggers
   include: any mention of ''Word doc'', ''word document'', ''.docx'', or requests to produce professional documents with formatting
   like tables of contents, headings, page numbers, or letterheads. Also use when extracting or reorganizing content from .docx
@@ -10,8 +10,16 @@ description: 'Use this skill whenever the user wants to create, read, edit, or m
 authors:
 - K-Dense-AI
 is_official: false
-tags: []
-category: none
+tags:
+- word-document
+- docx
+- document-editing
+- document-creation
+- file-manipulation
+- formatting
+- templates
+- microsoft-word
+category: productivity
 source:
   path: /skills/docx
   repo: K-Dense-AI/claude-scientific-skills

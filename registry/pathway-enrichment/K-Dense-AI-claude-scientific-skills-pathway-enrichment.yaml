@@ -12,8 +12,16 @@ description: Run pathway and gene-set enrichment analysis on gene lists or ranke
 authors:
 - K-Dense-AI
 is_official: false
-tags: []
-category: none
+tags:
+- pathway-analysis
+- gene-set-enrichment
+- gsea
+- go-enrichment
+- kegg
+- reactome
+- bioinformatics
+- rna-seq
+category: science
 source:
   path: /skills/pathway-enrichment
   repo: K-Dense-AI/claude-scientific-skills

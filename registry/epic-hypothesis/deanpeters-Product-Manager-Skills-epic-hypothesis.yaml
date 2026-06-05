@@ -1,12 +1,18 @@
 id: deanpeters-Product-Manager-Skills-epic-hypothesis
-display_name: Epic Hypothesis
+display_name: Epic Hypothesis Framer
 description: Frame an epic as a testable hypothesis with target user, expected outcome, and validation method. Use when defining
   a major initiative before roadmap, discovery, or delivery planning.
 authors:
 - deanpeters
 is_official: false
-tags: []
-category: none
+tags:
+- epic-hypothesis
+- product-discovery
+- roadmap-planning
+- hypothesis-driven
+- initiative-framing
+- product-management
+category: business
 source:
   path: /skills/epic-hypothesis
   repo: deanpeters/Product-Manager-Skills

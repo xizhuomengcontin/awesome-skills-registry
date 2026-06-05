@@ -1,13 +1,20 @@
 id: K-Dense-AI-claude-scientific-skills-what-if-oracle
-display_name: What If Oracle
+display_name: What-If Oracle
 description: Run structured What-If scenario analysis with 4–6 branch possibility exploration (best, likely, worst, wild card,
   contrarian, second-order). Use when the user asks speculative what-if questions about uncertain futures, strategic forks,
   contingency planning, or stress-testing a decision before committing.
 authors:
 - K-Dense-AI
 is_official: false
-tags: []
-category: none
+tags:
+- scenario-analysis
+- strategic-planning
+- contingency-planning
+- decision-making
+- risk-assessment
+- futures-thinking
+- stress-testing
+category: productivity
 source:
   path: /skills/what-if-oracle
   repo: K-Dense-AI/claude-scientific-skills

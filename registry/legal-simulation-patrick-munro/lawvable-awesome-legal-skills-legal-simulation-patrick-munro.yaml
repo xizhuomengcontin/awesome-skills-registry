@@ -1,5 +1,5 @@
 id: lawvable-awesome-legal-skills-legal-simulation-patrick-munro
-display_name: Legal Simulation Patrick Munro
+display_name: Legal Simulation
 description: 'Framework for demonstrating AI capabilities in legal contexts. Provides detailed personas across tenant law,
   business contracts, startup disputes, employment claims, and consumer protection with progressive complexity scenarios.
   Use when: (1) Demonstrating AI-powered legal triage or intake systems, (2) Showcasing responsible AI-assisted client interactions,
@@ -9,8 +9,16 @@ description: 'Framework for demonstrating AI capabilities in legal contexts. Pro
 authors:
 - lawvable
 is_official: false
-tags: []
-category: none
+tags:
+- legal-ai
+- legal-simulation
+- client-intake
+- legal-tech
+- ai-demonstration
+- tenant-law
+- employment-law
+- legal-education
+category: legal
 source:
   path: /skills/legal-simulation-patrick-munro
   repo: lawvable/awesome-legal-skills

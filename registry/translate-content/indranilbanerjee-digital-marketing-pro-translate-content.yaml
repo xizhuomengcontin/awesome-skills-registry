@@ -1,11 +1,18 @@
 id: indranilbanerjee-digital-marketing-pro-translate-content
-display_name: Translate Content
+display_name: Translate Marketing Content
 description: 'Translate marketing content. Use when: localizing with brand voice preservation, quality scoring, or transcreation.'
 authors:
 - indranilbanerjee
 is_official: false
-tags: []
-category: none
+tags:
+- translation
+- localization
+- transcreation
+- brand-voice
+- content-marketing
+- multilingual
+- quality-scoring
+category: marketing
 source:
   path: /skills/translate-content
   repo: indranilbanerjee/digital-marketing-pro

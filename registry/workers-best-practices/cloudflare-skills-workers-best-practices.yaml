@@ -6,8 +6,16 @@ description: Reviews and authors Cloudflare Workers code against production best
 authors:
 - cloudflare
 is_official: true
-tags: []
-category: none
+tags:
+- cloudflare-workers
+- best-practices
+- serverless
+- wrangler
+- edge-computing
+- code-review
+- observability
+- secrets-management
+category: coding
 source:
   path: /skills/workers-best-practices
   repo: cloudflare/skills

@@ -5,8 +5,16 @@ description: Chunked N-D arrays for cloud storage (Zarr-Python 3). Compressed ar
 authors:
 - K-Dense-AI
 is_official: false
-tags: []
-category: none
+tags:
+- zarr
+- n-dimensional-arrays
+- cloud-storage
+- parallel-io
+- dask
+- xarray
+- scientific-computing
+- s3
+category: science
 source:
   path: /skills/zarr-python
   repo: K-Dense-AI/claude-scientific-skills

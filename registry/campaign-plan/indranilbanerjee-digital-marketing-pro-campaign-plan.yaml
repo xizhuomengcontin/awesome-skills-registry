@@ -5,8 +5,15 @@ description: 'Build multi-channel campaign plans. Use when: objectives, audience
 authors:
 - indranilbanerjee
 is_official: false
-tags: []
-category: none
+tags:
+- campaign-planning
+- multi-channel
+- audience-targeting
+- channel-mix
+- budget
+- kpis
+- timeline
+category: marketing
 source:
   path: /skills/campaign-plan
   repo: indranilbanerjee/digital-marketing-pro

@@ -1,5 +1,5 @@
 id: K-Dense-AI-claude-scientific-skills-neurokit2
-display_name: Neurokit2
+display_name: NeuroKit2 Biosignal Processing
 description: Comprehensive biosignal processing toolkit for analyzing physiological data including ECG, EEG, EDA, RSP, PPG,
   EMG, and EOG signals. Use this skill when processing cardiovascular signals, brain activity, electrodermal responses, respiratory
   patterns, muscle activity, or eye movements. Applicable for heart rate variability analysis, event-related potentials, complexity
@@ -7,8 +7,15 @@ description: Comprehensive biosignal processing toolkit for analyzing physiologi
 authors:
 - K-Dense-AI
 is_official: false
-tags: []
-category: none
+tags:
+- biosignal-processing
+- ecg
+- eeg
+- physiological-data
+- heart-rate-variability
+- psychophysiology
+- neurokit2
+category: science
 source:
   path: /skills/neurokit2
   repo: K-Dense-AI/claude-scientific-skills

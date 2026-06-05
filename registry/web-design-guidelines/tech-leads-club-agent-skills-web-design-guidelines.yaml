@@ -6,8 +6,15 @@ description: Review UI code for Web Interface Guidelines compliance. Use when as
 authors:
 - tech-leads-club
 is_official: false
-tags: []
-category: none
+tags:
+- ui-review
+- accessibility
+- ux-audit
+- web-guidelines
+- visual-design
+- interaction-patterns
+- code-review
+category: design
 source:
   path: /packages/skills-catalog/skills/(design)/web-design-guidelines
   repo: tech-leads-club/agent-skills

@@ -1,5 +1,5 @@
 id: tech-leads-club-agent-skills-multi-platform-launch
-display_name: Multi Platform Launch
+display_name: Multi-Platform Launch
 description: When the user wants to launch a product across multiple platforms, plan a Product Hunt launch, build a waitlist,
   or execute a multi-channel launch strategy. Also use when the user mentions 'product launch,' 'Product Hunt,' 'launch strategy,'
   'waitlist,' 'beta launch,' 'BetaList,' 'Hacker News,' 'launch day,' 'AppSumo,' 'multi-channel launch.' This skill covers
@@ -8,8 +8,15 @@ description: When the user wants to launch a product across multiple platforms, 
 authors:
 - tech-leads-club
 is_official: false
-tags: []
-category: none
+tags:
+- product-launch
+- product-hunt
+- waitlist
+- launch-strategy
+- multi-channel
+- beta-launch
+- growth-marketing
+category: marketing
 source:
   path: /packages/skills-catalog/skills/(gtm)/multi-platform-launch
   repo: tech-leads-club/agent-skills

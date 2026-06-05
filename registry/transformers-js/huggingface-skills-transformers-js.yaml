@@ -1,5 +1,5 @@
 id: huggingface-skills-transformers-js
-display_name: Transformers Js
+display_name: Transformers.js
 description: Use Transformers.js to run state-of-the-art machine learning models directly in JavaScript/TypeScript. Supports
   NLP (text classification, translation, summarization), computer vision (image classification, object detection), audio (speech
   recognition, audio classification), and multimodal tasks. Works in browsers and server-side runtimes (Node.js, Bun, Deno)
@@ -7,8 +7,16 @@ description: Use Transformers.js to run state-of-the-art machine learning models
 authors:
 - huggingface
 is_official: true
-tags: []
-category: none
+tags:
+- transformers-js
+- javascript
+- typescript
+- browser-ml
+- nlp
+- computer-vision
+- webgpu
+- hugging-face
+category: data-ai
 source:
   path: /skills/transformers-js
   repo: huggingface/skills

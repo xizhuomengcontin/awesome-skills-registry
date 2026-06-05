@@ -1,5 +1,5 @@
 id: HeshamFS-materials-simulation-skills-post-processing
-display_name: Post Processing
+display_name: Simulation Post-Processing
 description: Extract, analyze, and summarize simulation output data — pull spatial fields at specific timesteps, compute time-series
   trends and detect steady state, extract line profiles through the domain, generate statistical summaries and distributions,
   calculate derived quantities (gradients, fluxes, volume fractions, interface area), compare results against analytical solutions
@@ -10,8 +10,16 @@ description: Extract, analyze, and summarize simulation output data — pull spa
 authors:
 - HeshamFS
 is_official: false
-tags: []
-category: none
+tags:
+- simulation
+- data-extraction
+- phase-field
+- steady-state
+- numerical-analysis
+- materials-science
+- post-processing
+- cfd
+category: science
 source:
   path: /skills/simulation-workflow/post-processing
   repo: HeshamFS/materials-simulation-skills

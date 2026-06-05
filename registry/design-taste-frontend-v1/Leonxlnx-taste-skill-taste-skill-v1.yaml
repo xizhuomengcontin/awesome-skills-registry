@@ -5,8 +5,15 @@ description: The original v1 taste-skill, preserved for projects depending on it
 authors:
 - Leonxlnx
 is_official: false
-tags: []
-category: none
+tags:
+- frontend
+- landing-page
+- ui-design
+- legacy
+- backward-compatibility
+- design-systems
+- web-ui
+category: design
 source:
   path: /skills/taste-skill-v1
   repo: Leonxlnx/taste-skill

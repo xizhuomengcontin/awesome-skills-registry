@@ -1,5 +1,5 @@
 id: K-Dense-AI-claude-scientific-skills-treatment-plans
-display_name: Treatment Plans
+display_name: Medical Treatment Plans
 description: Generate concise (3-4 page), focused medical treatment plans in LaTeX/PDF format for all clinical specialties.
   Supports general medical treatment, rehabilitation therapy, mental health care, chronic disease management, perioperative
   care, and pain management. Includes SMART goal frameworks, evidence-based interventions with minimal text citations, regulatory
@@ -7,8 +7,16 @@ description: Generate concise (3-4 page), focused medical treatment plans in LaT
 authors:
 - K-Dense-AI
 is_official: false
-tags: []
-category: none
+tags:
+- treatment-plans
+- clinical
+- latex
+- hipaa
+- evidence-based
+- chronic-disease
+- mental-health
+- rehabilitation
+category: health
 source:
   path: /skills/treatment-plans
   repo: K-Dense-AI/claude-scientific-skills

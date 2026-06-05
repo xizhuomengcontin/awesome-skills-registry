@@ -4,8 +4,15 @@ description: Firebase Firestore, Auth, Storage, real-time listeners, security ru
 authors:
 - alinaqi
 is_official: false
-tags: []
-category: none
+tags:
+- firebase
+- firestore
+- authentication
+- cloud-storage
+- real-time
+- security-rules
+- backend
+category: coding
 source:
   path: /skills/firebase
   repo: alinaqi/maggy

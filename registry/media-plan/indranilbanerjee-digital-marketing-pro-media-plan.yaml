@@ -5,8 +5,15 @@ description: 'Create a paid media plan. Use when: building media buy schedules, 
 authors:
 - indranilbanerjee
 is_official: false
-tags: []
-category: none
+tags:
+- media-planning
+- paid-media
+- budget-allocation
+- media-buying
+- cross-channel
+- creative-rotation
+- ad-scheduling
+category: marketing
 source:
   path: /skills/media-plan
   repo: indranilbanerjee/digital-marketing-pro

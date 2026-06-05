@@ -6,8 +6,15 @@ description: When the user wants to reduce churn, improve user engagement, or in
 authors:
 - Eronred
 is_official: false
-tags: []
-category: none
+tags:
+- user-retention
+- churn-reduction
+- engagement
+- dau-mau
+- lifetime-value
+- onboarding
+- mobile-app
+category: marketing
 source:
   path: /skills/retention-optimization
   repo: Eronred/aso-skills

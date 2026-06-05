@@ -4,8 +4,15 @@ description: 'Respond to online reviews. Use when: drafting replies for Google, 
 authors:
 - indranilbanerjee
 is_official: false
-tags: []
-category: none
+tags:
+- review-response
+- reputation-management
+- google-reviews
+- yelp
+- g2
+- customer-feedback
+- templates
+category: marketing
 source:
   path: /skills/review-response
   repo: indranilbanerjee/digital-marketing-pro

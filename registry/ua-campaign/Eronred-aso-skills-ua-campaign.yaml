@@ -1,13 +1,21 @@
 id: Eronred-aso-skills-ua-campaign
-display_name: Ua Campaign
+display_name: UA Campaign Planner
 description: When the user wants to plan or optimize paid user acquisition campaigns. Also use when the user mentions "Apple
   Search Ads", "user acquisition", "paid ads", "UA", "ad campaign", "install campaign", "Facebook ads for apps", "TikTok ads",
   or "cost per install". For organic growth, see aso-audit. For launch-specific UA, see app-launch.
 authors:
 - Eronred
 is_official: false
-tags: []
-category: none
+tags:
+- user-acquisition
+- paid-ads
+- apple-search-ads
+- facebook-ads
+- tiktok-ads
+- mobile-marketing
+- cost-per-install
+- ad-campaign
+category: marketing
 source:
   path: /skills/ua-campaign
   repo: Eronred/aso-skills

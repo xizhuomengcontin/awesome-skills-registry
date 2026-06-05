@@ -1,5 +1,5 @@
 id: HeshamFS-materials-simulation-skills-time-stepping
-display_name: Time Stepping
+display_name: Time Stepping for Simulations
 description: Plan and control time-step policies for transient simulations — couple CFL and physics-based stability limits
   with adaptive stepping, ramp initial transients through sharp gradients or phase changes, schedule output intervals and
   checkpoint cadence, and plan restart strategies for long-running jobs. Use when choosing dt for a new simulation, diagnosing
@@ -8,8 +8,16 @@ description: Plan and control time-step policies for transient simulations — c
 authors:
 - HeshamFS
 is_official: false
-tags: []
-category: none
+tags:
+- simulation
+- time-stepping
+- cfl
+- adaptive-stepping
+- transient-analysis
+- numerical-methods
+- checkpointing
+- hpc
+category: science
 source:
   path: /skills/core-numerical/time-stepping
   repo: HeshamFS/materials-simulation-skills

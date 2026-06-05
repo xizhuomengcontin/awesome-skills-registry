@@ -1,12 +1,19 @@
 id: indranilbanerjee-digital-marketing-pro-aeo-geo
-display_name: Aeo Geo
+display_name: AEO/GEO Optimization
 description: 'Optimize AI engine visibility. Use when: AEO/GEO strategy, citation optimization, entity consistency across
   AI platforms.'
 authors:
 - indranilbanerjee
 is_official: false
-tags: []
-category: none
+tags:
+- aeo
+- geo
+- ai-engine-optimization
+- entity-optimization
+- citation
+- ai-search
+- content-strategy
+category: marketing
 source:
   path: /skills/aeo-geo
   repo: indranilbanerjee/digital-marketing-pro

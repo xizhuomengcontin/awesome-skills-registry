@@ -7,8 +7,15 @@ description: Migrate a brain from gbrain-base (or any pack) to gbrain-base-v2's 
 authors:
 - garrytan
 is_official: false
-tags: []
-category: none
+tags:
+- schema-migration
+- taxonomy
+- canonical-types
+- knowledge-graph
+- data-cleanup
+- ontology
+- gbrain
+category: data-ai
 source:
   path: /skills/schema-unify
   repo: garrytan/gbrain

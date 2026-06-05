@@ -8,8 +8,15 @@ description: When the user wants to plan, script, produce, or optimize App Store
 authors:
 - Eronred
 is_official: false
-tags: []
-category: none
+tags:
+- app-preview
+- promo-video
+- app-store-video
+- google-play
+- video-script
+- creative-assets
+- mobile-marketing
+category: marketing
 source:
   path: /skills/app-preview-video
   repo: Eronred/aso-skills

@@ -5,8 +5,13 @@ description: 'Set up ongoing competitor monitoring. Use when: defining tracked c
 authors:
 - indranilbanerjee
 is_official: false
-tags: []
-category: none
+tags:
+- competitor-monitoring
+- change-detection
+- alerts
+- tracking
+- competitive-intelligence
+category: marketing
 source:
   path: /skills/competitor-monitor
   repo: indranilbanerjee/digital-marketing-pro

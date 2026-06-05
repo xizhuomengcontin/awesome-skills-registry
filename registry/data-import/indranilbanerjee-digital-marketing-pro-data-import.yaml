@@ -5,8 +5,15 @@ description: 'Import data from external sources. Use when: loading CRM contacts,
 authors:
 - indranilbanerjee
 is_official: false
-tags: []
-category: none
+tags:
+- data-import
+- csv
+- json
+- crm
+- email-lists
+- campaign-data
+- google-sheets
+category: marketing
 source:
   path: /skills/data-import
   repo: indranilbanerjee/digital-marketing-pro

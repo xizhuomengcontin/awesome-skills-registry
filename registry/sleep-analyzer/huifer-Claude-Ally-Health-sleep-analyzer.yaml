@@ -4,8 +4,14 @@ description: 分析睡眠数据、识别睡眠模式、评估睡眠质量，并�
 authors:
 - huifer
 is_official: false
-tags: []
-category: none
+tags:
+- sleep-analysis
+- sleep-quality
+- health-data
+- wearables
+- personalized-recommendations
+- wellness
+category: health
 source:
   path: /skills/sleep-analyzer
   repo: huifer/Claude-Ally-Health

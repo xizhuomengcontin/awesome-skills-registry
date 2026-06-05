@@ -9,8 +9,16 @@ description: Self-hosted, open-source alternative to Google NotebookLM for AI-po
 authors:
 - K-Dense-AI
 is_official: false
-tags: []
-category: none
+tags:
+- research
+- document-analysis
+- ai-notes
+- knowledge-management
+- pdf-ingestion
+- self-hosted
+- rag
+- multi-source
+category: productivity
 source:
   path: /skills/open-notebook
   repo: K-Dense-AI/claude-scientific-skills

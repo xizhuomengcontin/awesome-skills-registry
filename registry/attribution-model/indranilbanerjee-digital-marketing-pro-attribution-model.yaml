@@ -5,8 +5,14 @@ description: 'Set up attribution models. Use when: multi-touch attribution, cred
 authors:
 - indranilbanerjee
 is_official: false
-tags: []
-category: none
+tags:
+- attribution
+- multi-touch
+- ga4
+- channel-analysis
+- digital-marketing
+- analytics
+category: marketing
 source:
   path: /skills/attribution-model
   repo: indranilbanerjee/digital-marketing-pro

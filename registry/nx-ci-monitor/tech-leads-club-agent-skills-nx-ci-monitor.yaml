@@ -1,13 +1,20 @@
 id: tech-leads-club-agent-skills-nx-ci-monitor
-display_name: Nx Ci Monitor
+display_name: Nx CI Monitor
 description: Monitor Nx Cloud CI pipeline status and handle self-healing fixes automatically. Use when user says "watch CI",
   "monitor pipeline", "check CI status", "fix CI failures", or "self-heal CI". Requires Nx Cloud connection. Do NOT use for
   local task execution (use nx-run-tasks) or general CI debugging outside Nx Cloud.
 authors:
 - tech-leads-club
 is_official: false
-tags: []
-category: none
+tags:
+- ci-cd
+- nx-cloud
+- pipeline-monitoring
+- self-healing
+- monorepo
+- devops
+- automation
+category: coding
 source:
   path: /packages/skills-catalog/skills/(tooling)/nx-ci-monitor
   repo: tech-leads-club/agent-skills

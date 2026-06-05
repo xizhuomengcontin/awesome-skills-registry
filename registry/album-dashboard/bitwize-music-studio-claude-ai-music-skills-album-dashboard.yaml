@@ -5,8 +5,13 @@ description: Shows a structured progress dashboard for an album with percentage 
 authors:
 - bitwize-music-studio
 is_official: false
-tags: []
-category: none
+tags:
+- album-progress
+- project-dashboard
+- music-production
+- status-tracking
+- phase-management
+category: creative
 source:
   path: /skills/album-dashboard
   repo: bitwize-music-studio/claude-ai-music-skills

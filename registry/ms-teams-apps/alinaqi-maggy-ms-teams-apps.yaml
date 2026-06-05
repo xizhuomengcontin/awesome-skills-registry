@@ -1,11 +1,18 @@
 id: alinaqi-maggy-ms-teams-apps
-display_name: Ms Teams Apps
+display_name: MS Teams Apps
 description: Microsoft Teams bots and AI agents - Claude/OpenAI, Adaptive Cards, Graph API
 authors:
 - alinaqi
 is_official: false
-tags: []
-category: none
+tags:
+- microsoft-teams
+- bots
+- ai-agents
+- adaptive-cards
+- graph-api
+- openai
+- claude
+category: coding
 source:
   path: /skills/ms-teams-apps
   repo: alinaqi/maggy

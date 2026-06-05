@@ -7,8 +7,14 @@ description: Structured hypothesis formulation from observations. Use when you h
 authors:
 - K-Dense-AI
 is_official: false
-tags: []
-category: none
+tags:
+- hypothesis-formulation
+- scientific-method
+- experiment-design
+- research
+- predictions
+- observations
+category: science
 source:
   path: /skills/hypothesis-generation
   repo: K-Dense-AI/claude-scientific-skills

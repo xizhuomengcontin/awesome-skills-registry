@@ -5,8 +5,14 @@ description: Coordinates album release including QA, distribution prep, and plat
 authors:
 - bitwize-music-studio
 is_official: false
-tags: []
-category: none
+tags:
+- music-release
+- album-distribution
+- mastering
+- platform-upload
+- release-management
+- music-production
+category: creative
 source:
   path: /skills/release-director
   repo: bitwize-music-studio/claude-ai-music-skills

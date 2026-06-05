@@ -1,5 +1,5 @@
 id: K-Dense-AI-claude-scientific-skills-geopandas
-display_name: Geopandas
+display_name: GeoPandas
 description: Python library for working with geospatial vector data including shapefiles, GeoJSON, and GeoPackage files. Use
   when working with geographic data for spatial analysis, geometric operations, coordinate transformations, spatial joins,
   overlay operations, choropleth mapping, or any task involving reading/writing/analyzing vector geographic data. Supports
@@ -9,8 +9,16 @@ description: Python library for working with geospatial vector data including sh
 authors:
 - K-Dense-AI
 is_official: false
-tags: []
-category: none
+tags:
+- geopandas
+- geospatial
+- python
+- vector-data
+- spatial-analysis
+- gis
+- geojson
+- choropleth-mapping
+category: data-ai
 source:
   path: /skills/geopandas
   repo: K-Dense-AI/claude-scientific-skills

@@ -5,8 +5,14 @@ description: 'Design marketing automation workflows. Use when: building lead sco
 authors:
 - indranilbanerjee
 is_official: false
-tags: []
-category: none
+tags:
+- marketing-automation
+- lead-scoring
+- drip-campaigns
+- nurture-sequences
+- behavioral-triggers
+- workflow-design
+category: marketing
 source:
   path: /skills/marketing-automation
   repo: indranilbanerjee/digital-marketing-pro

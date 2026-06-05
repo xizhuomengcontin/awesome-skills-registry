@@ -7,8 +7,15 @@ description: Configure, explore, and optimize Nx monorepo workspaces. Use when s
 authors:
 - tech-leads-club
 is_official: false
-tags: []
-category: none
+tags:
+- nx
+- monorepo
+- workspace-configuration
+- build-caching
+- ci-cd
+- project-boundaries
+- affected
+category: coding
 source:
   path: /packages/skills-catalog/skills/(tooling)/nx-workspace
   repo: tech-leads-club/agent-skills

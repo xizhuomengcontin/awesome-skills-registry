@@ -4,8 +4,16 @@ description: 'Send email campaigns. Use when: deploying via SendGrid, Klaviyo, C
 authors:
 - indranilbanerjee
 is_official: false
-tags: []
-category: none
+tags:
+- email-campaign
+- sendgrid
+- klaviyo
+- a-b-testing
+- customer-io
+- mailgun
+- brevo
+- campaign-deployment
+category: marketing
 source:
   path: /skills/send-email-campaign
   repo: indranilbanerjee/digital-marketing-pro

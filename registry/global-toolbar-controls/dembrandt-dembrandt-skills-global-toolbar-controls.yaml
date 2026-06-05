@@ -7,8 +7,15 @@ description: Quick global settings — currency, language, region, units — bel
 authors:
 - dembrandt
 is_official: false
-tags: []
-category: none
+tags:
+- toolbar
+- locale-switcher
+- currency-selector
+- ux-design
+- global-settings
+- header-ui
+- user-preferences
+category: design
 source:
   path: /skills/global-toolbar-controls
   repo: dembrandt/dembrandt-skills

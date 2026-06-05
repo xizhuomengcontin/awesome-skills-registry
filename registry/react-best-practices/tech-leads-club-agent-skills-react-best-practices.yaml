@@ -7,8 +7,15 @@ description: React and Next.js performance optimization guidelines from Vercel E
 authors:
 - tech-leads-club
 is_official: false
-tags: []
-category: none
+tags:
+- react
+- next-js
+- performance-optimization
+- frontend
+- bundle-optimization
+- data-fetching
+- web-development
+category: coding
 source:
   path: /packages/skills-catalog/skills/(quality)/react-best-practices
   repo: tech-leads-club/agent-skills

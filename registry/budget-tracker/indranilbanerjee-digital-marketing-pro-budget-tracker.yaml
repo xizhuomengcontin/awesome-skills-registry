@@ -4,8 +4,14 @@ description: 'Track budget pacing in real time. Use when: cross-platform spend t
 authors:
 - indranilbanerjee
 is_official: false
-tags: []
-category: none
+tags:
+- budget-tracking
+- spend-pacing
+- cross-platform
+- overspend-alerts
+- real-time-monitoring
+- reallocation
+category: marketing
 source:
   path: /skills/budget-tracker
   repo: indranilbanerjee/digital-marketing-pro

@@ -1,12 +1,18 @@
 id: robzolkos-skill-rails-upgrade-root
-display_name: Root
+display_name: Rails Upgrade
 description: Analyze Rails application upgrade path. Checks current version, finds latest release, fetches upgrade notes and
   diffs, then performs selective upgrade preserving local customizations.
 authors:
 - robzolkos
 is_official: false
-tags: []
-category: none
+tags:
+- ruby-on-rails
+- upgrade
+- migration
+- version-management
+- ruby
+- codebase-analysis
+category: coding
 source:
   path: /
   repo: robzolkos/skill-rails-upgrade

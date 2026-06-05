@@ -7,8 +7,15 @@ description: When the user wants to set up, optimize, or scale Apple Search Ads 
 authors:
 - Eronred
 is_official: false
-tags: []
-category: none
+tags:
+- apple-search-ads
+- asa
+- keyword-bidding
+- paid-acquisition
+- mobile-advertising
+- roas
+- app-store
+category: marketing
 source:
   path: /skills/apple-search-ads
   repo: Eronred/aso-skills

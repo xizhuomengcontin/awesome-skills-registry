@@ -6,8 +6,15 @@ description: React Native and Expo best practices for building performant mobile
 authors:
 - vercel-labs
 is_official: true
-tags: []
-category: none
+tags:
+- react-native
+- expo
+- mobile-development
+- animations
+- native-modules
+- performance
+- ios-android
+category: coding
 source:
   path: /skills/react-native-skills
   repo: vercel-labs/agent-skills

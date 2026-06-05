@@ -5,8 +5,14 @@ description: Writes or reviews lyrics with professional prosody, rhyme craft, an
 authors:
 - bitwize-music-studio
 is_official: false
-tags: []
-category: none
+tags:
+- lyrics
+- songwriting
+- rhyme-craft
+- prosody
+- music-production
+- creative-writing
+category: creative
 source:
   path: /skills/lyric-writer
   repo: bitwize-music-studio/claude-ai-music-skills

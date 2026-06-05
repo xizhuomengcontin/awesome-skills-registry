@@ -7,8 +7,14 @@ description: Submit and manage protocols on Ginkgo Bioworks Cloud Lab (cloud.gin
 authors:
 - K-Dense-AI
 is_official: false
-tags: []
-category: none
+tags:
+- ginkgo-bioworks
+- cloud-lab
+- cell-free-expression
+- lab-automation
+- synthetic-biology
+- protocol-submission
+category: science
 source:
   path: /skills/ginkgo-cloud-lab
   repo: K-Dense-AI/claude-scientific-skills

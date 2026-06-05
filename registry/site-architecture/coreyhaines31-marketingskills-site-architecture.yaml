@@ -1,5 +1,5 @@
 id: coreyhaines31-marketingskills-site-architecture
-display_name: Site Architecture
+display_name: Site Architecture Planning
 description: When the user wants to plan, map, or restructure their website's page hierarchy, navigation, URL structure, or
   internal linking. Also use when the user mentions "sitemap," "site map," "visual sitemap," "site structure," "page hierarchy,"
   "information architecture," "IA," "navigation design," "URL structure," "breadcrumbs," "internal linking strategy," "website
@@ -9,8 +9,15 @@ description: When the user wants to plan, map, or restructure their website's pa
 authors:
 - coreyhaines31
 is_official: false
-tags: []
-category: none
+tags:
+- information-architecture
+- site-structure
+- navigation-design
+- url-structure
+- internal-linking
+- page-hierarchy
+- ux
+category: design
 source:
   path: /skills/site-architecture
   repo: coreyhaines31/marketingskills

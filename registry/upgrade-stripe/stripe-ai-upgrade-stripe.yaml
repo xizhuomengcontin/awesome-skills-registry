@@ -4,8 +4,15 @@ description: Guide for upgrading Stripe API versions and SDKs
 authors:
 - stripe
 is_official: true
-tags: []
-category: none
+tags:
+- stripe
+- api-upgrade
+- sdk
+- payments
+- migration
+- versioning
+- developer-tools
+category: coding
 source:
   path: /skills/upgrade-stripe
   repo: stripe/ai

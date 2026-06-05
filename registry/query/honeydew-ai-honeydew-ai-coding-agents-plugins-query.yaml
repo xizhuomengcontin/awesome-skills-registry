@@ -1,13 +1,19 @@
 id: honeydew-ai-honeydew-ai-coding-agents-plugins-query
-display_name: Query
+display_name: Honeydew Query
 description: Use when the user wants to query or analyze data through the Honeydew semantic layer — including natural language
   analysis questions, deep multi-step investigations, and structured queries. For model/field discovery use the model-exploration
   skill.
 authors:
 - honeydew-ai
 is_official: true
-tags: []
-category: none
+tags:
+- semantic-layer
+- data-analysis
+- natural-language-query
+- honeydew
+- business-intelligence
+- structured-query
+category: data-ai
 source:
   path: /skills/query
   repo: honeydew-ai/honeydew-ai-coding-agents-plugins

@@ -1,5 +1,5 @@
 id: coreyhaines31-marketingskills-co-marketing
-display_name: Co Marketing
+display_name: Co-Marketing
 description: When the user wants to find co-marketing partners, plan joint campaigns, or brainstorm partnership opportunities.
   Use when the user says 'co-marketing,' 'partner marketing,' 'joint campaign,' 'who should we partner with,' 'integration
   marketing,' 'cross-promotion,' 'collaborate with another company,' 'partnership ideas,' or 'co-brand.' For customer referral
@@ -7,8 +7,15 @@ description: When the user wants to find co-marketing partners, plan joint campa
 authors:
 - coreyhaines31
 is_official: false
-tags: []
-category: none
+tags:
+- co-marketing
+- partnership
+- joint-campaign
+- cross-promotion
+- co-branding
+- partner-strategy
+- integration-marketing
+category: marketing
 source:
   path: /skills/co-marketing
   repo: coreyhaines31/marketingskills

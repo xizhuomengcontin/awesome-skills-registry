@@ -1,5 +1,5 @@
 id: mcollina-skills-init
-display_name: Init
+display_name: Initialize Agent Config
 description: Creates, updates, or optimizes an AGENTS.md file for a repository with minimal, high-signal instructions covering
   non-discoverable coding conventions, tooling quirks, workflow preferences, and project-specific rules that agents cannot
   infer from reading the codebase. Use when setting up agent instructions or Claude configuration for a new repository, when
@@ -10,8 +10,15 @@ description: Creates, updates, or optimizes an AGENTS.md file for a repository w
 authors:
 - mcollina
 is_official: false
-tags: []
-category: none
+tags:
+- agent-configuration
+- agents-md
+- repository-setup
+- coding-conventions
+- ai-workflow
+- onboarding
+- documentation
+category: coding
 source:
   path: /skills/init
   repo: mcollina/skills

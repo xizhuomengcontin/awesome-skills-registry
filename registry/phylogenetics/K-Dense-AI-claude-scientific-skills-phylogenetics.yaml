@@ -6,8 +6,16 @@ description: Build and analyze phylogenetic trees using MAFFT (multiple alignmen
 authors:
 - K-Dense-AI
 is_official: false
-tags: []
-category: none
+tags:
+- phylogenetics
+- phylogenetic-trees
+- mafft
+- iq-tree
+- bioinformatics
+- molecular-evolution
+- genomics
+- viral-phylodynamics
+category: science
 source:
   path: /skills/phylogenetics
   repo: K-Dense-AI/claude-scientific-skills

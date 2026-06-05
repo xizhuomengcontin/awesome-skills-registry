@@ -1,5 +1,5 @@
 id: coreyhaines31-marketingskills-analytics
-display_name: Analytics
+display_name: Analytics & Tracking
 description: When the user wants to set up, improve, or audit analytics tracking and measurement. Also use when the user mentions
   "set up tracking," "GA4," "Google Analytics," "conversion tracking," "event tracking," "UTM parameters," "tag manager,"
   "GTM," "analytics implementation," "tracking plan," "how do I measure this," "track conversions," "attribution," "Mixpanel,"
@@ -8,8 +8,16 @@ description: When the user wants to set up, improve, or audit analytics tracking
 authors:
 - coreyhaines31
 is_official: false
-tags: []
-category: none
+tags:
+- analytics
+- ga4
+- google-analytics
+- event-tracking
+- utm-parameters
+- gtm
+- conversion-tracking
+- attribution
+category: marketing
 source:
   path: /skills/analytics
   repo: coreyhaines31/marketingskills

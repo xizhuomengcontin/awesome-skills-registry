@@ -1,5 +1,5 @@
 id: ethos-link-rails-conventions-root
-display_name: Root
+display_name: Rails 8 Conventions
 description: Rails 8.x application architecture, implementation, and review guidance for production codebases. Use when building
   or reviewing Ruby on Rails 8 features across models, controllers, routes, Hotwire, jobs, APIs, performance, security, and
   testing. Trigger for requests mentioning Rails 8, Active Record, Active Job, GoodJob, Solid Queue, Turbo/Stimulus, REST
@@ -7,8 +7,16 @@ description: Rails 8.x application architecture, implementation, and review guid
 authors:
 - ethos-link
 is_official: false
-tags: []
-category: none
+tags:
+- ruby-on-rails
+- rails-8
+- hotwire
+- turbo
+- active-record
+- backend
+- web-framework
+- ruby
+category: coding
 source:
   path: /
   repo: ethos-link/rails-conventions

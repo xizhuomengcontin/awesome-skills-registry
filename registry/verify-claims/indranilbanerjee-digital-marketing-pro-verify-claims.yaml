@@ -1,12 +1,18 @@
 id: indranilbanerjee-digital-marketing-pro-verify-claims
-display_name: Verify Claims
+display_name: Verify Marketing Claims
 description: 'Verify marketing claims. Use when: cross-checking statistics, awards, certifications, or performance claims
   with sources.'
 authors:
 - indranilbanerjee
 is_official: false
-tags: []
-category: none
+tags:
+- fact-checking
+- claim-verification
+- marketing-compliance
+- statistics
+- certifications
+- source-validation
+category: marketing
 source:
   path: /skills/verify-claims
   repo: indranilbanerjee/digital-marketing-pro

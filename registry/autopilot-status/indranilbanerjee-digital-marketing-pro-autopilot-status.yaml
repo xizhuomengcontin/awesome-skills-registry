@@ -5,8 +5,14 @@ description: 'Check campaign autopilot status. Use when: health scores, auto-cor
 authors:
 - indranilbanerjee
 is_official: false
-tags: []
-category: none
+tags:
+- campaign-management
+- autopilot
+- health-score
+- guardrails
+- monitoring
+- digital-marketing
+category: marketing
 source:
   path: /skills/autopilot-status
   repo: indranilbanerjee/digital-marketing-pro

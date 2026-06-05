@@ -6,8 +6,15 @@ description: Systematically evaluate scholarly work using the ScholarEval framew
 authors:
 - K-Dense-AI
 is_official: false
-tags: []
-category: none
+tags:
+- peer-review
+- research-evaluation
+- academic-writing
+- scholarly-assessment
+- scoring-framework
+- methodology-review
+- feedback
+category: science
 source:
   path: /skills/scholar-evaluation
   repo: K-Dense-AI/claude-scientific-skills

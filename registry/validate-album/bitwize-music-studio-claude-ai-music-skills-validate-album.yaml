@@ -5,8 +5,14 @@ description: Validates album directory structure, file locations, and content in
 authors:
 - bitwize-music-studio
 is_official: false
-tags: []
-category: none
+tags:
+- music
+- album
+- validation
+- file-structure
+- quality-check
+- audio-release
+category: miscellaneous
 source:
   path: /skills/validate-album
   repo: bitwize-music-studio/claude-ai-music-skills

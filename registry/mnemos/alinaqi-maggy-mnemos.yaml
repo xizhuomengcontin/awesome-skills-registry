@@ -5,8 +5,16 @@ description: Task-scoped memory lifecycle — typed MnemoGraph prevents lossy co
 authors:
 - alinaqi
 is_official: false
-tags: []
-category: none
+tags:
+- memory-management
+- context-retention
+- knowledge-graph
+- task-scoped-memory
+- agent-memory
+- eviction-policy
+- decision-tracking
+- handoffs
+category: productivity
 source:
   path: /skills/mnemos
   repo: alinaqi/maggy

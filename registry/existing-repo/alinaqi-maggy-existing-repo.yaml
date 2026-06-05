@@ -1,11 +1,17 @@
 id: alinaqi-maggy-existing-repo
-display_name: Existing Repo
+display_name: Existing Repo Analyzer
 description: Analyze existing repositories, maintain structure, setup guardrails and best practices
 authors:
 - alinaqi
 is_official: false
-tags: []
-category: none
+tags:
+- repository-analysis
+- code-review
+- best-practices
+- guardrails
+- code-structure
+- repo-maintenance
+category: coding
 source:
   path: /skills/existing-repo
   repo: alinaqi/maggy

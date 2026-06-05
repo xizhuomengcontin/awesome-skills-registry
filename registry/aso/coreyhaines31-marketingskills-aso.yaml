@@ -1,5 +1,5 @@
 id: coreyhaines31-marketingskills-aso
-display_name: Aso
+display_name: App Store Optimization (ASO)
 description: When the user wants to audit or optimize an App Store or Google Play listing. Also use when the user mentions
   'ASO audit,' 'app store optimization,' 'optimize my app listing,' 'improve app visibility,' 'app store ranking,' 'audit
   my listing,' 'why aren't people downloading my app,' 'improve my app conversion,' 'keyword optimization for app,' or 'compare
@@ -7,8 +7,15 @@ description: When the user wants to audit or optimize an App Store or Google Pla
 authors:
 - coreyhaines31
 is_official: false
-tags: []
-category: none
+tags:
+- aso
+- app-store-optimization
+- google-play
+- keyword-optimization
+- app-listing
+- conversion-optimization
+- competitor-analysis
+category: marketing
 source:
   path: /skills/aso
   repo: coreyhaines31/marketingskills

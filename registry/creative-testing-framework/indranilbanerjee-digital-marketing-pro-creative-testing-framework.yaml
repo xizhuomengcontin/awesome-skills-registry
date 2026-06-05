@@ -6,8 +6,15 @@ description: Design structured ad creative tests with A/B test plans, multivaria
 authors:
 - indranilbanerjee
 is_official: false
-tags: []
-category: none
+tags:
+- a-b-testing
+- ad-creative
+- multivariate-testing
+- sample-size
+- creative-optimization
+- paid-advertising
+- testing-playbook
+category: marketing
 source:
   path: /skills/creative-testing-framework
   repo: indranilbanerjee/digital-marketing-pro

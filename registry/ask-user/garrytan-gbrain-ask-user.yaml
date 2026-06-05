@@ -6,8 +6,15 @@ description: Reusable pattern for presenting the user with explicit choices and 
 authors:
 - garrytan
 is_official: false
-tags: []
-category: none
+tags:
+- user-interaction
+- decision-gating
+- human-in-the-loop
+- telegram
+- discord
+- agent-workflow
+- interactive-prompt
+category: productivity
 source:
   path: /skills/ask-user
   repo: garrytan/gbrain

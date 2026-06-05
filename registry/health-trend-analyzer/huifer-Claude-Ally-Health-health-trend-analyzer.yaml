@@ -4,8 +4,16 @@ description: 分析一段时间内健康数据的趋势和模式。关联药物�
 authors:
 - huifer
 is_official: false
-tags: []
-category: none
+tags:
+- health-trends
+- data-visualization
+- symptom-tracking
+- lab-results
+- medication-adherence
+- echarts
+- correlation-analysis
+- health-monitoring
+category: health
 source:
   path: /skills/health-trend-analyzer
   repo: huifer/Claude-Ally-Health

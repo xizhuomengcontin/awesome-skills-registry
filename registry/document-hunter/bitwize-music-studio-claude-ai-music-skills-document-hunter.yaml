@@ -5,8 +5,15 @@ description: Searches and retrieves documents from free public sources using aut
 authors:
 - bitwize-music-studio
 is_official: false
-tags: []
-category: none
+tags:
+- document-retrieval
+- public-records
+- research
+- web-scraping
+- court-filings
+- government-reports
+- browser-automation
+category: productivity
 source:
   path: /skills/document-hunter
   repo: bitwize-music-studio/claude-ai-music-skills

@@ -9,8 +9,15 @@ description: Orchestrate multi-simulation campaigns — generate parameter sweep
 authors:
 - HeshamFS
 is_official: false
-tags: []
-category: none
+tags:
+- simulation
+- parameter-sweep
+- batch-jobs
+- latin-hypercube
+- campaign-management
+- materials-science
+- hpc
+category: science
 source:
   path: /skills/simulation-workflow/simulation-orchestrator
   repo: HeshamFS/materials-simulation-skills

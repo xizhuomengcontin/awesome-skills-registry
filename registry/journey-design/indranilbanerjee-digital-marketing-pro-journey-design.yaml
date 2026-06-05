@@ -4,8 +4,14 @@ description: 'Design cross-channel customer journeys. Use when: mapping touchpoi
 authors:
 - indranilbanerjee
 is_official: false
-tags: []
-category: none
+tags:
+- customer-journey
+- touchpoints
+- cross-channel
+- journey-mapping
+- marketing-automation
+- funnel-design
+category: marketing
 source:
   path: /skills/journey-design
   repo: indranilbanerjee/digital-marketing-pro

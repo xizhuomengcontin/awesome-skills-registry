@@ -1,5 +1,5 @@
 id: anthropics-skills-pptx
-display_name: Pptx
+display_name: PowerPoint (PPTX)
 description: 'Use this skill any time a .pptx file is involved in any way — as input, output, or both. This includes: creating
   slide decks, pitch decks, or presentations; reading, parsing, or extracting text from any .pptx file (even if the extracted
   content will be used elsewhere, like in an email or summary); editing, modifying, or updating existing presentations; combining
@@ -9,8 +9,15 @@ description: 'Use this skill any time a .pptx file is involved in any way — as
 authors:
 - anthropics
 is_official: true
-tags: []
-category: none
+tags:
+- powerpoint
+- pptx
+- presentations
+- slide-decks
+- pitch-decks
+- document-processing
+- office-documents
+category: productivity
 source:
   path: /skills/pptx
   repo: anthropics/skills

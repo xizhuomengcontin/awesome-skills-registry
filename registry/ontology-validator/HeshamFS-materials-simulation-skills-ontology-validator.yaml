@@ -9,8 +9,15 @@ description: Validate material sample annotations against ontology constraints â
 authors:
 - HeshamFS
 is_official: false
-tags: []
-category: none
+tags:
+- ontology
+- validation
+- materials-science
+- cmso
+- fair-data
+- annotation-quality
+- data-integrity
+category: science
 source:
   path: /skills/ontology/ontology-validator
   repo: HeshamFS/materials-simulation-skills

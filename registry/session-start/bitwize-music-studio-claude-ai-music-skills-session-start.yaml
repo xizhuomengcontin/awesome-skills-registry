@@ -5,8 +5,13 @@ description: Runs the session startup procedure - verifies setup, loads config a
 authors:
 - bitwize-music-studio
 is_official: false
-tags: []
-category: none
+tags:
+- session-startup
+- configuration
+- state-loading
+- project-status
+- music-studio
+category: productivity
 source:
   path: /skills/session-start
   repo: bitwize-music-studio/claude-ai-music-skills

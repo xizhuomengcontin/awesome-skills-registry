@@ -5,8 +5,15 @@ description: Review docs/prose for Writing Guidelines compliance. Use when asked
 authors:
 - vercel-labs
 is_official: true
-tags: []
-category: none
+tags:
+- writing
+- style-guide
+- documentation
+- voice-and-tone
+- prose-review
+- content-audit
+- technical-writing
+category: creative
 source:
   path: /skills/writing-guidelines
   repo: vercel-labs/agent-skills

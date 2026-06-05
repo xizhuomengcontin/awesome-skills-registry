@@ -1,11 +1,19 @@
 id: alinaqi-maggy-azure-cosmosdb
-display_name: Azure Cosmosdb
+display_name: Azure Cosmos DB
 description: Azure Cosmos DB partition keys, consistency levels, change feed, SDK patterns
 authors:
 - alinaqi
 is_official: false
-tags: []
-category: none
+tags:
+- azure
+- cosmosdb
+- nosql
+- database
+- sdk
+- partition-keys
+- consistency-levels
+- change-feed
+category: coding
 source:
   path: /skills/azure-cosmosdb
   repo: alinaqi/maggy

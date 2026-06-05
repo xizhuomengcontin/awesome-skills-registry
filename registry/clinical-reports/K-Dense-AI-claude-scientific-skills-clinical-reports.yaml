@@ -6,8 +6,16 @@ description: Write comprehensive clinical reports including case reports (CARE g
 authors:
 - K-Dense-AI
 is_official: false
-tags: []
-category: none
+tags:
+- clinical-reports
+- case-reports
+- radiology
+- clinical-trials
+- hipaa
+- ich-gcp
+- soap-notes
+- discharge-summary
+category: health
 source:
   path: /skills/clinical-reports
   repo: K-Dense-AI/claude-scientific-skills

@@ -6,8 +6,15 @@ description: Use when exploring Honeydew semantic layer, discovering entities/fi
 authors:
 - honeydew-ai
 is_official: true
-tags: []
-category: none
+tags:
+- semantic-layer
+- data-exploration
+- honeydew
+- workspace-setup
+- structured-queries
+- entity-discovery
+- data-modeling
+category: data-ai
 source:
   path: /skills/model-exploration
   repo: honeydew-ai/honeydew-ai-coding-agents-plugins

@@ -1,12 +1,19 @@
 id: indranilbanerjee-digital-marketing-pro-anomaly-scan
-display_name: Anomaly Scan
+display_name: Marketing Anomaly Scan
 description: 'Detect marketing anomalies. Use when: traffic drops, cost spikes, conversion changes, deliverability issues,
   budget overruns.'
 authors:
 - indranilbanerjee
 is_official: false
-tags: []
-category: none
+tags:
+- anomaly-detection
+- traffic-analysis
+- cost-monitoring
+- conversion-tracking
+- budget-alerts
+- deliverability
+- performance-monitoring
+category: marketing
 source:
   path: /skills/anomaly-scan
   repo: indranilbanerjee/digital-marketing-pro

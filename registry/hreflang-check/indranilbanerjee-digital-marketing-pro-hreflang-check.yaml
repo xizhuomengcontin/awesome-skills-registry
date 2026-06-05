@@ -4,8 +4,15 @@ description: 'Audit hreflang tags. Use when: checking missing tags, incorrect la
 authors:
 - indranilbanerjee
 is_official: false
-tags: []
-category: none
+tags:
+- hreflang
+- seo
+- international-seo
+- multilingual
+- tag-audit
+- x-default
+- technical-seo
+category: marketing
 source:
   path: /skills/hreflang-check
   repo: indranilbanerjee/digital-marketing-pro

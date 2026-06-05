@@ -1,12 +1,17 @@
 id: indranilbanerjee-digital-marketing-pro-narrative-landscape
-display_name: Narrative Landscape
+display_name: Narrative Landscape Mapper
 description: 'Map the competitive narrative landscape. Use when: analyzing positioning territories, gaps, competitor claims,
   differentiation.'
 authors:
 - indranilbanerjee
 is_official: false
-tags: []
-category: none
+tags:
+- competitive-analysis
+- brand-positioning
+- narrative-strategy
+- content-differentiation
+- market-research
+category: marketing
 source:
   path: /skills/narrative-landscape
   repo: indranilbanerjee/digital-marketing-pro

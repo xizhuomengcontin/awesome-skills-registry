@@ -1,5 +1,5 @@
 id: lawvable-awesome-legal-skills-gdpr-privacy-notice-eu-oliver-schmidt-prietz
-display_name: Gdpr Privacy Notice Eu Oliver Schmidt Prietz
+display_name: GDPR Privacy Notice EU
 description: 'Draft GDPR/DSGVO-compliant privacy notices as .docx for any EU/EEA jurisdiction and audience. Use when user
   asks to create a privacy policy/notice, mentions "Datenschutzerklärung", "politique de confidentialité", "privacy notice",
   needs Art. 13/14 disclosures, AI Act transparency, cookie policy, or notices for applicants ("Bewerber-Datenschutz"), employees
@@ -8,8 +8,16 @@ description: 'Draft GDPR/DSGVO-compliant privacy notices as .docx for any EU/EEA
 authors:
 - lawvable
 is_official: false
-tags: []
-category: none
+tags:
+- gdpr
+- privacy-notice
+- dsgvo
+- eu-compliance
+- data-protection
+- cookie-policy
+- docx-generation
+- privacy-policy
+category: legal
 source:
   path: /skills/gdpr-privacy-notice-eu-oliver-schmidt-prietz
   repo: lawvable/awesome-legal-skills

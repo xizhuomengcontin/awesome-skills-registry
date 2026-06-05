@@ -1,13 +1,20 @@
 id: dembrandt-dembrandt-skills-wcag-accessibility
-display_name: Wcag Accessibility
+display_name: WCAG Accessibility
 description: UI must comply with WCAG 2.2 Level AA, as required by the European Accessibility Act (EN 301 549). Do not deviate
   without deliberate justification. Disabled UI elements are explicitly exempt from colour contrast requirements. Use when
   designing, building, or reviewing any user-facing interface for accessibility compliance.
 authors:
 - dembrandt
 is_official: false
-tags: []
-category: none
+tags:
+- wcag
+- accessibility
+- wcag-2-2
+- european-accessibility-act
+- color-contrast
+- ui-compliance
+- a11y
+category: design
 source:
   path: /skills/wcag-accessibility
   repo: dembrandt/dembrandt-skills

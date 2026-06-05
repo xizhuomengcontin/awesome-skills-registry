@@ -9,8 +9,16 @@ description: Explore and optimize simulation parameters via design of experiment
 authors:
 - HeshamFS
 is_official: false
-tags: []
-category: none
+tags:
+- parameter-optimization
+- design-of-experiments
+- sensitivity-analysis
+- bayesian-optimization
+- surrogate-modeling
+- uncertainty-quantification
+- simulation
+- calibration
+category: science
 source:
   path: /skills/simulation-workflow/parameter-optimization
   repo: HeshamFS/materials-simulation-skills

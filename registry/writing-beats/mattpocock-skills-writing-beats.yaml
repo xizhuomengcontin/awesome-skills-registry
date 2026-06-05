@@ -6,8 +6,15 @@ description: Shape an article as a journey of beats, choose-your-own-adventure s
 authors:
 - mattpocock
 is_official: false
-tags: []
-category: none
+tags:
+- writing
+- storytelling
+- narrative
+- article-structure
+- beats
+- choose-your-own-adventure
+- content-creation
+category: creative
 source:
   path: /skills/in-progress/writing-beats
   repo: mattpocock/skills

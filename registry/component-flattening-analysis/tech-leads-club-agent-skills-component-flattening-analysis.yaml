@@ -7,8 +7,15 @@ description: Detects misplaced classes and fixes component hierarchy problems â€
 authors:
 - tech-leads-club
 is_official: false
-tags: []
-category: none
+tags:
+- refactoring
+- component-hierarchy
+- code-structure
+- orphaned-classes
+- namespace-cleanup
+- architecture
+- code-analysis
+category: coding
 source:
   path: /packages/skills-catalog/skills/(architecture)/component-flattening-analysis
   repo: tech-leads-club/agent-skills

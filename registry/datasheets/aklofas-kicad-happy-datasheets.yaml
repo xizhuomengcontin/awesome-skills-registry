@@ -10,8 +10,15 @@ description: Extract structured specifications from electronic component datashe
 authors:
 - aklofas
 is_official: false
-tags: []
-category: none
+tags:
+- datasheets
+- electronic-components
+- pcb
+- pinout
+- specifications
+- kicad
+- hardware-design
+category: science
 source:
   path: /skills/datasheets
   repo: aklofas/kicad-happy

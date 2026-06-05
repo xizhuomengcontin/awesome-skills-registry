@@ -4,8 +4,16 @@ description: 'Monitor brand AI visibility. Use when: tracking mentions in ChatGP
 authors:
 - indranilbanerjee
 is_official: false
-tags: []
-category: none
+tags:
+- brand-monitoring
+- ai-visibility
+- seo
+- chatgpt
+- perplexity
+- gemini
+- ai-overviews
+- brand-tracking
+category: marketing
 source:
   path: /skills/geo-monitor
   repo: indranilbanerjee/digital-marketing-pro

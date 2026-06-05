@@ -5,8 +5,15 @@ description: Create and manage generative game zones for Dorothy's Pokemon-style
 authors:
 - Charlie85270
 is_official: false
-tags: []
-category: none
+tags:
+- game-design
+- world-building
+- procedural-generation
+- pokemon-style
+- mcp
+- game-zones
+- generative-content
+category: creative
 source:
   path: /skills/world-builder
   repo: Charlie85270/Dorothy

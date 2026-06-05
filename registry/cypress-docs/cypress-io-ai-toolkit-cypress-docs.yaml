@@ -5,8 +5,14 @@ description: Search and extract Cypress information from official documentation 
 authors:
 - cypress-io
 is_official: true
-tags: []
-category: none
+tags:
+- cypress
+- documentation
+- e2e-testing
+- reference
+- api-lookup
+- official-docs
+category: coding
 source:
   path: /skills/cypress-docs
   repo: cypress-io/ai-toolkit

@@ -7,8 +7,15 @@ description: When the user wants to implement, optimize, or use App Clips for ap
 authors:
 - Eronred
 is_official: false
-tags: []
-category: none
+tags:
+- app-clips
+- ios
+- app-discovery
+- instant-experience
+- app-store
+- conversion-optimization
+- mobile
+category: marketing
 source:
   path: /skills/app-clips
   repo: Eronred/aso-skills

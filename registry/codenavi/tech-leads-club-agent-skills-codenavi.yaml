@@ -9,8 +9,15 @@ description: Your pathfinder for navigating unknown codebases. Investigates with
 authors:
 - tech-leads-club
 is_official: false
-tags: []
-category: none
+tags:
+- codebase-navigation
+- bug-fixing
+- refactoring
+- feature-implementation
+- knowledge-base
+- code-investigation
+- unfamiliar-codebase
+category: coding
 source:
   path: /packages/skills-catalog/skills/(development)/codenavi
   repo: tech-leads-club/agent-skills

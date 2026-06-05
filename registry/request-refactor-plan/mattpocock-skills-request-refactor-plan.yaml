@@ -5,8 +5,15 @@ description: Create a detailed refactor plan with tiny commits via user intervie
 authors:
 - mattpocock
 is_official: false
-tags: []
-category: none
+tags:
+- refactoring
+- code-review
+- github-issues
+- incremental-commits
+- rfc
+- planning
+- software-architecture
+category: coding
 source:
   path: /skills/deprecated/request-refactor-plan
   repo: mattpocock/skills

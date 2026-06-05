@@ -1,5 +1,5 @@
 id: mattpocock-skills-review
-display_name: Review
+display_name: Code Review
 description: Review the changes since a fixed point (commit, branch, tag, or merge-base) along two axes — Standards (does
   the code follow this repo's documented coding standards?) and Spec (does the code match what the originating issue/PRD asked
   for?). Runs both reviews in parallel sub-agents and reports them side by side. Use when the user wants to review a branch,
@@ -7,8 +7,15 @@ description: Review the changes since a fixed point (commit, branch, tag, or mer
 authors:
 - mattpocock
 is_official: false
-tags: []
-category: none
+tags:
+- code-review
+- pull-request
+- branch-comparison
+- coding-standards
+- spec-compliance
+- pr-review
+- parallel-agents
+category: coding
 source:
   path: /skills/in-progress/review
   repo: mattpocock/skills

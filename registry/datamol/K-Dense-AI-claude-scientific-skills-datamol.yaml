@@ -6,8 +6,15 @@ description: Pythonic wrapper around RDKit with simplified interface and sensibl
 authors:
 - K-Dense-AI
 is_official: false
-tags: []
-category: none
+tags:
+- cheminformatics
+- rdkit
+- drug-discovery
+- smiles
+- molecular-descriptors
+- fingerprints
+- python
+category: science
 source:
   path: /skills/datamol
   repo: K-Dense-AI/claude-scientific-skills

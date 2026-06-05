@@ -5,8 +5,15 @@ description: Run a customer journey mapping workshop with adaptive questions and
 authors:
 - deanpeters
 is_official: false
-tags: []
-category: none
+tags:
+- customer-journey
+- workshop
+- ux-research
+- persona
+- pain-points
+- product-management
+- facilitation
+category: business
 source:
   path: /skills/customer-journey-mapping-workshop
   repo: deanpeters/Product-Manager-Skills

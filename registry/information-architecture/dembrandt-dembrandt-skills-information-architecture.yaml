@@ -7,8 +7,15 @@ description: In large applications, information architecture determines whether 
 authors:
 - dembrandt
 is_official: false
-tags: []
-category: none
+tags:
+- information-architecture
+- ux-design
+- navigation
+- data-modeling
+- ui-structure
+- entity-naming
+- feature-design
+category: design
 source:
   path: /skills/information-architecture
   repo: dembrandt/dembrandt-skills

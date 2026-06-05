@@ -1,11 +1,19 @@
 id: alinaqi-maggy-ai-models
-display_name: Ai Models
+display_name: AI Models Reference
 description: Latest AI models reference - Claude, OpenAI, Gemini, Eleven Labs, Replicate
 authors:
 - alinaqi
 is_official: false
-tags: []
-category: none
+tags:
+- ai-models
+- claude
+- openai
+- gemini
+- eleven-labs
+- replicate
+- model-reference
+- llm
+category: data-ai
 source:
   path: /skills/ai-models
   repo: alinaqi/maggy

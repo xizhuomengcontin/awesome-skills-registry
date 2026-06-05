@@ -7,8 +7,16 @@ description: Apply modern web development best practices for security, compatibi
 authors:
 - tech-leads-club
 is_official: false
-tags: []
-category: none
+tags:
+- web-development
+- security
+- code-quality
+- code-review
+- vulnerability-scanning
+- modernization
+- best-practices
+- compatibility
+category: coding
 source:
   path: /packages/skills-catalog/skills/(quality)/web-best-practices
   repo: tech-leads-club/agent-skills

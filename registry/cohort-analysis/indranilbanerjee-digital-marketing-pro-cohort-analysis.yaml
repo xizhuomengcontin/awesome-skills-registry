@@ -4,8 +4,15 @@ description: 'Analyze customer cohorts. Use when: acquisition cohorts, retention
 authors:
 - indranilbanerjee
 is_official: false
-tags: []
-category: none
+tags:
+- cohort-analysis
+- retention
+- ltv
+- customer-segmentation
+- behavioral-analysis
+- acquisition
+- marketing-analytics
+category: data-ai
 source:
   path: /skills/cohort-analysis
   repo: indranilbanerjee/digital-marketing-pro

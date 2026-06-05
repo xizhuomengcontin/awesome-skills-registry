@@ -8,8 +8,16 @@ description: Send and receive transactional emails with Cloudflare Email Service
 authors:
 - cloudflare
 is_official: true
-tags: []
-category: none
+tags:
+- cloudflare
+- email
+- transactional-email
+- email-routing
+- spf-dkim-dmarc
+- workers
+- deliverability
+- api-integration
+category: coding
 source:
   path: /skills/cloudflare-email-service
   repo: cloudflare/skills

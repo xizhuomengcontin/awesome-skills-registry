@@ -4,8 +4,14 @@ description: 'Optimize budget allocation. Use when: channel spend reallocation, 
 authors:
 - indranilbanerjee
 is_official: false
-tags: []
-category: none
+tags:
+- budget-allocation
+- channel-spend
+- roi-optimization
+- data-driven-planning
+- paid-media
+- spend-reallocation
+category: marketing
 source:
   path: /skills/budget-optimizer
   repo: indranilbanerjee/digital-marketing-pro

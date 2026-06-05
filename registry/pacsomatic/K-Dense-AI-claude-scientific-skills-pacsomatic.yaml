@@ -7,8 +7,16 @@ description: Operator toolkit for nf-core/pacsomatic matched tumor-normal workfl
 authors:
 - K-Dense-AI
 is_official: false
-tags: []
-category: none
+tags:
+- bioinformatics
+- nf-core
+- nextflow
+- tumor-normal
+- pipeline
+- slurm
+- lsf
+- workflow-automation
+category: science
 source:
   path: /skills/pacsomatic
   repo: K-Dense-AI/claude-scientific-skills

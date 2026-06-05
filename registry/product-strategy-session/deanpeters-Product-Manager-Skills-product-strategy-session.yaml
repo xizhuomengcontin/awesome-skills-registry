@@ -5,8 +5,15 @@ description: Run an end-to-end product strategy session across positioning, disc
 authors:
 - deanpeters
 is_official: false
-tags: []
-category: none
+tags:
+- product-strategy
+- roadmap
+- positioning
+- discovery
+- product-management
+- workshop
+- planning
+category: business
 source:
   path: /skills/product-strategy-session
   repo: deanpeters/Product-Manager-Skills

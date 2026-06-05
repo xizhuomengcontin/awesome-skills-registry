@@ -1,5 +1,5 @@
 id: K-Dense-AI-claude-scientific-skills-adaptyv
-display_name: Adaptyv
+display_name: Adaptyv Bio Foundry
 description: How to use the Adaptyv Bio Foundry API and Python SDK for protein experiment design, submission, and results
   retrieval. Use this skill whenever the user mentions Adaptyv, Foundry API, protein binding assays, protein screening experiments,
   BLI/SPR assays, thermostability assays, or wants to submit protein sequences for experimental characterization. Also trigger
@@ -7,8 +7,16 @@ description: How to use the Adaptyv Bio Foundry API and Python SDK for protein e
 authors:
 - K-Dense-AI
 is_official: false
-tags: []
-category: none
+tags:
+- protein-design
+- biotech
+- api-sdk
+- protein-screening
+- bli-spr
+- thermostability
+- foundry-api
+- experimental-characterization
+category: science
 source:
   path: /skills/adaptyv
   repo: K-Dense-AI/claude-scientific-skills

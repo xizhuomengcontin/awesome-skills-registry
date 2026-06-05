@@ -5,8 +5,15 @@ description: Evaluate an AI product idea across outcomes, hypotheses, risks, and
 authors:
 - deanpeters
 is_official: false
-tags: []
-category: none
+tags:
+- product-management
+- ai-products
+- investment-decision
+- risk-assessment
+- hypothesis-testing
+- product-strategy
+- evaluation-framework
+category: business
 source:
   path: /skills/recommendation-canvas
   repo: deanpeters/Product-Manager-Skills

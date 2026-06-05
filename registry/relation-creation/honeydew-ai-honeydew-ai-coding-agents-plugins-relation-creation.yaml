@@ -5,8 +5,15 @@ description: Guides you through defining a relationship between two Honeydew ent
 authors:
 - honeydew-ai
 is_official: true
-tags: []
-category: none
+tags:
+- honeydew
+- data-modeling
+- entity-relationships
+- yaml
+- joins
+- semantic-layer
+- cross-filtering
+category: data-ai
 source:
   path: /skills/relation-creation
   repo: honeydew-ai/honeydew-ai-coding-agents-plugins

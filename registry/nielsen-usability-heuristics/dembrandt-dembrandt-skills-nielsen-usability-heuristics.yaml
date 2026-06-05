@@ -6,8 +6,15 @@ description: UI design and review should apply Nielsen's 10 Usability Heuristics
 authors:
 - dembrandt
 is_official: false
-tags: []
-category: none
+tags:
+- ux-design
+- usability
+- ui-review
+- heuristic-evaluation
+- interaction-design
+- accessibility
+- error-handling
+category: design
 source:
   path: /skills/nielsen-usability-heuristics
   repo: dembrandt/dembrandt-skills

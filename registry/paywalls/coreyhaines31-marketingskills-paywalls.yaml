@@ -9,8 +9,16 @@ description: When the user wants to create or optimize in-app paywalls, upgrade 
 authors:
 - coreyhaines31
 is_official: false
-tags: []
-category: none
+tags:
+- paywall
+- in-app-upgrade
+- freemium-conversion
+- upsell
+- feature-gate
+- trial-expiration
+- saas-monetization
+- upgrade-flow
+category: marketing
 source:
   path: /skills/paywalls
   repo: coreyhaines31/marketingskills

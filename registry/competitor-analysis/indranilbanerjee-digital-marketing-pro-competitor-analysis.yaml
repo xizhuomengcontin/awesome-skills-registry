@@ -4,8 +4,15 @@ description: 'Run competitive analysis. Use when: content, SEO, paid ads, social
 authors:
 - indranilbanerjee
 is_official: false
-tags: []
-category: none
+tags:
+- competitor-analysis
+- seo
+- paid-ads
+- content-strategy
+- social-media
+- pricing-intelligence
+- competitive-research
+category: marketing
 source:
   path: /skills/competitor-analysis
   repo: indranilbanerjee/digital-marketing-pro

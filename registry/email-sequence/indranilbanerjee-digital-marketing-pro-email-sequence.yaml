@@ -1,12 +1,19 @@
 id: indranilbanerjee-digital-marketing-pro-email-sequence
-display_name: Email Sequence
+display_name: Email Sequence Design
 description: 'Design email sequences. Use when: building subject lines, body copy, timing, segmentation logic, and deliverability
   plans.'
 authors:
 - indranilbanerjee
 is_official: false
-tags: []
-category: none
+tags:
+- email-sequence
+- subject-lines
+- email-copywriting
+- segmentation
+- deliverability
+- drip-campaign
+- email-automation
+category: marketing
 source:
   path: /skills/email-sequence
   repo: indranilbanerjee/digital-marketing-pro

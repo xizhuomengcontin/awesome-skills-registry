@@ -6,8 +6,16 @@ description: Find deepening opportunities in a codebase, informed by the domain 
 authors:
 - mattpocock
 is_official: false
-tags: []
-category: none
+tags:
+- architecture
+- refactoring
+- code-quality
+- modularity
+- testability
+- adr
+- codebase-analysis
+- technical-debt
+category: coding
 source:
   path: /skills/engineering/improve-codebase-architecture
   repo: mattpocock/skills

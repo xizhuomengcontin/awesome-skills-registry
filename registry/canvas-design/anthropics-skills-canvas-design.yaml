@@ -6,8 +6,15 @@ description: Create beautiful visual art in .png and .pdf documents using design
 authors:
 - anthropics
 is_official: true
-tags: []
-category: none
+tags:
+- visual-design
+- poster-design
+- generative-art
+- png
+- pdf
+- graphic-design
+- original-artwork
+category: design
 source:
   path: /skills/canvas-design
   repo: anthropics/skills

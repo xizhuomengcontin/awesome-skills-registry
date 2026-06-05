@@ -1,12 +1,18 @@
 id: garrytan-gbrain-maintain
-display_name: Maintain
+display_name: Brain Maintenance
 description: 'Brain health checks: back-link enforcement, citation audit, filing validation, stale info detection, orphan
   pages, and benchmarks. Use when asked to check brain health, run maintenance, or audit quality.'
 authors:
 - garrytan
 is_official: false
-tags: []
-category: none
+tags:
+- knowledge-management
+- brain-health
+- backlinks
+- citation-audit
+- orphan-pages
+- quality-control
+category: productivity
 source:
   path: /skills/maintain
   repo: garrytan/gbrain

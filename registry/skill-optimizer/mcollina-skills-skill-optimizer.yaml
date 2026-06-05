@@ -7,8 +7,15 @@ description: 'Optimizes AI skills for activation, clarity, and cross-model relia
 authors:
 - mcollina
 is_official: false
-tags: []
-category: none
+tags:
+- skill-optimization
+- prompt-engineering
+- ai-agents
+- benchmarking
+- activation
+- context-budget
+- regression-testing
+category: productivity
 source:
   path: /skills/skill-optimizer
   repo: mcollina/skills

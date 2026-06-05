@@ -1,12 +1,19 @@
 id: indranilbanerjee-digital-marketing-pro-check
-display_name: Check
+display_name: Marketing Content Quality Gate
 description: Run the unified pre-publish quality gate on marketing content — hallucination detection, claim verification,
   brand voice scoring, structure validation. Use before publishing any marketing copy.
 authors:
 - indranilbanerjee
 is_official: false
-tags: []
-category: none
+tags:
+- quality-assurance
+- content-validation
+- hallucination-detection
+- brand-voice
+- pre-publish
+- marketing-copy
+- claim-verification
+category: marketing
 source:
   path: /skills/check
   repo: indranilbanerjee/digital-marketing-pro

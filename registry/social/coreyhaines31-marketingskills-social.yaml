@@ -1,5 +1,5 @@
 id: coreyhaines31-marketingskills-social
-display_name: Social
+display_name: Social Media Content
 description: When the user wants help creating, scheduling, or optimizing social media content for LinkedIn, Twitter/X, Instagram,
   TikTok, Facebook, or other platforms. Also use when the user mentions 'LinkedIn post,' 'Twitter thread,' 'social media,'
   'content calendar,' 'social scheduling,' 'engagement,' 'viral content,' 'what should I post,' 'repurpose this content,'
@@ -10,8 +10,16 @@ description: When the user wants help creating, scheduling, or optimizing social
 authors:
 - coreyhaines31
 is_official: false
-tags: []
-category: none
+tags:
+- social-media
+- content-creation
+- linkedin
+- twitter
+- tiktok
+- instagram
+- short-form-video
+- content-calendar
+category: marketing
 source:
   path: /skills/social
   repo: coreyhaines31/marketingskills

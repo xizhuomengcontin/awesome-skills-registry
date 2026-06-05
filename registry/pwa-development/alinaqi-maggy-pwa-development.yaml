@@ -1,11 +1,18 @@
 id: alinaqi-maggy-pwa-development
-display_name: Pwa Development
+display_name: PWA Development
 description: Progressive Web Apps - service workers, caching strategies, offline, Workbox
 authors:
 - alinaqi
 is_official: false
-tags: []
-category: none
+tags:
+- progressive-web-app
+- service-workers
+- offline-first
+- caching
+- workbox
+- web-development
+- mobile-web
+category: coding
 source:
   path: /skills/pwa-development
   repo: alinaqi/maggy

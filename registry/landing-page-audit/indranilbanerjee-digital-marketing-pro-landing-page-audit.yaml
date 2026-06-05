@@ -5,8 +5,15 @@ description: 'Audit landing pages. Use when: scoring above-fold clarity, trust s
 authors:
 - indranilbanerjee
 is_official: false
-tags: []
-category: none
+tags:
+- landing-page
+- cro
+- ux-audit
+- conversion-optimization
+- mobile-ux
+- trust-signals
+- message-match
+category: marketing
 source:
   path: /skills/landing-page-audit
   repo: indranilbanerjee/digital-marketing-pro

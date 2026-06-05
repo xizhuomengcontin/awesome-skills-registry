@@ -1,13 +1,20 @@
 id: Leonxlnx-taste-skill-stitch-skill
-display_name: Stitch Skill
+display_name: Stitch Design System
 description: Semantic Design System Skill for Google Stitch. Generates agent-friendly DESIGN.md files that enforce premium,
   anti-generic UI standards — strict typography, calibrated color, asymmetric layouts, perpetual micro-motion, and hardware-accelerated
   performance.
 authors:
 - Leonxlnx
 is_official: false
-tags: []
-category: none
+tags:
+- design-system
+- google-stitch
+- typography
+- ui-standards
+- micro-animation
+- color-system
+- component-design
+category: design
 source:
   path: /skills/stitch-skill
   repo: Leonxlnx/taste-skill

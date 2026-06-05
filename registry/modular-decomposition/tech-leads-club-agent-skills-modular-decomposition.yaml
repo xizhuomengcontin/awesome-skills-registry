@@ -10,8 +10,15 @@ description: Runs a sequenced monolith-to-modular pipeline that sizes and invent
 authors:
 - tech-leads-club
 is_official: false
-tags: []
-category: none
+tags:
+- monolith-to-modular
+- software-architecture
+- domain-driven-design
+- coupling-analysis
+- component-sizing
+- bounded-contexts
+- code-splitting
+category: coding
 source:
   path: /packages/skills-catalog/skills/(architecture)/modular-decomposition
   repo: tech-leads-club/agent-skills

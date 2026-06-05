@@ -5,8 +5,16 @@ description: Ingest video, audio, PDF, book, screenshot, and GitHub repo content
 authors:
 - garrytan
 is_official: false
-tags: []
-category: none
+tags:
+- media-ingestion
+- video-ingest
+- pdf-processing
+- entity-extraction
+- knowledge-graph
+- content-indexing
+- github-ingest
+- audio-ingest
+category: productivity
 source:
   path: /skills/media-ingest
   repo: garrytan/gbrain

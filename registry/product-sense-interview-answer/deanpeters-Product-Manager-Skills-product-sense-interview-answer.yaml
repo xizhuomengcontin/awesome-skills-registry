@@ -5,8 +5,15 @@ description: Structure a spoken PM product-sense answer with assumptions, segmen
 authors:
 - deanpeters
 is_official: false
-tags: []
-category: none
+tags:
+- product-management
+- interview-prep
+- product-sense
+- pm-interview
+- mvp
+- framework
+- career-coaching
+category: productivity
 source:
   path: /skills/product-sense-interview-answer
   repo: deanpeters/Product-Manager-Skills

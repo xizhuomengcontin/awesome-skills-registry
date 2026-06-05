@@ -9,8 +9,15 @@ description: When the user wants to plan a content strategy, decide what content
 authors:
 - coreyhaines31
 is_official: false
-tags: []
-category: none
+tags:
+- content-strategy
+- editorial-calendar
+- topic-clusters
+- content-planning
+- blog-strategy
+- content-roadmap
+- content-ideation
+category: marketing
 source:
   path: /skills/content-strategy
   repo: coreyhaines31/marketingskills

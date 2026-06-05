@@ -5,8 +5,14 @@ description: Guides you step-by-step through defining a calculated attribute (di
 authors:
 - honeydew-ai
 is_official: true
-tags: []
-category: none
+tags:
+- honeydew
+- sql
+- calculated-attribute
+- data-modeling
+- dimension
+- mcp
+category: data-ai
 source:
   path: /skills/attribute-creation
   repo: honeydew-ai/honeydew-ai-coding-agents-plugins

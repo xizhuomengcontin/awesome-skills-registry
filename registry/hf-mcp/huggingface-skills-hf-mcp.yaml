@@ -1,12 +1,20 @@
 id: huggingface-skills-hf-mcp
-display_name: Hf Mcp
+display_name: Hugging Face MCP
 description: Use Hugging Face Hub via MCP server tools. Search models, datasets, Spaces, papers. Get repo details, fetch documentation,
   run compute jobs, and use Gradio Spaces as AI tools. Available when connected to the HF MCP server.
 authors:
 - huggingface
 is_official: true
-tags: []
-category: none
+tags:
+- hugging-face
+- mcp
+- model-search
+- gradio
+- spaces
+- dataset-discovery
+- inference
+- ai-tools
+category: data-ai
 source:
   path: /hf-mcp/skills/hf-mcp
   repo: huggingface/skills

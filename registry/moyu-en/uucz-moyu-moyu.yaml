@@ -12,8 +12,14 @@ description: 'Automatically activates when over-engineering patterns are detecte
 authors:
 - uucz
 is_official: false
-tags: []
-category: none
+tags:
+- anti-over-engineering
+- code-review
+- minimal-edits
+- scope-control
+- coding-discipline
+- multilingual
+category: coding
 source:
   path: /skills/moyu
   repo: uucz/moyu

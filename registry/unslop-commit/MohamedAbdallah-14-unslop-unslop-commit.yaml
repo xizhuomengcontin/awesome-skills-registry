@@ -8,8 +8,15 @@ description: Rewrites commit messages so they sound like a careful human enginee
 authors:
 - MohamedAbdallah-14
 is_official: false
-tags: []
-category: none
+tags:
+- git
+- commit-messages
+- conventional-commits
+- text-editing
+- humanize-text
+- version-control
+- code-review
+category: coding
 source:
   path: /skills/unslop-commit
   repo: MohamedAbdallah-14/unslop

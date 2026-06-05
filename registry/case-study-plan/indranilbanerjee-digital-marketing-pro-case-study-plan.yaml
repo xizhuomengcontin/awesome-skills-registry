@@ -5,8 +5,15 @@ description: 'Create case studies and success stories. Use when: client results 
 authors:
 - indranilbanerjee
 is_official: false
-tags: []
-category: none
+tags:
+- case-study
+- content-marketing
+- social-proof
+- testimonials
+- portfolio
+- client-results
+- storytelling
+category: marketing
 source:
   path: /skills/case-study-plan
   repo: indranilbanerjee/digital-marketing-pro

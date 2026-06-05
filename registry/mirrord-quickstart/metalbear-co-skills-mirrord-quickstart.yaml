@@ -5,8 +5,16 @@ description: Guide users from zero to their first working mirrord session. Use w
 authors:
 - metalbear-co
 is_official: true
-tags: []
-category: none
+tags:
+- mirrord
+- kubernetes
+- quickstart
+- local-development
+- onboarding
+- devops
+- installation
+- getting-started
+category: coding
 source:
   path: /skills/mirrord-quickstart
   repo: metalbear-co/skills

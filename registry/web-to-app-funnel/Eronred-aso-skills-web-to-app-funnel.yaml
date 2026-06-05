@@ -1,5 +1,5 @@
 id: Eronred-aso-skills-web-to-app-funnel
-display_name: Web To App Funnel
+display_name: Web-to-App Funnel
 description: When the user wants to design or optimize the funnel that takes web visitors into installing and onboarding the
   app — including smart app banners, web-to-app deep links, deferred deep links, web onboarding (Stripe-paid web flow before
   app install), QR codes, "open in app" CTAs, and the trade-off between paying on web vs in-app. Use when the user mentions
@@ -10,8 +10,16 @@ description: When the user wants to design or optimize the funnel that takes web
 authors:
 - Eronred
 is_official: false
-tags: []
-category: none
+tags:
+- web-to-app
+- deep-linking
+- smart-app-banner
+- deferred-deep-link
+- app-onboarding
+- stripe-web-paywall
+- universal-links
+- qr-code
+category: marketing
 source:
   path: /skills/web-to-app-funnel
   repo: Eronred/aso-skills

@@ -6,8 +6,15 @@ description: Generate marketing intelligence briefings from compound intelligenc
 authors:
 - indranilbanerjee
 is_official: false
-tags: []
-category: none
+tags:
+- marketing-intelligence
+- reporting
+- cross-agent
+- playbooks
+- quarterly-planning
+- knowledge-gaps
+- briefing
+category: marketing
 source:
   path: /skills/intelligence-report
   repo: indranilbanerjee/digital-marketing-pro

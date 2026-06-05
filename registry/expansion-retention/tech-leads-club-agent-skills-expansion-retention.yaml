@@ -1,5 +1,5 @@
 id: tech-leads-club-agent-skills-expansion-retention
-display_name: Expansion Retention
+display_name: Expansion & Retention
 description: When the user wants to reduce churn, build expansion revenue, automate customer success, or optimize net revenue
   retention. Also use when the user mentions 'churn,' 'retention,' 'expansion revenue,' 'upsell,' 'NRR,' 'net revenue retention,'
   'customer success,' 'land and expand,' 'closed-lost,' or 'renewal.' This skill covers expansion and retention systems from
@@ -7,8 +7,16 @@ description: When the user wants to reduce churn, build expansion revenue, autom
 authors:
 - tech-leads-club
 is_official: false
-tags: []
-category: none
+tags:
+- churn-reduction
+- retention
+- expansion-revenue
+- upsell
+- nrr
+- customer-success
+- saas
+- revenue-growth
+category: business
 source:
   path: /packages/skills-catalog/skills/(gtm)/expansion-retention
   repo: tech-leads-club/agent-skills

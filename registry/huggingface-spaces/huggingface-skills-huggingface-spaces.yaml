@@ -1,5 +1,5 @@
 id: huggingface-skills-huggingface-spaces
-display_name: Huggingface Spaces
+display_name: HuggingFace Spaces
 description: Build, deploy, and maintain applications on Hugging Face Spaces — Gradio / Docker / Static SDKs, ZeroGPU and
   dedicated hardware, model loading, debugging, buckets, inference providers, community grants. Use whenever the user asks
   to create or host an app on Hugging Face, port code onto ZeroGPU, fix a Space that won't build or run, or otherwise work
@@ -7,8 +7,15 @@ description: Build, deploy, and maintain applications on Hugging Face Spaces —
 authors:
 - huggingface
 is_official: true
-tags: []
-category: none
+tags:
+- huggingface-spaces
+- gradio
+- zerogpu
+- deployment
+- app-hosting
+- docker
+- gpu-compute
+category: coding
 source:
   path: /skills/huggingface-spaces
   repo: huggingface/skills

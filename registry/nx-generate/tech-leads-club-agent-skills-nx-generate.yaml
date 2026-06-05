@@ -8,8 +8,15 @@ description: Generate code using Nx generators — scaffold projects, libraries,
 authors:
 - tech-leads-club
 is_official: false
-tags: []
-category: none
+tags:
+- nx
+- code-generation
+- scaffolding
+- monorepo
+- generators
+- libraries
+- components
+category: coding
 source:
   path: /packages/skills-catalog/skills/(tooling)/nx-generate
   repo: tech-leads-club/agent-skills

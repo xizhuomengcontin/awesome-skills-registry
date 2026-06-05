@@ -6,8 +6,16 @@ description: Generate or edit images using AI models (FLUX, Nano Banana 2). Use 
 authors:
 - K-Dense-AI
 is_official: false
-tags: []
-category: none
+tags:
+- image-generation
+- ai-art
+- flux
+- photo-editing
+- illustrations
+- concept-art
+- visual-assets
+- generative-ai
+category: creative
 source:
   path: /skills/generate-image
   repo: K-Dense-AI/claude-scientific-skills

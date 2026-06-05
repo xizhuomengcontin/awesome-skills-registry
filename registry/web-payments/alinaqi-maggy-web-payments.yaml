@@ -4,8 +4,15 @@ description: Stripe Checkout, subscriptions, webhooks, customer portal
 authors:
 - alinaqi
 is_official: false
-tags: []
-category: none
+tags:
+- stripe
+- checkout
+- subscriptions
+- webhooks
+- customer-portal
+- payments
+- billing
+category: business
 source:
   path: /skills/web-payments
   repo: alinaqi/maggy

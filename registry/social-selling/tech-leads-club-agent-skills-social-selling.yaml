@@ -8,8 +8,15 @@ description: When the user wants to sell through social media, optimize LinkedIn
 authors:
 - tech-leads-club
 is_official: false
-tags: []
-category: none
+tags:
+- social-selling
+- linkedin
+- sales-prospecting
+- dm-sequences
+- sales-navigator
+- pipeline-building
+- b2b-sales
+category: marketing
 source:
   path: /packages/skills-catalog/skills/(gtm)/social-selling
   repo: tech-leads-club/agent-skills

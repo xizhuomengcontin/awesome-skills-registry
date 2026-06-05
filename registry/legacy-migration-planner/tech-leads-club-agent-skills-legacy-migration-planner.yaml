@@ -7,8 +7,15 @@ description: Use when planning legacy system migrations, codebase modernization,
 authors:
 - tech-leads-club
 is_official: false
-tags: []
-category: none
+tags:
+- legacy-migration
+- codebase-modernization
+- monolith-decomposition
+- microservices
+- strangler-fig
+- refactoring
+- framework-upgrades
+category: coding
 source:
   path: /packages/skills-catalog/skills/(architecture)/legacy-migration-planner
   repo: tech-leads-club/agent-skills

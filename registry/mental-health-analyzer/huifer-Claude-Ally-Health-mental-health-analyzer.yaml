@@ -4,8 +4,15 @@ description: 分析心理健康数据、识别心理模式、评估心理健康�
 authors:
 - huifer
 is_official: false
-tags: []
-category: none
+tags:
+- mental-health
+- psychological-analysis
+- wellness-tracking
+- behavioral-patterns
+- sleep-analysis
+- personalized-recommendations
+- health-data-correlation
+category: health
 source:
   path: /skills/mental-health-analyzer
   repo: huifer/Claude-Ally-Health

@@ -5,8 +5,15 @@ description: Deduplicate and synthesize raw concept stubs into a tiered intellec
 authors:
 - garrytan
 is_official: false
-tags: []
-category: none
+tags:
+- knowledge-management
+- idea-synthesis
+- deduplication
+- intellectual-mapping
+- note-taking
+- concept-organization
+- research
+category: productivity
 source:
   path: /skills/concept-synthesis
   repo: garrytan/gbrain

@@ -1,12 +1,18 @@
 id: garrytan-gbrain-query
-display_name: Query
+display_name: Brain Query
 description: Answer questions using the brain's knowledge with 3-layer search, synthesis, and citation propagation. Use when
   the user asks a question, wants a lookup, or needs information from the brain.
 authors:
 - garrytan
 is_official: false
-tags: []
-category: none
+tags:
+- knowledge-retrieval
+- search
+- synthesis
+- citations
+- question-answering
+- knowledge-base
+category: productivity
 source:
   path: /skills/query
   repo: garrytan/gbrain

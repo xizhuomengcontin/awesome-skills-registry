@@ -4,8 +4,15 @@ description: TDD iteration loops using Claude Code Stop hooks - runs tests after
 authors:
 - alinaqi
 is_official: false
-tags: []
-category: none
+tags:
+- tdd
+- test-driven-development
+- iteration
+- automation
+- claude-code
+- testing
+- ci-loop
+category: coding
 source:
   path: /skills/iterative-development
   repo: alinaqi/maggy

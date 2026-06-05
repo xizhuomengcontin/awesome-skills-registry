@@ -10,8 +10,16 @@ description: Map materials science terms, crystal structures, and sample descrip
 authors:
 - HeshamFS
 is_official: false
-tags: []
-category: none
+tags:
+- ontology
+- materials-science
+- cmso
+- fair-metadata
+- crystal-structure
+- annotation
+- bravais-lattice
+- semantic-mapping
+category: science
 source:
   path: /skills/ontology/ontology-mapper
   repo: HeshamFS/materials-simulation-skills

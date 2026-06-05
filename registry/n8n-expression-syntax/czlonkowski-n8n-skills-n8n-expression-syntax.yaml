@@ -7,8 +7,15 @@ description: Validate n8n expression syntax and fix common errors. Use when writ
 authors:
 - czlonkowski
 is_official: false
-tags: []
-category: none
+tags:
+- n8n
+- expressions
+- syntax
+- workflow-automation
+- data-mapping
+- debugging
+- variable-references
+category: coding
 source:
   path: /skills/n8n-expression-syntax
   repo: czlonkowski/n8n-skills

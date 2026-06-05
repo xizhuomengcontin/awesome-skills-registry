@@ -1,5 +1,5 @@
 id: coreyhaines31-marketingskills-onboarding
-display_name: Onboarding
+display_name: User Onboarding
 description: When the user wants to optimize post-signup onboarding, user activation, first-run experience, or time-to-value.
   Also use when the user mentions "onboarding flow," "activation rate," "user activation," "first-run experience," "empty
   states," "onboarding checklist," "aha moment," "new user experience," "users aren't activating," "nobody completes setup,"
@@ -9,8 +9,15 @@ description: When the user wants to optimize post-signup onboarding, user activa
 authors:
 - coreyhaines31
 is_official: false
-tags: []
-category: none
+tags:
+- user-onboarding
+- activation-rate
+- first-run-experience
+- time-to-value
+- aha-moment
+- user-retention
+- saas
+category: marketing
 source:
   path: /skills/onboarding
   repo: coreyhaines31/marketingskills

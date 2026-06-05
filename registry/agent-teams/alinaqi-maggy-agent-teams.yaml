@@ -4,8 +4,15 @@ description: Claude Code Agent Teams - default team-based development with stric
 authors:
 - alinaqi
 is_official: false
-tags: []
-category: none
+tags:
+- ai-agents
+- claude-code
+- tdd
+- team-development
+- pipeline
+- multi-agent
+- software-engineering
+category: coding
 source:
   path: /skills/agent-teams
   repo: alinaqi/maggy

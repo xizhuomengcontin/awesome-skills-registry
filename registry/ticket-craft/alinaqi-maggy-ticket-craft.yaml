@@ -4,8 +4,16 @@ description: Create Jira/Asana/Linear tickets optimized for Claude Code executio
 authors:
 - alinaqi
 is_official: false
-tags: []
-category: none
+tags:
+- jira
+- asana
+- linear
+- ticket-writing
+- project-management
+- ai-native
+- task-creation
+- issue-tracking
+category: productivity
 source:
   path: /skills/ticket-craft
   repo: alinaqi/maggy

@@ -1,13 +1,19 @@
 id: makenotion-notion-cookbook-research-documentation
-display_name: Research Documentation
+display_name: Notion Research Documentation
 description: Searches across your Notion workspace, synthesizes findings from multiple pages, and creates comprehensive research
   documentation saved as new Notion pages. Turns scattered information into structured reports with proper citations and actionable
   insights.
 authors:
 - makenotion
 is_official: true
-tags: []
-category: none
+tags:
+- notion
+- research
+- documentation
+- synthesis
+- report-generation
+- workspace-search
+category: productivity
 source:
   path: /skills/claude/research-documentation
   repo: makenotion/notion-cookbook

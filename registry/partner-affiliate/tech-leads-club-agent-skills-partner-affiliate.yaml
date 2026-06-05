@@ -1,5 +1,5 @@
 id: tech-leads-club-agent-skills-partner-affiliate
-display_name: Partner Affiliate
+display_name: Partner & Affiliate Programs
 description: When the user wants to build a partner program, launch an affiliate program, design integration partnerships,
   or create distribution partnerships. Also use when the user mentions 'partnerships,' 'affiliate program,' 'referral program,'
   'partner ecosystem,' 'integration partner,' 'reseller,' 'co-marketing,' 'PartnerStack,' or 'revenue share.' This skill covers
@@ -8,8 +8,16 @@ description: When the user wants to build a partner program, launch an affiliate
 authors:
 - tech-leads-club
 is_official: false
-tags: []
-category: none
+tags:
+- affiliate-program
+- partner-program
+- referral-program
+- partner-ecosystem
+- reseller
+- co-marketing
+- revenue-share
+- partnerstack
+category: business
 source:
   path: /packages/skills-catalog/skills/(gtm)/partner-affiliate
   repo: tech-leads-club/agent-skills

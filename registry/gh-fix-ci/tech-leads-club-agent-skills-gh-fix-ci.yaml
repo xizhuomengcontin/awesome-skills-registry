@@ -1,5 +1,5 @@
 id: tech-leads-club-agent-skills-gh-fix-ci
-display_name: Gh Fix Ci
+display_name: GH Fix CI
 description: Use when a user asks to debug or fix failing GitHub PR checks that run in GitHub Actions. Uses `gh` to inspect
   checks and logs, summarize failure context, draft a fix plan, and implement only after explicit approval. Treats external
   providers (for example Buildkite) as out of scope and reports only the details URL. Do NOT use for addressing PR review
@@ -7,8 +7,14 @@ description: Use when a user asks to debug or fix failing GitHub PR checks that 
 authors:
 - tech-leads-club
 is_official: false
-tags: []
-category: none
+tags:
+- github-actions
+- ci-cd
+- debugging
+- gh-cli
+- pr-checks
+- pipeline-fix
+category: coding
 source:
   path: /packages/skills-catalog/skills/(tooling)/gh-fix-ci
   repo: tech-leads-club/agent-skills

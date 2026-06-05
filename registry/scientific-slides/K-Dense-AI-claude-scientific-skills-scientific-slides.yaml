@@ -6,8 +6,15 @@ description: Build slide decks and presentations for research talks. Use this fo
 authors:
 - K-Dense-AI
 is_official: false
-tags: []
-category: none
+tags:
+- presentations
+- powerpoint
+- latex-beamer
+- conference-slides
+- research-talk
+- slide-design
+- thesis-defense
+category: science
 source:
   path: /skills/scientific-slides
   repo: K-Dense-AI/claude-scientific-skills

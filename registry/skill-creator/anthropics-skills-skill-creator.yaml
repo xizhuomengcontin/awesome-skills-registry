@@ -6,8 +6,15 @@ description: Create new skills, modify and improve existing skills, and measure 
 authors:
 - anthropics
 is_official: true
-tags: []
-category: none
+tags:
+- skill-creation
+- prompt-engineering
+- ai-agents
+- eval
+- benchmarking
+- optimization
+- skill-management
+category: productivity
 source:
   path: /skills/skill-creator
   repo: anthropics/skills

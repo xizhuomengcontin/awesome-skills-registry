@@ -6,8 +6,16 @@ description: Run and analyze molecular dynamics simulations with OpenMM and MDAn
 authors:
 - K-Dense-AI
 is_official: false
-tags: []
-category: none
+tags:
+- molecular-dynamics
+- openmm
+- mdanalysis
+- protein-simulation
+- biophysics
+- force-fields
+- drug-binding
+- structural-biology
+category: science
 source:
   path: /skills/molecular-dynamics
   repo: K-Dense-AI/claude-scientific-skills

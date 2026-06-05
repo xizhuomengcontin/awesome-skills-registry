@@ -1,5 +1,5 @@
 id: mcollina-skills-oauth
-display_name: Oauth
+display_name: OAuth
 description: Implements OAuth 2.0/2.1 authorization flows in Fastify applications — configures authorization code with PKCE,
   client credentials, device flow, refresh token rotation, JWT validation, and token introspection/revocation endpoints. Use
   when setting up authentication, authorization, login flows, access tokens, API security, or securing Fastify routes with
@@ -8,8 +8,16 @@ description: Implements OAuth 2.0/2.1 authorization flows in Fastify application
 authors:
 - mcollina
 is_official: false
-tags: []
-category: none
+tags:
+- oauth2
+- authentication
+- authorization
+- fastify
+- jwt
+- pkce
+- api-security
+- token-management
+category: coding
 source:
   path: /skills/oauth
   repo: mcollina/skills

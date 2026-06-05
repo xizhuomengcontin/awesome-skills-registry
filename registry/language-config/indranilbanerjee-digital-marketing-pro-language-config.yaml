@@ -4,8 +4,14 @@ description: 'Configure language settings. Use when: setting primary languages, 
 authors:
 - indranilbanerjee
 is_official: false
-tags: []
-category: none
+tags:
+- localization
+- language-settings
+- translation
+- locale
+- configuration
+- internationalization
+category: marketing
 source:
   path: /skills/language-config
   repo: indranilbanerjee/digital-marketing-pro

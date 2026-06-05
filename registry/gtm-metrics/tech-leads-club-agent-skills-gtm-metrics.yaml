@@ -1,5 +1,5 @@
 id: tech-leads-club-agent-skills-gtm-metrics
-display_name: Gtm Metrics
+display_name: GTM Metrics
 description: When the user wants to define GTM metrics, build a metrics dashboard, measure pipeline efficiency, or track AI
   product performance. Also use when the user mentions 'GTM metrics,' 'revenue latency,' 'pipeline metrics,' 'TTFV,' 'time-to-first-value,'
   'data health,' 'attribution,' 'conversion rate,' 'CAC,' 'LTV,' 'NRR,' 'GTM dashboard,' 'magic number,' 'pipeline velocity,'
@@ -9,8 +9,16 @@ description: When the user wants to define GTM metrics, build a metrics dashboar
 authors:
 - tech-leads-club
 is_official: false
-tags: []
-category: none
+tags:
+- gtm-metrics
+- pipeline-analytics
+- revenue-metrics
+- cac-ltv
+- attribution
+- funnel-metrics
+- dashboard-design
+- conversion-rate
+category: marketing
 source:
   path: /packages/skills-catalog/skills/(gtm)/gtm-metrics
   repo: tech-leads-club/agent-skills

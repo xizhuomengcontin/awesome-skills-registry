@@ -8,8 +8,16 @@ description: Search 10 academic paper databases via REST APIs for research paper
 authors:
 - K-Dense-AI
 is_official: false
-tags: []
-category: none
+tags:
+- academic-search
+- pubmed
+- arxiv
+- preprints
+- doi-lookup
+- semantic-scholar
+- citation-graph
+- scholarly-literature
+category: science
 source:
   path: /skills/paper-lookup
   repo: K-Dense-AI/claude-scientific-skills

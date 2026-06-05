@@ -8,8 +8,16 @@ description: Train or fine-tune sentence-transformers models across `SentenceTra
 authors:
 - huggingface
 is_official: true
-tags: []
-category: none
+tags:
+- sentence-transformers
+- fine-tuning
+- embeddings
+- bi-encoder
+- cross-encoder
+- sparse-retrieval
+- nlp
+- hugging-face
+category: data-ai
 source:
   path: /skills/train-sentence-transformers
   repo: huggingface/skills

@@ -8,8 +8,15 @@ description: Use for Vercel cost and performance optimization on deployed projec
 authors:
 - vercel-labs
 is_official: true
-tags: []
-category: none
+tags:
+- vercel
+- performance-optimization
+- cost-optimization
+- nextjs
+- core-web-vitals
+- caching
+- serverless
+category: coding
 source:
   path: /skills/vercel-optimize
   repo: vercel-labs/agent-skills

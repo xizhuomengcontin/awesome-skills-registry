@@ -1,11 +1,17 @@
 id: indranilbanerjee-digital-marketing-pro-help
-display_name: Help
+display_name: Digital Marketing Pro Help
 description: Show the getting started guide, available commands, examples, and help for Digital Marketing Pro
 authors:
 - indranilbanerjee
 is_official: false
-tags: []
-category: none
+tags:
+- help
+- onboarding
+- documentation
+- digital-marketing
+- commands
+- getting-started
+category: marketing
 source:
   path: /skills/help
   repo: indranilbanerjee/digital-marketing-pro

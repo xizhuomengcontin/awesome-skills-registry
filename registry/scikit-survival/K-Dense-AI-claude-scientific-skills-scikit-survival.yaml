@@ -7,8 +7,16 @@ description: Comprehensive toolkit for survival analysis and time-to-event model
 authors:
 - K-Dense-AI
 is_official: false
-tags: []
-category: none
+tags:
+- survival-analysis
+- time-to-event
+- cox-model
+- random-survival-forest
+- censored-data
+- concordance-index
+- brier-score
+- python
+category: data-ai
 source:
   path: /skills/scikit-survival
   repo: K-Dense-AI/claude-scientific-skills

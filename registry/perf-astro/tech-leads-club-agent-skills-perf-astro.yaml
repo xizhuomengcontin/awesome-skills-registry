@@ -1,5 +1,5 @@
 id: tech-leads-club-agent-skills-perf-astro
-display_name: Perf Astro
+display_name: Astro Performance
 description: Astro-specific performance optimizations for 95+ Lighthouse scores. Covers critical CSS inlining, compression,
   font loading, and LCP optimization. Use when optimizing Astro site performance, improving Astro Lighthouse scores, or configuring
   astro-critters. Do NOT use for non-Astro sites (use perf-web-optimization or core-web-vitals) or running Lighthouse audits
@@ -7,8 +7,16 @@ description: Astro-specific performance optimizations for 95+ Lighthouse scores.
 authors:
 - tech-leads-club
 is_official: false
-tags: []
-category: none
+tags:
+- astro
+- performance
+- lighthouse
+- core-web-vitals
+- css-optimization
+- lcp
+- font-loading
+- web-performance
+category: coding
 source:
   path: /packages/skills-catalog/skills/(performance)/perf-astro
   repo: tech-leads-club/agent-skills

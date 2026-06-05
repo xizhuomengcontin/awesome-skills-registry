@@ -8,8 +8,16 @@ description: When the user wants to apply psychological principles, mental model
 authors:
 - coreyhaines31
 is_official: false
-tags: []
-category: none
+tags:
+- behavioral-science
+- cognitive-bias
+- persuasion
+- consumer-psychology
+- social-proof
+- decision-making
+- mental-models
+- conversion
+category: marketing
 source:
   path: /skills/marketing-psychology
   repo: coreyhaines31/marketingskills

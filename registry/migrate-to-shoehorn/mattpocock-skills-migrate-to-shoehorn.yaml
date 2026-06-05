@@ -5,8 +5,16 @@ description: Migrate test files from `as` type assertions to @total-typescript/s
 authors:
 - mattpocock
 is_official: false
-tags: []
-category: none
+tags:
+- typescript
+- type-assertions
+- testing
+- shoehorn
+- refactoring
+- test-data
+- migration
+- type-safety
+category: coding
 source:
   path: /skills/misc/migrate-to-shoehorn
   repo: mattpocock/skills

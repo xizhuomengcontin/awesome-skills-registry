@@ -1,5 +1,5 @@
 id: aklofas-kicad-happy-emc
-display_name: Emc
+display_name: KiCad EMC Pre-Compliance Analyzer
 description: EMC pre-compliance risk analysis for KiCad PCB designs — 18 check categories, 44 rule IDs covering ground planes,
   decoupling, I/O filtering, switching harmonics, clock routing, differential pair skew, board edge radiation, PDN impedance,
   return paths, crosstalk, ESD protection, shielding, and magnetic leakage from switching inductors. Produces severity-ranked
@@ -11,8 +11,16 @@ description: EMC pre-compliance risk analysis for KiCad PCB designs — 18 check
 authors:
 - aklofas
 is_official: false
-tags: []
-category: none
+tags:
+- emc
+- emi
+- pcb-design
+- kicad
+- fcc-compliance
+- signal-integrity
+- hardware-engineering
+- pre-compliance
+category: science
 source:
   path: /skills/emc
   repo: aklofas/kicad-happy

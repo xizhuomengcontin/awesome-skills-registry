@@ -1,5 +1,5 @@
 id: tech-leads-club-agent-skills-tlc-spec-driven
-display_name: Tlc Spec Driven
+display_name: Spec-Driven Development
 description: Project and feature planning with 4 adaptive phases - Specify, Design, Tasks, Execute. Auto-sizes depth by complexity.
   Creates atomic tasks with verification criteria, atomic git commits, requirement traceability, and persistent memory across
   sessions. Stack-agnostic. Use when (1) Starting new projects (initialize vision, goals, roadmap), (2) Working with existing
@@ -11,8 +11,16 @@ description: Project and feature planning with 4 adaptive phases - Specify, Desi
 authors:
 - tech-leads-club
 is_official: false
-tags: []
-category: none
+tags:
+- spec-driven
+- project-planning
+- feature-planning
+- task-breakdown
+- git-commits
+- requirement-traceability
+- session-memory
+- agile
+category: productivity
 source:
   path: /packages/skills-catalog/skills/(development)/tlc-spec-driven
   repo: tech-leads-club/agent-skills

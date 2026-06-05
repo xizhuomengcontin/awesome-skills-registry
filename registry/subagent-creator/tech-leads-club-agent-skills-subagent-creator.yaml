@@ -7,8 +7,15 @@ description: Guide for creating AI subagents with isolated context for complex m
 authors:
 - tech-leads-club
 is_official: false
-tags: []
-category: none
+tags:
+- subagent
+- multi-agent
+- orchestration
+- workflow-automation
+- ai-agents
+- delegation
+- context-isolation
+category: productivity
 source:
   path: /packages/skills-catalog/skills/(creation)/subagent-creator
   repo: tech-leads-club/agent-skills

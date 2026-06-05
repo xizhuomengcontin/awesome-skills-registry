@@ -1,5 +1,5 @@
 id: K-Dense-AI-claude-scientific-skills-pdf
-display_name: Pdf
+display_name: PDF
 description: Use this skill whenever the user wants to do anything with PDF files. This includes reading or extracting text/tables
   from PDFs, combining or merging multiple PDFs into one, splitting PDFs apart, rotating pages, adding watermarks, creating
   new PDFs, filling PDF forms, encrypting/decrypting PDFs, extracting images, and OCR on scanned PDFs to make them searchable.
@@ -7,8 +7,16 @@ description: Use this skill whenever the user wants to do anything with PDF file
 authors:
 - K-Dense-AI
 is_official: false
-tags: []
-category: none
+tags:
+- pdf
+- pdf-extraction
+- ocr
+- pdf-merge
+- pdf-split
+- pdf-forms
+- document-processing
+- text-extraction
+category: productivity
 source:
   path: /skills/pdf
   repo: K-Dense-AI/claude-scientific-skills

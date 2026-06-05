@@ -6,8 +6,14 @@ description: When the user wants to get featured on the App Store or understand 
 authors:
 - Eronred
 is_official: false
-tags: []
-category: none
+tags:
+- app-store-featuring
+- editorial
+- app-of-the-day
+- apple-featuring
+- today-tab
+- app-visibility
+category: marketing
 source:
   path: /skills/app-store-featured
   repo: Eronred/aso-skills

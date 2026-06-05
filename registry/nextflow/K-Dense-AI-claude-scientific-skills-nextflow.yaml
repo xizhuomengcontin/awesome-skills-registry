@@ -1,5 +1,5 @@
 id: K-Dense-AI-claude-scientific-skills-nextflow
-display_name: Nextflow
+display_name: Nextflow Pipelines
 description: Build, run, and debug Nextflow data pipelines and nf-core workflows end to end. Use whenever the user mentions
   Nextflow, nf-core, .nf files, nextflow.config, DSL2, processes/channels/operators, samplesheets, or wants to run a community
   pipeline (e.g. nf-core/rnaseq, nf-core/sarek), write or test a module/subworkflow with nf-test, configure executors/containers
@@ -10,8 +10,15 @@ description: Build, run, and debug Nextflow data pipelines and nf-core workflows
 authors:
 - K-Dense-AI
 is_official: false
-tags: []
-category: none
+tags:
+- nextflow
+- nf-core
+- bioinformatics
+- pipeline
+- dsl2
+- hpc
+- workflow-automation
+category: science
 source:
   path: /skills/nextflow
   repo: K-Dense-AI/claude-scientific-skills

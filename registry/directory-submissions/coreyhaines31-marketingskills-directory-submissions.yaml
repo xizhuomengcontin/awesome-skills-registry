@@ -10,8 +10,15 @@ description: When the user wants to submit their product to startup, SaaS, AI, a
 authors:
 - coreyhaines31
 is_official: false
-tags: []
-category: none
+tags:
+- directory-submissions
+- backlinks
+- seo
+- product-launch
+- saas-marketing
+- link-building
+- product-hunt
+category: marketing
 source:
   path: /skills/directory-submissions
   repo: coreyhaines31/marketingskills

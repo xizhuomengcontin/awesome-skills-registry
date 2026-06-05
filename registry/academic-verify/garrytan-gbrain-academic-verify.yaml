@@ -7,8 +7,15 @@ description: Verify a research claim or academic citation by tracing it through 
 authors:
 - garrytan
 is_official: false
-tags: []
-category: none
+tags:
+- fact-checking
+- citation-verification
+- academic-research
+- replication
+- methodology
+- research-integrity
+- perplexity
+category: science
 source:
   path: /skills/academic-verify
   repo: garrytan/gbrain

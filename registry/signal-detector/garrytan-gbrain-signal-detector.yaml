@@ -5,8 +5,14 @@ description: Always-on ambient signal capture. Fires on every inbound message to
 authors:
 - garrytan
 is_official: false
-tags: []
-category: none
+tags:
+- signal-detection
+- ambient-capture
+- entity-recognition
+- subagent
+- real-time-analysis
+- mention-tracking
+category: data-ai
 source:
   path: /skills/signal-detector
   repo: garrytan/gbrain

@@ -6,8 +6,16 @@ description: Statistical models library for Python. Use when you need specific m
 authors:
 - K-Dense-AI
 is_official: false
-tags: []
-category: none
+tags:
+- statsmodels
+- python
+- econometrics
+- time-series
+- regression
+- glm
+- arima
+- statistical-modeling
+category: data-ai
 source:
   path: /skills/statsmodels
   repo: K-Dense-AI/claude-scientific-skills

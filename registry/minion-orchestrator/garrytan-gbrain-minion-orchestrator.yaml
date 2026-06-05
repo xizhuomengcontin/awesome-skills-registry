@@ -6,8 +6,16 @@ description: 'Unified Minions skill for both deterministic shell jobs and LLM su
 authors:
 - garrytan
 is_official: false
-tags: []
-category: none
+tags:
+- orchestration
+- job-queue
+- subagents
+- shell-tasks
+- parallel-execution
+- background-jobs
+- workflow-automation
+- agent-management
+category: productivity
 source:
   path: /skills/minion-orchestrator
   repo: garrytan/gbrain

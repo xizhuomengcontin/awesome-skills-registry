@@ -5,8 +5,14 @@ description: 'Save brand knowledge to memory. Use when: persisting campaign lear
 authors:
 - indranilbanerjee
 is_official: false
-tags: []
-category: none
+tags:
+- knowledge-management
+- memory
+- brand-guidelines
+- campaign-learnings
+- competitive-intel
+- retrieval
+category: marketing
 source:
   path: /skills/save-knowledge
   repo: indranilbanerjee/digital-marketing-pro

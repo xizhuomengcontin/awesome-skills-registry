@@ -1,5 +1,5 @@
 id: K-Dense-AI-claude-scientific-skills-pennylane
-display_name: Pennylane
+display_name: PennyLane
 description: Hardware-agnostic quantum ML framework with automatic differentiation. Use when training quantum circuits via
   gradients, building hybrid quantum-classical models, or needing device portability across IBM/Google/Rigetti/IonQ. Best
   for variational algorithms (VQE, QAOA), quantum neural networks, and integration with PyTorch or JAX. For hardware-specific
@@ -7,8 +7,16 @@ description: Hardware-agnostic quantum ML framework with automatic differentiati
 authors:
 - K-Dense-AI
 is_official: false
-tags: []
-category: none
+tags:
+- quantum-computing
+- quantum-ml
+- variational-algorithms
+- hybrid-quantum-classical
+- vqe
+- qaoa
+- pytorch
+- automatic-differentiation
+category: science
 source:
   path: /skills/pennylane
   repo: K-Dense-AI/claude-scientific-skills

@@ -6,8 +6,13 @@ description: Create new genre documentation files for the bitwize-music genre li
 authors:
 - bitwize-music-studio
 is_official: false
-tags: []
-category: none
+tags:
+- music
+- genre-documentation
+- music-library
+- content-creation
+- music-metadata
+category: creative
 source:
   path: /skills/genre-creator
   repo: bitwize-music-studio/claude-ai-music-skills

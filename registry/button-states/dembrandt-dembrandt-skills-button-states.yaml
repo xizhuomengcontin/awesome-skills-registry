@@ -6,8 +6,15 @@ description: Every interactive element needs a complete set of visual states —
 authors:
 - dembrandt
 is_official: false
-tags: []
-category: none
+tags:
+- ui-components
+- interactive-states
+- hover-states
+- accessibility
+- design-system
+- buttons
+- visual-design
+category: design
 source:
   path: /skills/button-states
   repo: dembrandt/dembrandt-skills

@@ -6,8 +6,14 @@ description: Behavioral guidelines to reduce common LLM coding mistakes. Use whe
 authors:
 - tech-leads-club
 is_official: false
-tags: []
-category: none
+tags:
+- coding-standards
+- best-practices
+- llm-coding
+- code-quality
+- refactoring
+- bug-prevention
+category: coding
 source:
   path: /packages/skills-catalog/skills/(development)/coding-guidelines
   repo: tech-leads-club/agent-skills

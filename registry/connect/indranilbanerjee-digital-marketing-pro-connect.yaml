@@ -1,11 +1,18 @@
 id: indranilbanerjee-digital-marketing-pro-connect
-display_name: Connect
+display_name: Marketing Tool Connector
 description: 'Set up an MCP connector. Use when: connecting Google Ads, Salesforce, Mailchimp, or any service to the plugin.'
 authors:
 - indranilbanerjee
 is_official: false
-tags: []
-category: none
+tags:
+- integration
+- mcp-connector
+- google-ads
+- salesforce
+- mailchimp
+- api-connection
+- setup
+category: marketing
 source:
   path: /skills/connect
   repo: indranilbanerjee/digital-marketing-pro

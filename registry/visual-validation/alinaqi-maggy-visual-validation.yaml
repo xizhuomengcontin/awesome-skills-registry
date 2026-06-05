@@ -6,8 +6,14 @@ description: Every UI change should be visually verified before it ships. Peekab
 authors:
 - alinaqi
 is_official: false
-tags: []
-category: none
+tags:
+- visual-regression
+- screenshot-testing
+- ui-testing
+- qa-automation
+- pixel-comparison
+- frontend-testing
+category: coding
 source:
   path: /skills/visual-validation
   repo: alinaqi/maggy

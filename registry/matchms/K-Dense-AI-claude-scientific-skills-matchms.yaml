@@ -6,8 +6,15 @@ description: Spectral similarity and compound identification for metabolomics. U
 authors:
 - K-Dense-AI
 is_official: false
-tags: []
-category: none
+tags:
+- metabolomics
+- mass-spectrometry
+- spectral-similarity
+- compound-identification
+- spectral-libraries
+- lc-ms
+- cosine-scoring
+category: science
 source:
   path: /skills/matchms
   repo: K-Dense-AI/claude-scientific-skills

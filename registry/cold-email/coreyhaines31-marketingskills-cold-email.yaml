@@ -1,5 +1,5 @@
 id: coreyhaines31-marketingskills-cold-email
-display_name: Cold Email
+display_name: Cold Email Outreach
 description: Write B2B cold emails and follow-up sequences that get replies. Use when the user wants to write cold outreach
   emails, prospecting emails, cold email campaigns, sales development emails, or SDR emails. Also use when the user mentions
   "cold outreach," "prospecting email," "outbound email," "email to leads," "reach out to prospects," "sales email," "follow-up
@@ -9,8 +9,15 @@ description: Write B2B cold emails and follow-up sequences that get replies. Use
 authors:
 - coreyhaines31
 is_official: false
-tags: []
-category: none
+tags:
+- cold-email
+- outbound-sales
+- email-copywriting
+- b2b-sales
+- sdr
+- prospecting
+- follow-up-sequence
+category: marketing
 source:
   path: /skills/cold-email
   repo: coreyhaines31/marketingskills

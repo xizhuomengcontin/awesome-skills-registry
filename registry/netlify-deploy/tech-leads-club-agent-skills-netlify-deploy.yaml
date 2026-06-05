@@ -6,8 +6,14 @@ description: Deploy web projects to Netlify using the Netlify CLI (`npx netlify`
 authors:
 - tech-leads-club
 is_official: false
-tags: []
-category: none
+tags:
+- netlify
+- deployment
+- hosting
+- cli
+- web-publishing
+- static-sites
+category: coding
 source:
   path: /packages/skills-catalog/skills/(cloud)/netlify-deploy
   repo: tech-leads-club/agent-skills
