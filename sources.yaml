@@ -1,0 +1,16 @@
+sources:
+  # --- Multi-skill repos (each skill_dir -> separate registry entry) ---
+  - url: https://github.com/garrytan/gbrain
+    skills_path: skills/
+
+  - url: https://github.com/tech-leads-club/agent-skills
+    skills_path: packages/skills-catalog/skills/
+
+  # --- Whole-repo skills (default skills_path = "/") ---
+  # - url: https://github.com/jane/pr-reviewer     # SKILL.md at repo root
+
+  # --- Awesome-list repos (NOT scannable — link directories, no SKILL.md files) ---
+  # These are curated README-based discovery sources, not skill containers.
+  # Future: parse README for GitHub links to add new entries above.
+  # - url: https://github.com/VoltAgent/awesome-agent-skills
+  # - url: https://github.com/heilcheng/awesome-agent-skills
