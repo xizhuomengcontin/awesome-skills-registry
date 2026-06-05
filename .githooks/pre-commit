@@ -1,8 +1,20 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-REPO_ROOT="$(git rev-parse --show-toplevel 2>/dev/null || cd "$(dirname "$0")/../.." && pwd)"
+REPO_ROOT="$(git rev-parse --show-toplevel 2>/dev/null || { cd "$(dirname "$0")/../.." && pwd; })"
+README="$REPO_ROOT/README.md"
 
+# --- Update skill count in README ---
+SKILL_COUNT=$(find "$REPO_ROOT/registry" -name '*.yaml' -type f | wc -l | tr -d ' ')
+CURRENT=$(sed -n '/<!-- skills-count-start -->/,/<!-- skills-count-end -->/{ /^> \*\*/{ s/.*\*\*\([0-9]*\) skills.*/\1/p; }; }' "$README")
+
+if [ "$SKILL_COUNT" != "$CURRENT" ]; then
+  sed "s/> \*\*[0-9]* skills\*\* registered/> **${SKILL_COUNT} skills** registered/" "$README" > "$README.tmp" && mv "$README.tmp" "$README"
+  git add "$README"
+  echo "Updated README skill count: $CURRENT → $SKILL_COUNT"
+fi
+
+# --- Lint staged registry YAML ---
 if ! command -v uv >/dev/null 2>&1; then
   echo "uv is required to run registry linting"
   exit 2
