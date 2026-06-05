@@ -1,0 +1,16 @@
+id: garrytan-gbrain-minion-orchestrator
+description: 'Unified Minions skill for both deterministic shell jobs and LLM subagent
+
+  orchestration. Replaces the older `gbrain-jobs` routing intent. Use when:
+
+  submitting gbrain jobs, shell/background tasks, spawning subagents,
+
+  checking progress, steering running work, pausing/resuming, parallel
+
+  fan-out. One durable, observable, steerable queue interface.
+
+  '
+url: https://raw.githubusercontent.com/garrytan/gbrain/master/skills/minion-orchestrator/SKILL.md
+repo: garrytan/gbrain
+skill_dir: minion-orchestrator
+added_at: '2026-06-05'

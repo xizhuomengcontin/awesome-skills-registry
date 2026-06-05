@@ -1,0 +1,11 @@
+id: tech-leads-club-agent-skills-component-flattening-analysis
+description: "Detects misplaced classes and fixes component hierarchy problems \u2014\
+  \ finds code that should belong inside a component but sits at the root level. Use\
+  \ when asking \"clean up component structure\", \"find orphaned classes\", \"fix\
+  \ module hierarchy\", \"flatten nested components\", or analyzing why namespaces\
+  \ have misplaced code. Do NOT use for dependency analysis (use coupling-analysis)\
+  \ or domain grouping (use domain-identification-grouping)."
+url: https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(architecture)/component-flattening-analysis/SKILL.md
+repo: tech-leads-club/agent-skills
+skill_dir: component-flattening-analysis
+added_at: '2026-06-05'

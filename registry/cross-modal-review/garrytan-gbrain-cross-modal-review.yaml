@@ -1,0 +1,17 @@
+id: garrytan-gbrain-cross-modal-review
+description: 'Quality gate via second model. Spawn a different AI model to review
+  work
+
+  before committing. Includes refusal routing: if one model refuses, switch
+
+  silently to the next. Extended in v0.25.1 with structured review-mode
+
+  gating (when to invoke vs not) and a Codex code-review handoff for the
+
+  diff-review case.
+
+  '
+url: https://raw.githubusercontent.com/garrytan/gbrain/master/skills/cross-modal-review/SKILL.md
+repo: garrytan/gbrain
+skill_dir: cross-modal-review
+added_at: '2026-06-05'

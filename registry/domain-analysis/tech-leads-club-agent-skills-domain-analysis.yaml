@@ -1,0 +1,11 @@
+id: tech-leads-club-agent-skills-domain-analysis
+description: Maps business domains and suggests service boundaries in any codebase
+  using DDD Strategic Design. Use when asking "what are the domains in this codebase?",
+  "where should I draw service boundaries?", "identify bounded contexts", "classify
+  subdomains", "DDD analysis", or analyzing domain cohesion. Do NOT use for grouping
+  existing components into domains (use domain-identification-grouping) or dependency
+  analysis (use coupling-analysis).
+url: https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(architecture)/domain-analysis/SKILL.md
+repo: tech-leads-club/agent-skills
+skill_dir: domain-analysis
+added_at: '2026-06-05'

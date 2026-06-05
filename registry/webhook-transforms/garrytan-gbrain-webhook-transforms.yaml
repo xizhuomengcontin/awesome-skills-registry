@@ -1,0 +1,13 @@
+id: garrytan-gbrain-webhook-transforms
+description: 'Generic framework for converting external events (SMS, meetings, social
+  mentions)
+
+  into brain-ingestible signals. Define a transform function, register a webhook URL,
+
+  and incoming events get processed through the brain pipeline.
+
+  '
+url: https://raw.githubusercontent.com/garrytan/gbrain/master/skills/webhook-transforms/SKILL.md
+repo: garrytan/gbrain
+skill_dir: webhook-transforms
+added_at: '2026-06-05'

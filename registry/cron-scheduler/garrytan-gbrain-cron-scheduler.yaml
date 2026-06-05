@@ -1,0 +1,10 @@
+id: garrytan-gbrain-cron-scheduler
+description: 'Schedule management with staggering, quiet hours, and wake-up override.
+
+  Validates schedules, prevents collisions, and gates delivery during quiet hours.
+
+  '
+url: https://raw.githubusercontent.com/garrytan/gbrain/master/skills/cron-scheduler/SKILL.md
+repo: garrytan/gbrain
+skill_dir: cron-scheduler
+added_at: '2026-06-05'

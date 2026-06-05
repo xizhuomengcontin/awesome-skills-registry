@@ -1,0 +1,11 @@
+id: garrytan-gbrain-cold-start
+description: "Day-one data bootstrapping for a new brain. Sequences the highest-leverage\n\
+  data sources to go from empty brain to useful brain in one session. Uses\nClawVisor\
+  \ for safe credential handling \u2014 the agent never holds raw API keys.\nCovers\
+  \ Gmail import, calendar sync, contacts seeding, X/Twitter archive,\nconversation\
+  \ imports, and file archives.\nUse when a user has just finished gbrain setup and\
+  \ asks \"now what?\"\n"
+url: https://raw.githubusercontent.com/garrytan/gbrain/master/skills/cold-start/SKILL.md
+repo: garrytan/gbrain
+skill_dir: cold-start
+added_at: '2026-06-05'

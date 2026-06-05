@@ -1,0 +1,13 @@
+id: garrytan-gbrain-brain-ops
+description: 'Brain knowledge base operations. The core read/write cycle: brain-first
+  lookup,
+
+  read-enrich-write loop, source attribution, ambient enrichment, back-linking.
+
+  Read this before any brain interaction.
+
+  '
+url: https://raw.githubusercontent.com/garrytan/gbrain/master/skills/brain-ops/SKILL.md
+repo: garrytan/gbrain
+skill_dir: brain-ops
+added_at: '2026-06-05'

@@ -1,0 +1,9 @@
+id: tech-leads-club-agent-skills-chrome-devtools
+description: Browser debugging, performance profiling, and automation via Chrome DevTools
+  MCP. Use when user says "debug this page", "take a screenshot", "check network requests",
+  "profile performance", "inspect console errors", or "analyze page load". Do NOT
+  use for full E2E test suites (use playwright-skill) or non-browser debugging.
+url: https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(tooling)/chrome-devtools/SKILL.md
+repo: tech-leads-club/agent-skills
+skill_dir: chrome-devtools
+added_at: '2026-06-05'

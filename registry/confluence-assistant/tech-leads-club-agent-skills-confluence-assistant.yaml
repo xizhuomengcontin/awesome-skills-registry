@@ -1,0 +1,9 @@
+id: tech-leads-club-agent-skills-confluence-assistant
+description: Expert in Confluence operations using Atlassian MCP. Use when the user
+  says "search Confluence", "create a Confluence page", "update a page", "find documentation
+  in Confluence", "list spaces", or "add a comment to a page". Do NOT use for Jira
+  issues, general web search, or local file creation.
+url: https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(development)/confluence-assistant/SKILL.md
+repo: tech-leads-club/agent-skills
+skill_dir: confluence-assistant
+added_at: '2026-06-05'

@@ -1,0 +1,14 @@
+id: tech-leads-club-agent-skills-codenavi
+description: "Your pathfinder for navigating unknown codebases. Investigates with\
+  \ precision, implements surgically, and never assumes \u2014 if it doesn't know,\
+  \ it says so. Maintains a .notebook/ knowledge base that grows across sessions,\
+  \ turning every discovery into lasting intelligence. Summons available skills, MCPs,\
+  \ and docs when the mission demands. Use when fixing bugs, implementing features,\
+  \ refactoring, investigating flows, or any development task in unfamiliar territory.\
+  \ Triggers on \"fix this\", \"implement this\", \"how does this work\", \"investigate\
+  \ this flow\", \"help me with this code\". Do NOT use for greenfield scaffolding,\
+  \ CI/CD, or infrastructure provisioning."
+url: https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(development)/codenavi/SKILL.md
+repo: tech-leads-club/agent-skills
+skill_dir: codenavi
+added_at: '2026-06-05'

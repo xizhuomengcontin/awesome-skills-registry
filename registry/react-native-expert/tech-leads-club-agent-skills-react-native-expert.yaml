@@ -1,0 +1,13 @@
+id: tech-leads-club-agent-skills-react-native-expert
+description: Senior React Native and Expo engineer for building production-ready cross-platform
+  mobile apps. Use when building React Native components, implementing navigation
+  with Expo Router, optimizing list and scroll performance, working with animations
+  via Reanimated, handling platform-specific code (iOS/Android), integrating native
+  modules, or structuring Expo projects. Triggers on React Native, Expo, mobile app,
+  iOS app, Android app, cross-platform, native module, FlatList, FlashList, LegendList,
+  Reanimated, Expo Router, mobile performance, app store. Do NOT use for Flutter,
+  web-only React, or backend Node.js tasks.
+url: https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(development)/react-native-expert/SKILL.md
+repo: tech-leads-club/agent-skills
+skill_dir: react-native-expert
+added_at: '2026-06-05'

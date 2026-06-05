@@ -1,0 +1,7 @@
+id: garrytan-gbrain-skill-optimizer
+description: Self-evolving skill optimization via SkillOpt-paper-grounded text-space
+  optimizer.
+url: https://raw.githubusercontent.com/garrytan/gbrain/master/skills/skill-optimizer/SKILL.md
+repo: garrytan/gbrain
+skill_dir: skill-optimizer
+added_at: '2026-06-05'

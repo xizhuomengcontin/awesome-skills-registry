@@ -1,0 +1,10 @@
+id: tech-leads-club-agent-skills-web-design-guidelines
+description: Review UI code for Web Interface Guidelines compliance. Use when asked
+  to "review my UI", "check accessibility", "audit design", "review UX", or "check
+  my site against best practices". Focuses on visual design and interaction patterns.
+  Do NOT use for performance audits (use core-web-vitals), SEO (use seo), or comprehensive
+  site audits (use web-quality-audit).
+url: https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(design)/web-design-guidelines/SKILL.md
+repo: tech-leads-club/agent-skills
+skill_dir: web-design-guidelines
+added_at: '2026-06-05'

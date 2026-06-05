@@ -1,0 +1,8 @@
+id: garrytan-gbrain-capture
+description: Save any thought or content into the brain via one CLI command. The single
+  human-facing entrypoint that replaces "put_page vs commit-then-sync vs autopilot-wait"
+  with one command that just works.
+url: https://raw.githubusercontent.com/garrytan/gbrain/master/skills/capture/SKILL.md
+repo: garrytan/gbrain
+skill_dir: capture
+added_at: '2026-06-05'

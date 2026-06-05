@@ -1,0 +1,13 @@
+id: garrytan-gbrain-idea-ingest
+description: 'Ingest links, articles, tweets, and ideas into the brain. Fetch content,
+  save
+
+  to brain with analysis, create author people page, and cross-link. Use when the
+
+  user shares a link or says "read this", "save this", "think about this".
+
+  '
+url: https://raw.githubusercontent.com/garrytan/gbrain/master/skills/idea-ingest/SKILL.md
+repo: garrytan/gbrain
+skill_dir: idea-ingest
+added_at: '2026-06-05'

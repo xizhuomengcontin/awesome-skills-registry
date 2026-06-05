@@ -1,0 +1,10 @@
+id: tech-leads-club-agent-skills-cursor-subagent-creator
+description: Creates Cursor-specific AI subagents with isolated context for complex
+  multi-step workflows. Use when creating subagents for Cursor editor specifically,
+  following Cursor's patterns and directories (.cursor/agents/). Triggers on "cursor
+  subagent", "cursor agent". Do NOT use for generic subagent creation outside Cursor
+  (use subagent-creator instead).
+url: https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(creation)/cursor-subagent-creator/SKILL.md
+repo: tech-leads-club/agent-skills
+skill_dir: cursor-subagent-creator
+added_at: '2026-06-05'

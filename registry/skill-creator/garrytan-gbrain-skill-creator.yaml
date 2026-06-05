@@ -1,0 +1,13 @@
+id: garrytan-gbrain-skill-creator
+description: 'Create new skills following the GBrain conformance standard. Generates
+  SKILL.md
+
+  with frontmatter, Contract, Phases, Output Format, and Anti-Patterns. Checks
+
+  MECE against existing skills. Updates manifest and resolver.
+
+  '
+url: https://raw.githubusercontent.com/garrytan/gbrain/master/skills/skill-creator/SKILL.md
+repo: garrytan/gbrain
+skill_dir: skill-creator
+added_at: '2026-06-05'

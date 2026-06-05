@@ -1,0 +1,12 @@
+id: tech-leads-club-agent-skills-video-outreach
+description: When the user wants to build video-first cold outreach, create personalized
+  video at scale, implement async selling, or use AI demo generation for prospecting.
+  Also use when the user mentions 'video outreach,' 'personalized video,' 'video prospecting,'
+  'Tavus,' 'Sendspark,' 'HeyGen,' 'video email,' 'async selling,' 'video demo,' or
+  'made this for you.' This skill covers video-first outreach systems from personalization
+  through conversion optimization. Do NOT use for technical implementation, code review,
+  or software architecture.
+url: https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(gtm)/video-outreach/SKILL.md
+repo: tech-leads-club/agent-skills
+skill_dir: video-outreach
+added_at: '2026-06-05'
