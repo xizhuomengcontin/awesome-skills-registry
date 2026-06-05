@@ -1,0 +1,8 @@
+id: bitwize-music-studio-claude-ai-music-skills-researchers-security
+description: Researches malware analysis, CVEs, attribution reports, and hacker community
+  sources. Use when the album subject involves cybersecurity incidents or threat actors.
+url: https://raw.githubusercontent.com/bitwize-music-studio/claude-ai-music-skills/main/skills/researchers-security/SKILL.md
+folder_url: https://github.com/bitwize-music-studio/claude-ai-music-skills/tree/main/skills/researchers-security
+repo: bitwize-music-studio/claude-ai-music-skills
+skill_dir: researchers-security
+added_at: '2026-06-05'

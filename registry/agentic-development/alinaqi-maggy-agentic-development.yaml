@@ -1,0 +1,7 @@
+id: alinaqi-maggy-agentic-development
+description: Build AI agents with Pydantic AI (Python) and Claude SDK (Node.js)
+url: https://raw.githubusercontent.com/alinaqi/maggy/main/skills/agentic-development/SKILL.md
+folder_url: https://github.com/alinaqi/maggy/tree/main/skills/agentic-development
+repo: alinaqi/maggy
+skill_dir: agentic-development
+added_at: '2026-06-05'

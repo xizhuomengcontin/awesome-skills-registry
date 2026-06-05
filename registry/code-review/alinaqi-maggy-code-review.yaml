@@ -1,0 +1,7 @@
+id: alinaqi-maggy-code-review
+description: Mandatory code reviews via /code-review before commits and deploys
+url: https://raw.githubusercontent.com/alinaqi/maggy/main/skills/code-review/SKILL.md
+folder_url: https://github.com/alinaqi/maggy/tree/main/skills/code-review
+repo: alinaqi/maggy
+skill_dir: code-review
+added_at: '2026-06-05'

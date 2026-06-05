@@ -1,0 +1,8 @@
+id: alinaqi-maggy-polyphony
+description: "Multi-agent orchestration with container-isolated workspaces \u2014\
+  \ each agent session runs in its own Docker container with independent git branches"
+url: https://raw.githubusercontent.com/alinaqi/maggy/main/skills/polyphony/SKILL.md
+folder_url: https://github.com/alinaqi/maggy/tree/main/skills/polyphony
+repo: alinaqi/maggy
+skill_dir: polyphony
+added_at: '2026-06-05'

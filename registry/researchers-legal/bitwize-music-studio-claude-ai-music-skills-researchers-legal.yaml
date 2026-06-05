@@ -1,0 +1,8 @@
+id: bitwize-music-studio-claude-ai-music-skills-researchers-legal
+description: Researches court documents, indictments, plea agreements, and sentencing
+  records. Use when the album subject involves legal proceedings or criminal cases.
+url: https://raw.githubusercontent.com/bitwize-music-studio/claude-ai-music-skills/main/skills/researchers-legal/SKILL.md
+folder_url: https://github.com/bitwize-music-studio/claude-ai-music-skills/tree/main/skills/researchers-legal
+repo: bitwize-music-studio/claude-ai-music-skills
+skill_dir: researchers-legal
+added_at: '2026-06-05'

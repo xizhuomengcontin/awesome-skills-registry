@@ -1,0 +1,8 @@
+id: alinaqi-maggy-gemini-review
+description: Google Gemini CLI code review with Gemini 2.5 Pro, 1M token context,
+  CI/CD integration
+url: https://raw.githubusercontent.com/alinaqi/maggy/main/skills/gemini-review/SKILL.md
+folder_url: https://github.com/alinaqi/maggy/tree/main/skills/gemini-review
+repo: alinaqi/maggy
+skill_dir: gemini-review
+added_at: '2026-06-05'

@@ -1,0 +1,7 @@
+id: alinaqi-maggy-session-management
+description: Context preservation, tiered summarization, resumability
+url: https://raw.githubusercontent.com/alinaqi/maggy/main/skills/session-management/SKILL.md
+folder_url: https://github.com/alinaqi/maggy/tree/main/skills/session-management
+repo: alinaqi/maggy
+skill_dir: session-management
+added_at: '2026-06-05'

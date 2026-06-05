@@ -1,0 +1,8 @@
+id: alinaqi-maggy-database-schema
+description: Schema awareness - read before coding, type generation, prevent column
+  errors
+url: https://raw.githubusercontent.com/alinaqi/maggy/main/skills/database-schema/SKILL.md
+folder_url: https://github.com/alinaqi/maggy/tree/main/skills/database-schema
+repo: alinaqi/maggy
+skill_dir: database-schema
+added_at: '2026-06-05'

@@ -1,0 +1,14 @@
+id: HeshamFS-materials-simulation-skills-differentiation-schemes
+description: "Select and apply numerical differentiation schemes for PDE and ODE discretization\
+  \ \u2014 generate finite-difference stencils at arbitrary order and accuracy, choose\
+  \ between central, upwind, compact (Pade), and spectral methods, handle boundary\
+  \ stencils, and estimate truncation error scaling. Use when discretizing spatial\
+  \ derivatives, picking a scheme for advection- or diffusion-dominated problems,\
+  \ building custom stencils for nonstandard operators, or comparing dispersion and\
+  \ dissipation properties of candidate schemes, even if the user just says \"how\
+  \ do I approximate this derivative\" or \"my solution is too diffusive.\""
+url: https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/core-numerical/differentiation-schemes/SKILL.md
+folder_url: https://github.com/HeshamFS/materials-simulation-skills/tree/main/skills/core-numerical/differentiation-schemes
+repo: HeshamFS/materials-simulation-skills
+skill_dir: differentiation-schemes
+added_at: '2026-06-05'

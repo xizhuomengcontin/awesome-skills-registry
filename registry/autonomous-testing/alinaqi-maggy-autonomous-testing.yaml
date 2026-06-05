@@ -1,0 +1,9 @@
+id: alinaqi-maggy-autonomous-testing
+description: An AI-driven testing agent that auto-discovers, generates, executes,
+  evaluates, and fixes tests for any project type. Inspired by the edubites autonomous
+  test runner pattern, generalized for Claude Bootstrap + Maggy.
+url: https://raw.githubusercontent.com/alinaqi/maggy/main/skills/autonomous-testing/SKILL.md
+folder_url: https://github.com/alinaqi/maggy/tree/main/skills/autonomous-testing
+repo: alinaqi/maggy
+skill_dir: autonomous-testing
+added_at: '2026-06-05'

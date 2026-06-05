@@ -1,0 +1,9 @@
+id: CloudAI-X-threejs-skills-threejs-materials
+description: Three.js materials - PBR, basic, phong, shader materials, material properties.
+  Use when styling meshes, working with textures, creating custom shaders, or optimizing
+  material performance.
+url: https://raw.githubusercontent.com/CloudAI-X/threejs-skills/main/skills/threejs-materials/SKILL.md
+folder_url: https://github.com/CloudAI-X/threejs-skills/tree/main/skills/threejs-materials
+repo: CloudAI-X/threejs-skills
+skill_dir: threejs-materials
+added_at: '2026-06-05'

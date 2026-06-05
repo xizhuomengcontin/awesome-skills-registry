@@ -1,0 +1,10 @@
+id: bitwize-music-studio-claude-ai-music-skills-mix-engineer
+description: Polishes raw Suno audio by processing per-stem WAVs (vocals, backing_vocals,
+  drums, bass, guitar, keyboard, strings, brass, woodwinds, percussion, synth, other)
+  with targeted cleanup, EQ, and compression, then remixing into a polished stereo
+  WAV ready for mastering. Use after audio import and before mastering.
+url: https://raw.githubusercontent.com/bitwize-music-studio/claude-ai-music-skills/main/skills/mix-engineer/SKILL.md
+folder_url: https://github.com/bitwize-music-studio/claude-ai-music-skills/tree/main/skills/mix-engineer
+repo: bitwize-music-studio/claude-ai-music-skills
+skill_dir: mix-engineer
+added_at: '2026-06-05'

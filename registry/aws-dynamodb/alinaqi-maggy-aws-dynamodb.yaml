@@ -1,0 +1,7 @@
+id: alinaqi-maggy-aws-dynamodb
+description: AWS DynamoDB single-table design, GSI patterns, SDK v3 TypeScript/Python
+url: https://raw.githubusercontent.com/alinaqi/maggy/main/skills/aws-dynamodb/SKILL.md
+folder_url: https://github.com/alinaqi/maggy/tree/main/skills/aws-dynamodb
+repo: alinaqi/maggy
+skill_dir: aws-dynamodb
+added_at: '2026-06-05'

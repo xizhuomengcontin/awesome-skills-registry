@@ -1,0 +1,8 @@
+id: bitwize-music-studio-claude-ai-music-skills-configure
+description: Sets up or edits the plugin configuration file interactively. Use on
+  first-time setup, when config is missing, or when the user wants to change settings.
+url: https://raw.githubusercontent.com/bitwize-music-studio/claude-ai-music-skills/main/skills/configure/SKILL.md
+folder_url: https://github.com/bitwize-music-studio/claude-ai-music-skills/tree/main/skills/configure
+repo: bitwize-music-studio/claude-ai-music-skills
+skill_dir: configure
+added_at: '2026-06-05'

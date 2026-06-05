@@ -1,0 +1,8 @@
+id: alinaqi-maggy-iterative-development
+description: TDD iteration loops using Claude Code Stop hooks - runs tests after each
+  response, feeds failures back automatically
+url: https://raw.githubusercontent.com/alinaqi/maggy/main/skills/iterative-development/SKILL.md
+folder_url: https://github.com/alinaqi/maggy/tree/main/skills/iterative-development
+repo: alinaqi/maggy
+skill_dir: iterative-development
+added_at: '2026-06-05'

@@ -1,0 +1,7 @@
+id: alinaqi-maggy-ai-models
+description: Latest AI models reference - Claude, OpenAI, Gemini, Eleven Labs, Replicate
+url: https://raw.githubusercontent.com/alinaqi/maggy/main/skills/ai-models/SKILL.md
+folder_url: https://github.com/alinaqi/maggy/tree/main/skills/ai-models
+repo: alinaqi/maggy
+skill_dir: ai-models
+added_at: '2026-06-05'

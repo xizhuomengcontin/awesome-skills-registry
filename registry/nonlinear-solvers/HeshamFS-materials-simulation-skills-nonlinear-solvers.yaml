@@ -1,0 +1,15 @@
+id: HeshamFS-materials-simulation-skills-nonlinear-solvers
+description: "Select and configure nonlinear solvers for root-finding f(x)=0, optimization\
+  \ min F(x), and least-squares problems \u2014 choose among Newton, Newton-Krylov,\
+  \ quasi-Newton (BFGS, L-BFGS), Broyden, Anderson acceleration, and Levenberg-Marquardt\
+  \ methods, configure line search or trust-region globalization, diagnose convergence\
+  \ rate (quadratic, linear, stagnated), and assess Jacobian quality and conditioning.\
+  \ Use when a Newton solver converges slowly or diverges, choosing between line search\
+  \ and trust region, debugging nonlinear iteration failures in FEM or phase-field\
+  \ codes, or selecting a solver for large-scale unconstrained optimization, even\
+  \ if the user only says \"my Newton iterations aren't converging.\""
+url: https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/core-numerical/nonlinear-solvers/SKILL.md
+folder_url: https://github.com/HeshamFS/materials-simulation-skills/tree/main/skills/core-numerical/nonlinear-solvers
+repo: HeshamFS/materials-simulation-skills
+skill_dir: nonlinear-solvers
+added_at: '2026-06-05'

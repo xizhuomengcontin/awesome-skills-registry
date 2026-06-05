@@ -1,0 +1,12 @@
+id: awrshift-claude-memory-kit-root
+description: "Persistent memory for Claude Code agents with an agent-audit-ritual\
+  \ architecture. User only talks; the agent captures, audits, proposes promotions,\
+  \ and writes. Memory lives in layers \u2014 daily logs, hot cache (MEMORY.md), topical\
+  \ knowledge articles (knowledge/concepts/), and canonical rules (.claude/rules/)\
+  \ \u2014 plus multi-project isolation via projects/<name>/ and an experiments/ sandbox.\
+  \ /close-day runs the end-of-day audit ritual. Zero external dependencies."
+url: https://raw.githubusercontent.com/awrshift/claude-memory-kit/main/SKILL.md
+folder_url: https://github.com/awrshift/claude-memory-kit/tree/main
+repo: awrshift/claude-memory-kit
+skill_dir: root
+added_at: '2026-06-05'

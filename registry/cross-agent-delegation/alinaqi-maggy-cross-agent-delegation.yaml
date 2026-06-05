@@ -1,0 +1,8 @@
+id: alinaqi-maggy-cross-agent-delegation
+description: "Cross-agent task routing \u2014 Codex auto-review, Kimi delegation by\
+  \ complexity score (iCPG + Claude reasoning), iCPG + Mnemos mandatory for all agents"
+url: https://raw.githubusercontent.com/alinaqi/maggy/main/skills/cross-agent-delegation/SKILL.md
+folder_url: https://github.com/alinaqi/maggy/tree/main/skills/cross-agent-delegation
+repo: alinaqi/maggy
+skill_dir: cross-agent-delegation
+added_at: '2026-06-05'
