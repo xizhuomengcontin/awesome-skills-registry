@@ -1,8 +1,14 @@
 id: garrytan-gbrain-repo-architecture
+display_name: Repo Architecture
 description: Where new brain files go. Decision protocol for filing brain pages by primary subject, not by format or source.
   Reference for all brain-writing skills.
-url: https://raw.githubusercontent.com/garrytan/gbrain/master/skills/repo-architecture/SKILL.md
-folder_url: https://github.com/garrytan/gbrain/tree/master/skills/repo-architecture
-repo: garrytan/gbrain
-skill_dir: repo-architecture
+authors:
+- garrytan
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/repo-architecture
+  repo: garrytan/gbrain
+metadata: {}
 added_at: '2026-06-05'

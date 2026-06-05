@@ -1,9 +1,14 @@
 id: ibelick-ui-skills-fixing-accessibility
-description: Audit and fix HTML accessibility issues including ARIA labels, keyboard
-  navigation, focus management, color contrast, and form errors. Use when adding interactive
-  controls, forms, dialogs, or reviewing WCAG compliance.
-url: https://raw.githubusercontent.com/ibelick/ui-skills/main/skills/fixing-accessibility/SKILL.md
-folder_url: https://github.com/ibelick/ui-skills/tree/main/skills/fixing-accessibility
-repo: ibelick/ui-skills
-skill_dir: fixing-accessibility
+display_name: Fixing Accessibility
+description: Audit and fix HTML accessibility issues including ARIA labels, keyboard navigation, focus management, color contrast,
+  and form errors. Use when adding interactive controls, forms, dialogs, or reviewing WCAG compliance.
+authors:
+- ibelick
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/fixing-accessibility
+  repo: ibelick/ui-skills
+metadata: {}
 added_at: '2026-06-05'

@@ -1,8 +1,13 @@
 id: huifer-Claude-Ally-Health-weightloss-analyzer
-description: "\u5206\u6790\u51CF\u80A5\u6570\u636E\u3001\u8BA1\u7B97\u4EE3\u8C22\u7387\
-  \u3001\u8FFD\u8E2A\u80FD\u91CF\u7F3A\u53E3\u3001\u7BA1\u7406\u51CF\u80A5\u9636\u6BB5"
-url: https://raw.githubusercontent.com/huifer/Claude-Ally-Health/main/skills/weightloss-analyzer/SKILL.md
-folder_url: https://github.com/huifer/Claude-Ally-Health/tree/main/skills/weightloss-analyzer
-repo: huifer/Claude-Ally-Health
-skill_dir: weightloss-analyzer
+display_name: Weightloss Analyzer
+description: 分析减肥数据、计算代谢率、追踪能量缺口、管理减肥阶段
+authors:
+- huifer
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/weightloss-analyzer
+  repo: huifer/Claude-Ally-Health
+metadata: {}
 added_at: '2026-06-05'

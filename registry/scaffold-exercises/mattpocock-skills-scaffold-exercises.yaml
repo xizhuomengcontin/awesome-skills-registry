@@ -1,9 +1,14 @@
 id: mattpocock-skills-scaffold-exercises
-description: Create exercise directory structures with sections, problems, solutions,
-  and explainers that pass linting. Use when user wants to scaffold exercises, create
-  exercise stubs, or set up a new course section.
-url: https://raw.githubusercontent.com/mattpocock/skills/main/skills/misc/scaffold-exercises/SKILL.md
-folder_url: https://github.com/mattpocock/skills/tree/main/skills/misc/scaffold-exercises
-repo: mattpocock/skills
-skill_dir: scaffold-exercises
+display_name: Scaffold Exercises
+description: Create exercise directory structures with sections, problems, solutions, and explainers that pass linting. Use
+  when user wants to scaffold exercises, create exercise stubs, or set up a new course section.
+authors:
+- mattpocock
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/misc/scaffold-exercises
+  repo: mattpocock/skills
+metadata: {}
 added_at: '2026-06-05'

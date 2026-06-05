@@ -1,12 +1,16 @@
 id: Eronred-aso-skills-in-app-events
-description: "When the user wants to create, plan, or optimize App Store In-App Events\
-  \ \u2014 the event cards that appear on the Today tab, search results, and your\
-  \ product page. Use when the user mentions \"in-app event\", \"App Store event\"\
-  , \"event card\", \"Today tab\", \"live event\", \"challenge\", \"game event\",\
-  \ \"seasonal event card\", or wants visibility beyond organic search. For general\
-  \ ASO, see aso-audit. For seasonal keyword strategy, see seasonal-aso."
-url: https://raw.githubusercontent.com/Eronred/aso-skills/main/skills/in-app-events/SKILL.md
-folder_url: https://github.com/Eronred/aso-skills/tree/main/skills/in-app-events
-repo: Eronred/aso-skills
-skill_dir: in-app-events
+display_name: In App Events
+description: When the user wants to create, plan, or optimize App Store In-App Events — the event cards that appear on the
+  Today tab, search results, and your product page. Use when the user mentions "in-app event", "App Store event", "event card",
+  "Today tab", "live event", "challenge", "game event", "seasonal event card", or wants visibility beyond organic search.
+  For general ASO, see aso-audit. For seasonal keyword strategy, see seasonal-aso.
+authors:
+- Eronred
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/in-app-events
+  repo: Eronred/aso-skills
+metadata: {}
 added_at: '2026-06-05'

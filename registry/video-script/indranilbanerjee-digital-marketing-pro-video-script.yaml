@@ -1,8 +1,13 @@
 id: indranilbanerjee-digital-marketing-pro-video-script
-description: 'Write video scripts. Use when: creating YouTube, TikTok, Reels, LinkedIn,
-  demo, or explainer video content.'
-url: https://raw.githubusercontent.com/indranilbanerjee/digital-marketing-pro/main/skills/video-script/SKILL.md
-folder_url: https://github.com/indranilbanerjee/digital-marketing-pro/tree/main/skills/video-script
-repo: indranilbanerjee/digital-marketing-pro
-skill_dir: video-script
+display_name: Video Script
+description: 'Write video scripts. Use when: creating YouTube, TikTok, Reels, LinkedIn, demo, or explainer video content.'
+authors:
+- indranilbanerjee
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/video-script
+  repo: indranilbanerjee/digital-marketing-pro
+metadata: {}
 added_at: '2026-06-05'

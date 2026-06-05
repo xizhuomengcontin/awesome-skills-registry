@@ -1,14 +1,17 @@
 id: K-Dense-AI-claude-scientific-skills-autoskill
-description: "Observe the user's screen via screenpipe, detect repeated research workflows,\
-  \ match them against existing scientific-agent-skills, and draft new skills (or\
-  \ composition recipes that chain existing ones) for the patterns not yet covered.\
-  \ Use when the user asks to analyze their recent work and propose skills based on\
-  \ what they actually do. Requires the screenpipe daemon (https://github.com/screenpipe/screenpipe)\
-  \ running locally on port 3030 \u2014 the skill has no other data source and will\
-  \ refuse to run if screenpipe is unreachable. All detection runs locally; only redacted\
-  \ cluster summaries reach the LLM."
-url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/skills/autoskill/SKILL.md
-folder_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/autoskill
-repo: K-Dense-AI/claude-scientific-skills
-skill_dir: autoskill
+display_name: Autoskill
+description: Observe the user's screen via screenpipe, detect repeated research workflows, match them against existing scientific-agent-skills,
+  and draft new skills (or composition recipes that chain existing ones) for the patterns not yet covered. Use when the user
+  asks to analyze their recent work and propose skills based on what they actually do. Requires the screenpipe daemon (https://github.com/screenpipe/screenpipe)
+  running locally on port 3030 — the skill has no other data source and will refuse to run if screenpipe is unreachable. All
+  detection runs locally; only redacted cluster summaries reach the LLM.
+authors:
+- K-Dense-AI
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/autoskill
+  repo: K-Dense-AI/claude-scientific-skills
+metadata: {}
 added_at: '2026-06-05'

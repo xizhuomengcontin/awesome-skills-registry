@@ -1,9 +1,14 @@
 id: K-Dense-AI-claude-scientific-skills-benchling-integration
-description: Benchling Python SDK and REST API integration for registry entities,
-  inventory, ELN entries, workflows, Benchling Apps, and Data Warehouse queries. Use
-  when automating lab data with benchling-sdk or the v2 API.
-url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/skills/benchling-integration/SKILL.md
-folder_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/benchling-integration
-repo: K-Dense-AI/claude-scientific-skills
-skill_dir: benchling-integration
+display_name: Benchling Integration
+description: Benchling Python SDK and REST API integration for registry entities, inventory, ELN entries, workflows, Benchling
+  Apps, and Data Warehouse queries. Use when automating lab data with benchling-sdk or the v2 API.
+authors:
+- K-Dense-AI
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/benchling-integration
+  repo: K-Dense-AI/claude-scientific-skills
+metadata: {}
 added_at: '2026-06-05'

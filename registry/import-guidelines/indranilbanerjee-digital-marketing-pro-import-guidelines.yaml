@@ -1,8 +1,13 @@
 id: indranilbanerjee-digital-marketing-pro-import-guidelines
-description: 'Import brand guidelines. Use when: adding voice guides, style restrictions,
-  or messaging frameworks.'
-url: https://raw.githubusercontent.com/indranilbanerjee/digital-marketing-pro/main/skills/import-guidelines/SKILL.md
-folder_url: https://github.com/indranilbanerjee/digital-marketing-pro/tree/main/skills/import-guidelines
-repo: indranilbanerjee/digital-marketing-pro
-skill_dir: import-guidelines
+display_name: Import Guidelines
+description: 'Import brand guidelines. Use when: adding voice guides, style restrictions, or messaging frameworks.'
+authors:
+- indranilbanerjee
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/import-guidelines
+  repo: indranilbanerjee/digital-marketing-pro
+metadata: {}
 added_at: '2026-06-05'

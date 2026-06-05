@@ -1,15 +1,18 @@
 id: K-Dense-AI-claude-scientific-skills-geopandas
-description: Python library for working with geospatial vector data including shapefiles,
-  GeoJSON, and GeoPackage files. Use when working with geographic data for spatial
-  analysis, geometric operations, coordinate transformations, spatial joins, overlay
-  operations, choropleth mapping, or any task involving reading/writing/analyzing
-  vector geographic data. Supports PostGIS databases, interactive maps, and integration
-  with matplotlib/folium/cartopy. Use for tasks like buffer analysis, spatial joins
-  between datasets, dissolving boundaries, clipping data, calculating areas/distances,
-  reprojecting coordinate systems, creating maps, or converting between spatial file
-  formats.
-url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/skills/geopandas/SKILL.md
-folder_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/geopandas
-repo: K-Dense-AI/claude-scientific-skills
-skill_dir: geopandas
+display_name: Geopandas
+description: Python library for working with geospatial vector data including shapefiles, GeoJSON, and GeoPackage files. Use
+  when working with geographic data for spatial analysis, geometric operations, coordinate transformations, spatial joins,
+  overlay operations, choropleth mapping, or any task involving reading/writing/analyzing vector geographic data. Supports
+  PostGIS databases, interactive maps, and integration with matplotlib/folium/cartopy. Use for tasks like buffer analysis,
+  spatial joins between datasets, dissolving boundaries, clipping data, calculating areas/distances, reprojecting coordinate
+  systems, creating maps, or converting between spatial file formats.
+authors:
+- K-Dense-AI
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/geopandas
+  repo: K-Dense-AI/claude-scientific-skills
+metadata: {}
 added_at: '2026-06-05'

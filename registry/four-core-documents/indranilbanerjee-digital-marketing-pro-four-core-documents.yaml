@@ -1,9 +1,14 @@
 id: indranilbanerjee-digital-marketing-pro-four-core-documents
-description: 'Produce the Four Core Documents at strategic depth (61 total steps):
-  Business & SBU Analysis, Segmentation Framework, Brand Positioning, DMFlow. Use
-  when running Part 3 of the engagement methodology.'
-url: https://raw.githubusercontent.com/indranilbanerjee/digital-marketing-pro/main/skills/four-core-documents/SKILL.md
-folder_url: https://github.com/indranilbanerjee/digital-marketing-pro/tree/main/skills/four-core-documents
-repo: indranilbanerjee/digital-marketing-pro
-skill_dir: four-core-documents
+display_name: Four Core Documents
+description: 'Produce the Four Core Documents at strategic depth (61 total steps): Business & SBU Analysis, Segmentation Framework,
+  Brand Positioning, DMFlow. Use when running Part 3 of the engagement methodology.'
+authors:
+- indranilbanerjee
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/four-core-documents
+  repo: indranilbanerjee/digital-marketing-pro
+metadata: {}
 added_at: '2026-06-05'

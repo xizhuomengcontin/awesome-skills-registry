@@ -1,8 +1,13 @@
 id: indranilbanerjee-digital-marketing-pro-roi-calculator
-description: 'Calculate marketing ROI. Use when: measuring campaign ROAS, CAC, CPL,
-  LTV, or multi-channel attribution returns.'
-url: https://raw.githubusercontent.com/indranilbanerjee/digital-marketing-pro/main/skills/roi-calculator/SKILL.md
-folder_url: https://github.com/indranilbanerjee/digital-marketing-pro/tree/main/skills/roi-calculator
-repo: indranilbanerjee/digital-marketing-pro
-skill_dir: roi-calculator
+display_name: Roi Calculator
+description: 'Calculate marketing ROI. Use when: measuring campaign ROAS, CAC, CPL, LTV, or multi-channel attribution returns.'
+authors:
+- indranilbanerjee
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/roi-calculator
+  repo: indranilbanerjee/digital-marketing-pro
+metadata: {}
 added_at: '2026-06-05'

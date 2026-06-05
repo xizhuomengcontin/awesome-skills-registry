@@ -1,9 +1,14 @@
 id: metalbear-co-skills-mirrord-operator
-description: Help users install and configure the mirrord operator for team environments.
-  Use when users ask about operator setup, Helm installation, licensing, or multi-user
-  mirrord deployments.
-url: https://raw.githubusercontent.com/metalbear-co/skills/main/skills/mirrord-operator/SKILL.md
-folder_url: https://github.com/metalbear-co/skills/tree/main/skills/mirrord-operator
-repo: metalbear-co/skills
-skill_dir: mirrord-operator
+display_name: Mirrord Operator
+description: Help users install and configure the mirrord operator for team environments. Use when users ask about operator
+  setup, Helm installation, licensing, or multi-user mirrord deployments.
+authors:
+- metalbear-co
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/mirrord-operator
+  repo: metalbear-co/skills
+metadata: {}
 added_at: '2026-06-05'

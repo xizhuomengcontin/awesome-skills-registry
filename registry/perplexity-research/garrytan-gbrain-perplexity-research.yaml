@@ -1,11 +1,15 @@
 id: garrytan-gbrain-perplexity-research
-description: Brain-augmented web research. Sends brain context about a topic to Perplexity,
-  which searches the web with citations and returns what is NEW vs what the brain
-  already knows. Use for entity enrichment, current-state checks, deal monitoring,
-  and freshness deltas. NOT for simple URL fetches (use web_fetch) or brain-only queries
-  (use gbrain query).
-url: https://raw.githubusercontent.com/garrytan/gbrain/master/skills/perplexity-research/SKILL.md
-folder_url: https://github.com/garrytan/gbrain/tree/master/skills/perplexity-research
-repo: garrytan/gbrain
-skill_dir: perplexity-research
+display_name: Perplexity Research
+description: Brain-augmented web research. Sends brain context about a topic to Perplexity, which searches the web with citations
+  and returns what is NEW vs what the brain already knows. Use for entity enrichment, current-state checks, deal monitoring,
+  and freshness deltas. NOT for simple URL fetches (use web_fetch) or brain-only queries (use gbrain query).
+authors:
+- garrytan
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/perplexity-research
+  repo: garrytan/gbrain
+metadata: {}
 added_at: '2026-06-05'

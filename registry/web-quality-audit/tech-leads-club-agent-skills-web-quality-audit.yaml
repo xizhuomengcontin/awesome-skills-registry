@@ -1,12 +1,16 @@
 id: tech-leads-club-agent-skills-web-quality-audit
-description: "Comprehensive web quality audit covering performance, accessibility,\
-  \ SEO, and best practices in a single review. Use when asked to \"audit my site\"\
-  , \"review web quality\", \"run lighthouse audit\", \"check page quality\", or \"\
-  optimize my website\" across multiple areas at once. Orchestrates specialized skills\
-  \ for depth. Do NOT use for single-area audits \u2014 prefer core-web-vitals, web-accessibility,\
-  \ seo, or web-best-practices for focused work."
-url: https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(quality)/web-quality-audit/SKILL.md
-folder_url: https://github.com/tech-leads-club/agent-skills/tree/main/packages/skills-catalog/skills/(quality)/web-quality-audit
-repo: tech-leads-club/agent-skills
-skill_dir: web-quality-audit
+display_name: Web Quality Audit
+description: Comprehensive web quality audit covering performance, accessibility, SEO, and best practices in a single review.
+  Use when asked to "audit my site", "review web quality", "run lighthouse audit", "check page quality", or "optimize my website"
+  across multiple areas at once. Orchestrates specialized skills for depth. Do NOT use for single-area audits — prefer core-web-vitals,
+  web-accessibility, seo, or web-best-practices for focused work.
+authors:
+- tech-leads-club
+is_official: false
+tags: []
+category: none
+source:
+  path: /packages/skills-catalog/skills/(quality)/web-quality-audit
+  repo: tech-leads-club/agent-skills
+metadata: {}
 added_at: '2026-06-05'

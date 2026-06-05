@@ -1,8 +1,14 @@
 id: indranilbanerjee-digital-marketing-pro-audience-intelligence
-description: 'Research target audiences. Use when: buyer personas, segmentation, Jobs-to-Be-Done,
-  psychographic profiling, audience deep-dive.'
-url: https://raw.githubusercontent.com/indranilbanerjee/digital-marketing-pro/main/skills/audience-intelligence/SKILL.md
-folder_url: https://github.com/indranilbanerjee/digital-marketing-pro/tree/main/skills/audience-intelligence
-repo: indranilbanerjee/digital-marketing-pro
-skill_dir: audience-intelligence
+display_name: Audience Intelligence
+description: 'Research target audiences. Use when: buyer personas, segmentation, Jobs-to-Be-Done, psychographic profiling,
+  audience deep-dive.'
+authors:
+- indranilbanerjee
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/audience-intelligence
+  repo: indranilbanerjee/digital-marketing-pro
+metadata: {}
 added_at: '2026-06-05'

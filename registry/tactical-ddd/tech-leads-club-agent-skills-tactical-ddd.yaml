@@ -1,15 +1,18 @@
 id: tech-leads-club-agent-skills-tactical-ddd
-description: Detects anemic domain models, validates and refactors them into rich
-  domain models, and enforces tactical DDD patterns (Entities, Value Objects, Aggregates,
-  Domain Services, Domain Events). Use when the user asks to validate, review, or
-  check domain models or DDD code; detect anemia; refactor domain objects; improve
-  encapsulation; or mentions terms like "anemic model", "rich domain", "aggregate",
-  "value object", "domain event", "ubiquitous language", "is this good DDD", "does
-  this follow DDD", or "check my domain". Do NOT use for module or service boundary
-  design, architectural decomposition, strategic DDD context mapping, or code outside
-  the domain layer (DTOs, controllers, infrastructure adapters).
-url: https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(architecture)/tactical-ddd/SKILL.md
-folder_url: https://github.com/tech-leads-club/agent-skills/tree/main/packages/skills-catalog/skills/(architecture)/tactical-ddd
-repo: tech-leads-club/agent-skills
-skill_dir: tactical-ddd
+display_name: Tactical Ddd
+description: Detects anemic domain models, validates and refactors them into rich domain models, and enforces tactical DDD
+  patterns (Entities, Value Objects, Aggregates, Domain Services, Domain Events). Use when the user asks to validate, review,
+  or check domain models or DDD code; detect anemia; refactor domain objects; improve encapsulation; or mentions terms like
+  "anemic model", "rich domain", "aggregate", "value object", "domain event", "ubiquitous language", "is this good DDD", "does
+  this follow DDD", or "check my domain". Do NOT use for module or service boundary design, architectural decomposition, strategic
+  DDD context mapping, or code outside the domain layer (DTOs, controllers, infrastructure adapters).
+authors:
+- tech-leads-club
+is_official: false
+tags: []
+category: none
+source:
+  path: /packages/skills-catalog/skills/(architecture)/tactical-ddd
+  repo: tech-leads-club/agent-skills
+metadata: {}
 added_at: '2026-06-05'

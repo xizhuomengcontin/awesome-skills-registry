@@ -1,9 +1,14 @@
 id: lawvable-awesome-legal-skills-skill-creator-anthropic
-description: Guide for creating effective skills. This skill should be used when users
-  want to create a new skill (or update an existing skill) that extends Claude's capabilities
-  with specialized knowledge, workflows, or tool integrations.
-url: https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/skill-creator-anthropic/SKILL.md
-folder_url: https://github.com/lawvable/awesome-legal-skills/tree/main/skills/skill-creator-anthropic
-repo: lawvable/awesome-legal-skills
-skill_dir: skill-creator-anthropic
+display_name: Skill Creator Anthropic
+description: Guide for creating effective skills. This skill should be used when users want to create a new skill (or update
+  an existing skill) that extends Claude's capabilities with specialized knowledge, workflows, or tool integrations.
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/skill-creator-anthropic
+  repo: lawvable/awesome-legal-skills
+metadata: {}
 added_at: '2026-06-05'

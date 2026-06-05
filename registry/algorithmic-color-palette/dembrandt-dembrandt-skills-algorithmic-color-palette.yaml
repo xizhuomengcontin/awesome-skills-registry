@@ -1,11 +1,16 @@
 id: dembrandt-dembrandt-skills-algorithmic-color-palette
-description: Derive a full UI colour palette algorithmically from one or two brand
-  colours. Darker and lighter variants for interactive states, desaturated greys from
-  the brand hue for borders and backgrounds, and semantic colours that feel coherent
-  with the brand rather than generic. Use when building a colour system from scratch
-  or expanding a limited brand palette for UI use.
-url: https://raw.githubusercontent.com/dembrandt/dembrandt-skills/main/skills/algorithmic-color-palette/SKILL.md
-folder_url: https://github.com/dembrandt/dembrandt-skills/tree/main/skills/algorithmic-color-palette
-repo: dembrandt/dembrandt-skills
-skill_dir: algorithmic-color-palette
+display_name: Algorithmic Color Palette
+description: Derive a full UI colour palette algorithmically from one or two brand colours. Darker and lighter variants for
+  interactive states, desaturated greys from the brand hue for borders and backgrounds, and semantic colours that feel coherent
+  with the brand rather than generic. Use when building a colour system from scratch or expanding a limited brand palette
+  for UI use.
+authors:
+- dembrandt
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/algorithmic-color-palette
+  repo: dembrandt/dembrandt-skills
+metadata: {}
 added_at: '2026-06-05'

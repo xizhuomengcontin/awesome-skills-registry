@@ -1,14 +1,18 @@
 id: coreyhaines31-marketingskills-onboarding
-description: When the user wants to optimize post-signup onboarding, user activation,
-  first-run experience, or time-to-value. Also use when the user mentions "onboarding
-  flow," "activation rate," "user activation," "first-run experience," "empty states,"
-  "onboarding checklist," "aha moment," "new user experience," "users aren't activating,"
-  "nobody completes setup," "low activation rate," "users sign up but don't use the
-  product," "time to value," or "first session experience." Use this whenever users
-  are signing up but not sticking around. For signup/registration optimization, see
-  signup. For ongoing email sequences, see emails.
-url: https://raw.githubusercontent.com/coreyhaines31/marketingskills/main/skills/onboarding/SKILL.md
-folder_url: https://github.com/coreyhaines31/marketingskills/tree/main/skills/onboarding
-repo: coreyhaines31/marketingskills
-skill_dir: onboarding
+display_name: Onboarding
+description: When the user wants to optimize post-signup onboarding, user activation, first-run experience, or time-to-value.
+  Also use when the user mentions "onboarding flow," "activation rate," "user activation," "first-run experience," "empty
+  states," "onboarding checklist," "aha moment," "new user experience," "users aren't activating," "nobody completes setup,"
+  "low activation rate," "users sign up but don't use the product," "time to value," or "first session experience." Use this
+  whenever users are signing up but not sticking around. For signup/registration optimization, see signup. For ongoing email
+  sequences, see emails.
+authors:
+- coreyhaines31
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/onboarding
+  repo: coreyhaines31/marketingskills
+metadata: {}
 added_at: '2026-06-05'

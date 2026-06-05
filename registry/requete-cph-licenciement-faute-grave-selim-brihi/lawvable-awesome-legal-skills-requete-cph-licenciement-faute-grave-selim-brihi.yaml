@@ -1,12 +1,16 @@
 id: lawvable-awesome-legal-skills-requete-cph-licenciement-faute-grave-selim-brihi
-description: "R\xE9daction de requ\xEAtes devant le Conseil de prud'hommes pour contester\
-  \ un licenciement pour faute grave. Utiliser ce skill quand l'utilisateur demande\
-  \ de r\xE9diger une requ\xEAte CPH, contester un licenciement pour faute grave,\
-  \ pr\xE9parer une saisine du CPH pour un litige li\xE9 \xE0 un licenciement, ou\
-  \ cr\xE9er un document de contestation de licenciement en droit du travail fran\xE7\
-  ais."
-url: https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/requete-cph-licenciement-faute-grave-selim-brihi/SKILL.md
-folder_url: https://github.com/lawvable/awesome-legal-skills/tree/main/skills/requete-cph-licenciement-faute-grave-selim-brihi
-repo: lawvable/awesome-legal-skills
-skill_dir: requete-cph-licenciement-faute-grave-selim-brihi
+display_name: Requete Cph Licenciement Faute Grave Selim Brihi
+description: Rédaction de requêtes devant le Conseil de prud'hommes pour contester un licenciement pour faute grave. Utiliser
+  ce skill quand l'utilisateur demande de rédiger une requête CPH, contester un licenciement pour faute grave, préparer une
+  saisine du CPH pour un litige lié à un licenciement, ou créer un document de contestation de licenciement en droit du travail
+  français.
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/requete-cph-licenciement-faute-grave-selim-brihi
+  repo: lawvable/awesome-legal-skills
+metadata: {}
 added_at: '2026-06-05'

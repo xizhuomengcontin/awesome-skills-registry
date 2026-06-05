@@ -1,12 +1,16 @@
 id: K-Dense-AI-claude-scientific-skills-esm
-description: Comprehensive toolkit for EvolutionaryScale protein language models including
-  ESM3 (generative multimodal design across sequence, structure, and function) and
-  ESM C (efficient embeddings). Use for protein sequence/structure/function tasks,
-  inverse folding, embeddings, variant design, and ESMFold2 structure prediction via
-  Biohub. Supports local open weights (Python 3.12, esm on PyPI) and cloud Forge/Biohub
-  APIs with ESM_API_KEY authentication.
-url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/skills/esm/SKILL.md
-folder_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/esm
-repo: K-Dense-AI/claude-scientific-skills
-skill_dir: esm
+display_name: Esm
+description: Comprehensive toolkit for EvolutionaryScale protein language models including ESM3 (generative multimodal design
+  across sequence, structure, and function) and ESM C (efficient embeddings). Use for protein sequence/structure/function
+  tasks, inverse folding, embeddings, variant design, and ESMFold2 structure prediction via Biohub. Supports local open weights
+  (Python 3.12, esm on PyPI) and cloud Forge/Biohub APIs with ESM_API_KEY authentication.
+authors:
+- K-Dense-AI
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/esm
+  repo: K-Dense-AI/claude-scientific-skills
+metadata: {}
 added_at: '2026-06-05'

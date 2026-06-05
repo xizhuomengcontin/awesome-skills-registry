@@ -1,9 +1,14 @@
 id: mattpocock-skills-setup-pre-commit
-description: Set up Husky pre-commit hooks with lint-staged (Prettier), type checking,
-  and tests in the current repo. Use when user wants to add pre-commit hooks, set
-  up Husky, configure lint-staged, or add commit-time formatting/typechecking/testing.
-url: https://raw.githubusercontent.com/mattpocock/skills/main/skills/misc/setup-pre-commit/SKILL.md
-folder_url: https://github.com/mattpocock/skills/tree/main/skills/misc/setup-pre-commit
-repo: mattpocock/skills
-skill_dir: setup-pre-commit
+display_name: Setup Pre Commit
+description: Set up Husky pre-commit hooks with lint-staged (Prettier), type checking, and tests in the current repo. Use
+  when user wants to add pre-commit hooks, set up Husky, configure lint-staged, or add commit-time formatting/typechecking/testing.
+authors:
+- mattpocock
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/misc/setup-pre-commit
+  repo: mattpocock/skills
+metadata: {}
 added_at: '2026-06-05'

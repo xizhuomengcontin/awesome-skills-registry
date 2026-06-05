@@ -1,13 +1,17 @@
 id: tech-leads-club-agent-skills-positioning-icp
-description: When the user wants to define their ideal customer profile, position
-  an AI product, build messaging architecture, or validate product-market fit. Also
-  use when the user mentions 'ICP,' 'ideal customer profile,' 'positioning,' 'PMF,'
-  'product-market fit,' 'messaging,' 'buyer persona,' 'enrichment signals,' 'market
-  positioning,' or 'competitive positioning.' This skill covers market positioning,
-  ICP definition, messaging architecture, and PMF validation for AI-native products.
-  Do NOT use for technical implementation, code review, or software architecture.
-url: https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(gtm)/positioning-icp/SKILL.md
-folder_url: https://github.com/tech-leads-club/agent-skills/tree/main/packages/skills-catalog/skills/(gtm)/positioning-icp
-repo: tech-leads-club/agent-skills
-skill_dir: positioning-icp
+display_name: Positioning Icp
+description: When the user wants to define their ideal customer profile, position an AI product, build messaging architecture,
+  or validate product-market fit. Also use when the user mentions 'ICP,' 'ideal customer profile,' 'positioning,' 'PMF,' 'product-market
+  fit,' 'messaging,' 'buyer persona,' 'enrichment signals,' 'market positioning,' or 'competitive positioning.' This skill
+  covers market positioning, ICP definition, messaging architecture, and PMF validation for AI-native products. Do NOT use
+  for technical implementation, code review, or software architecture.
+authors:
+- tech-leads-club
+is_official: false
+tags: []
+category: none
+source:
+  path: /packages/skills-catalog/skills/(gtm)/positioning-icp
+  repo: tech-leads-club/agent-skills
+metadata: {}
 added_at: '2026-06-05'

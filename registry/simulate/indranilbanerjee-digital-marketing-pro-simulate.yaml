@@ -1,8 +1,14 @@
 id: indranilbanerjee-digital-marketing-pro-simulate
-description: 'Simulate revenue impact via Monte Carlo. Use when: testing channel mix
-  changes, budget shifts, or new channel launches.'
-url: https://raw.githubusercontent.com/indranilbanerjee/digital-marketing-pro/main/skills/simulate/SKILL.md
-folder_url: https://github.com/indranilbanerjee/digital-marketing-pro/tree/main/skills/simulate
-repo: indranilbanerjee/digital-marketing-pro
-skill_dir: simulate
+display_name: Simulate
+description: 'Simulate revenue impact via Monte Carlo. Use when: testing channel mix changes, budget shifts, or new channel
+  launches.'
+authors:
+- indranilbanerjee
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/simulate
+  repo: indranilbanerjee/digital-marketing-pro
+metadata: {}
 added_at: '2026-06-05'

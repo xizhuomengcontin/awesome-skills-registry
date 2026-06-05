@@ -1,8 +1,14 @@
 id: indranilbanerjee-digital-marketing-pro-search-knowledge
-description: 'Search stored brand knowledge. Use when: recalling past learnings, voice
-  guidelines, or competitor insights via semantic search.'
-url: https://raw.githubusercontent.com/indranilbanerjee/digital-marketing-pro/main/skills/search-knowledge/SKILL.md
-folder_url: https://github.com/indranilbanerjee/digital-marketing-pro/tree/main/skills/search-knowledge
-repo: indranilbanerjee/digital-marketing-pro
-skill_dir: search-knowledge
+display_name: Search Knowledge
+description: 'Search stored brand knowledge. Use when: recalling past learnings, voice guidelines, or competitor insights
+  via semantic search.'
+authors:
+- indranilbanerjee
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/search-knowledge
+  repo: indranilbanerjee/digital-marketing-pro
+metadata: {}
 added_at: '2026-06-05'

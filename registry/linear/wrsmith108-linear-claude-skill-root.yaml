@@ -1,8 +1,14 @@
 id: wrsmith108-linear-claude-skill-root
-description: Managing Linear issues, projects, and teams. Use when working with Linear
-  tasks, creating issues, updating status, querying projects, or managing team workflows.
-url: https://raw.githubusercontent.com/wrsmith108/linear-claude-skill/main/SKILL.md
-folder_url: https://github.com/wrsmith108/linear-claude-skill/tree/main
-repo: wrsmith108/linear-claude-skill
-skill_dir: root
+display_name: Root
+description: Managing Linear issues, projects, and teams. Use when working with Linear tasks, creating issues, updating status,
+  querying projects, or managing team workflows.
+authors:
+- wrsmith108
+is_official: false
+tags: []
+category: none
+source:
+  path: /
+  repo: wrsmith108/linear-claude-skill
+metadata: {}
 added_at: '2026-06-05'

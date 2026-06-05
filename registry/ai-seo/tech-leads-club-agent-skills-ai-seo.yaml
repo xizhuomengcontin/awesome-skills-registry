@@ -1,13 +1,17 @@
 id: tech-leads-club-agent-skills-ai-seo
-description: When the user wants to build programmatic SEO with AI, create competitor
-  alternative pages, optimize for AI Overviews, or scale content production. Also
-  use when the user mentions 'SEO,' 'programmatic SEO,' 'AI content,' 'competitor
-  alternative pages,' 'AI Overviews,' 'search optimization,' 'DataForSEO,' 'content
-  at scale,' 'keyword strategy,' or 'organic traffic.' This skill covers AI-powered
-  SEO strategy from keyword research through programmatic page generation. Do NOT
-  use for technical implementation, code review, or software architecture.
-url: https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(gtm)/ai-seo/SKILL.md
-folder_url: https://github.com/tech-leads-club/agent-skills/tree/main/packages/skills-catalog/skills/(gtm)/ai-seo
-repo: tech-leads-club/agent-skills
-skill_dir: ai-seo
+display_name: Ai Seo
+description: When the user wants to build programmatic SEO with AI, create competitor alternative pages, optimize for AI Overviews,
+  or scale content production. Also use when the user mentions 'SEO,' 'programmatic SEO,' 'AI content,' 'competitor alternative
+  pages,' 'AI Overviews,' 'search optimization,' 'DataForSEO,' 'content at scale,' 'keyword strategy,' or 'organic traffic.'
+  This skill covers AI-powered SEO strategy from keyword research through programmatic page generation. Do NOT use for technical
+  implementation, code review, or software architecture.
+authors:
+- tech-leads-club
+is_official: false
+tags: []
+category: none
+source:
+  path: /packages/skills-catalog/skills/(gtm)/ai-seo
+  repo: tech-leads-club/agent-skills
+metadata: {}
 added_at: '2026-06-05'

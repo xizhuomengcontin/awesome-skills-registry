@@ -1,8 +1,13 @@
 id: indranilbanerjee-digital-marketing-pro-language-config
-description: 'Configure language settings. Use when: setting primary languages, do-not-translate
-  terms, or locale formatting.'
-url: https://raw.githubusercontent.com/indranilbanerjee/digital-marketing-pro/main/skills/language-config/SKILL.md
-folder_url: https://github.com/indranilbanerjee/digital-marketing-pro/tree/main/skills/language-config
-repo: indranilbanerjee/digital-marketing-pro
-skill_dir: language-config
+display_name: Language Config
+description: 'Configure language settings. Use when: setting primary languages, do-not-translate terms, or locale formatting.'
+authors:
+- indranilbanerjee
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/language-config
+  repo: indranilbanerjee/digital-marketing-pro
+metadata: {}
 added_at: '2026-06-05'

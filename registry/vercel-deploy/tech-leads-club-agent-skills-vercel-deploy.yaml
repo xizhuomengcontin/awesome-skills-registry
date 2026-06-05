@@ -1,10 +1,15 @@
 id: tech-leads-club-agent-skills-vercel-deploy
-description: Deploy applications and websites to Vercel. Use when the user requests
-  deployment actions like "deploy my app", "deploy and give me the link", "push this
-  live", or "create a preview deployment". Do NOT use for deploying to Netlify, Cloudflare,
-  or Render (use their respective skills).
-url: https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/vercel-deploy/SKILL.md
-folder_url: https://github.com/tech-leads-club/agent-skills/tree/main/packages/skills-catalog/skills/(cloud)/vercel-deploy
-repo: tech-leads-club/agent-skills
-skill_dir: vercel-deploy
+display_name: Vercel Deploy
+description: Deploy applications and websites to Vercel. Use when the user requests deployment actions like "deploy my app",
+  "deploy and give me the link", "push this live", or "create a preview deployment". Do NOT use for deploying to Netlify,
+  Cloudflare, or Render (use their respective skills).
+authors:
+- tech-leads-club
+is_official: false
+tags: []
+category: none
+source:
+  path: /packages/skills-catalog/skills/(cloud)/vercel-deploy
+  repo: tech-leads-club/agent-skills
+metadata: {}
 added_at: '2026-06-05'

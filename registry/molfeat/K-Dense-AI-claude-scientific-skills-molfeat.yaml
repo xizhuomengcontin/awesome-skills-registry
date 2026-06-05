@@ -1,9 +1,14 @@
 id: K-Dense-AI-claude-scientific-skills-molfeat
-description: Molecular featurization for ML (100+ featurizers). ECFP, MACCS, descriptors,
-  pretrained models (ChemBERTa), convert SMILES to features, for QSAR and molecular
-  ML.
-url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/skills/molfeat/SKILL.md
-folder_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/molfeat
-repo: K-Dense-AI/claude-scientific-skills
-skill_dir: molfeat
+display_name: Molfeat
+description: Molecular featurization for ML (100+ featurizers). ECFP, MACCS, descriptors, pretrained models (ChemBERTa), convert
+  SMILES to features, for QSAR and molecular ML.
+authors:
+- K-Dense-AI
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/molfeat
+  repo: K-Dense-AI/claude-scientific-skills
+metadata: {}
 added_at: '2026-06-05'

@@ -1,10 +1,15 @@
 id: Eronred-aso-skills-app-marketing-context
-description: "When the user wants to create or update their app marketing context\
-  \ document. Also use when the user mentions \"app context\", \"marketing brief\"\
-  , \"app positioning\", or when starting any ASO or app marketing project. This is\
-  \ the foundation skill \u2014 all other skills check for this context first."
-url: https://raw.githubusercontent.com/Eronred/aso-skills/main/skills/app-marketing-context/SKILL.md
-folder_url: https://github.com/Eronred/aso-skills/tree/main/skills/app-marketing-context
-repo: Eronred/aso-skills
-skill_dir: app-marketing-context
+display_name: App Marketing Context
+description: When the user wants to create or update their app marketing context document. Also use when the user mentions
+  "app context", "marketing brief", "app positioning", or when starting any ASO or app marketing project. This is the foundation
+  skill — all other skills check for this context first.
+authors:
+- Eronred
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/app-marketing-context
+  repo: Eronred/aso-skills
+metadata: {}
 added_at: '2026-06-05'

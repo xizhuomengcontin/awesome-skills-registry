@@ -1,11 +1,15 @@
 id: Eronred-aso-skills-screenshot-optimization
-description: When the user wants to design, optimize, or evaluate App Store screenshots
-  and preview videos. Also use when the user mentions "screenshots", "app preview",
-  "product page design", "screenshot design", "creative assets", or "what should my
-  screenshots show". For A/B testing screenshots, see ab-test-store-listing. For full
-  ASO audit, see aso-audit.
-url: https://raw.githubusercontent.com/Eronred/aso-skills/main/skills/screenshot-optimization/SKILL.md
-folder_url: https://github.com/Eronred/aso-skills/tree/main/skills/screenshot-optimization
-repo: Eronred/aso-skills
-skill_dir: screenshot-optimization
+display_name: Screenshot Optimization
+description: When the user wants to design, optimize, or evaluate App Store screenshots and preview videos. Also use when
+  the user mentions "screenshots", "app preview", "product page design", "screenshot design", "creative assets", or "what
+  should my screenshots show". For A/B testing screenshots, see ab-test-store-listing. For full ASO audit, see aso-audit.
+authors:
+- Eronred
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/screenshot-optimization
+  repo: Eronred/aso-skills
+metadata: {}
 added_at: '2026-06-05'

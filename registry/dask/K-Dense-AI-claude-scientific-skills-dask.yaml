@@ -1,11 +1,15 @@
 id: K-Dense-AI-claude-scientific-skills-dask
-description: Distributed computing for larger-than-RAM pandas/NumPy workflows. Use
-  when you need to scale existing pandas/NumPy code beyond memory or across clusters.
-  Best for parallel file processing, distributed ML, integration with existing pandas
-  code. For out-of-core analytics on single machine use vaex; for in-memory speed
-  use polars.
-url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/skills/dask/SKILL.md
-folder_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/dask
-repo: K-Dense-AI/claude-scientific-skills
-skill_dir: dask
+display_name: Dask
+description: Distributed computing for larger-than-RAM pandas/NumPy workflows. Use when you need to scale existing pandas/NumPy
+  code beyond memory or across clusters. Best for parallel file processing, distributed ML, integration with existing pandas
+  code. For out-of-core analytics on single machine use vaex; for in-memory speed use polars.
+authors:
+- K-Dense-AI
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/dask
+  repo: K-Dense-AI/claude-scientific-skills
+metadata: {}
 added_at: '2026-06-05'

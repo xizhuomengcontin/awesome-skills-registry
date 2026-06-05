@@ -1,9 +1,14 @@
 id: honeydew-ai-honeydew-ai-coding-agents-plugins-relation-creation
-description: "Guides you through defining a relationship between two Honeydew entities\
-  \ \u2014 covering join type, direction, cross-filtering, and connection method \u2014\
-  \ then pushes the updated entity YAML to Honeydew via the MCP tools."
-url: https://raw.githubusercontent.com/honeydew-ai/honeydew-ai-coding-agents-plugins/main/skills/relation-creation/SKILL.md
-folder_url: https://github.com/honeydew-ai/honeydew-ai-coding-agents-plugins/tree/main/skills/relation-creation
-repo: honeydew-ai/honeydew-ai-coding-agents-plugins
-skill_dir: relation-creation
+display_name: Relation Creation
+description: Guides you through defining a relationship between two Honeydew entities — covering join type, direction, cross-filtering,
+  and connection method — then pushes the updated entity YAML to Honeydew via the MCP tools.
+authors:
+- honeydew-ai
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/relation-creation
+  repo: honeydew-ai/honeydew-ai-coding-agents-plugins
+metadata: {}
 added_at: '2026-06-05'

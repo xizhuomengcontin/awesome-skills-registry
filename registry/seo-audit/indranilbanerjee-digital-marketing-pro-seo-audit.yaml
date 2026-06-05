@@ -1,8 +1,14 @@
 id: indranilbanerjee-digital-marketing-pro-seo-audit
-description: 'Run comprehensive SEO audit. Use when: checking technical health, on-page,
-  content quality, E-E-A-T, or link profile.'
-url: https://raw.githubusercontent.com/indranilbanerjee/digital-marketing-pro/main/skills/seo-audit/SKILL.md
-folder_url: https://github.com/indranilbanerjee/digital-marketing-pro/tree/main/skills/seo-audit
-repo: indranilbanerjee/digital-marketing-pro
-skill_dir: seo-audit
+display_name: Seo Audit
+description: 'Run comprehensive SEO audit. Use when: checking technical health, on-page, content quality, E-E-A-T, or link
+  profile.'
+authors:
+- indranilbanerjee
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/seo-audit
+  repo: indranilbanerjee/digital-marketing-pro
+metadata: {}
 added_at: '2026-06-05'

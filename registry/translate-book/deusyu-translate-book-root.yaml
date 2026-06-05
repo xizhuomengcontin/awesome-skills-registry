@@ -1,8 +1,14 @@
 id: deusyu-translate-book-root
-description: Translate books (PDF/DOCX/EPUB) into any language using parallel sub-agents.
-  Converts input -> Markdown chunks -> translated chunks -> HTML/DOCX/EPUB/PDF.
-url: https://raw.githubusercontent.com/deusyu/translate-book/main/SKILL.md
-folder_url: https://github.com/deusyu/translate-book/tree/main
-repo: deusyu/translate-book
-skill_dir: root
+display_name: Root
+description: Translate books (PDF/DOCX/EPUB) into any language using parallel sub-agents. Converts input -> Markdown chunks
+  -> translated chunks -> HTML/DOCX/EPUB/PDF.
+authors:
+- deusyu
+is_official: false
+tags: []
+category: none
+source:
+  path: /
+  repo: deusyu/translate-book
+metadata: {}
 added_at: '2026-06-05'

@@ -1,8 +1,13 @@
 id: indranilbanerjee-digital-marketing-pro-hreflang-check
-description: 'Audit hreflang tags. Use when: checking missing tags, incorrect language
-  codes, or x-default configuration.'
-url: https://raw.githubusercontent.com/indranilbanerjee/digital-marketing-pro/main/skills/hreflang-check/SKILL.md
-folder_url: https://github.com/indranilbanerjee/digital-marketing-pro/tree/main/skills/hreflang-check
-repo: indranilbanerjee/digital-marketing-pro
-skill_dir: hreflang-check
+display_name: Hreflang Check
+description: 'Audit hreflang tags. Use when: checking missing tags, incorrect language codes, or x-default configuration.'
+authors:
+- indranilbanerjee
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/hreflang-check
+  repo: indranilbanerjee/digital-marketing-pro
+metadata: {}
 added_at: '2026-06-05'

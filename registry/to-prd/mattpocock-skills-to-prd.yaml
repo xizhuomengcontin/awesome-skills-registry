@@ -1,8 +1,14 @@
 id: mattpocock-skills-to-prd
-description: Turn the current conversation context into a PRD and publish it to the
-  project issue tracker. Use when user wants to create a PRD from the current context.
-url: https://raw.githubusercontent.com/mattpocock/skills/main/skills/engineering/to-prd/SKILL.md
-folder_url: https://github.com/mattpocock/skills/tree/main/skills/engineering/to-prd
-repo: mattpocock/skills
-skill_dir: to-prd
+display_name: To Prd
+description: Turn the current conversation context into a PRD and publish it to the project issue tracker. Use when user wants
+  to create a PRD from the current context.
+authors:
+- mattpocock
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/engineering/to-prd
+  repo: mattpocock/skills
+metadata: {}
 added_at: '2026-06-05'

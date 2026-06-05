@@ -1,9 +1,15 @@
 id: garrytan-gbrain-skillify
+display_name: Skillify
 description: 'The meta skill. Turn any raw feature into a properly-skilled, tested, resolvable unit of agent capability. Cross-modal
   eval is the recommended Phase 3 quality gate: 3 frontier models from different providers critique the output, you iterate
   to quality, THEN write tests that lock in the proven-good behavior.'
-url: https://raw.githubusercontent.com/garrytan/gbrain/master/skills/skillify/SKILL.md
-folder_url: https://github.com/garrytan/gbrain/tree/master/skills/skillify
-repo: garrytan/gbrain
-skill_dir: skillify
+authors:
+- garrytan
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/skillify
+  repo: garrytan/gbrain
+metadata: {}
 added_at: '2026-06-05'

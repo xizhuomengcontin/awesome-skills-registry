@@ -1,8 +1,13 @@
 id: indranilbanerjee-digital-marketing-pro-brand-setup
-description: 'Set up or update a brand profile. Use when: new brand onboarding, client
-  setup, brand switching, context update.'
-url: https://raw.githubusercontent.com/indranilbanerjee/digital-marketing-pro/main/skills/brand-setup/SKILL.md
-folder_url: https://github.com/indranilbanerjee/digital-marketing-pro/tree/main/skills/brand-setup
-repo: indranilbanerjee/digital-marketing-pro
-skill_dir: brand-setup
+display_name: Brand Setup
+description: 'Set up or update a brand profile. Use when: new brand onboarding, client setup, brand switching, context update.'
+authors:
+- indranilbanerjee
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/brand-setup
+  repo: indranilbanerjee/digital-marketing-pro
+metadata: {}
 added_at: '2026-06-05'

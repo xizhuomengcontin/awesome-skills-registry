@@ -1,9 +1,13 @@
 id: huifer-Claude-Ally-Health-rehabilitation-analyzer
-description: "\u5206\u6790\u5EB7\u590D\u8BAD\u7EC3\u6570\u636E\u3001\u8BC6\u522B\u5EB7\
-  \u590D\u6A21\u5F0F\u3001\u8BC4\u4F30\u5EB7\u590D\u8FDB\u5C55\uFF0C\u5E76\u63D0\u4F9B\
-  \u4E2A\u6027\u5316\u5EB7\u590D\u5EFA\u8BAE"
-url: https://raw.githubusercontent.com/huifer/Claude-Ally-Health/main/skills/rehabilitation-analyzer/SKILL.md
-folder_url: https://github.com/huifer/Claude-Ally-Health/tree/main/skills/rehabilitation-analyzer
-repo: huifer/Claude-Ally-Health
-skill_dir: rehabilitation-analyzer
+display_name: Rehabilitation Analyzer
+description: 分析康复训练数据、识别康复模式、评估康复进展，并提供个性化康复建议
+authors:
+- huifer
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/rehabilitation-analyzer
+  repo: huifer/Claude-Ally-Health
+metadata: {}
 added_at: '2026-06-05'

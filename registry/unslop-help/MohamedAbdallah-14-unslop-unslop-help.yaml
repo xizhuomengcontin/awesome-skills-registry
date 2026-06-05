@@ -1,9 +1,14 @@
 id: MohamedAbdallah-14-unslop-unslop-help
-description: 'Quick-reference card for unslop modes, sub-skills, and slash commands.
-  One-shot display, not a persistent mode. Trigger: /unslop-help, "unslop help", "what
-  unslop commands", "how do I use unslop".'
-url: https://raw.githubusercontent.com/MohamedAbdallah-14/unslop/main/skills/unslop-help/SKILL.md
-folder_url: https://github.com/MohamedAbdallah-14/unslop/tree/main/skills/unslop-help
-repo: MohamedAbdallah-14/unslop
-skill_dir: unslop-help
+display_name: Unslop Help
+description: 'Quick-reference card for unslop modes, sub-skills, and slash commands. One-shot display, not a persistent mode.
+  Trigger: /unslop-help, "unslop help", "what unslop commands", "how do I use unslop".'
+authors:
+- MohamedAbdallah-14
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/unslop-help
+  repo: MohamedAbdallah-14/unslop
+metadata: {}
 added_at: '2026-06-05'

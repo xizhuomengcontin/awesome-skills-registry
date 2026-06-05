@@ -1,11 +1,17 @@
 id: garrytan-gbrain-eiirp
+display_name: Eiirp
 description: 'Everything In Its Right Place. The universal post-work organizer. After any significant work session, EIIRP
   runs a 7-phase audit: (1) inventory every output, (2) walk taxonomy to decide where each lands, (3) check schema-pack consistency
   against the brain''s actual shape, (4) file enriched brain pages, (5) audit the skill graph for DRY+MECE, (6) verify resolvability,
   (7) report. Named after the Radiohead song. Nothing produced during significant work lives only in chat — knowledge becomes
   permanent, patterns become reusable.'
-url: https://raw.githubusercontent.com/garrytan/gbrain/master/skills/eiirp/SKILL.md
-folder_url: https://github.com/garrytan/gbrain/tree/master/skills/eiirp
-repo: garrytan/gbrain
-skill_dir: eiirp
+authors:
+- garrytan
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/eiirp
+  repo: garrytan/gbrain
+metadata: {}
 added_at: '2026-06-05'

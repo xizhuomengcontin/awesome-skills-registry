@@ -1,10 +1,15 @@
 id: lawvable-awesome-legal-skills-meeting-briefing-anthropic
-description: Prepare structured briefings for meetings with legal relevance and track
-  resulting action items. Use when preparing for contract negotiations, board meetings,
-  compliance reviews, or any meeting where legal context, background research, or
-  action tracking is needed.
-url: https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/meeting-briefing-anthropic/SKILL.md
-folder_url: https://github.com/lawvable/awesome-legal-skills/tree/main/skills/meeting-briefing-anthropic
-repo: lawvable/awesome-legal-skills
-skill_dir: meeting-briefing-anthropic
+display_name: Meeting Briefing Anthropic
+description: Prepare structured briefings for meetings with legal relevance and track resulting action items. Use when preparing
+  for contract negotiations, board meetings, compliance reviews, or any meeting where legal context, background research,
+  or action tracking is needed.
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/meeting-briefing-anthropic
+  repo: lawvable/awesome-legal-skills
+metadata: {}
 added_at: '2026-06-05'

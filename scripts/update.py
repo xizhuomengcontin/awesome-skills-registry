@@ -70,6 +70,8 @@ class Source:
     skills_path: str = "/"
     skills_paths: list[str] = field(default_factory=list)  # canonical list, always populated
     skill_filename: str = "SKILL.md"
+    authors: list[str] = field(default_factory=list)  # defaults to [owner] at load time
+    is_official: bool = False
 
 
 @dataclass
@@ -81,6 +83,8 @@ class SkillFile:
     raw_url: str
     skill_filename: str = "SKILL.md"
     folder_url: str = ""
+    authors: list[str] = field(default_factory=list)
+    is_official: bool = False
 
 
 @dataclass
@@ -126,6 +130,9 @@ def load_sources(path: Path = SOURCES_PATH) -> list[Source]:
             skills_paths = [skills_path]
 
         skill_filename = entry.get("skill_filename", "SKILL.md")
+        is_official = entry.get("is_official", False)
+        authors_raw = entry.get("authors", [])
+        authors = [str(a) for a in authors_raw] if authors_raw else [owner]
 
         key = (owner, repo, str(skills_paths), skill_filename)
         if key in seen:
@@ -139,6 +146,8 @@ def load_sources(path: Path = SOURCES_PATH) -> list[Source]:
             skills_path=skills_path,
             skills_paths=skills_paths,
             skill_filename=skill_filename,
+            authors=authors,
+            is_official=is_official,
         ))
 
     return sources
@@ -162,9 +171,12 @@ def _walk_contents(
     repo_name: str,
     default_branch: str,
     skill_filename: str = "SKILL.md",
+    authors: list[str] | None = None,
+    is_official: bool = False,
 ) -> list[SkillFile]:
     """Recursively walk a directory and collect SKILL.md files."""
     results: list[SkillFile] = []
+    authors = authors or [owner]
 
     try:
         contents = repo.get_contents(dir_path)
@@ -179,7 +191,10 @@ def _walk_contents(
     for item in contents:
         if item.type == "dir":
             results.extend(
-                _walk_contents(repo, item.path, owner, repo_name, default_branch, skill_filename)
+                _walk_contents(
+                    repo, item.path, owner, repo_name, default_branch,
+                    skill_filename, authors, is_official,
+                )
             )
         elif item.name == skill_filename:
             skill_dir = Path(item.path).parent.name
@@ -195,6 +210,8 @@ def _walk_contents(
                     raw_url=_build_raw_url(owner, repo_name, default_branch, item.path),
                     folder_url=_build_folder_url(owner, repo_name, default_branch, skill_folder_path),
                     skill_filename=skill_filename,
+                    authors=list(authors),
+                    is_official=is_official,
                 )
             )
 
@@ -232,11 +249,14 @@ def find_skill_files(source: Source, github: Github) -> list[SkillFile]:
                         source.owner, source.repo, default_branch, ""
                     ),
                     skill_filename=source.skill_filename,
+                    authors=list(source.authors),
+                    is_official=source.is_official,
                 )
             )
         else:
             results.extend(_walk_contents(
-                repo, path.rstrip("/"), source.owner, source.repo, default_branch, source.skill_filename
+                repo, path.rstrip("/"), source.owner, source.repo, default_branch,
+                source.skill_filename, source.authors, source.is_official,
             ))
 
     return results
@@ -340,6 +360,11 @@ def to_folder_name(name: str, index: int = 0) -> str:
     return folder
 
 
+def to_display_name(skill_dir: str) -> str:
+    """Convert a skill_dir like 'claude-api' to a display name like 'Claude Api'."""
+    return skill_dir.replace("-", " ").replace("_", " ").title()
+
+
 def write_skill_yaml(
     folder: str, skill_file: SkillFile, metadata: dict[str, str]
 ) -> str:
@@ -351,20 +376,26 @@ def write_skill_yaml(
     filepath = target_dir / filename
 
     entry_id = f"{skill_file.owner}-{skill_file.repo}-{skill_file.skill_dir}"
+    display_name = metadata.get("name") or to_display_name(skill_file.skill_dir)
     raw_desc = metadata.get("description", "")
     description = re.sub(r"\s+", " ", raw_desc).strip()
+    source_path = "/" + str(Path(skill_file.path).parent)
 
     entry = {
         "id": entry_id,
+        "display_name": display_name,
         "description": description,
-        "url": skill_file.raw_url,
-        "folder_url": skill_file.folder_url,
-        "repo": f"{skill_file.owner}/{skill_file.repo}",
-        "skill_dir": skill_file.skill_dir,
+        "authors": skill_file.authors or [skill_file.owner],
+        "is_official": skill_file.is_official,
+        "tags": [],
+        "category": "none",
+        "source": {
+            "path": source_path,
+            "repo": f"{skill_file.owner}/{skill_file.repo}",
+        },
+        "metadata": {},
         "added_at": date.today().isoformat(),
     }
-    if skill_file.skill_filename != "SKILL.md":
-        entry["skill_filename"] = skill_file.skill_filename
 
     with open(filepath, "w") as f:
         yaml.dump(entry, f, default_flow_style=False, sort_keys=False)
@@ -512,6 +543,93 @@ def _fetch_skill_with_content(
         return None
 
 
+def _build_official_repos(sources: list[Source]) -> set[str]:
+    """Build a set of 'owner/repo' strings for sources marked as official."""
+    return {f"{s.owner}/{s.repo}" for s in sources if s.is_official}
+
+
+def _build_source_authors(sources: list[Source]) -> dict[str, list[str]]:
+    """Build a mapping of 'owner/repo' → authors from sources.yaml."""
+    mapping: dict[str, list[str]] = {}
+    for s in sources:
+        key = f"{s.owner}/{s.repo}"
+        if key not in mapping:
+            mapping[key] = s.authors
+    return mapping
+
+
+FIELD_ORDER = [
+    "id", "display_name", "description", "authors", "is_official",
+    "tags", "category", "source", "metadata", "added_at",
+]
+
+
+def _reorder_and_write(filepath: Path, data: dict) -> None:
+    """Re-serialize YAML with canonical field order."""
+    ordered: dict = {}
+    for key in FIELD_ORDER:
+        if key in data:
+            ordered[key] = data[key]
+    for key in data:
+        if key not in ordered:
+            ordered[key] = data[key]
+    with open(filepath, "w") as f:
+        yaml.dump(ordered, f, default_flow_style=False, sort_keys=False, allow_unicode=True, width=120)
+
+
+def backfill_registry() -> None:
+    """Ensure all registry entries have required fields with correct values."""
+    sources = load_sources()
+    official_repos = _build_official_repos(sources)
+    source_authors = _build_source_authors(sources)
+
+    updated = 0
+    for filepath in sorted(glob.glob(str(REGISTRY_DIR / "**" / "*.yaml"), recursive=True)):
+        filepath = Path(filepath)
+        with open(filepath) as f:
+            data = yaml.safe_load(f)
+
+        if not isinstance(data, dict):
+            continue
+
+        changed = False
+
+        source_block = data.get("source", {})
+        repo_full = str(source_block.get("repo", "") if isinstance(source_block, dict) else "")
+        owner = repo_full.split("/")[0] if "/" in repo_full else ""
+
+        want_authors = source_authors.get(repo_full, [owner] if owner else [])
+        want_official = repo_full in official_repos
+
+        if data.get("authors") != want_authors:
+            data["authors"] = want_authors
+            changed = True
+        if data.get("is_official") != want_official:
+            data["is_official"] = want_official
+            changed = True
+        if "display_name" not in data:
+            skill_dir = source_block.get("path", "").rstrip("/").rsplit("/", 1)[-1] if isinstance(source_block, dict) else ""
+            data["display_name"] = to_display_name(skill_dir) if skill_dir else data.get("id", "")
+            changed = True
+        if "tags" not in data:
+            data["tags"] = []
+            changed = True
+        if "category" not in data:
+            data["category"] = "none"
+            changed = True
+        if "metadata" not in data:
+            data["metadata"] = {}
+            changed = True
+
+        if not changed:
+            continue
+
+        _reorder_and_write(filepath, data)
+        updated += 1
+
+    logger.info("Backfilled %d registry file(s)", updated)
+
+
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(
         description="Scan source repos for SKILL.md files and update the registry."
@@ -523,11 +641,23 @@ def parse_args() -> argparse.Namespace:
         help="Re-process already registered skills (fetch from GitHub and update YAML). "
              "Without this flag, only new/unregistered skills are processed.",
     )
+    parser.add_argument(
+        "--backfill",
+        action="store_true",
+        default=False,
+        help="Add authors and is_official fields to all existing registry entries. "
+             "Does not require GITHUB_TOKEN (no API calls).",
+    )
     return parser.parse_args()
 
 
 def main() -> None:
     args = parse_args()
+
+    if args.backfill:
+        backfill_registry()
+        return
+
     token = os.environ.get("GITHUB_TOKEN")
     if not token:
         raise SystemExit("GITHUB_TOKEN environment variable is required")

@@ -1,8 +1,14 @@
 id: garrytan-gbrain-daily-task-prep
+display_name: Daily Task Prep
 description: Morning preparation. Calendar lookahead, meeting context loading, open threads from yesterday, active task review.
   Extends briefing with actionable prep.
-url: https://raw.githubusercontent.com/garrytan/gbrain/master/skills/daily-task-prep/SKILL.md
-folder_url: https://github.com/garrytan/gbrain/tree/master/skills/daily-task-prep
-repo: garrytan/gbrain
-skill_dir: daily-task-prep
+authors:
+- garrytan
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/daily-task-prep
+  repo: garrytan/gbrain
+metadata: {}
 added_at: '2026-06-05'

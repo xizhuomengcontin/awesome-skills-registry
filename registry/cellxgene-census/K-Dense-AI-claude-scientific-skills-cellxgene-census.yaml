@@ -1,10 +1,15 @@
 id: K-Dense-AI-claude-scientific-skills-cellxgene-census
-description: Query the CELLxGENE Census (61M+ cells) programmatically. Use when you
-  need expression data across tissues, diseases, or cell types from the largest curated
-  single-cell atlas. Best for population-scale queries, reference atlas comparisons.
+display_name: Cellxgene Census
+description: Query the CELLxGENE Census (61M+ cells) programmatically. Use when you need expression data across tissues, diseases,
+  or cell types from the largest curated single-cell atlas. Best for population-scale queries, reference atlas comparisons.
   For analyzing your own data use scanpy or scvi-tools.
-url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/skills/cellxgene-census/SKILL.md
-folder_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/cellxgene-census
-repo: K-Dense-AI/claude-scientific-skills
-skill_dir: cellxgene-census
+authors:
+- K-Dense-AI
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/cellxgene-census
+  repo: K-Dense-AI/claude-scientific-skills
+metadata: {}
 added_at: '2026-06-05'

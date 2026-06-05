@@ -1,9 +1,14 @@
 id: mattpocock-skills-design-an-interface
-description: Generate multiple radically different interface designs for a module
-  using parallel sub-agents. Use when user wants to design an API, explore interface
-  options, compare module shapes, or mentions "design it twice".
-url: https://raw.githubusercontent.com/mattpocock/skills/main/skills/deprecated/design-an-interface/SKILL.md
-folder_url: https://github.com/mattpocock/skills/tree/main/skills/deprecated/design-an-interface
-repo: mattpocock/skills
-skill_dir: design-an-interface
+display_name: Design An Interface
+description: Generate multiple radically different interface designs for a module using parallel sub-agents. Use when user
+  wants to design an API, explore interface options, compare module shapes, or mentions "design it twice".
+authors:
+- mattpocock
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/deprecated/design-an-interface
+  repo: mattpocock/skills
+metadata: {}
 added_at: '2026-06-05'

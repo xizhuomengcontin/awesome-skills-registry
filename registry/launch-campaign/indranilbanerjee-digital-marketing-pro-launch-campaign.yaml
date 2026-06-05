@@ -1,10 +1,15 @@
 id: indranilbanerjee-digital-marketing-pro-launch-campaign
-description: "Orchestrate the full multi-channel launch of an approved campaign plan\
-  \ \u2014 pre-launch checklist, asset readiness gate, channel-by-channel activation,\
-  \ CRM campaign record creation, kickoff comms, day-1 monitor setup. Broader than\
-  \ /launch-ad-campaign (which is paid-ads only)."
-url: https://raw.githubusercontent.com/indranilbanerjee/digital-marketing-pro/main/skills/launch-campaign/SKILL.md
-folder_url: https://github.com/indranilbanerjee/digital-marketing-pro/tree/main/skills/launch-campaign
-repo: indranilbanerjee/digital-marketing-pro
-skill_dir: launch-campaign
+display_name: Launch Campaign
+description: Orchestrate the full multi-channel launch of an approved campaign plan — pre-launch checklist, asset readiness
+  gate, channel-by-channel activation, CRM campaign record creation, kickoff comms, day-1 monitor setup. Broader than /launch-ad-campaign
+  (which is paid-ads only).
+authors:
+- indranilbanerjee
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/launch-campaign
+  repo: indranilbanerjee/digital-marketing-pro
+metadata: {}
 added_at: '2026-06-05'

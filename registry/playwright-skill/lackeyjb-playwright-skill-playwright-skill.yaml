@@ -1,11 +1,16 @@
 id: lackeyjb-playwright-skill-playwright-skill
-description: Complete browser automation with Playwright. Auto-detects dev servers,
-  writes clean test scripts to /tmp. Test pages, fill forms, take screenshots, check
-  responsive design, validate UX, test login flows, check links, automate any browser
-  task. Use when user wants to test websites, automate browser interactions, validate
-  web functionality, or perform any browser-based testing.
-url: https://raw.githubusercontent.com/lackeyjb/playwright-skill/main/skills/playwright-skill/SKILL.md
-folder_url: https://github.com/lackeyjb/playwright-skill/tree/main/skills/playwright-skill
-repo: lackeyjb/playwright-skill
-skill_dir: playwright-skill
+display_name: Playwright Skill
+description: Complete browser automation with Playwright. Auto-detects dev servers, writes clean test scripts to /tmp. Test
+  pages, fill forms, take screenshots, check responsive design, validate UX, test login flows, check links, automate any browser
+  task. Use when user wants to test websites, automate browser interactions, validate web functionality, or perform any browser-based
+  testing.
+authors:
+- lackeyjb
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/playwright-skill
+  repo: lackeyjb/playwright-skill
+metadata: {}
 added_at: '2026-06-05'

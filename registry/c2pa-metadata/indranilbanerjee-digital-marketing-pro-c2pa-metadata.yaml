@@ -1,11 +1,15 @@
 id: indranilbanerjee-digital-marketing-pro-c2pa-metadata
-description: 'Embed C2PA (Content Authenticity Initiative) provenance manifests in
-  AI-generated marketing assets (image/video/audio/PDF). Use when: preparing AI-generated
-  ad creative, social images, or video for EU markets to comply with EU AI Act Article
-  50 (applicable 2 Aug 2026); embedding visible AI-generation disclosure in assets;
-  meeting brand-trust transparency requirements.'
-url: https://raw.githubusercontent.com/indranilbanerjee/digital-marketing-pro/main/skills/c2pa-metadata/SKILL.md
-folder_url: https://github.com/indranilbanerjee/digital-marketing-pro/tree/main/skills/c2pa-metadata
-repo: indranilbanerjee/digital-marketing-pro
-skill_dir: c2pa-metadata
+display_name: C2Pa Metadata
+description: 'Embed C2PA (Content Authenticity Initiative) provenance manifests in AI-generated marketing assets (image/video/audio/PDF).
+  Use when: preparing AI-generated ad creative, social images, or video for EU markets to comply with EU AI Act Article 50
+  (applicable 2 Aug 2026); embedding visible AI-generation disclosure in assets; meeting brand-trust transparency requirements.'
+authors:
+- indranilbanerjee
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/c2pa-metadata
+  repo: indranilbanerjee/digital-marketing-pro
+metadata: {}
 added_at: '2026-06-05'

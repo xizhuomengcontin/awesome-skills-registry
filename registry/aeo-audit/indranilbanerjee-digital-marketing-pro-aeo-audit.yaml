@@ -1,8 +1,13 @@
 id: indranilbanerjee-digital-marketing-pro-aeo-audit
-description: 'Audit AI search visibility. Use when: checking brand presence in ChatGPT,
-  Perplexity, AI Overviews, Gemini.'
-url: https://raw.githubusercontent.com/indranilbanerjee/digital-marketing-pro/main/skills/aeo-audit/SKILL.md
-folder_url: https://github.com/indranilbanerjee/digital-marketing-pro/tree/main/skills/aeo-audit
-repo: indranilbanerjee/digital-marketing-pro
-skill_dir: aeo-audit
+display_name: Aeo Audit
+description: 'Audit AI search visibility. Use when: checking brand presence in ChatGPT, Perplexity, AI Overviews, Gemini.'
+authors:
+- indranilbanerjee
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/aeo-audit
+  repo: indranilbanerjee/digital-marketing-pro
+metadata: {}
 added_at: '2026-06-05'

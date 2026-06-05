@@ -2,24 +2,30 @@ sources:
   # --- Official Anthropic skills ---
   - url: https://github.com/anthropics/skills
     skills_path: skills/
+    is_official: true
 
   # --- Official / high-signal vendor skills ---
   - url: https://github.com/vercel-labs/agent-skills
     skills_path: skills/
+    is_official: true
 
   - url: https://github.com/cloudflare/skills
     skills_path: skills/
+    is_official: true
 
   - url: https://github.com/huggingface/skills
     skills_paths:
       - skills/
       - hf-mcp/skills/
+    is_official: true
 
   - url: https://github.com/stripe/ai
     skills_path: skills/
+    is_official: true
 
   - url: https://github.com/supabase/agent-skills
     skills_path: skills/
+    is_official: true
 
   # --- Multi-skill repos (each skill_dir -> separate registry entry) ---
   - url: https://github.com/garrytan/gbrain
@@ -27,6 +33,7 @@ sources:
   
   - url: https://github.com/anthropics/skills
     skills_path: skills/
+    is_official: true
   - url: https://github.com/tech-leads-club/agent-skills
     skills_path: packages/skills-catalog/skills/
 
@@ -61,8 +68,10 @@ sources:
   - url: https://github.com/SHADOWPR0/security-bluebook-builder
   - url: https://github.com/talkstream/ru-text
   - url: https://github.com/testdino-hq/playwright-skill
+    is_official: true
   - url: https://github.com/truongduy2611/app-store-preflight-skills
   - url: https://github.com/trycourier/courier-skills
+    is_official: true
   - url: https://github.com/wrsmith108/linear-claude-skill
   - url: https://github.com/zarazhangrui/frontend-slides
   - url: https://github.com/zechenzhangAGI/AI-research-SKILLs
@@ -76,6 +85,7 @@ sources:
     skills_path: skills/
   - url: https://github.com/angular/skills
     skills_path: skills/
+    is_official: true
   - url: https://github.com/bitwize-music-studio/claude-ai-music-skills
     skills_path: skills/
   - url: https://github.com/CloudAI-X/threejs-skills
@@ -98,10 +108,12 @@ sources:
     skills_path: skills/
   - url: https://github.com/coderabbitai/skills
     skills_path: skills/
+    is_official: true
   - url: https://github.com/coreyhaines31/marketingskills
     skills_path: skills/
   - url: https://github.com/cypress-io/ai-toolkit
     skills_path: skills/
+    is_official: true
   - url: https://github.com/degausai/wonda
     skills_path: skills/
   - url: https://github.com/dembrandt/dembrandt-skills
@@ -114,6 +126,7 @@ sources:
     skills_path: skills/
   - url: https://github.com/honeydew-ai/honeydew-ai-coding-agents-plugins
     skills_path: skills/
+    is_official: true
   - url: https://github.com/huifer/Claude-Ally-Health
     skills_path: skills/
   - url: https://github.com/ibelick/ui-skills
@@ -128,24 +141,29 @@ sources:
     skills_path: skills/
   - url: https://github.com/kreuzberg-dev/kreuzberg
     skills_path: skills/
+    is_official: true
   - url: https://github.com/lackeyjb/playwright-skill
     skills_path: skills/
   - url: https://github.com/LambdaTest/agent-skills
     skills_path: skills/
+    is_official: true
   - url: https://github.com/lawvable/awesome-legal-skills
     skills_path: skills/
   - url: https://github.com/Leonxlnx/taste-skill
     skills_path: skills/
   - url: https://github.com/makenotion/claude-code-notion-plugin
     skills_path: skills/
+    is_official: true
   - url: https://github.com/makenotion/notion-cookbook
     skills_path: skills/
+    is_official: true
   - url: https://github.com/mattpocock/skills
     skills_path: skills/
   - url: https://github.com/mcollina/skills
     skills_path: skills/
   - url: https://github.com/metalbear-co/skills
     skills_path: skills/
+    is_official: true
   - url: https://github.com/MohamedAbdallah-14/unslop
     skills_path: skills/
   - url: https://github.com/more-io/claude-apple-bridges
@@ -162,6 +180,7 @@ sources:
     skills_path: skills/
   - url: https://github.com/NVIDIA/skills
     skills_path: skills/
+    is_official: true
   - url: https://github.com/obra/superpowers
     skills_path: skills/
   - url: https://github.com/obra/superpowers-lab
@@ -174,8 +193,10 @@ sources:
     skills_path: skills/
   - url: https://github.com/prompt-security/clawsec
     skills_path: skills/
+    is_official: true
   - url: https://github.com/qdrant/skills
     skills_path: skills/
+    is_official: true
   - url: https://github.com/raintree-technology/apple-hig-skills
     skills_path: skills/
   - url: https://github.com/rameerez/claude-code-startup-skills
@@ -184,18 +205,22 @@ sources:
     skills_path: skills/
   - url: https://github.com/redis/agent-skills
     skills_path: skills/
+    is_official: true
   - url: https://github.com/ReScienceLab/opc-skills
     skills_path: skills/
   - url: https://github.com/resend/resend-skills
     skills_path: skills/
+    is_official: true
   - url: https://github.com/RoundTable02/tutor-skills
     skills_path: skills/
   - url: https://github.com/sanjay3290/ai-skills
     skills_path: skills/
   - url: https://github.com/transloadit/skills
     skills_path: skills/
+    is_official: true
   - url: https://github.com/veniceai/skills
     skills_path: skills/
+    is_official: true
   - url: https://github.com/rudrankriyam/app-store-connect-cli-skills
     skills_path: skills/
   - url: https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep
@@ -230,8 +255,10 @@ sources:
     skills_path: swift-patterns/
   - url: https://github.com/google/skills
     skills_path: skills/cloud/
+    is_official: true
   - url: https://github.com/helius-labs/core-ai
     skills_path: helius-skills/
+    is_official: true
   - url: https://github.com/jthack/ffuf_claude_skill
     skills_path: ffuf-skill/
   - url: https://github.com/Lum1104/Understand-Anything
@@ -240,6 +267,7 @@ sources:
     skills_path: .claude/skills/
   - url: https://github.com/PSPDFKit-labs/nutrient-agent-skill
     skills_path: nutrient-document-processing/
+    is_official: true
   - url: https://github.com/ramzesenok/iOS-Accessibility-Audit-Skill
     skills_path: swiftui-wcag-accessibility-auditor/
   - url: https://github.com/santifer/career-ops
@@ -250,6 +278,7 @@ sources:
     skills_path: creative-director/
   - url: https://github.com/video-db/skills
     skills_path: python/
+    is_official: true
 
   # Non-standard skill filenames
   - url: https://github.com/hanfang/claude-memory-skill
@@ -258,6 +287,7 @@ sources:
   - url: https://github.com/Rootly-AI-Labs/Rootly-MCP-server
     skills_path: examples/skills/
     skill_filename: rootly-incident-responder.md
+    is_official: true
 
   # Multiple root-level dirs with no common parent
   - url: https://github.com/phuryn/pm-skills

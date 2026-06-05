@@ -1,11 +1,15 @@
 id: K-Dense-AI-claude-scientific-skills-scientific-slides
-description: Build slide decks and presentations for research talks. Use this for
-  making PowerPoint slides, conference presentations, seminar talks, research presentations,
-  thesis defense slides, or any scientific talk. Provides slide structure, design
-  templates, timing guidance, and visual validation. Works with PowerPoint and LaTeX
-  Beamer.
-url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/skills/scientific-slides/SKILL.md
-folder_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/scientific-slides
-repo: K-Dense-AI/claude-scientific-skills
-skill_dir: scientific-slides
+display_name: Scientific Slides
+description: Build slide decks and presentations for research talks. Use this for making PowerPoint slides, conference presentations,
+  seminar talks, research presentations, thesis defense slides, or any scientific talk. Provides slide structure, design templates,
+  timing guidance, and visual validation. Works with PowerPoint and LaTeX Beamer.
+authors:
+- K-Dense-AI
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/scientific-slides
+  repo: K-Dense-AI/claude-scientific-skills
+metadata: {}
 added_at: '2026-06-05'

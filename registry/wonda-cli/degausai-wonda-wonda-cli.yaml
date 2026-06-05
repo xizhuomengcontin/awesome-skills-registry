@@ -1,8 +1,14 @@
 id: degausai-wonda-wonda-cli
-description: "Using the Wonda CLI to generate images, videos, music, and audio from\
-  \ the terminal \u2014 plus LinkedIn, Reddit, and X/Twitter research and automation"
-url: https://raw.githubusercontent.com/degausai/wonda/main/skills/wonda-cli/SKILL.md
-folder_url: https://github.com/degausai/wonda/tree/main/skills/wonda-cli
-repo: degausai/wonda
-skill_dir: wonda-cli
+display_name: Wonda Cli
+description: Using the Wonda CLI to generate images, videos, music, and audio from the terminal — plus LinkedIn, Reddit, and
+  X/Twitter research and automation
+authors:
+- degausai
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/wonda-cli
+  repo: degausai/wonda
+metadata: {}
 added_at: '2026-06-05'

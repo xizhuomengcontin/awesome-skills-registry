@@ -1,10 +1,15 @@
 id: dembrandt-dembrandt-skills-modular-scale-typography
-description: "Typography feels cohesive and intentional when font sizes follow a modular\
-  \ scale \u2014 a ratio-based sequence where every size is mathematically related\
-  \ to the others. Use when defining type scales, setting up design tokens, reviewing\
-  \ font size choices, or when typography feels inconsistent or arbitrary."
-url: https://raw.githubusercontent.com/dembrandt/dembrandt-skills/main/skills/modular-scale-typography/SKILL.md
-folder_url: https://github.com/dembrandt/dembrandt-skills/tree/main/skills/modular-scale-typography
-repo: dembrandt/dembrandt-skills
-skill_dir: modular-scale-typography
+display_name: Modular Scale Typography
+description: Typography feels cohesive and intentional when font sizes follow a modular scale — a ratio-based sequence where
+  every size is mathematically related to the others. Use when defining type scales, setting up design tokens, reviewing font
+  size choices, or when typography feels inconsistent or arbitrary.
+authors:
+- dembrandt
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/modular-scale-typography
+  repo: dembrandt/dembrandt-skills
+metadata: {}
 added_at: '2026-06-05'

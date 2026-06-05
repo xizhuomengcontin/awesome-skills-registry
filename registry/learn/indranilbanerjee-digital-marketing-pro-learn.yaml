@@ -1,8 +1,14 @@
 id: indranilbanerjee-digital-marketing-pro-learn
-description: 'Save a marketing learning or insight. Use when: capturing knowledge,
-  recording campaign results, building compound intelligence.'
-url: https://raw.githubusercontent.com/indranilbanerjee/digital-marketing-pro/main/skills/learn/SKILL.md
-folder_url: https://github.com/indranilbanerjee/digital-marketing-pro/tree/main/skills/learn
-repo: indranilbanerjee/digital-marketing-pro
-skill_dir: learn
+display_name: Learn
+description: 'Save a marketing learning or insight. Use when: capturing knowledge, recording campaign results, building compound
+  intelligence.'
+authors:
+- indranilbanerjee
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/learn
+  repo: indranilbanerjee/digital-marketing-pro
+metadata: {}
 added_at: '2026-06-05'

@@ -1,15 +1,18 @@
 id: lawvable-awesome-legal-skills-tech-contract-negotiation-patrick-munro
-description: 'Guide to negotiating technology services agreements, professional services
-  contracts, and commercial B2B transactions. Provides three-position frameworks (provider-favorable,
-  balanced, client-favorable), deal-size tactics, objection handling templates, and
-  concession roadmaps. Use when: (1) Developing negotiation strategies for SaaS, cloud,
-  or managed services agreements, (2) Preparing position papers and fallback positions,
-  (3) Responding to counterparty objections and demands, (4) Creating concession roadmaps
-  that protect critical interests, (5) Assessing tactics based on deal value and leverage,
-  or (6) Structuring balanced outcomes for liability, IP, payment, SLA, or warranty
-  provisions.'
-url: https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/tech-contract-negotiation-patrick-munro/SKILL.md
-folder_url: https://github.com/lawvable/awesome-legal-skills/tree/main/skills/tech-contract-negotiation-patrick-munro
-repo: lawvable/awesome-legal-skills
-skill_dir: tech-contract-negotiation-patrick-munro
+display_name: Tech Contract Negotiation Patrick Munro
+description: 'Guide to negotiating technology services agreements, professional services contracts, and commercial B2B transactions.
+  Provides three-position frameworks (provider-favorable, balanced, client-favorable), deal-size tactics, objection handling
+  templates, and concession roadmaps. Use when: (1) Developing negotiation strategies for SaaS, cloud, or managed services
+  agreements, (2) Preparing position papers and fallback positions, (3) Responding to counterparty objections and demands,
+  (4) Creating concession roadmaps that protect critical interests, (5) Assessing tactics based on deal value and leverage,
+  or (6) Structuring balanced outcomes for liability, IP, payment, SLA, or warranty provisions.'
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/tech-contract-negotiation-patrick-munro
+  repo: lawvable/awesome-legal-skills
+metadata: {}
 added_at: '2026-06-05'

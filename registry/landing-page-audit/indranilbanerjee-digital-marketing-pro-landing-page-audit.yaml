@@ -1,8 +1,14 @@
 id: indranilbanerjee-digital-marketing-pro-landing-page-audit
-description: 'Audit landing pages. Use when: scoring above-fold clarity, trust signals,
-  form friction, message match, or mobile UX.'
-url: https://raw.githubusercontent.com/indranilbanerjee/digital-marketing-pro/main/skills/landing-page-audit/SKILL.md
-folder_url: https://github.com/indranilbanerjee/digital-marketing-pro/tree/main/skills/landing-page-audit
-repo: indranilbanerjee/digital-marketing-pro
-skill_dir: landing-page-audit
+display_name: Landing Page Audit
+description: 'Audit landing pages. Use when: scoring above-fold clarity, trust signals, form friction, message match, or mobile
+  UX.'
+authors:
+- indranilbanerjee
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/landing-page-audit
+  repo: indranilbanerjee/digital-marketing-pro
+metadata: {}
 added_at: '2026-06-05'

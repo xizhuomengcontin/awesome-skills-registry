@@ -1,10 +1,15 @@
 id: garrytan-gbrain-schema-author
-description: Evolve your brain's schema pack. Add page types, propose new ones from
-  corpus scans, backfill page.type on existing pages, audit pack health. Triggers
-  when an agent notices untyped pages, custom domains needing typed entities (researcher,
+display_name: Schema Author
+description: Evolve your brain's schema pack. Add page types, propose new ones from corpus scans, backfill page.type on existing
+  pages, audit pack health. Triggers when an agent notices untyped pages, custom domains needing typed entities (researcher,
   contract, deposition), or wants to see what types the pack declares.
-url: https://raw.githubusercontent.com/garrytan/gbrain/master/skills/schema-author/SKILL.md
-folder_url: https://github.com/garrytan/gbrain/tree/master/skills/schema-author
-repo: garrytan/gbrain
-skill_dir: schema-author
+authors:
+- garrytan
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/schema-author
+  repo: garrytan/gbrain
+metadata: {}
 added_at: '2026-06-05'

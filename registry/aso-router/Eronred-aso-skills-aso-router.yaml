@@ -1,7 +1,13 @@
 id: Eronred-aso-skills-aso-router
+display_name: Aso Router
 description: '---'
-url: https://raw.githubusercontent.com/Eronred/aso-skills/main/skills/aso-router/SKILL.md
-folder_url: https://github.com/Eronred/aso-skills/tree/main/skills/aso-router
-repo: Eronred/aso-skills
-skill_dir: aso-router
+authors:
+- Eronred
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/aso-router
+  repo: Eronred/aso-skills
+metadata: {}
 added_at: '2026-06-05'

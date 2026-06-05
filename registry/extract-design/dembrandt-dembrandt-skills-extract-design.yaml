@@ -1,11 +1,16 @@
 id: dembrandt-dembrandt-skills-extract-design
-description: "Extract a complete design system \u2014 colors, typography, spacing,\
-  \ components, shadows, and W3C design tokens \u2014 from any live website using\
-  \ Dembrandt. Runs a headless browser against the URL and returns real computed values\
-  \ from the DOM. Use when you need a site's actual design tokens, want to reverse-engineer\
-  \ a visual design, or need to seed a design system from an existing product."
-url: https://raw.githubusercontent.com/dembrandt/dembrandt-skills/main/skills/extract-design/SKILL.md
-folder_url: https://github.com/dembrandt/dembrandt-skills/tree/main/skills/extract-design
-repo: dembrandt/dembrandt-skills
-skill_dir: extract-design
+display_name: Extract Design
+description: Extract a complete design system — colors, typography, spacing, components, shadows, and W3C design tokens —
+  from any live website using Dembrandt. Runs a headless browser against the URL and returns real computed values from the
+  DOM. Use when you need a site's actual design tokens, want to reverse-engineer a visual design, or need to seed a design
+  system from an existing product.
+authors:
+- dembrandt
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/extract-design
+  repo: dembrandt/dembrandt-skills
+metadata: {}
 added_at: '2026-06-05'

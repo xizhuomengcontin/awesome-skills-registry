@@ -1,13 +1,17 @@
 id: Eronred-aso-skills-seasonal-aso
-description: "When the user wants to optimize their App Store listing for seasonal\
-  \ events, holidays, or trending moments \u2014 including keyword opportunities,\
-  \ metadata updates, screenshot theming, and timing strategy. Use when the user mentions\
-  \ \"seasonal\", \"holiday\", \"Christmas\", \"New Year\", \"Valentine's Day\", \"\
-  summer\", \"back to school\", \"seasonal keywords\", \"trending now\", \"limited\
-  \ time\", or wants to capitalize on a calendar event. For general keyword research,\
-  \ see keyword-research. For full metadata rewrites, see metadata-optimization."
-url: https://raw.githubusercontent.com/Eronred/aso-skills/main/skills/seasonal-aso/SKILL.md
-folder_url: https://github.com/Eronred/aso-skills/tree/main/skills/seasonal-aso
-repo: Eronred/aso-skills
-skill_dir: seasonal-aso
+display_name: Seasonal Aso
+description: When the user wants to optimize their App Store listing for seasonal events, holidays, or trending moments —
+  including keyword opportunities, metadata updates, screenshot theming, and timing strategy. Use when the user mentions "seasonal",
+  "holiday", "Christmas", "New Year", "Valentine's Day", "summer", "back to school", "seasonal keywords", "trending now",
+  "limited time", or wants to capitalize on a calendar event. For general keyword research, see keyword-research. For full
+  metadata rewrites, see metadata-optimization.
+authors:
+- Eronred
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/seasonal-aso
+  repo: Eronred/aso-skills
+metadata: {}
 added_at: '2026-06-05'

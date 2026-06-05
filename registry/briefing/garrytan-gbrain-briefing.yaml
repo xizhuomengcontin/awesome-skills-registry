@@ -1,8 +1,13 @@
 id: garrytan-gbrain-briefing
-description: Compile daily briefing with meeting context, active deals, and citation
-  tracking
-url: https://raw.githubusercontent.com/garrytan/gbrain/master/skills/briefing/SKILL.md
-folder_url: https://github.com/garrytan/gbrain/tree/master/skills/briefing
-repo: garrytan/gbrain
-skill_dir: briefing
+display_name: Briefing
+description: Compile daily briefing with meeting context, active deals, and citation tracking
+authors:
+- garrytan
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/briefing
+  repo: garrytan/gbrain
+metadata: {}
 added_at: '2026-06-05'

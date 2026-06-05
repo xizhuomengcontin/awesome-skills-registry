@@ -1,10 +1,15 @@
 id: anthropics-skills-skill-creator
-description: Create new skills, modify and improve existing skills, and measure skill
-  performance. Use when users want to create a skill from scratch, edit, or optimize
-  an existing skill, run evals to test a skill, benchmark skill performance with variance
-  analysis, or optimize a skill's description for better triggering accuracy.
-url: https://raw.githubusercontent.com/anthropics/skills/main/skills/skill-creator/SKILL.md
-folder_url: https://github.com/anthropics/skills/tree/main/skills/skill-creator
-repo: anthropics/skills
-skill_dir: skill-creator
+display_name: Skill Creator
+description: Create new skills, modify and improve existing skills, and measure skill performance. Use when users want to
+  create a skill from scratch, edit, or optimize an existing skill, run evals to test a skill, benchmark skill performance
+  with variance analysis, or optimize a skill's description for better triggering accuracy.
+authors:
+- anthropics
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/skill-creator
+  repo: anthropics/skills
+metadata: {}
 added_at: '2026-06-05'

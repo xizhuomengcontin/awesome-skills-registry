@@ -1,9 +1,14 @@
 id: garrytan-gbrain-article-enrichment
-description: Transform raw article text dumps in the brain into structured pages with
-  executive summary, verbatim quotes, key insights, why-it-matters, and cross-references.
-  Replaces walls-of-text with quotable, actionable brain pages.
-url: https://raw.githubusercontent.com/garrytan/gbrain/master/skills/article-enrichment/SKILL.md
-folder_url: https://github.com/garrytan/gbrain/tree/master/skills/article-enrichment
-repo: garrytan/gbrain
-skill_dir: article-enrichment
+display_name: Article Enrichment
+description: Transform raw article text dumps in the brain into structured pages with executive summary, verbatim quotes,
+  key insights, why-it-matters, and cross-references. Replaces walls-of-text with quotable, actionable brain pages.
+authors:
+- garrytan
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/article-enrichment
+  repo: garrytan/gbrain
+metadata: {}
 added_at: '2026-06-05'

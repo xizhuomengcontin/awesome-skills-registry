@@ -1,11 +1,16 @@
 id: K-Dense-AI-claude-scientific-skills-scientific-writing
-description: Core skill for the deep research and writing tool. Write scientific manuscripts
-  in full paragraphs (never bullet points). Use two-stage process with (1) section
-  outlines with key points using research-lookup then (2) convert to flowing prose.
-  IMRAD structure, citations (APA/AMA/Vancouver), figures/tables, reporting guidelines
-  (CONSORT/STROBE/PRISMA), for research papers and journal submissions.
-url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/skills/scientific-writing/SKILL.md
-folder_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/scientific-writing
-repo: K-Dense-AI/claude-scientific-skills
-skill_dir: scientific-writing
+display_name: Scientific Writing
+description: Core skill for the deep research and writing tool. Write scientific manuscripts in full paragraphs (never bullet
+  points). Use two-stage process with (1) section outlines with key points using research-lookup then (2) convert to flowing
+  prose. IMRAD structure, citations (APA/AMA/Vancouver), figures/tables, reporting guidelines (CONSORT/STROBE/PRISMA), for
+  research papers and journal submissions.
+authors:
+- K-Dense-AI
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/scientific-writing
+  repo: K-Dense-AI/claude-scientific-skills
+metadata: {}
 added_at: '2026-06-05'

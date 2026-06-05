@@ -1,12 +1,16 @@
 id: Eronred-aso-skills-app-icon-optimization
-description: When the user wants to design, test, or improve their app icon to increase
-  tap-through rate and conversions in App Store search and browse. Use when the user
-  mentions "app icon", "icon design", "icon A/B test", "icon variants", "tap-through
-  rate", "icon conversion", "icon refresh", or wants to know what makes a good app
-  icon. For screenshot optimization, see screenshot-optimization. For full listing
-  A/B tests, see ab-test-store-listing.
-url: https://raw.githubusercontent.com/Eronred/aso-skills/main/skills/app-icon-optimization/SKILL.md
-folder_url: https://github.com/Eronred/aso-skills/tree/main/skills/app-icon-optimization
-repo: Eronred/aso-skills
-skill_dir: app-icon-optimization
+display_name: App Icon Optimization
+description: When the user wants to design, test, or improve their app icon to increase tap-through rate and conversions in
+  App Store search and browse. Use when the user mentions "app icon", "icon design", "icon A/B test", "icon variants", "tap-through
+  rate", "icon conversion", "icon refresh", or wants to know what makes a good app icon. For screenshot optimization, see
+  screenshot-optimization. For full listing A/B tests, see ab-test-store-listing.
+authors:
+- Eronred
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/app-icon-optimization
+  repo: Eronred/aso-skills
+metadata: {}
 added_at: '2026-06-05'

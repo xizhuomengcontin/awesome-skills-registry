@@ -1,8 +1,13 @@
 id: indranilbanerjee-digital-marketing-pro-churn-risk
-description: 'Assess customer churn risk. Use when: churn scoring, at-risk segment
-  identification, intervention playbook generation.'
-url: https://raw.githubusercontent.com/indranilbanerjee/digital-marketing-pro/main/skills/churn-risk/SKILL.md
-folder_url: https://github.com/indranilbanerjee/digital-marketing-pro/tree/main/skills/churn-risk
-repo: indranilbanerjee/digital-marketing-pro
-skill_dir: churn-risk
+display_name: Churn Risk
+description: 'Assess customer churn risk. Use when: churn scoring, at-risk segment identification, intervention playbook generation.'
+authors:
+- indranilbanerjee
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/churn-risk
+  repo: indranilbanerjee/digital-marketing-pro
+metadata: {}
 added_at: '2026-06-05'

@@ -1,10 +1,15 @@
 id: mattpocock-skills-ubiquitous-language
-description: Extract a DDD-style ubiquitous language glossary from the current conversation,
-  flagging ambiguities and proposing canonical terms. Saves to UBIQUITOUS_LANGUAGE.md.
-  Use when user wants to define domain terms, build a glossary, harden terminology,
+display_name: Ubiquitous Language
+description: Extract a DDD-style ubiquitous language glossary from the current conversation, flagging ambiguities and proposing
+  canonical terms. Saves to UBIQUITOUS_LANGUAGE.md. Use when user wants to define domain terms, build a glossary, harden terminology,
   create a ubiquitous language, or mentions "domain model" or "DDD".
-url: https://raw.githubusercontent.com/mattpocock/skills/main/skills/deprecated/ubiquitous-language/SKILL.md
-folder_url: https://github.com/mattpocock/skills/tree/main/skills/deprecated/ubiquitous-language
-repo: mattpocock/skills
-skill_dir: ubiquitous-language
+authors:
+- mattpocock
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/deprecated/ubiquitous-language
+  repo: mattpocock/skills
+metadata: {}
 added_at: '2026-06-05'

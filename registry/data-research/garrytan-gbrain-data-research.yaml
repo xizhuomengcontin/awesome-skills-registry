@@ -1,9 +1,15 @@
 id: garrytan-gbrain-data-research
+display_name: Data Research
 description: 'Structured data research: search sources, extract structured data, archive raw sources, maintain canonical tracker
   pages, deduplicate. Parameterized via YAML recipes for investor updates, donations, company updates, or any email-to-structured-data
   pipeline.'
-url: https://raw.githubusercontent.com/garrytan/gbrain/master/skills/data-research/SKILL.md
-folder_url: https://github.com/garrytan/gbrain/tree/master/skills/data-research
-repo: garrytan/gbrain
-skill_dir: data-research
+authors:
+- garrytan
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/data-research
+  repo: garrytan/gbrain
+metadata: {}
 added_at: '2026-06-05'

@@ -1,10 +1,15 @@
 id: K-Dense-AI-claude-scientific-skills-statsmodels
-description: Statistical models library for Python. Use when you need specific model
-  classes (OLS, GLM, mixed models, ARIMA) with detailed diagnostics, residuals, and
-  inference. Best for econometrics, time series, rigorous inference with coefficient
+display_name: Statsmodels
+description: Statistical models library for Python. Use when you need specific model classes (OLS, GLM, mixed models, ARIMA)
+  with detailed diagnostics, residuals, and inference. Best for econometrics, time series, rigorous inference with coefficient
   tables. For guided statistical test selection with APA reporting use statistical-analysis.
-url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/skills/statsmodels/SKILL.md
-folder_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/statsmodels
-repo: K-Dense-AI/claude-scientific-skills
-skill_dir: statsmodels
+authors:
+- K-Dense-AI
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/statsmodels
+  repo: K-Dense-AI/claude-scientific-skills
+metadata: {}
 added_at: '2026-06-05'

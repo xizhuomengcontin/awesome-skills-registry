@@ -1,12 +1,16 @@
 id: coreyhaines31-marketingskills-aso
-description: When the user wants to audit or optimize an App Store or Google Play
-  listing. Also use when the user mentions 'ASO audit,' 'app store optimization,'
-  'optimize my app listing,' 'improve app visibility,' 'app store ranking,' 'audit
-  my listing,' 'why aren't people downloading my app,' 'improve my app conversion,'
-  'keyword optimization for app,' or 'compare my app to competitors.' Use when the
-  user shares an App Store or Google Play URL and wants to improve it.
-url: https://raw.githubusercontent.com/coreyhaines31/marketingskills/main/skills/aso/SKILL.md
-folder_url: https://github.com/coreyhaines31/marketingskills/tree/main/skills/aso
-repo: coreyhaines31/marketingskills
-skill_dir: aso
+display_name: Aso
+description: When the user wants to audit or optimize an App Store or Google Play listing. Also use when the user mentions
+  'ASO audit,' 'app store optimization,' 'optimize my app listing,' 'improve app visibility,' 'app store ranking,' 'audit
+  my listing,' 'why aren't people downloading my app,' 'improve my app conversion,' 'keyword optimization for app,' or 'compare
+  my app to competitors.' Use when the user shares an App Store or Google Play URL and wants to improve it.
+authors:
+- coreyhaines31
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/aso
+  repo: coreyhaines31/marketingskills
+metadata: {}
 added_at: '2026-06-05'

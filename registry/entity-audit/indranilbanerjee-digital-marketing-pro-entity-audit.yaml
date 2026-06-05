@@ -1,8 +1,13 @@
 id: indranilbanerjee-digital-marketing-pro-entity-audit
-description: 'Audit brand entity consistency. Use when: checking Wikidata, Knowledge
-  Panel, or directory discrepancies.'
-url: https://raw.githubusercontent.com/indranilbanerjee/digital-marketing-pro/main/skills/entity-audit/SKILL.md
-folder_url: https://github.com/indranilbanerjee/digital-marketing-pro/tree/main/skills/entity-audit
-repo: indranilbanerjee/digital-marketing-pro
-skill_dir: entity-audit
+display_name: Entity Audit
+description: 'Audit brand entity consistency. Use when: checking Wikidata, Knowledge Panel, or directory discrepancies.'
+authors:
+- indranilbanerjee
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/entity-audit
+  repo: indranilbanerjee/digital-marketing-pro
+metadata: {}
 added_at: '2026-06-05'

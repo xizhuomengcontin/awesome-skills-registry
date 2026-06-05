@@ -1,11 +1,15 @@
 id: dembrandt-dembrandt-skills-sticky-and-fixed-elements
-description: "Sticky and fixed positioning keeps critical UI persistent as the user\
-  \ scrolls \u2014 headers at the top, toolbars at the bottom on mobile. Use deliberately:\
-  \ too many fixed layers create visual noise and reduce content area. Use when designing\
-  \ navigation headers, bottom toolbars, floating action buttons, or table column\
-  \ headers."
-url: https://raw.githubusercontent.com/dembrandt/dembrandt-skills/main/skills/sticky-and-fixed-elements/SKILL.md
-folder_url: https://github.com/dembrandt/dembrandt-skills/tree/main/skills/sticky-and-fixed-elements
-repo: dembrandt/dembrandt-skills
-skill_dir: sticky-and-fixed-elements
+display_name: Sticky And Fixed Elements
+description: 'Sticky and fixed positioning keeps critical UI persistent as the user scrolls — headers at the top, toolbars
+  at the bottom on mobile. Use deliberately: too many fixed layers create visual noise and reduce content area. Use when designing
+  navigation headers, bottom toolbars, floating action buttons, or table column headers.'
+authors:
+- dembrandt
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/sticky-and-fixed-elements
+  repo: dembrandt/dembrandt-skills
+metadata: {}
 added_at: '2026-06-05'

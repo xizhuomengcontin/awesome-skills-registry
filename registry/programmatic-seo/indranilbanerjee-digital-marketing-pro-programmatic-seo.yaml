@@ -1,8 +1,14 @@
 id: indranilbanerjee-digital-marketing-pro-programmatic-seo
-description: 'Plan programmatic SEO pages. Use when: building template engines, URL
-  patterns, thin content safeguards, or quality gates.'
-url: https://raw.githubusercontent.com/indranilbanerjee/digital-marketing-pro/main/skills/programmatic-seo/SKILL.md
-folder_url: https://github.com/indranilbanerjee/digital-marketing-pro/tree/main/skills/programmatic-seo
-repo: indranilbanerjee/digital-marketing-pro
-skill_dir: programmatic-seo
+display_name: Programmatic Seo
+description: 'Plan programmatic SEO pages. Use when: building template engines, URL patterns, thin content safeguards, or
+  quality gates.'
+authors:
+- indranilbanerjee
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/programmatic-seo
+  repo: indranilbanerjee/digital-marketing-pro
+metadata: {}
 added_at: '2026-06-05'

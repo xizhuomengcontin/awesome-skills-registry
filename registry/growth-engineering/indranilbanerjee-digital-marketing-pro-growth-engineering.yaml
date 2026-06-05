@@ -1,8 +1,13 @@
 id: indranilbanerjee-digital-marketing-pro-growth-engineering
-description: 'Engineer growth loops. Use when: building referral programs, viral loops,
-  or product-led growth strategy.'
-url: https://raw.githubusercontent.com/indranilbanerjee/digital-marketing-pro/main/skills/growth-engineering/SKILL.md
-folder_url: https://github.com/indranilbanerjee/digital-marketing-pro/tree/main/skills/growth-engineering
-repo: indranilbanerjee/digital-marketing-pro
-skill_dir: growth-engineering
+display_name: Growth Engineering
+description: 'Engineer growth loops. Use when: building referral programs, viral loops, or product-led growth strategy.'
+authors:
+- indranilbanerjee
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/growth-engineering
+  repo: indranilbanerjee/digital-marketing-pro
+metadata: {}
 added_at: '2026-06-05'

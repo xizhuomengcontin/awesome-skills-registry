@@ -1,8 +1,13 @@
 id: indranilbanerjee-digital-marketing-pro-competitor-analysis
-description: 'Run competitive analysis. Use when: content, SEO, paid ads, social,
-  AI visibility, pricing, positioning comparison.'
-url: https://raw.githubusercontent.com/indranilbanerjee/digital-marketing-pro/main/skills/competitor-analysis/SKILL.md
-folder_url: https://github.com/indranilbanerjee/digital-marketing-pro/tree/main/skills/competitor-analysis
-repo: indranilbanerjee/digital-marketing-pro
-skill_dir: competitor-analysis
+display_name: Competitor Analysis
+description: 'Run competitive analysis. Use when: content, SEO, paid ads, social, AI visibility, pricing, positioning comparison.'
+authors:
+- indranilbanerjee
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/competitor-analysis
+  repo: indranilbanerjee/digital-marketing-pro
+metadata: {}
 added_at: '2026-06-05'

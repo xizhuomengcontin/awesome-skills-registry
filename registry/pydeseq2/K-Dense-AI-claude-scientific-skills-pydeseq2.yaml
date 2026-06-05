@@ -1,9 +1,14 @@
 id: K-Dense-AI-claude-scientific-skills-pydeseq2
-description: Differential gene expression analysis (Python DESeq2). Identify DE genes
-  from bulk RNA-seq counts, Wald tests, FDR correction, volcano/MA plots, for RNA-seq
-  analysis.
-url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/skills/pydeseq2/SKILL.md
-folder_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/pydeseq2
-repo: K-Dense-AI/claude-scientific-skills
-skill_dir: pydeseq2
+display_name: Pydeseq2
+description: Differential gene expression analysis (Python DESeq2). Identify DE genes from bulk RNA-seq counts, Wald tests,
+  FDR correction, volcano/MA plots, for RNA-seq analysis.
+authors:
+- K-Dense-AI
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/pydeseq2
+  repo: K-Dense-AI/claude-scientific-skills
+metadata: {}
 added_at: '2026-06-05'

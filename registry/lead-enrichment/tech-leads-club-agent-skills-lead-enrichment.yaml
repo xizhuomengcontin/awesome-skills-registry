@@ -1,13 +1,17 @@
 id: tech-leads-club-agent-skills-lead-enrichment
-description: When the user wants to build data enrichment workflows, score leads against
-  ICP, set up Clay waterfalls, or improve contact data quality. Also use when the
-  user mentions 'enrichment,' 'data enrichment,' 'Clay,' 'waterfall enrichment,' 'ICP
-  scoring,' 'lead scoring,' 'intent data,' 'contact verification,' 'Apollo,' 'ZoomInfo,'
-  or 'data quality.' This skill covers lead enrichment waterfalls, ICP scoring frameworks,
-  and contact verification systems. Do NOT use for technical implementation, code
-  review, or software architecture.
-url: https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(gtm)/lead-enrichment/SKILL.md
-folder_url: https://github.com/tech-leads-club/agent-skills/tree/main/packages/skills-catalog/skills/(gtm)/lead-enrichment
-repo: tech-leads-club/agent-skills
-skill_dir: lead-enrichment
+display_name: Lead Enrichment
+description: When the user wants to build data enrichment workflows, score leads against ICP, set up Clay waterfalls, or improve
+  contact data quality. Also use when the user mentions 'enrichment,' 'data enrichment,' 'Clay,' 'waterfall enrichment,' 'ICP
+  scoring,' 'lead scoring,' 'intent data,' 'contact verification,' 'Apollo,' 'ZoomInfo,' or 'data quality.' This skill covers
+  lead enrichment waterfalls, ICP scoring frameworks, and contact verification systems. Do NOT use for technical implementation,
+  code review, or software architecture.
+authors:
+- tech-leads-club
+is_official: false
+tags: []
+category: none
+source:
+  path: /packages/skills-catalog/skills/(gtm)/lead-enrichment
+  repo: tech-leads-club/agent-skills
+metadata: {}
 added_at: '2026-06-05'

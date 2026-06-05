@@ -1,18 +1,20 @@
 id: K-Dense-AI-claude-scientific-skills-parallel-web
-description: "All-in-one web toolkit powered by parallel-cli, with a strong emphasis\
-  \ on academic and scientific sources. Use this skill whenever the user needs to\
-  \ search the web, fetch/extract URL content, enrich data with web-sourced fields,\
-  \ or run deep research reports. Covers: web search (fast lookups, research, current\
-  \ info \u2014 prioritizing peer-reviewed papers, preprints, and scholarly databases),\
-  \ URL extraction (fetching pages, articles, academic PDFs), bulk data enrichment\
-  \ (adding fields to CSV/lists from the web), and deep research (exhaustive multi-source\
-  \ reports grounded in academic literature). Also handles setup, status checks, and\
-  \ result retrieval. Use this skill for ANY web-related task \u2014 even if the user\
-  \ doesn't mention 'parallel' or 'web' explicitly. If they want to look something\
-  \ up, fetch a page, enrich a dataset, investigate a topic, find academic papers,\
-  \ check citations, or review scientific literature, this is the skill to use."
-url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/skills/parallel-web/SKILL.md
-folder_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/parallel-web
-repo: K-Dense-AI/claude-scientific-skills
-skill_dir: parallel-web
+display_name: Parallel Web
+description: 'All-in-one web toolkit powered by parallel-cli, with a strong emphasis on academic and scientific sources. Use
+  this skill whenever the user needs to search the web, fetch/extract URL content, enrich data with web-sourced fields, or
+  run deep research reports. Covers: web search (fast lookups, research, current info — prioritizing peer-reviewed papers,
+  preprints, and scholarly databases), URL extraction (fetching pages, articles, academic PDFs), bulk data enrichment (adding
+  fields to CSV/lists from the web), and deep research (exhaustive multi-source reports grounded in academic literature).
+  Also handles setup, status checks, and result retrieval. Use this skill for ANY web-related task — even if the user doesn''t
+  mention ''parallel'' or ''web'' explicitly. If they want to look something up, fetch a page, enrich a dataset, investigate
+  a topic, find academic papers, check citations, or review scientific literature, this is the skill to use.'
+authors:
+- K-Dense-AI
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/parallel-web
+  repo: K-Dense-AI/claude-scientific-skills
+metadata: {}
 added_at: '2026-06-05'

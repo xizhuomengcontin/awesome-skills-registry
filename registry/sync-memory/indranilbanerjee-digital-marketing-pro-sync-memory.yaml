@@ -1,8 +1,14 @@
 id: indranilbanerjee-digital-marketing-pro-sync-memory
-description: 'Batch sync session learnings to memory. Use when: persisting campaign
-  insights and performance history across sessions.'
-url: https://raw.githubusercontent.com/indranilbanerjee/digital-marketing-pro/main/skills/sync-memory/SKILL.md
-folder_url: https://github.com/indranilbanerjee/digital-marketing-pro/tree/main/skills/sync-memory
-repo: indranilbanerjee/digital-marketing-pro
-skill_dir: sync-memory
+display_name: Sync Memory
+description: 'Batch sync session learnings to memory. Use when: persisting campaign insights and performance history across
+  sessions.'
+authors:
+- indranilbanerjee
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/sync-memory
+  repo: indranilbanerjee/digital-marketing-pro
+metadata: {}
 added_at: '2026-06-05'

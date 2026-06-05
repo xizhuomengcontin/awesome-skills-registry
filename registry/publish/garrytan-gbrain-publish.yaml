@@ -1,8 +1,13 @@
 id: garrytan-gbrain-publish
-description: Share brain pages as beautiful password-protected HTML with zero LLM
-  calls
-url: https://raw.githubusercontent.com/garrytan/gbrain/master/skills/publish/SKILL.md
-folder_url: https://github.com/garrytan/gbrain/tree/master/skills/publish
-repo: garrytan/gbrain
-skill_dir: publish
+display_name: Publish
+description: Share brain pages as beautiful password-protected HTML with zero LLM calls
+authors:
+- garrytan
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/publish
+  repo: garrytan/gbrain
+metadata: {}
 added_at: '2026-06-05'

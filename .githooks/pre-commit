@@ -29,3 +29,12 @@ fi
 echo "Linting staged registry YAML files..."
 # shellcheck disable=SC2086
 uv run python "$REPO_ROOT/scripts/lint_registry.py" $STAGED_YAML
+
+# --- CUE schema validation for staged registry YAML ---
+if command -v cue >/dev/null 2>&1; then
+  echo "Validating staged registry YAML files against schema..."
+  # shellcheck disable=SC2086
+  bash "$REPO_ROOT/scripts/validate.sh" $STAGED_YAML
+else
+  echo "Warning: cue not installed — skipping schema validation. Install with: brew install cue-lang/tap/cue"
+fi

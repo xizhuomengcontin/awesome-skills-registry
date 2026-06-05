@@ -1,14 +1,18 @@
 id: tech-leads-club-agent-skills-gtm-metrics
-description: When the user wants to define GTM metrics, build a metrics dashboard,
-  measure pipeline efficiency, or track AI product performance. Also use when the
-  user mentions 'GTM metrics,' 'revenue latency,' 'pipeline metrics,' 'TTFV,' 'time-to-first-value,'
-  'data health,' 'attribution,' 'conversion rate,' 'CAC,' 'LTV,' 'NRR,' 'GTM dashboard,'
-  'magic number,' 'pipeline velocity,' or 'funnel metrics.' This skill covers GTM
-  measurement from metric selection through dashboard design, including AI-specific
-  cost metrics, attribution models, and weekly review cadences. Do NOT use for technical
-  implementation, code review, or software architecture.
-url: https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(gtm)/gtm-metrics/SKILL.md
-folder_url: https://github.com/tech-leads-club/agent-skills/tree/main/packages/skills-catalog/skills/(gtm)/gtm-metrics
-repo: tech-leads-club/agent-skills
-skill_dir: gtm-metrics
+display_name: Gtm Metrics
+description: When the user wants to define GTM metrics, build a metrics dashboard, measure pipeline efficiency, or track AI
+  product performance. Also use when the user mentions 'GTM metrics,' 'revenue latency,' 'pipeline metrics,' 'TTFV,' 'time-to-first-value,'
+  'data health,' 'attribution,' 'conversion rate,' 'CAC,' 'LTV,' 'NRR,' 'GTM dashboard,' 'magic number,' 'pipeline velocity,'
+  or 'funnel metrics.' This skill covers GTM measurement from metric selection through dashboard design, including AI-specific
+  cost metrics, attribution models, and weekly review cadences. Do NOT use for technical implementation, code review, or software
+  architecture.
+authors:
+- tech-leads-club
+is_official: false
+tags: []
+category: none
+source:
+  path: /packages/skills-catalog/skills/(gtm)/gtm-metrics
+  repo: tech-leads-club/agent-skills
+metadata: {}
 added_at: '2026-06-05'

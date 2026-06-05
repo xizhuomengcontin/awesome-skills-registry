@@ -1,7 +1,13 @@
 id: garrytan-gbrain-install
+display_name: Install
 description: This skill has been replaced by the **setup** skill. See `skills/setup/SKILL.md`.
-url: https://raw.githubusercontent.com/garrytan/gbrain/master/skills/install/SKILL.md
-folder_url: https://github.com/garrytan/gbrain/tree/master/skills/install
-repo: garrytan/gbrain
-skill_dir: install
+authors:
+- garrytan
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/install
+  repo: garrytan/gbrain
+metadata: {}
 added_at: '2026-06-05'

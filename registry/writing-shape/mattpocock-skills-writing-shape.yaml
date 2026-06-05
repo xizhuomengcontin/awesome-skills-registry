@@ -1,11 +1,15 @@
 id: mattpocock-skills-writing-shape
-description: "Take a markdown file of raw material and shape it into an article through\
-  \ a conversational session \u2014 drafting candidate openings, growing the piece\
-  \ paragraph by paragraph, arguing about format (lists, tables, callouts, quotes)\
-  \ at each step. Use when the user has a pile of notes, fragments, or a rough draft\
-  \ and wants help turning it into something publishable."
-url: https://raw.githubusercontent.com/mattpocock/skills/main/skills/in-progress/writing-shape/SKILL.md
-folder_url: https://github.com/mattpocock/skills/tree/main/skills/in-progress/writing-shape
-repo: mattpocock/skills
-skill_dir: writing-shape
+display_name: Writing Shape
+description: Take a markdown file of raw material and shape it into an article through a conversational session — drafting
+  candidate openings, growing the piece paragraph by paragraph, arguing about format (lists, tables, callouts, quotes) at
+  each step. Use when the user has a pile of notes, fragments, or a rough draft and wants help turning it into something publishable.
+authors:
+- mattpocock
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/in-progress/writing-shape
+  repo: mattpocock/skills
+metadata: {}
 added_at: '2026-06-05'

@@ -1,8 +1,13 @@
 id: indranilbanerjee-digital-marketing-pro-budget-optimizer
-description: 'Optimize budget allocation. Use when: channel spend reallocation, data-driven
-  budget planning, ROI-based justification.'
-url: https://raw.githubusercontent.com/indranilbanerjee/digital-marketing-pro/main/skills/budget-optimizer/SKILL.md
-folder_url: https://github.com/indranilbanerjee/digital-marketing-pro/tree/main/skills/budget-optimizer
-repo: indranilbanerjee/digital-marketing-pro
-skill_dir: budget-optimizer
+display_name: Budget Optimizer
+description: 'Optimize budget allocation. Use when: channel spend reallocation, data-driven budget planning, ROI-based justification.'
+authors:
+- indranilbanerjee
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/budget-optimizer
+  repo: indranilbanerjee/digital-marketing-pro
+metadata: {}
 added_at: '2026-06-05'

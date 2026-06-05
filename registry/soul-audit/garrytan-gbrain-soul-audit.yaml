@@ -1,8 +1,14 @@
 id: garrytan-gbrain-soul-audit
+display_name: Soul Audit
 description: 6-phase interactive interview that generates the agent's identity (SOUL.md), user profile (USER.md), access control
   (ACCESS_POLICY.md), and operational cadence (HEARTBEAT.md). Re-runnable anytime to update any section.
-url: https://raw.githubusercontent.com/garrytan/gbrain/master/skills/soul-audit/SKILL.md
-folder_url: https://github.com/garrytan/gbrain/tree/master/skills/soul-audit
-repo: garrytan/gbrain
-skill_dir: soul-audit
+authors:
+- garrytan
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/soul-audit
+  repo: garrytan/gbrain
+metadata: {}
 added_at: '2026-06-05'

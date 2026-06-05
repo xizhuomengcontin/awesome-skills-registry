@@ -1,9 +1,14 @@
 id: talkstream-ru-text-root
-description: Use when writing, editing, or reviewing Russian-language text, or when
-  user mentions ru-text. Covers typography, info-style, editorial, UX writing, business
-  correspondence. Auto-activates on Russian text output.
-url: https://raw.githubusercontent.com/talkstream/ru-text/main/SKILL.md
-folder_url: https://github.com/talkstream/ru-text/tree/main
-repo: talkstream/ru-text
-skill_dir: root
+display_name: Root
+description: Use when writing, editing, or reviewing Russian-language text, or when user mentions ru-text. Covers typography,
+  info-style, editorial, UX writing, business correspondence. Auto-activates on Russian text output.
+authors:
+- talkstream
+is_official: false
+tags: []
+category: none
+source:
+  path: /
+  repo: talkstream/ru-text
+metadata: {}
 added_at: '2026-06-05'

@@ -1,8 +1,14 @@
 id: indranilbanerjee-digital-marketing-pro-competitor-monitor
-description: 'Set up ongoing competitor monitoring. Use when: defining tracked competitors,
-  scan frequency, change detection alerts.'
-url: https://raw.githubusercontent.com/indranilbanerjee/digital-marketing-pro/main/skills/competitor-monitor/SKILL.md
-folder_url: https://github.com/indranilbanerjee/digital-marketing-pro/tree/main/skills/competitor-monitor
-repo: indranilbanerjee/digital-marketing-pro
-skill_dir: competitor-monitor
+display_name: Competitor Monitor
+description: 'Set up ongoing competitor monitoring. Use when: defining tracked competitors, scan frequency, change detection
+  alerts.'
+authors:
+- indranilbanerjee
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/competitor-monitor
+  repo: indranilbanerjee/digital-marketing-pro
+metadata: {}
 added_at: '2026-06-05'

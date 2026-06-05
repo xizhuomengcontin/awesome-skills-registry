@@ -1,8 +1,13 @@
 id: indranilbanerjee-digital-marketing-pro-schedule-social
-description: 'Schedule social media posts. Use when: publishing to Twitter/X, Instagram,
-  LinkedIn, TikTok, YouTube, or Pinterest.'
-url: https://raw.githubusercontent.com/indranilbanerjee/digital-marketing-pro/main/skills/schedule-social/SKILL.md
-folder_url: https://github.com/indranilbanerjee/digital-marketing-pro/tree/main/skills/schedule-social
-repo: indranilbanerjee/digital-marketing-pro
-skill_dir: schedule-social
+display_name: Schedule Social
+description: 'Schedule social media posts. Use when: publishing to Twitter/X, Instagram, LinkedIn, TikTok, YouTube, or Pinterest.'
+authors:
+- indranilbanerjee
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/schedule-social
+  repo: indranilbanerjee/digital-marketing-pro
+metadata: {}
 added_at: '2026-06-05'

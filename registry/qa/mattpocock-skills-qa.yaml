@@ -1,10 +1,15 @@
 id: mattpocock-skills-qa
-description: Interactive QA session where user reports bugs or issues conversationally,
-  and the agent files GitHub issues. Explores the codebase in the background for context
-  and domain language. Use when user wants to report bugs, do QA, file issues conversationally,
-  or mentions "QA session".
-url: https://raw.githubusercontent.com/mattpocock/skills/main/skills/deprecated/qa/SKILL.md
-folder_url: https://github.com/mattpocock/skills/tree/main/skills/deprecated/qa
-repo: mattpocock/skills
-skill_dir: qa
+display_name: Qa
+description: Interactive QA session where user reports bugs or issues conversationally, and the agent files GitHub issues.
+  Explores the codebase in the background for context and domain language. Use when user wants to report bugs, do QA, file
+  issues conversationally, or mentions "QA session".
+authors:
+- mattpocock
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/deprecated/qa
+  repo: mattpocock/skills
+metadata: {}
 added_at: '2026-06-05'

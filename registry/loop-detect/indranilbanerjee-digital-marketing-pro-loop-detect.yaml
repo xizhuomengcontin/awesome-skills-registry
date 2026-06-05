@@ -1,8 +1,14 @@
 id: indranilbanerjee-digital-marketing-pro-loop-detect
-description: 'Identify and model growth loops. Use when: detecting viral, content,
-  or paid loops, modeling effectiveness, proposing new loops.'
-url: https://raw.githubusercontent.com/indranilbanerjee/digital-marketing-pro/main/skills/loop-detect/SKILL.md
-folder_url: https://github.com/indranilbanerjee/digital-marketing-pro/tree/main/skills/loop-detect
-repo: indranilbanerjee/digital-marketing-pro
-skill_dir: loop-detect
+display_name: Loop Detect
+description: 'Identify and model growth loops. Use when: detecting viral, content, or paid loops, modeling effectiveness,
+  proposing new loops.'
+authors:
+- indranilbanerjee
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/loop-detect
+  repo: indranilbanerjee/digital-marketing-pro
+metadata: {}
 added_at: '2026-06-05'

@@ -1,8 +1,13 @@
 id: indranilbanerjee-digital-marketing-pro-content-brief
-description: 'Create detailed content briefs. Use when: keyword targets, outline,
-  structure, voice guidelines, SEO requirements.'
-url: https://raw.githubusercontent.com/indranilbanerjee/digital-marketing-pro/main/skills/content-brief/SKILL.md
-folder_url: https://github.com/indranilbanerjee/digital-marketing-pro/tree/main/skills/content-brief
-repo: indranilbanerjee/digital-marketing-pro
-skill_dir: content-brief
+display_name: Content Brief
+description: 'Create detailed content briefs. Use when: keyword targets, outline, structure, voice guidelines, SEO requirements.'
+authors:
+- indranilbanerjee
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/content-brief
+  repo: indranilbanerjee/digital-marketing-pro
+metadata: {}
 added_at: '2026-06-05'

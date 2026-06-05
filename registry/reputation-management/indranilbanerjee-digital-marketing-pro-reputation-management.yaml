@@ -1,8 +1,13 @@
 id: indranilbanerjee-digital-marketing-pro-reputation-management
-description: 'Manage brand reputation. Use when: handling reviews, crisis comms, negative
-  press, sentiment, or recovery plans.'
-url: https://raw.githubusercontent.com/indranilbanerjee/digital-marketing-pro/main/skills/reputation-management/SKILL.md
-folder_url: https://github.com/indranilbanerjee/digital-marketing-pro/tree/main/skills/reputation-management
-repo: indranilbanerjee/digital-marketing-pro
-skill_dir: reputation-management
+display_name: Reputation Management
+description: 'Manage brand reputation. Use when: handling reviews, crisis comms, negative press, sentiment, or recovery plans.'
+authors:
+- indranilbanerjee
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/reputation-management
+  repo: indranilbanerjee/digital-marketing-pro
+metadata: {}
 added_at: '2026-06-05'
