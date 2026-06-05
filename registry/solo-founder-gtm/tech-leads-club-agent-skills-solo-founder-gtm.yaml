@@ -8,6 +8,7 @@ description: When the user is a solo founder building their GTM motion, wants to
   transitions, time allocation, and when to finally hire. Do NOT use for technical
   implementation, code review, or software architecture.
 url: https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(gtm)/solo-founder-gtm/SKILL.md
+folder_url: https://github.com/tech-leads-club/agent-skills/tree/main/packages/skills-catalog/skills/(gtm)/solo-founder-gtm
 repo: tech-leads-club/agent-skills
 skill_dir: solo-founder-gtm
 added_at: '2026-06-05'

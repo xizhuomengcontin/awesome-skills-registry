@@ -6,6 +6,7 @@ description: Use the Figma MCP server to fetch design context, screenshots, vari
   NOT use when the goal is specifically pixel-perfect code implementation from a Figma
   design (use figma-implement-design instead).
 url: https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(design)/figma/SKILL.md
+folder_url: https://github.com/tech-leads-club/agent-skills/tree/main/packages/skills-catalog/skills/(design)/figma
 repo: tech-leads-club/agent-skills
 skill_dir: figma
 added_at: '2026-06-05'

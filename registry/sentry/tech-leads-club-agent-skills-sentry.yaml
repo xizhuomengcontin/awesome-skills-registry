@@ -5,6 +5,7 @@ description: Inspect Sentry issues, summarize production errors, and pull health
   report". Requires SENTRY_AUTH_TOKEN. Do NOT use for setting up Sentry SDK, configuring
   alerts, or non-Sentry error monitoring.
 url: https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(monitoring)/sentry/SKILL.md
+folder_url: https://github.com/tech-leads-club/agent-skills/tree/main/packages/skills-catalog/skills/(monitoring)/sentry
 repo: tech-leads-club/agent-skills
 skill_dir: sentry
 added_at: '2026-06-05'

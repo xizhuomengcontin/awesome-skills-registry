@@ -7,6 +7,7 @@ description: Complete Shopify development reference covering Liquid templating, 
   on "Shopify", "Liquid template", "Hydrogen", "Storefront API", "theme development",
   "Shopify Functions", "Polaris". Do NOT use for non-Shopify e-commerce platforms.
 url: https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(development)/shopify-developer/SKILL.md
+folder_url: https://github.com/tech-leads-club/agent-skills/tree/main/packages/skills-catalog/skills/(development)/shopify-developer
 repo: tech-leads-club/agent-skills
 skill_dir: shopify-developer
 added_at: '2026-06-05'

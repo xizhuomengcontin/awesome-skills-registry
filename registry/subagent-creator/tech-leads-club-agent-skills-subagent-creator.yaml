@@ -6,6 +6,7 @@ description: Guide for creating AI subagents with isolated context for complex m
   "new agent", "specialized assistant", "create verifier". Do NOT use for Cursor-specific
   subagents (use cursor-subagent-creator instead).
 url: https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(creation)/subagent-creator/SKILL.md
+folder_url: https://github.com/tech-leads-club/agent-skills/tree/main/packages/skills-catalog/skills/(creation)/subagent-creator
 repo: tech-leads-club/agent-skills
 skill_dir: subagent-creator
 added_at: '2026-06-05'

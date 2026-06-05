@@ -11,6 +11,7 @@ description: "AI frontend specialist and design consultant that guides users thr
   \ design references. Do NOT use for backend logic, API design, database schemas,\
   \ or non-visual code tasks."
 url: https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(architecture)/frontend-blueprint/SKILL.md
+folder_url: https://github.com/tech-leads-club/agent-skills/tree/main/packages/skills-catalog/skills/(architecture)/frontend-blueprint
 repo: tech-leads-club/agent-skills
 skill_dir: frontend-blueprint
 added_at: '2026-06-05'

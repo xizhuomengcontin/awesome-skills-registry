@@ -11,6 +11,7 @@ description: 'Unified Minions skill for both deterministic shell jobs and LLM su
 
   '
 url: https://raw.githubusercontent.com/garrytan/gbrain/master/skills/minion-orchestrator/SKILL.md
+folder_url: https://github.com/garrytan/gbrain/tree/master/skills/minion-orchestrator
 repo: garrytan/gbrain
 skill_dir: minion-orchestrator
 added_at: '2026-06-05'

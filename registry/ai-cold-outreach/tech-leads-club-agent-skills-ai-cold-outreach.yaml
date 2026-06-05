@@ -7,6 +7,7 @@ description: When the user wants to build an AI-powered outreach system, write c
   system from signal detection through conversion. Do NOT use for technical implementation,
   code review, or software architecture.
 url: https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(gtm)/ai-cold-outreach/SKILL.md
+folder_url: https://github.com/tech-leads-club/agent-skills/tree/main/packages/skills-catalog/skills/(gtm)/ai-cold-outreach
 repo: tech-leads-club/agent-skills
 skill_dir: ai-cold-outreach
 added_at: '2026-06-05'

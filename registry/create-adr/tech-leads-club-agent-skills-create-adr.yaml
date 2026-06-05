@@ -7,6 +7,7 @@ description: Creates Architecture Decision Records (ADRs) to document significan
   decision hasn't been made yet (use create-rfc instead), for implementation planning
   (use technical-design-doc-creator), or for general documentation.
 url: https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(creation)/create-adr/SKILL.md
+folder_url: https://github.com/tech-leads-club/agent-skills/tree/main/packages/skills-catalog/skills/(creation)/create-adr
 repo: tech-leads-club/agent-skills
 skill_dir: create-adr
 added_at: '2026-06-05'

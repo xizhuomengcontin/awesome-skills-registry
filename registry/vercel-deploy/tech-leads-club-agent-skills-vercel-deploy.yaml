@@ -4,6 +4,7 @@ description: Deploy applications and websites to Vercel. Use when the user reque
   live", or "create a preview deployment". Do NOT use for deploying to Netlify, Cloudflare,
   or Render (use their respective skills).
 url: https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/vercel-deploy/SKILL.md
+folder_url: https://github.com/tech-leads-club/agent-skills/tree/main/packages/skills-catalog/skills/(cloud)/vercel-deploy
 repo: tech-leads-club/agent-skills
 skill_dir: vercel-deploy
 added_at: '2026-06-05'

@@ -7,6 +7,7 @@ description: When the user wants to choose between PLG and sales-led, design a s
   design, and go-to-market motion architecture. Do NOT use for technical implementation,
   code review, or software architecture.
 url: https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(gtm)/sales-motion-design/SKILL.md
+folder_url: https://github.com/tech-leads-club/agent-skills/tree/main/packages/skills-catalog/skills/(gtm)/sales-motion-design
 repo: tech-leads-club/agent-skills
 skill_dir: sales-motion-design
 added_at: '2026-06-05'

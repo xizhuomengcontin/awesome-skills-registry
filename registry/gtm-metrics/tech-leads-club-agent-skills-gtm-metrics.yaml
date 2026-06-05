@@ -8,6 +8,7 @@ description: When the user wants to define GTM metrics, build a metrics dashboar
   cost metrics, attribution models, and weekly review cadences. Do NOT use for technical
   implementation, code review, or software architecture.
 url: https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(gtm)/gtm-metrics/SKILL.md
+folder_url: https://github.com/tech-leads-club/agent-skills/tree/main/packages/skills-catalog/skills/(gtm)/gtm-metrics
 repo: tech-leads-club/agent-skills
 skill_dir: gtm-metrics
 added_at: '2026-06-05'

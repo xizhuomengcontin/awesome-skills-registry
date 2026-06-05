@@ -8,6 +8,7 @@ description: 'Ingest video, audio, PDF, book, screenshot, and GitHub repo conten
 
   '
 url: https://raw.githubusercontent.com/garrytan/gbrain/master/skills/media-ingest/SKILL.md
+folder_url: https://github.com/garrytan/gbrain/tree/master/skills/media-ingest
 repo: garrytan/gbrain
 skill_dir: media-ingest
 added_at: '2026-06-05'

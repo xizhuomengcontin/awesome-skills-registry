@@ -5,6 +5,7 @@ description: Maps architectural components in a codebase and measures their size
   "size my monolith", or planning where to start decomposing. Do NOT use for runtime
   performance sizing or infrastructure capacity planning.
 url: https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(architecture)/component-identification-sizing/SKILL.md
+folder_url: https://github.com/tech-leads-club/agent-skills/tree/main/packages/skills-catalog/skills/(architecture)/component-identification-sizing
 repo: tech-leads-club/agent-skills
 skill_dir: component-identification-sizing
 added_at: '2026-06-05'

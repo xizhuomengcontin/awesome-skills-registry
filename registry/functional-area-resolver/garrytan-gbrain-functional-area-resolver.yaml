@@ -11,6 +11,7 @@ description: 'Compress an agent''s routing file (RESOLVER.md or AGENTS.md) by co
 
   '
 url: https://raw.githubusercontent.com/garrytan/gbrain/master/skills/functional-area-resolver/SKILL.md
+folder_url: https://github.com/garrytan/gbrain/tree/master/skills/functional-area-resolver
 repo: garrytan/gbrain
 skill_dir: functional-area-resolver
 added_at: '2026-06-05'

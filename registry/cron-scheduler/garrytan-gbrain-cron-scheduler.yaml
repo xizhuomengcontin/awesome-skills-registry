@@ -5,6 +5,7 @@ description: 'Schedule management with staggering, quiet hours, and wake-up over
 
   '
 url: https://raw.githubusercontent.com/garrytan/gbrain/master/skills/cron-scheduler/SKILL.md
+folder_url: https://github.com/garrytan/gbrain/tree/master/skills/cron-scheduler
 repo: garrytan/gbrain
 skill_dir: cron-scheduler
 added_at: '2026-06-05'

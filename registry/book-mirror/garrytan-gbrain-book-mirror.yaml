@@ -4,6 +4,7 @@ description: Take any book (EPUB/PDF), produce a personalized chapter-by-chapter
   maps every idea to the reader's actual life using brain context. Output is a single
   brain page at media/books/<slug>-personalized.md plus an optional PDF via brain-pdf.
 url: https://raw.githubusercontent.com/garrytan/gbrain/master/skills/book-mirror/SKILL.md
+folder_url: https://github.com/garrytan/gbrain/tree/master/skills/book-mirror
 repo: garrytan/gbrain
 skill_dir: book-mirror
 added_at: '2026-06-05'

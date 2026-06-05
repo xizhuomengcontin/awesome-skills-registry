@@ -9,6 +9,7 @@ description: "Your pathfinder for navigating unknown codebases. Investigates wit
   \ this flow\", \"help me with this code\". Do NOT use for greenfield scaffolding,\
   \ CI/CD, or infrastructure provisioning."
 url: https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(development)/codenavi/SKILL.md
+folder_url: https://github.com/tech-leads-club/agent-skills/tree/main/packages/skills-catalog/skills/(development)/codenavi
 repo: tech-leads-club/agent-skills
 skill_dir: codenavi
 added_at: '2026-06-05'

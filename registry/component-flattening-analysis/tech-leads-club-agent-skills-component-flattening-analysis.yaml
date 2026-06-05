@@ -6,6 +6,7 @@ description: "Detects misplaced classes and fixes component hierarchy problems \
   \ have misplaced code. Do NOT use for dependency analysis (use coupling-analysis)\
   \ or domain grouping (use domain-identification-grouping)."
 url: https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(architecture)/component-flattening-analysis/SKILL.md
+folder_url: https://github.com/tech-leads-club/agent-skills/tree/main/packages/skills-catalog/skills/(architecture)/component-flattening-analysis
 repo: tech-leads-club/agent-skills
 skill_dir: component-flattening-analysis
 added_at: '2026-06-05'

@@ -7,6 +7,7 @@ description: 'Enrich brain pages with tiered enrichment protocol. Creates and up
 
   '
 url: https://raw.githubusercontent.com/garrytan/gbrain/master/skills/enrich/SKILL.md
+folder_url: https://github.com/garrytan/gbrain/tree/master/skills/enrich
 repo: garrytan/gbrain
 skill_dir: enrich
 added_at: '2026-06-05'

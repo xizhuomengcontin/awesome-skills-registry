@@ -4,6 +4,7 @@ description: Read a book, article, transcript, or case study through the lens of
   the source onto the problem and gives short/medium/long-term recommendations. NOT
   for general book summaries.
 url: https://raw.githubusercontent.com/garrytan/gbrain/master/skills/strategic-reading/SKILL.md
+folder_url: https://github.com/garrytan/gbrain/tree/master/skills/strategic-reading
 repo: garrytan/gbrain
 skill_dir: strategic-reading
 added_at: '2026-06-05'

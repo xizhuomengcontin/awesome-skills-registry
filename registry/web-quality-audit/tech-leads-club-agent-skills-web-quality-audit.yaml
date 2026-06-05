@@ -6,6 +6,7 @@ description: "Comprehensive web quality audit covering performance, accessibilit
   \ for depth. Do NOT use for single-area audits \u2014 prefer core-web-vitals, web-accessibility,\
   \ seo, or web-best-practices for focused work."
 url: https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(quality)/web-quality-audit/SKILL.md
+folder_url: https://github.com/tech-leads-club/agent-skills/tree/main/packages/skills-catalog/skills/(quality)/web-quality-audit
 repo: tech-leads-club/agent-skills
 skill_dir: web-quality-audit
 added_at: '2026-06-05'

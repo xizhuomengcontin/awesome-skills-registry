@@ -7,6 +7,7 @@ description: Specialist in designing and implementing scalable modular monolith 
   or "monolith to microservices". Do NOT use for simple CRUD APIs, frontend work,
   or general NestJS questions without architectural context.
 url: https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(development)/nestjs-modular-monolith/SKILL.md
+folder_url: https://github.com/tech-leads-club/agent-skills/tree/main/packages/skills-catalog/skills/(development)/nestjs-modular-monolith
 repo: tech-leads-club/agent-skills
 skill_dir: nestjs-modular-monolith
 added_at: '2026-06-05'

@@ -5,6 +5,7 @@ description: Address review and issue comments on the open GitHub PR for the cur
   to authenticate if not logged in. Do NOT use for creating PRs, CI debugging (use
   gh-fix-ci), or general Git operations.
 url: https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(development)/gh-address-comments/SKILL.md
+folder_url: https://github.com/tech-leads-club/agent-skills/tree/main/packages/skills-catalog/skills/(development)/gh-address-comments
 repo: tech-leads-club/agent-skills
 skill_dir: gh-address-comments
 added_at: '2026-06-05'

@@ -6,6 +6,7 @@ description: "Configure, explore, and optimize Nx monorepo workspaces. Use when 
   \ Do NOT use for running tasks (use nx-run-tasks) or code generation with generators\
   \ (use nx-generate)."
 url: https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(tooling)/nx-workspace/SKILL.md
+folder_url: https://github.com/tech-leads-club/agent-skills/tree/main/packages/skills-catalog/skills/(tooling)/nx-workspace
 repo: tech-leads-club/agent-skills
 skill_dir: nx-workspace
 added_at: '2026-06-05'

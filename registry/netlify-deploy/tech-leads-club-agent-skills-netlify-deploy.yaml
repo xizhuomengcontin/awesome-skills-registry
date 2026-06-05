@@ -4,6 +4,7 @@ description: Deploy web projects to Netlify using the Netlify CLI (`npx netlify`
   including preview and production deploys. Do NOT use for deploying to Vercel, Cloudflare,
   or Render (use their respective skills).
 url: https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/netlify-deploy/SKILL.md
+folder_url: https://github.com/tech-leads-club/agent-skills/tree/main/packages/skills-catalog/skills/(cloud)/netlify-deploy
 repo: tech-leads-club/agent-skills
 skill_dir: netlify-deploy
 added_at: '2026-06-05'

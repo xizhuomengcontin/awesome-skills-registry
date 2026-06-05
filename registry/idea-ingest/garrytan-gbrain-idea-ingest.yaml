@@ -8,6 +8,7 @@ description: 'Ingest links, articles, tweets, and ideas into the brain. Fetch co
 
   '
 url: https://raw.githubusercontent.com/garrytan/gbrain/master/skills/idea-ingest/SKILL.md
+folder_url: https://github.com/garrytan/gbrain/tree/master/skills/idea-ingest
 repo: garrytan/gbrain
 skill_dir: idea-ingest
 added_at: '2026-06-05'

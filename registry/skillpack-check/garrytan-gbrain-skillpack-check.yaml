@@ -17,6 +17,7 @@ description: 'Run `gbrain skillpack-check` to produce an agent-readable JSON hea
 
   '
 url: https://raw.githubusercontent.com/garrytan/gbrain/master/skills/skillpack-check/SKILL.md
+folder_url: https://github.com/garrytan/gbrain/tree/master/skills/skillpack-check
 repo: garrytan/gbrain
 skill_dir: skillpack-check
 added_at: '2026-06-05'

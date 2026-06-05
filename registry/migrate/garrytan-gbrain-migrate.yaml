@@ -2,6 +2,7 @@ id: garrytan-gbrain-migrate
 description: Universal migration from Obsidian, Notion, Logseq, markdown, CSV, JSON,
   Roam
 url: https://raw.githubusercontent.com/garrytan/gbrain/master/skills/migrate/SKILL.md
+folder_url: https://github.com/garrytan/gbrain/tree/master/skills/migrate
 repo: garrytan/gbrain
 skill_dir: migrate
 added_at: '2026-06-05'

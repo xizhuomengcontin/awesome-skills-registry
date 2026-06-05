@@ -9,6 +9,7 @@ description: 'Validate and auto-repair YAML frontmatter on brain pages. Catches 
 
   '
 url: https://raw.githubusercontent.com/garrytan/gbrain/master/skills/frontmatter-guard/SKILL.md
+folder_url: https://github.com/garrytan/gbrain/tree/master/skills/frontmatter-guard
 repo: garrytan/gbrain
 skill_dir: frontmatter-guard
 added_at: '2026-06-05'

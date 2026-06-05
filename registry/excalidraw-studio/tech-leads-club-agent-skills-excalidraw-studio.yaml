@@ -9,6 +9,7 @@ description: Generate Excalidraw diagrams from natural language descriptions. Ou
   (use the architecture skills), Mermaid diagram rendering (use mermaid-studio), or
   non-visual documentation (use docs-writer).
 url: https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(tooling)/excalidraw-studio/SKILL.md
+folder_url: https://github.com/tech-leads-club/agent-skills/tree/main/packages/skills-catalog/skills/(tooling)/excalidraw-studio
 repo: tech-leads-club/agent-skills
 skill_dir: excalidraw-studio
 added_at: '2026-06-05'

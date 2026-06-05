@@ -7,6 +7,7 @@ description: 'Answer questions using the brain''s knowledge with 3-layer search,
 
   '
 url: https://raw.githubusercontent.com/garrytan/gbrain/master/skills/query/SKILL.md
+folder_url: https://github.com/garrytan/gbrain/tree/master/skills/query
 repo: garrytan/gbrain
 skill_dir: query
 added_at: '2026-06-05'

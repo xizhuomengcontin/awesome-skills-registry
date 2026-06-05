@@ -5,6 +5,7 @@ description: Brain-augmented web research. Sends brain context about a topic to 
   and freshness deltas. NOT for simple URL fetches (use web_fetch) or brain-only queries
   (use gbrain query).
 url: https://raw.githubusercontent.com/garrytan/gbrain/master/skills/perplexity-research/SKILL.md
+folder_url: https://github.com/garrytan/gbrain/tree/master/skills/perplexity-research
 repo: garrytan/gbrain
 skill_dir: perplexity-research
 added_at: '2026-06-05'

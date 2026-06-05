@@ -7,6 +7,7 @@ description: "Generate code using Nx generators \u2014 scaffold projects, librar
   \ Do NOT use for running build/test/lint tasks (use nx-run-tasks) or workspace configuration\
   \ (use nx-workspace)."
 url: https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(tooling)/nx-generate/SKILL.md
+folder_url: https://github.com/tech-leads-club/agent-skills/tree/main/packages/skills-catalog/skills/(tooling)/nx-generate
 repo: tech-leads-club/agent-skills
 skill_dir: nx-generate
 added_at: '2026-06-05'

@@ -8,6 +8,7 @@ description: 'Create new skills following the GBrain conformance standard. Gener
 
   '
 url: https://raw.githubusercontent.com/garrytan/gbrain/master/skills/skill-creator/SKILL.md
+folder_url: https://github.com/garrytan/gbrain/tree/master/skills/skill-creator
 repo: garrytan/gbrain
 skill_dir: skill-creator
 added_at: '2026-06-05'

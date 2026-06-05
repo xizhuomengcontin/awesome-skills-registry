@@ -7,6 +7,7 @@ description: When the user wants to define their ideal customer profile, positio
   ICP definition, messaging architecture, and PMF validation for AI-native products.
   Do NOT use for technical implementation, code review, or software architecture.
 url: https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(gtm)/positioning-icp/SKILL.md
+folder_url: https://github.com/tech-leads-club/agent-skills/tree/main/packages/skills-catalog/skills/(gtm)/positioning-icp
 repo: tech-leads-club/agent-skills
 skill_dir: positioning-icp
 added_at: '2026-06-05'

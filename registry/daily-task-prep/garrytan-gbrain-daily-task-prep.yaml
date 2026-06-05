@@ -6,6 +6,7 @@ description: 'Morning preparation. Calendar lookahead, meeting context loading, 
 
   '
 url: https://raw.githubusercontent.com/garrytan/gbrain/master/skills/daily-task-prep/SKILL.md
+folder_url: https://github.com/garrytan/gbrain/tree/master/skills/daily-task-prep
 repo: garrytan/gbrain
 skill_dir: daily-task-prep
 added_at: '2026-06-05'

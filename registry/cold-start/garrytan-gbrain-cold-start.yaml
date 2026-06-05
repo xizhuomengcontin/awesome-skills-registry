@@ -6,6 +6,7 @@ description: "Day-one data bootstrapping for a new brain. Sequences the highest-
   \ imports, and file archives.\nUse when a user has just finished gbrain setup and\
   \ asks \"now what?\"\n"
 url: https://raw.githubusercontent.com/garrytan/gbrain/master/skills/cold-start/SKILL.md
+folder_url: https://github.com/garrytan/gbrain/tree/master/skills/cold-start
 repo: garrytan/gbrain
 skill_dir: cold-start
 added_at: '2026-06-05'

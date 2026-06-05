@@ -7,6 +7,7 @@ description: '6-phase interactive interview that generates the agent''s identity
 
   '
 url: https://raw.githubusercontent.com/garrytan/gbrain/master/skills/soul-audit/SKILL.md
+folder_url: https://github.com/garrytan/gbrain/tree/master/skills/soul-audit
 repo: garrytan/gbrain
 skill_dir: soul-audit
 added_at: '2026-06-05'

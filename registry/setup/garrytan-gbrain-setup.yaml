@@ -2,6 +2,7 @@ id: garrytan-gbrain-setup
 description: Set up GBrain with auto-provision Supabase or PGLite, AGENTS.md injection,
   first import
 url: https://raw.githubusercontent.com/garrytan/gbrain/master/skills/setup/SKILL.md
+folder_url: https://github.com/garrytan/gbrain/tree/master/skills/setup
 repo: garrytan/gbrain
 skill_dir: setup
 added_at: '2026-06-05'

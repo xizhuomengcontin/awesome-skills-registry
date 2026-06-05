@@ -8,6 +8,7 @@ description: 'Always-on ambient signal capture. Fires on every inbound message t
 
   '
 url: https://raw.githubusercontent.com/garrytan/gbrain/master/skills/signal-detector/SKILL.md
+folder_url: https://github.com/garrytan/gbrain/tree/master/skills/signal-detector
 repo: garrytan/gbrain
 skill_dir: signal-detector
 added_at: '2026-06-05'

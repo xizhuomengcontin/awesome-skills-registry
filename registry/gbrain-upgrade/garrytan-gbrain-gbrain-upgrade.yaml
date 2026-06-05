@@ -5,6 +5,7 @@ description: "Keep gbrain current. When a `gbrain` invocation prints an\n`UPGRAD
   \ a 4-option question + snooze) or auto (apply\nsilently). The action is always\
   \ the hardcoded `gbrain self-upgrade` \u2014 never a\ncommand read from the marker.\n"
 url: https://raw.githubusercontent.com/garrytan/gbrain/master/skills/gbrain-upgrade/SKILL.md
+folder_url: https://github.com/garrytan/gbrain/tree/master/skills/gbrain-upgrade
 repo: garrytan/gbrain
 skill_dir: gbrain-upgrade
 added_at: '2026-06-05'

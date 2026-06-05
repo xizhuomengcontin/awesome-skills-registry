@@ -6,6 +6,7 @@ description: Use when planning legacy system migrations, codebase modernization,
   (use component-identification-sizing), or step-by-step decomposition plans (use
   decomposition-planning-roadmap).
 url: https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(architecture)/legacy-migration-planner/SKILL.md
+folder_url: https://github.com/tech-leads-club/agent-skills/tree/main/packages/skills-catalog/skills/(architecture)/legacy-migration-planner
 repo: tech-leads-club/agent-skills
 skill_dir: legacy-migration-planner
 added_at: '2026-06-05'

@@ -8,6 +8,7 @@ description: 'Brain knowledge base operations. The core read/write cycle: brain-
 
   '
 url: https://raw.githubusercontent.com/garrytan/gbrain/master/skills/brain-ops/SKILL.md
+folder_url: https://github.com/garrytan/gbrain/tree/master/skills/brain-ops
 repo: garrytan/gbrain
 skill_dir: brain-ops
 added_at: '2026-06-05'

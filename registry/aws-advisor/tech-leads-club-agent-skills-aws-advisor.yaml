@@ -7,6 +7,7 @@ description: Expert AWS Cloud Advisor for architecture design, security review, 
   API Gateway, or any AWS service. Do NOT use for non-AWS cloud providers or general
   infrastructure without AWS context.
 url: https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/aws-advisor/SKILL.md
+folder_url: https://github.com/tech-leads-club/agent-skills/tree/main/packages/skills-catalog/skills/(cloud)/aws-advisor
 repo: tech-leads-club/agent-skills
 skill_dir: aws-advisor
 added_at: '2026-06-05'

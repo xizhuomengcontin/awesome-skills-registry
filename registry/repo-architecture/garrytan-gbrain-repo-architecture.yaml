@@ -6,6 +6,7 @@ description: 'Where new brain files go. Decision protocol for filing brain pages
 
   '
 url: https://raw.githubusercontent.com/garrytan/gbrain/master/skills/repo-architecture/SKILL.md
+folder_url: https://github.com/garrytan/gbrain/tree/master/skills/repo-architecture
 repo: garrytan/gbrain
 skill_dir: repo-architecture
 added_at: '2026-06-05'

@@ -11,6 +11,7 @@ description: 'The meta skill. Turn any raw feature into a properly-skilled, test
 
   '
 url: https://raw.githubusercontent.com/garrytan/gbrain/master/skills/skillify/SKILL.md
+folder_url: https://github.com/garrytan/gbrain/tree/master/skills/skillify
 repo: garrytan/gbrain
 skill_dir: skillify
 added_at: '2026-06-05'

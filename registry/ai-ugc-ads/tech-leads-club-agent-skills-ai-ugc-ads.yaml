@@ -6,6 +6,7 @@ description: When the user wants to create UGC ad campaigns, recruit UGC creator
   the UGC growth framework from creator recruitment through AI-powered scaling. Do
   NOT use for technical implementation, code review, or software architecture.
 url: https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(gtm)/ai-ugc-ads/SKILL.md
+folder_url: https://github.com/tech-leads-club/agent-skills/tree/main/packages/skills-catalog/skills/(gtm)/ai-ugc-ads
 repo: tech-leads-club/agent-skills
 skill_dir: ai-ugc-ads
 added_at: '2026-06-05'

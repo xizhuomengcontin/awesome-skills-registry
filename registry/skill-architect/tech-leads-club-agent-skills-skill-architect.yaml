@@ -7,6 +7,7 @@ description: Expert guide for designing and building high-quality skills from sc
   skills and MCP-enhanced workflows. Do NOT use for creating subagents (use subagent-creator)
   or technical design documents (use create-technical-design-doc).
 url: https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(creation)/skill-architect/SKILL.md
+folder_url: https://github.com/tech-leads-club/agent-skills/tree/main/packages/skills-catalog/skills/(creation)/skill-architect
 repo: tech-leads-club/agent-skills
 skill_dir: skill-architect
 added_at: '2026-06-05'

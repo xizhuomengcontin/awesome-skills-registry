@@ -6,6 +6,7 @@ description: 'Save and load timestamped reports. Keyword routing for fast lookup
 
   '
 url: https://raw.githubusercontent.com/garrytan/gbrain/master/skills/reports/SKILL.md
+folder_url: https://github.com/garrytan/gbrain/tree/master/skills/reports
 repo: garrytan/gbrain
 skill_dir: reports
 added_at: '2026-06-05'

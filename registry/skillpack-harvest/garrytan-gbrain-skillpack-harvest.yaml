@@ -12,6 +12,7 @@ description: 'Lift a proven skill from a host repo (e.g. your OpenClaw fork) bac
 
   '
 url: https://raw.githubusercontent.com/garrytan/gbrain/master/skills/skillpack-harvest/SKILL.md
+folder_url: https://github.com/garrytan/gbrain/tree/master/skills/skillpack-harvest
 repo: garrytan/gbrain
 skill_dir: skillpack-harvest
 added_at: '2026-06-05'

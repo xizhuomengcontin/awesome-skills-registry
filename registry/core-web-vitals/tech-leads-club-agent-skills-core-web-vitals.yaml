@@ -6,6 +6,7 @@ description: Optimize Core Web Vitals (LCP, INP, CLS) for better page experience
   (use perf-web-optimization), Lighthouse audits (use perf-lighthouse), or Astro-specific
   optimization (use perf-astro).
 url: https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(performance)/core-web-vitals/SKILL.md
+folder_url: https://github.com/tech-leads-club/agent-skills/tree/main/packages/skills-catalog/skills/(performance)/core-web-vitals
 repo: tech-leads-club/agent-skills
 skill_dir: core-web-vitals
 added_at: '2026-06-05'

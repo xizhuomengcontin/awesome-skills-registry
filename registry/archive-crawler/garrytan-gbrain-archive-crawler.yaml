@@ -4,6 +4,7 @@ description: Universal archivist for personal file archives (Dropbox/B2/Gmail-ta
   surfaces it interactively. REFUSES TO RUN without an explicit gbrain.yml `archive-crawler.scan_paths:`
   allow-list.
 url: https://raw.githubusercontent.com/garrytan/gbrain/master/skills/archive-crawler/SKILL.md
+folder_url: https://github.com/garrytan/gbrain/tree/master/skills/archive-crawler
 repo: garrytan/gbrain
 skill_dir: archive-crawler
 added_at: '2026-06-05'

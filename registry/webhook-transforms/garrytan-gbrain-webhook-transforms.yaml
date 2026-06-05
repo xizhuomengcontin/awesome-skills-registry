@@ -8,6 +8,7 @@ description: 'Generic framework for converting external events (SMS, meetings, s
 
   '
 url: https://raw.githubusercontent.com/garrytan/gbrain/master/skills/webhook-transforms/SKILL.md
+folder_url: https://github.com/garrytan/gbrain/tree/master/skills/webhook-transforms
 repo: garrytan/gbrain
 skill_dir: webhook-transforms
 added_at: '2026-06-05'

@@ -11,6 +11,7 @@ description: "Technology-agnostic guidance for modular systems: bounded contexts
   \ phased extraction roadmaps as the main deliverable (use decomposition-planning-roadmap),\
   \ or end-to-end legacy migration strategy (use legacy-migration-planner)."
 url: https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(architecture)/modular-design-principles/SKILL.md
+folder_url: https://github.com/tech-leads-club/agent-skills/tree/main/packages/skills-catalog/skills/(architecture)/modular-design-principles
 repo: tech-leads-club/agent-skills
 skill_dir: modular-design-principles
 added_at: '2026-06-05'

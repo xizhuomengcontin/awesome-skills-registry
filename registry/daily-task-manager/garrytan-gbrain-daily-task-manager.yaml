@@ -6,6 +6,7 @@ description: 'Task lifecycle management. Add, complete, defer, remove, and revie
 
   '
 url: https://raw.githubusercontent.com/garrytan/gbrain/master/skills/daily-task-manager/SKILL.md
+folder_url: https://github.com/garrytan/gbrain/tree/master/skills/daily-task-manager
 repo: garrytan/gbrain
 skill_dir: daily-task-manager
 added_at: '2026-06-05'

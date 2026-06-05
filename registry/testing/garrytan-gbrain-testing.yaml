@@ -11,6 +11,7 @@ description: 'Skill validation framework PLUS daily test-suite health and regres
 
   '
 url: https://raw.githubusercontent.com/garrytan/gbrain/master/skills/testing/SKILL.md
+folder_url: https://github.com/garrytan/gbrain/tree/master/skills/testing
 repo: garrytan/gbrain
 skill_dir: testing
 added_at: '2026-06-05'

@@ -5,6 +5,7 @@ description: Audit and improve web accessibility following WCAG 2.1 guidelines. 
   (use seo), performance (use core-web-vitals), or comprehensive site audits covering
   multiple areas (use web-quality-audit).
 url: https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(quality)/web-accessibility/SKILL.md
+folder_url: https://github.com/tech-leads-club/agent-skills/tree/main/packages/skills-catalog/skills/(quality)/web-accessibility
 repo: tech-leads-club/agent-skills
 skill_dir: web-accessibility
 added_at: '2026-06-05'

@@ -6,6 +6,7 @@ description: Maps business domains and suggests service boundaries in any codeba
   existing components into domains (use domain-identification-grouping) or dependency
   analysis (use coupling-analysis).
 url: https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(architecture)/domain-analysis/SKILL.md
+folder_url: https://github.com/tech-leads-club/agent-skills/tree/main/packages/skills-catalog/skills/(architecture)/domain-analysis
 repo: tech-leads-club/agent-skills
 skill_dir: domain-analysis
 added_at: '2026-06-05'
