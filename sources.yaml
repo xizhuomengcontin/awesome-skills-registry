@@ -1,4 +1,8 @@
 sources:
+  # --- Official Anthropic skills ---
+  - url: https://github.com/anthropics/skills
+    skills_path: skills/
+
   # --- Multi-skill repos (each skill_dir -> separate registry entry) ---
   - url: https://github.com/garrytan/gbrain
     skills_path: skills/
