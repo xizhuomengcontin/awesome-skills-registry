@@ -5,9 +5,9 @@ Checks every *.yaml file under registry/ for common quality issues
 and optionally fixes them in-place.
 
 Usage:
-    python scripts/lint_registry.py              # check only (exit 1 if issues found)
-    python scripts/lint_registry.py --fix        # auto-fix all fixable issues
-    python scripts/lint_registry.py path/to.yaml # check a specific file
+    uv run python scripts/lint_registry.py              # check only (exit 1 if issues found)
+    uv run python scripts/lint_registry.py --fix        # auto-fix all fixable issues
+    uv run python scripts/lint_registry.py path/to.yaml # check a specific file
 """
 
 from __future__ import annotations
@@ -22,7 +22,7 @@ from pathlib import Path
 try:
     import yaml
 except ImportError:
-    print("Error: PyYAML is required. Install it with: pip install PyYAML", file=sys.stderr)
+    print("Error: PyYAML is required. Run via `uv run python scripts/lint_registry.py`.", file=sys.stderr)
     sys.exit(2)
 
 REPO_ROOT = Path(__file__).resolve().parent.parent

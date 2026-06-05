@@ -1,0 +1,10 @@
+id: anthropics-skills-theme-factory
+description: Toolkit for styling artifacts with a theme. These artifacts can be slides,
+  docs, reportings, HTML landing pages, etc. There are 10 pre-set themes with colors/fonts
+  that you can apply to any artifact that has been creating, or can generate a new
+  theme on-the-fly.
+url: https://raw.githubusercontent.com/anthropics/skills/main/skills/theme-factory/SKILL.md
+folder_url: https://github.com/anthropics/skills/tree/main/skills/theme-factory
+repo: anthropics/skills
+skill_dir: theme-factory
+added_at: '2026-06-05'
