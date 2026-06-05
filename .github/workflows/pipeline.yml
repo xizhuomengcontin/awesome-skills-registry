@@ -22,8 +22,12 @@ jobs:
         with:
           python-version: "3.12"
 
+      - uses: astral-sh/setup-uv@v5
+        with:
+          enable-cache: true
+
       - name: Install dependencies
-        run: pip install -r scripts/requirements.txt
+        run: uv sync --locked
 
       - name: Install GitHub CLI
         run: |
@@ -35,4 +39,4 @@ jobs:
       - name: Update skills registry
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python scripts/update.py
+        run: uv run python scripts/update.py

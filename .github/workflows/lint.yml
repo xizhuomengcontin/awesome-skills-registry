@@ -19,8 +19,12 @@ jobs:
         with:
           python-version: "3.12"
 
+      - uses: astral-sh/setup-uv@v5
+        with:
+          enable-cache: true
+
       - name: Install dependencies
-        run: pip install PyYAML
+        run: uv sync --locked
 
       - name: Lint registry YAML files
-        run: python scripts/lint_registry.py
+        run: uv run python scripts/lint_registry.py

@@ -1,0 +1,14 @@
+[project]
+name = "tfy-skills-repo"
+version = "0.1.0"
+description = "Agent-agnostic skills registry updater"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+  "PyGithub==2.3.0",
+  "rapidfuzz==3.9.3",
+  "PyYAML==6.0.2",
+]
+
+[tool.uv]
+package = false

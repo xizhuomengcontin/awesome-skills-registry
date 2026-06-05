@@ -19,8 +19,9 @@ Works with any skill convention — Claude, Cursor, custom agents, or anything e
 │   └── {task-folder}/
 │       └── {owner}-{repo}-{skill-dir}.yaml
 ├── scripts/
-│   ├── update.py             # Scanner and registry updater
-│   └── requirements.txt
+│   └── update.py             # Scanner and registry updater
+├── pyproject.toml            # Python project dependencies
+├── uv.lock                   # Locked Python dependencies
 └── .github/workflows/
     └── pipeline.yml          # Weekly + manual pipeline
 ```
@@ -86,8 +87,8 @@ The weekly pipeline will pick up the new source on its next run and open a separ
 ### Run locally
 
 ```bash
-pip install -r scripts/requirements.txt
-GITHUB_TOKEN=<your-token> python scripts/update.py
+uv sync
+GITHUB_TOKEN=<your-token> uv run python scripts/update.py
 ```
 
 Requires a GitHub personal access token with `repo` scope (or `public_repo` for public repos only).
