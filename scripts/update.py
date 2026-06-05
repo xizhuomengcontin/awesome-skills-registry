@@ -3,6 +3,7 @@
 
 from __future__ import annotations
 
+import argparse
 import functools
 import glob
 import logging
@@ -10,6 +11,7 @@ import os
 import re
 import subprocess
 import time
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from dataclasses import dataclass, field
 from datetime import date
 from pathlib import Path
@@ -18,6 +20,9 @@ from urllib.parse import urlparse
 import yaml
 from github import Github, GithubException
 from rapidfuzz import fuzz
+
+MAX_SCAN_WORKERS = 10
+MAX_FETCH_WORKERS = 15
 
 logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")
 logger = logging.getLogger(__name__)
@@ -458,48 +463,152 @@ def _fetch_skill_content(repo, path: str) -> str:
     return content.decoded_content.decode()
 
 
+def _scan_source(source: Source, github: Github) -> list[SkillFile]:
+    """Scan a single source repo, returning discovered skill files.
+
+    Isolates per-source failures so one broken repo doesn't abort the run.
+    """
+    try:
+        skills = find_skill_files(source, github)
+        logger.info(
+            "Found %d skill(s) in %s/%s", len(skills), source.owner, source.repo
+        )
+        return skills
+    except GithubException as exc:
+        logger.error(
+            "Failed to scan %s/%s: %s", source.owner, source.repo, exc
+        )
+        return []
+    except Exception as exc:
+        logger.error(
+            "Unexpected error scanning %s/%s: %s", source.owner, source.repo, exc
+        )
+        return []
+
+
+def _fetch_skill_with_content(
+    skill: SkillFile, github: Github
+) -> tuple[SkillFile, dict[str, str]] | None:
+    """Fetch a single skill's content and extract metadata.
+
+    Returns None on failure so one broken file doesn't abort the run.
+    """
+    try:
+        repo = github.get_repo(f"{skill.owner}/{skill.repo}")
+        content = _fetch_skill_content(repo, skill.path)
+        metadata = extract_metadata(content)
+        return skill, metadata
+    except GithubException as exc:
+        logger.error(
+            "Failed to fetch %s/%s/%s: %s",
+            skill.owner, skill.repo, skill.skill_dir, exc,
+        )
+        return None
+    except Exception as exc:
+        logger.error(
+            "Unexpected error fetching %s/%s/%s: %s",
+            skill.owner, skill.repo, skill.skill_dir, exc,
+        )
+        return None
+
+
+def parse_args() -> argparse.Namespace:
+    parser = argparse.ArgumentParser(
+        description="Scan source repos for SKILL.md files and update the registry."
+    )
+    parser.add_argument(
+        "--refresh",
+        action="store_true",
+        default=False,
+        help="Re-process already registered skills (fetch from GitHub and update YAML). "
+             "Without this flag, only new/unregistered skills are processed.",
+    )
+    return parser.parse_args()
+
+
 def main() -> None:
+    args = parse_args()
     token = os.environ.get("GITHUB_TOKEN")
     if not token:
         raise SystemExit("GITHUB_TOKEN environment variable is required")
 
     github = Github(token)
+    sources = load_sources()
     index = build_registry_index()
+
+    # --- Phase 1: Scan all sources in parallel ---
+    logger.info("Phase 1: Scanning %d sources (%d workers)...", len(sources), MAX_SCAN_WORKERS)
+    all_skills: list[SkillFile] = []
+
+    with ThreadPoolExecutor(max_workers=MAX_SCAN_WORKERS) as pool:
+        futures = {
+            pool.submit(_scan_source, source, github): source
+            for source in sources
+        }
+        for future in as_completed(futures):
+            source = futures[future]
+            try:
+                skills = future.result()
+                all_skills.extend(skills)
+            except Exception as exc:
+                logger.error("Unhandled error for %s/%s: %s", source.owner, source.repo, exc)
+
+    logger.info("Discovered %d total skill file(s) across all sources", len(all_skills))
+
+    # Filter out already-registered skills unless --refresh is set
+    if args.refresh:
+        logger.info("--refresh enabled: re-processing all %d discovered skill(s)", len(all_skills))
+        to_process = all_skills
+    else:
+        to_process = []
+        for skill in all_skills:
+            if already_registered(skill.owner, skill.repo, skill.skill_dir):
+                logger.info("Already registered: %s/%s/%s", skill.owner, skill.repo, skill.skill_dir)
+            else:
+                to_process.append(skill)
+        logger.info("%d new skill(s) to process", len(to_process))
+
+    if not to_process:
+        logger.info("No skills to process — nothing to do.")
+        return
+
+    # --- Phase 2: Fetch content for skills in parallel ---
+    logger.info("Phase 2: Fetching content for %d skills (%d workers)...", len(to_process), MAX_FETCH_WORKERS)
+    fetched: list[tuple[SkillFile, dict[str, str]]] = []
+
+    with ThreadPoolExecutor(max_workers=MAX_FETCH_WORKERS) as pool:
+        futures = {
+            pool.submit(_fetch_skill_with_content, skill, github): skill
+            for skill in to_process
+        }
+        for future in as_completed(futures):
+            result = future.result()
+            if result is not None:
+                fetched.append(result)
+
+    logger.info("Successfully fetched %d / %d skill(s)", len(fetched), len(to_process))
+
+    # --- Phase 3: Register skills sequentially (folder matching depends on updated index) ---
+    logger.info("Phase 3: Registering %d skill(s)...", len(fetched))
     new_files: list[str] = []
 
-    for source in load_sources():
-        logger.info("Scanning %s/%s (paths: %s, filename: %s)", source.owner, source.repo, source.skills_paths, source.skill_filename)
-        repo = github.get_repo(f"{source.owner}/{source.repo}")
-        skills = find_skill_files(source, github)
+    for skill, metadata in fetched:
+        text = build_comparison_text(metadata["name"], metadata["description"])
+        folder = find_matching_folder(text, index) or to_folder_name(
+            metadata["name"] or skill.skill_dir, len(new_files)
+        )
+        filepath = write_skill_yaml(folder, skill, metadata)
+        new_files.append(filepath)
 
-        for skill in skills:
-            if already_registered(skill.owner, skill.repo, skill.skill_dir):
-                logger.info(
-                    "Already registered: %s/%s/%s",
-                    skill.owner,
-                    skill.repo,
-                    skill.skill_dir,
-                )
-                continue
-
-            content = _fetch_skill_content(repo, skill.path)
-            metadata = extract_metadata(content)
-            text = build_comparison_text(metadata["name"], metadata["description"])
-            folder = find_matching_folder(text, index) or to_folder_name(
-                metadata["name"] or skill.skill_dir, len(new_files)
+        index.append(
+            RegistryEntry(
+                folder=folder,
+                filename=Path(filepath).name,
+                name=metadata["name"],
+                description=metadata["description"],
+                comparison_text=text,
             )
-            filepath = write_skill_yaml(folder, skill, metadata)
-            new_files.append(filepath)
-
-            index.append(
-                RegistryEntry(
-                    folder=folder,
-                    filename=Path(filepath).name,
-                    name=metadata["name"],
-                    description=metadata["description"],
-                    comparison_text=text,
-                )
-            )
+        )
 
     create_pr(new_files, token)
 
