@@ -1,7 +1,13 @@
 id: alinaqi-maggy-web-content
+display_name: Web Content
 description: SEO and AI discovery (GEO) - schema, ChatGPT/Perplexity optimization
-url: https://raw.githubusercontent.com/alinaqi/maggy/main/skills/web-content/SKILL.md
-folder_url: https://github.com/alinaqi/maggy/tree/main/skills/web-content
-repo: alinaqi/maggy
-skill_dir: web-content
+authors:
+- alinaqi
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/web-content
+  repo: alinaqi/maggy
+metadata: {}
 added_at: '2026-06-05'

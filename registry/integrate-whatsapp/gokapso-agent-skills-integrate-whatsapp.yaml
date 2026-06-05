@@ -1,10 +1,15 @@
 id: gokapso-agent-skills-integrate-whatsapp
-description: 'Connect WhatsApp to your product with Kapso: onboard customers with
-  setup links, detect connections, receive events via webhooks, and send messages/templates/media.
-  Also manage WhatsApp Flows (create/update/publish, data endpoints, encryption).
-  Use when integrating WhatsApp end-to-end.'
-url: https://raw.githubusercontent.com/gokapso/agent-skills/master/skills/integrate-whatsapp/SKILL.md
-folder_url: https://github.com/gokapso/agent-skills/tree/master/skills/integrate-whatsapp
-repo: gokapso/agent-skills
-skill_dir: integrate-whatsapp
+display_name: Integrate Whatsapp
+description: 'Connect WhatsApp to your product with Kapso: onboard customers with setup links, detect connections, receive
+  events via webhooks, and send messages/templates/media. Also manage WhatsApp Flows (create/update/publish, data endpoints,
+  encryption). Use when integrating WhatsApp end-to-end.'
+authors:
+- gokapso
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/integrate-whatsapp
+  repo: gokapso/agent-skills
+metadata: {}
 added_at: '2026-06-05'

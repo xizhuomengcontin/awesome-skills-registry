@@ -1,8 +1,13 @@
 id: alinaqi-maggy-android-kotlin
-description: Android Kotlin development with Coroutines, Jetpack Compose, Hilt, and
-  MockK testing
-url: https://raw.githubusercontent.com/alinaqi/maggy/main/skills/android-kotlin/SKILL.md
-folder_url: https://github.com/alinaqi/maggy/tree/main/skills/android-kotlin
-repo: alinaqi/maggy
-skill_dir: android-kotlin
+display_name: Android Kotlin
+description: Android Kotlin development with Coroutines, Jetpack Compose, Hilt, and MockK testing
+authors:
+- alinaqi
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/android-kotlin
+  repo: alinaqi/maggy
+metadata: {}
 added_at: '2026-06-05'

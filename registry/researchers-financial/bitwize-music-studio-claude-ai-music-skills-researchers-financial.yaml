@@ -1,9 +1,14 @@
 id: bitwize-music-studio-claude-ai-music-skills-researchers-financial
-description: Researches SEC filings, earnings calls, analyst reports, and market data.
-  Use when the album subject involves financial crimes, corporate stories, or market
-  events.
-url: https://raw.githubusercontent.com/bitwize-music-studio/claude-ai-music-skills/main/skills/researchers-financial/SKILL.md
-folder_url: https://github.com/bitwize-music-studio/claude-ai-music-skills/tree/main/skills/researchers-financial
-repo: bitwize-music-studio/claude-ai-music-skills
-skill_dir: researchers-financial
+display_name: Researchers Financial
+description: Researches SEC filings, earnings calls, analyst reports, and market data. Use when the album subject involves
+  financial crimes, corporate stories, or market events.
+authors:
+- bitwize-music-studio
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/researchers-financial
+  repo: bitwize-music-studio/claude-ai-music-skills
+metadata: {}
 added_at: '2026-06-05'

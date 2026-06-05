@@ -1,9 +1,14 @@
 id: bitwize-music-studio-claude-ai-music-skills-help
-description: Shows available skills, common workflows, and quick reference for the
-  plugin. Use when the user asks for help, what skills are available, or how to do
-  something.
-url: https://raw.githubusercontent.com/bitwize-music-studio/claude-ai-music-skills/main/skills/help/SKILL.md
-folder_url: https://github.com/bitwize-music-studio/claude-ai-music-skills/tree/main/skills/help
-repo: bitwize-music-studio/claude-ai-music-skills
-skill_dir: help
+display_name: Help
+description: Shows available skills, common workflows, and quick reference for the plugin. Use when the user asks for help,
+  what skills are available, or how to do something.
+authors:
+- bitwize-music-studio
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/help
+  repo: bitwize-music-studio/claude-ai-music-skills
+metadata: {}
 added_at: '2026-06-05'

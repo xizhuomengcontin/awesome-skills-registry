@@ -1,9 +1,14 @@
 id: bitwize-music-studio-claude-ai-music-skills-health-check
-description: Runs plugin health checks (venv packages and skill registration). Use
-  when the user asks to check plugin health, verify setup, or troubleshoot missing
-  skills.
-url: https://raw.githubusercontent.com/bitwize-music-studio/claude-ai-music-skills/main/skills/health-check/SKILL.md
-folder_url: https://github.com/bitwize-music-studio/claude-ai-music-skills/tree/main/skills/health-check
-repo: bitwize-music-studio/claude-ai-music-skills
-skill_dir: health-check
+display_name: Health Check
+description: Runs plugin health checks (venv packages and skill registration). Use when the user asks to check plugin health,
+  verify setup, or troubleshoot missing skills.
+authors:
+- bitwize-music-studio
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/health-check
+  repo: bitwize-music-studio/claude-ai-music-skills
+metadata: {}
 added_at: '2026-06-05'

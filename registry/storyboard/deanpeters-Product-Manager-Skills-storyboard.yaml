@@ -1,9 +1,14 @@
 id: deanpeters-Product-Manager-Skills-storyboard
-description: Create a six-frame storyboard that shows a user's journey from problem
-  to solution. Use when you need a fast narrative for alignment, concept reviews,
-  or demos.
-url: https://raw.githubusercontent.com/deanpeters/Product-Manager-Skills/main/skills/storyboard/SKILL.md
-folder_url: https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/storyboard
-repo: deanpeters/Product-Manager-Skills
-skill_dir: storyboard
+display_name: Storyboard
+description: Create a six-frame storyboard that shows a user's journey from problem to solution. Use when you need a fast
+  narrative for alignment, concept reviews, or demos.
+authors:
+- deanpeters
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/storyboard
+  repo: deanpeters/Product-Manager-Skills
+metadata: {}
 added_at: '2026-06-05'

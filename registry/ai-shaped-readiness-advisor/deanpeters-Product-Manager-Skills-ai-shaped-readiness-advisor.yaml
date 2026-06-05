@@ -1,8 +1,14 @@
 id: deanpeters-Product-Manager-Skills-ai-shaped-readiness-advisor
-description: Assess whether your product work is AI-first or AI-shaped. Use when evaluating
-  AI maturity and choosing the next team capability to build.
-url: https://raw.githubusercontent.com/deanpeters/Product-Manager-Skills/main/skills/ai-shaped-readiness-advisor/SKILL.md
-folder_url: https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/ai-shaped-readiness-advisor
-repo: deanpeters/Product-Manager-Skills
-skill_dir: ai-shaped-readiness-advisor
+display_name: Ai Shaped Readiness Advisor
+description: Assess whether your product work is AI-first or AI-shaped. Use when evaluating AI maturity and choosing the next
+  team capability to build.
+authors:
+- deanpeters
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/ai-shaped-readiness-advisor
+  repo: deanpeters/Product-Manager-Skills
+metadata: {}
 added_at: '2026-06-05'

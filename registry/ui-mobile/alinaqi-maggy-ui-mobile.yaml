@@ -1,7 +1,13 @@
 id: alinaqi-maggy-ui-mobile
+display_name: Ui Mobile
 description: Mobile UI patterns - React Native, iOS/Android, touch targets
-url: https://raw.githubusercontent.com/alinaqi/maggy/main/skills/ui-mobile/SKILL.md
-folder_url: https://github.com/alinaqi/maggy/tree/main/skills/ui-mobile
-repo: alinaqi/maggy
-skill_dir: ui-mobile
+authors:
+- alinaqi
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/ui-mobile
+  repo: alinaqi/maggy
+metadata: {}
 added_at: '2026-06-05'

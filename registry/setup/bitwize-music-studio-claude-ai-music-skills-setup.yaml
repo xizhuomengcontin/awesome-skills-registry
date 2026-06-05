@@ -1,8 +1,14 @@
 id: bitwize-music-studio-claude-ai-music-skills-setup
-description: Detects your Python environment and guides you through installing plugin
-  dependencies. Use on first-time setup or when MCP server fails to start.
-url: https://raw.githubusercontent.com/bitwize-music-studio/claude-ai-music-skills/main/skills/setup/SKILL.md
-folder_url: https://github.com/bitwize-music-studio/claude-ai-music-skills/tree/main/skills/setup
-repo: bitwize-music-studio/claude-ai-music-skills
-skill_dir: setup
+display_name: Setup
+description: Detects your Python environment and guides you through installing plugin dependencies. Use on first-time setup
+  or when MCP server fails to start.
+authors:
+- bitwize-music-studio
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/setup
+  repo: bitwize-music-studio/claude-ai-music-skills
+metadata: {}
 added_at: '2026-06-05'

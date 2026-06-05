@@ -1,8 +1,14 @@
 id: bitwize-music-studio-claude-ai-music-skills-researchers-gov
-description: Researches DOJ/FBI/SEC press releases, agency statements, and government
-  sources. Use when research needs official government records or agency documentation.
-url: https://raw.githubusercontent.com/bitwize-music-studio/claude-ai-music-skills/main/skills/researchers-gov/SKILL.md
-folder_url: https://github.com/bitwize-music-studio/claude-ai-music-skills/tree/main/skills/researchers-gov
-repo: bitwize-music-studio/claude-ai-music-skills
-skill_dir: researchers-gov
+display_name: Researchers Gov
+description: Researches DOJ/FBI/SEC press releases, agency statements, and government sources. Use when research needs official
+  government records or agency documentation.
+authors:
+- bitwize-music-studio
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/researchers-gov
+  repo: bitwize-music-studio/claude-ai-music-skills
+metadata: {}
 added_at: '2026-06-05'

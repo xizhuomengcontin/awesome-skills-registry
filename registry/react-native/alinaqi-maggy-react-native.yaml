@@ -1,7 +1,13 @@
 id: alinaqi-maggy-react-native
+display_name: React Native
 description: React Native mobile patterns, platform-specific code
-url: https://raw.githubusercontent.com/alinaqi/maggy/main/skills/react-native/SKILL.md
-folder_url: https://github.com/alinaqi/maggy/tree/main/skills/react-native
-repo: alinaqi/maggy
-skill_dir: react-native
+authors:
+- alinaqi
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/react-native
+  repo: alinaqi/maggy
+metadata: {}
 added_at: '2026-06-05'

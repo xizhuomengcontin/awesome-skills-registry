@@ -1,8 +1,14 @@
 id: bitwize-music-studio-claude-ai-music-skills-validate-album
-description: Validates album directory structure, file locations, and content integrity.
-  Use before release or whenever the user wants to check an album's structural health.
-url: https://raw.githubusercontent.com/bitwize-music-studio/claude-ai-music-skills/main/skills/validate-album/SKILL.md
-folder_url: https://github.com/bitwize-music-studio/claude-ai-music-skills/tree/main/skills/validate-album
-repo: bitwize-music-studio/claude-ai-music-skills
-skill_dir: validate-album
+display_name: Validate Album
+description: Validates album directory structure, file locations, and content integrity. Use before release or whenever the
+  user wants to check an album's structural health.
+authors:
+- bitwize-music-studio
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/validate-album
+  repo: bitwize-music-studio/claude-ai-music-skills
+metadata: {}
 added_at: '2026-06-05'

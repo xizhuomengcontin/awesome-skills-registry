@@ -1,8 +1,14 @@
 id: bitwize-music-studio-claude-ai-music-skills-resume
-description: Finds an album by name and shows detailed status with next steps. Use
-  when the user mentions an album name or wants to continue previous work.
-url: https://raw.githubusercontent.com/bitwize-music-studio/claude-ai-music-skills/main/skills/resume/SKILL.md
-folder_url: https://github.com/bitwize-music-studio/claude-ai-music-skills/tree/main/skills/resume
-repo: bitwize-music-studio/claude-ai-music-skills
-skill_dir: resume
+display_name: Resume
+description: Finds an album by name and shows detailed status with next steps. Use when the user mentions an album name or
+  wants to continue previous work.
+authors:
+- bitwize-music-studio
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/resume
+  repo: bitwize-music-studio/claude-ai-music-skills
+metadata: {}
 added_at: '2026-06-05'

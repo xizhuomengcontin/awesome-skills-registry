@@ -1,9 +1,14 @@
 id: bitwize-music-studio-claude-ai-music-skills-mastering-engineer
-description: Guides audio mastering for streaming platforms including loudness optimization
-  and tonal balance. Use when the user has approved tracks and wants to master audio
-  files.
-url: https://raw.githubusercontent.com/bitwize-music-studio/claude-ai-music-skills/main/skills/mastering-engineer/SKILL.md
-folder_url: https://github.com/bitwize-music-studio/claude-ai-music-skills/tree/main/skills/mastering-engineer
-repo: bitwize-music-studio/claude-ai-music-skills
-skill_dir: mastering-engineer
+display_name: Mastering Engineer
+description: Guides audio mastering for streaming platforms including loudness optimization and tonal balance. Use when the
+  user has approved tracks and wants to master audio files.
+authors:
+- bitwize-music-studio
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/mastering-engineer
+  repo: bitwize-music-studio/claude-ai-music-skills
+metadata: {}
 added_at: '2026-06-05'

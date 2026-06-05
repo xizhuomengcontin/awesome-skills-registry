@@ -1,7 +1,13 @@
 id: alinaqi-maggy-shopify-apps
+display_name: Shopify Apps
 description: Shopify app development - Remix, Admin API, checkout extensions
-url: https://raw.githubusercontent.com/alinaqi/maggy/main/skills/shopify-apps/SKILL.md
-folder_url: https://github.com/alinaqi/maggy/tree/main/skills/shopify-apps
-repo: alinaqi/maggy
-skill_dir: shopify-apps
+authors:
+- alinaqi
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/shopify-apps
+  repo: alinaqi/maggy
+metadata: {}
 added_at: '2026-06-05'

@@ -1,30 +1,21 @@
 id: uucz-moyu-moyu
-description: "Automatically activates when over-engineering patterns are detected:\
-  \ (1) Modifying code or files the user did not explicitly ask to change (2) Creating\
-  \ new abstraction layers (class, interface, factory, wrapper) without being asked\
-  \ (3) Adding comments, documentation, JSDoc, or type annotations without being asked\
-  \ (4) Introducing new dependencies without being asked (5) Rewriting entire files\
-  \ instead of making minimal edits (6) Diff scope significantly exceeding the user's\
-  \ request (7) User signals like \"too much\", \"don't change that\", \"only change\
-  \ X\", \"keep it simple\", \"stop\" (8) Adding error handling, validation, or defensive\
-  \ code for scenarios that cannot occur (9) Generating tests, configuration scaffolding,\
-  \ or documentation without being asked \u5F53\u68C0\u6D4B\u5230\u8FC7\u5EA6\u5DE5\
-  \u7A0B\u6A21\u5F0F\u65F6\u81EA\u52A8\u6FC0\u6D3B\uFF1A (1) \u4FEE\u6539\u7528\u6237\
-  \u672A\u660E\u786E\u8981\u6C42\u6539\u52A8\u7684\u4EE3\u7801\u6216\u6587\u4EF6 (2)\
-  \ \u521B\u5EFA\u7528\u6237\u672A\u8981\u6C42\u7684\u65B0\u62BD\u8C61\u5C42\uFF08\
-  class\u3001interface\u3001factory\u3001wrapper\uFF09 (3) \u6DFB\u52A0\u7528\u6237\
-  \u672A\u8981\u6C42\u7684\u6CE8\u91CA\u3001\u6587\u6863\u3001JSDoc\u3001\u7C7B\u578B\
-  \u6CE8\u89E3 (4) \u5F15\u5165\u7528\u6237\u672A\u8981\u6C42\u7684\u65B0\u4F9D\u8D56\
-  \u5305 (5) \u91CD\u5199\u6574\u4E2A\u6587\u4EF6\u800C\u975E\u505A\u6700\u5C0F\u7F16\
-  \u8F91 (6) diff \u8303\u56F4\u660E\u663E\u8D85\u51FA\u7528\u6237\u8BF7\u6C42 (7)\
-  \ \u7528\u6237\u8BF4\"\u592A\u591A\u4E86\"\u3001\"\u4E0D\u8981\u6539\u90A3\u4E2A\
-  \"\u3001\"\u53EA\u6539 X\"\u3001\"\u7B80\u5355\u70B9\"\u3001\"\u522B\u52A0\u620F\
-  \" (8) \u4E3A\u4E0D\u53EF\u80FD\u53D1\u751F\u7684\u573A\u666F\u6DFB\u52A0\u9519\u8BEF\
-  \u5904\u7406\u3001\u6821\u9A8C\u3001\u9632\u5FA1\u6027\u4EE3\u7801 (9) \u672A\u88AB\
-  \u8981\u6C42\u5C31\u751F\u6210\u6D4B\u8BD5\u3001\u914D\u7F6E\u811A\u624B\u67B6\u3001\
-  \u6587\u6863"
-url: https://raw.githubusercontent.com/uucz/moyu/main/skills/moyu/SKILL.md
-folder_url: https://github.com/uucz/moyu/tree/main/skills/moyu
-repo: uucz/moyu
-skill_dir: moyu
+display_name: Moyu
+description: 'Automatically activates when over-engineering patterns are detected: (1) Modifying code or files the user did
+  not explicitly ask to change (2) Creating new abstraction layers (class, interface, factory, wrapper) without being asked
+  (3) Adding comments, documentation, JSDoc, or type annotations without being asked (4) Introducing new dependencies without
+  being asked (5) Rewriting entire files instead of making minimal edits (6) Diff scope significantly exceeding the user''s
+  request (7) User signals like "too much", "don''t change that", "only change X", "keep it simple", "stop" (8) Adding error
+  handling, validation, or defensive code for scenarios that cannot occur (9) Generating tests, configuration scaffolding,
+  or documentation without being asked 当检测到过度工程模式时自动激活： (1) 修改用户未明确要求改动的代码或文件 (2) 创建用户未要求的新抽象层（class、interface、factory、wrapper）
+  (3) 添加用户未要求的注释、文档、JSDoc、类型注解 (4) 引入用户未要求的新依赖包 (5) 重写整个文件而非做最小编辑 (6) diff 范围明显超出用户请求 (7) 用户说"太多了"、"不要改那个"、"只改 X"、"简单点"、"别加戏"
+  (8) 为不可能发生的场景添加错误处理、校验、防御性代码 (9) 未被要求就生成测试、配置脚手架、文档'
+authors:
+- uucz
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/moyu
+  repo: uucz/moyu
+metadata: {}
 added_at: '2026-06-05'

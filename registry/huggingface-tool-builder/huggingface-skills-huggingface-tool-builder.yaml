@@ -1,10 +1,15 @@
 id: huggingface-skills-huggingface-tool-builder
-description: Use this skill when the user wants to build tool/scripts or achieve a
-  task where using data from the Hugging Face API would help. This is especially useful
-  when chaining or combining API calls or the task will be repeated/automated. This
-  Skill creates a reusable script to fetch, enrich or process data.
-url: https://raw.githubusercontent.com/huggingface/skills/main/skills/huggingface-tool-builder/SKILL.md
-folder_url: https://github.com/huggingface/skills/tree/main/skills/huggingface-tool-builder
-repo: huggingface/skills
-skill_dir: huggingface-tool-builder
+display_name: Huggingface Tool Builder
+description: Use this skill when the user wants to build tool/scripts or achieve a task where using data from the Hugging
+  Face API would help. This is especially useful when chaining or combining API calls or the task will be repeated/automated.
+  This Skill creates a reusable script to fetch, enrich or process data.
+authors:
+- huggingface
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/huggingface-tool-builder
+  repo: huggingface/skills
+metadata: {}
 added_at: '2026-06-05'

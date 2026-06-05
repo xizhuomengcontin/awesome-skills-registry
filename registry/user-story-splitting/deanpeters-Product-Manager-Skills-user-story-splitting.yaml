@@ -1,9 +1,14 @@
 id: deanpeters-Product-Manager-Skills-user-story-splitting
-description: Break a large story or epic into smaller deliverable stories using proven
-  split patterns. Use when backlog items are too big for estimation, sequencing, or
-  independent release.
-url: https://raw.githubusercontent.com/deanpeters/Product-Manager-Skills/main/skills/user-story-splitting/SKILL.md
-folder_url: https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/user-story-splitting
-repo: deanpeters/Product-Manager-Skills
-skill_dir: user-story-splitting
+display_name: User Story Splitting
+description: Break a large story or epic into smaller deliverable stories using proven split patterns. Use when backlog items
+  are too big for estimation, sequencing, or independent release.
+authors:
+- deanpeters
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/user-story-splitting
+  repo: deanpeters/Product-Manager-Skills
+metadata: {}
 added_at: '2026-06-05'

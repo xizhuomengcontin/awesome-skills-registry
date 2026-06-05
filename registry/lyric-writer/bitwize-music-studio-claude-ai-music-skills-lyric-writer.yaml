@@ -1,9 +1,14 @@
 id: bitwize-music-studio-claude-ai-music-skills-lyric-writer
-description: Writes or reviews lyrics with professional prosody, rhyme craft, and
-  quality checks. Use when writing new lyrics, revising existing lyrics, or when the
-  user says 'let's work on a track.'
-url: https://raw.githubusercontent.com/bitwize-music-studio/claude-ai-music-skills/main/skills/lyric-writer/SKILL.md
-folder_url: https://github.com/bitwize-music-studio/claude-ai-music-skills/tree/main/skills/lyric-writer
-repo: bitwize-music-studio/claude-ai-music-skills
-skill_dir: lyric-writer
+display_name: Lyric Writer
+description: Writes or reviews lyrics with professional prosody, rhyme craft, and quality checks. Use when writing new lyrics,
+  revising existing lyrics, or when the user says 'let's work on a track.'
+authors:
+- bitwize-music-studio
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/lyric-writer
+  repo: bitwize-music-studio/claude-ai-music-skills
+metadata: {}
 added_at: '2026-06-05'

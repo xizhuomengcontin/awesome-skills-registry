@@ -1,8 +1,13 @@
 id: alinaqi-maggy-agent-teams
-description: Claude Code Agent Teams - default team-based development with strict
-  TDD pipeline enforcement
-url: https://raw.githubusercontent.com/alinaqi/maggy/main/skills/agent-teams/SKILL.md
-folder_url: https://github.com/alinaqi/maggy/tree/main/skills/agent-teams
-repo: alinaqi/maggy
-skill_dir: agent-teams
+display_name: Agent Teams
+description: Claude Code Agent Teams - default team-based development with strict TDD pipeline enforcement
+authors:
+- alinaqi
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/agent-teams
+  repo: alinaqi/maggy
+metadata: {}
 added_at: '2026-06-05'

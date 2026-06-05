@@ -1,9 +1,14 @@
 id: bitwize-music-studio-claude-ai-music-skills-researcher
-description: Conducts investigative-grade research with primary source analysis, cross-verification,
-  and trial-level depth. Use when an album needs factual research, source material,
-  or verification of claims.
-url: https://raw.githubusercontent.com/bitwize-music-studio/claude-ai-music-skills/main/skills/researcher/SKILL.md
-folder_url: https://github.com/bitwize-music-studio/claude-ai-music-skills/tree/main/skills/researcher
-repo: bitwize-music-studio/claude-ai-music-skills
-skill_dir: researcher
+display_name: Researcher
+description: Conducts investigative-grade research with primary source analysis, cross-verification, and trial-level depth.
+  Use when an album needs factual research, source material, or verification of claims.
+authors:
+- bitwize-music-studio
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/researcher
+  repo: bitwize-music-studio/claude-ai-music-skills
+metadata: {}
 added_at: '2026-06-05'

@@ -1,9 +1,14 @@
 id: bitwize-music-studio-claude-ai-music-skills-session-start
-description: Runs the session startup procedure - verifies setup, loads config and
-  state, checks skill models, and reports project status. Use at the beginning of
-  a fresh session.
-url: https://raw.githubusercontent.com/bitwize-music-studio/claude-ai-music-skills/main/skills/session-start/SKILL.md
-folder_url: https://github.com/bitwize-music-studio/claude-ai-music-skills/tree/main/skills/session-start
-repo: bitwize-music-studio/claude-ai-music-skills
-skill_dir: session-start
+display_name: Session Start
+description: Runs the session startup procedure - verifies setup, loads config and state, checks skill models, and reports
+  project status. Use at the beginning of a fresh session.
+authors:
+- bitwize-music-studio
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/session-start
+  repo: bitwize-music-studio/claude-ai-music-skills
+metadata: {}
 added_at: '2026-06-05'

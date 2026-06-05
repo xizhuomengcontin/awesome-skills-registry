@@ -1,8 +1,14 @@
 id: bitwize-music-studio-claude-ai-music-skills-verify-sources
-description: Captures human source verification for tracks, timestamps it, and updates
-  track files. Use when sources need human review before generation.
-url: https://raw.githubusercontent.com/bitwize-music-studio/claude-ai-music-skills/main/skills/verify-sources/SKILL.md
-folder_url: https://github.com/bitwize-music-studio/claude-ai-music-skills/tree/main/skills/verify-sources
-repo: bitwize-music-studio/claude-ai-music-skills
-skill_dir: verify-sources
+display_name: Verify Sources
+description: Captures human source verification for tracks, timestamps it, and updates track files. Use when sources need
+  human review before generation.
+authors:
+- bitwize-music-studio
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/verify-sources
+  repo: bitwize-music-studio/claude-ai-music-skills
+metadata: {}
 added_at: '2026-06-05'

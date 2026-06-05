@@ -1,10 +1,15 @@
 id: HeshamFS-materials-simulation-skills-workflow-engine-mapper
-description: Map computational materials tasks onto workflow engines such as atomate2,
-  jobflow, AiiDA, pyiron, or a simple one-off script. Use when deciding how to structure
-  a reproducible campaign, DAG, restart strategy, provenance record, storage layout,
-  or migration path from ad hoc scripts to managed workflows.
-url: https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/simulation-workflow/workflow-engine-mapper/SKILL.md
-folder_url: https://github.com/HeshamFS/materials-simulation-skills/tree/main/skills/simulation-workflow/workflow-engine-mapper
-repo: HeshamFS/materials-simulation-skills
-skill_dir: workflow-engine-mapper
+display_name: Workflow Engine Mapper
+description: Map computational materials tasks onto workflow engines such as atomate2, jobflow, AiiDA, pyiron, or a simple
+  one-off script. Use when deciding how to structure a reproducible campaign, DAG, restart strategy, provenance record, storage
+  layout, or migration path from ad hoc scripts to managed workflows.
+authors:
+- HeshamFS
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/simulation-workflow/workflow-engine-mapper
+  repo: HeshamFS/materials-simulation-skills
+metadata: {}
 added_at: '2026-06-05'

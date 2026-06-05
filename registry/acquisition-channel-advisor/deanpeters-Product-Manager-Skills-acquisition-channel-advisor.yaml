@@ -1,8 +1,14 @@
 id: deanpeters-Product-Manager-Skills-acquisition-channel-advisor
-description: Evaluate acquisition channels using unit economics, customer quality,
-  and scalability. Use when deciding whether to scale, test, or kill a growth channel.
-url: https://raw.githubusercontent.com/deanpeters/Product-Manager-Skills/main/skills/acquisition-channel-advisor/SKILL.md
-folder_url: https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/acquisition-channel-advisor
-repo: deanpeters/Product-Manager-Skills
-skill_dir: acquisition-channel-advisor
+display_name: Acquisition Channel Advisor
+description: Evaluate acquisition channels using unit economics, customer quality, and scalability. Use when deciding whether
+  to scale, test, or kill a growth channel.
+authors:
+- deanpeters
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/acquisition-channel-advisor
+  repo: deanpeters/Product-Manager-Skills
+metadata: {}
 added_at: '2026-06-05'

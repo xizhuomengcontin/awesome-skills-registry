@@ -1,9 +1,14 @@
 id: deanpeters-Product-Manager-Skills-roadmap-planning
-description: Plan a strategic roadmap across prioritization, epic definition, stakeholder
-  alignment, and sequencing. Use when turning strategy into a release plan that teams
-  can execute.
-url: https://raw.githubusercontent.com/deanpeters/Product-Manager-Skills/main/skills/roadmap-planning/SKILL.md
-folder_url: https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/roadmap-planning
-repo: deanpeters/Product-Manager-Skills
-skill_dir: roadmap-planning
+display_name: Roadmap Planning
+description: Plan a strategic roadmap across prioritization, epic definition, stakeholder alignment, and sequencing. Use when
+  turning strategy into a release plan that teams can execute.
+authors:
+- deanpeters
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/roadmap-planning
+  repo: deanpeters/Product-Manager-Skills
+metadata: {}
 added_at: '2026-06-05'

@@ -1,7 +1,13 @@
 id: alinaqi-maggy-woocommerce
+display_name: Woocommerce
 description: WooCommerce REST API - products, orders, customers, webhooks
-url: https://raw.githubusercontent.com/alinaqi/maggy/main/skills/woocommerce/SKILL.md
-folder_url: https://github.com/alinaqi/maggy/tree/main/skills/woocommerce
-repo: alinaqi/maggy
-skill_dir: woocommerce
+authors:
+- alinaqi
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/woocommerce
+  repo: alinaqi/maggy
+metadata: {}
 added_at: '2026-06-05'

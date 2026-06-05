@@ -1,9 +1,14 @@
 id: deanpeters-Product-Manager-Skills-epic-hypothesis
-description: Frame an epic as a testable hypothesis with target user, expected outcome,
-  and validation method. Use when defining a major initiative before roadmap, discovery,
-  or delivery planning.
-url: https://raw.githubusercontent.com/deanpeters/Product-Manager-Skills/main/skills/epic-hypothesis/SKILL.md
-folder_url: https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/epic-hypothesis
-repo: deanpeters/Product-Manager-Skills
-skill_dir: epic-hypothesis
+display_name: Epic Hypothesis
+description: Frame an epic as a testable hypothesis with target user, expected outcome, and validation method. Use when defining
+  a major initiative before roadmap, discovery, or delivery planning.
+authors:
+- deanpeters
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/epic-hypothesis
+  repo: deanpeters/Product-Manager-Skills
+metadata: {}
 added_at: '2026-06-05'

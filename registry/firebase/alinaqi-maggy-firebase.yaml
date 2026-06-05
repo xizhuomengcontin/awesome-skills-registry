@@ -1,7 +1,13 @@
 id: alinaqi-maggy-firebase
+display_name: Firebase
 description: Firebase Firestore, Auth, Storage, real-time listeners, security rules
-url: https://raw.githubusercontent.com/alinaqi/maggy/main/skills/firebase/SKILL.md
-folder_url: https://github.com/alinaqi/maggy/tree/main/skills/firebase
-repo: alinaqi/maggy
-skill_dir: firebase
+authors:
+- alinaqi
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/firebase
+  repo: alinaqi/maggy
+metadata: {}
 added_at: '2026-06-05'

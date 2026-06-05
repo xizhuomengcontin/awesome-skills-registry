@@ -1,7 +1,13 @@
 id: alinaqi-maggy-posthog-analytics
+display_name: Posthog Analytics
 description: PostHog analytics, event tracking, feature flags, dashboards
-url: https://raw.githubusercontent.com/alinaqi/maggy/main/skills/posthog-analytics/SKILL.md
-folder_url: https://github.com/alinaqi/maggy/tree/main/skills/posthog-analytics
-repo: alinaqi/maggy
-skill_dir: posthog-analytics
+authors:
+- alinaqi
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/posthog-analytics
+  repo: alinaqi/maggy
+metadata: {}
 added_at: '2026-06-05'

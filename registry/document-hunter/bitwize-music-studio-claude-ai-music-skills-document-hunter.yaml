@@ -1,9 +1,14 @@
 id: bitwize-music-studio-claude-ai-music-skills-document-hunter
-description: Searches and retrieves documents from free public sources using automated
-  browser navigation. Use when research needs primary source documents like court
-  filings, government reports, or public records.
-url: https://raw.githubusercontent.com/bitwize-music-studio/claude-ai-music-skills/main/skills/document-hunter/SKILL.md
-folder_url: https://github.com/bitwize-music-studio/claude-ai-music-skills/tree/main/skills/document-hunter
-repo: bitwize-music-studio/claude-ai-music-skills
-skill_dir: document-hunter
+display_name: Document Hunter
+description: Searches and retrieves documents from free public sources using automated browser navigation. Use when research
+  needs primary source documents like court filings, government reports, or public records.
+authors:
+- bitwize-music-studio
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/document-hunter
+  repo: bitwize-music-studio/claude-ai-music-skills
+metadata: {}
 added_at: '2026-06-05'

@@ -1,16 +1,19 @@
 id: HeshamFS-materials-simulation-skills-post-processing
-description: "Extract, analyze, and summarize simulation output data \u2014 pull spatial\
-  \ fields at specific timesteps, compute time-series trends and detect steady state,\
-  \ extract line profiles through the domain, generate statistical summaries and distributions,\
-  \ calculate derived quantities (gradients, fluxes, volume fractions, interface area),\
-  \ compare results against analytical solutions or experimental data, and produce\
-  \ automated analysis reports. Use when interpreting finished simulation results,\
-  \ checking mass or energy conservation, comparing two runs or meshes, extracting\
-  \ interface profiles from phase-field output, or preparing publication-quality analysis,\
-  \ even if the user only says \"what do my results look like\" or \"did my simulation\
-  \ reach steady state.\""
-url: https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/simulation-workflow/post-processing/SKILL.md
-folder_url: https://github.com/HeshamFS/materials-simulation-skills/tree/main/skills/simulation-workflow/post-processing
-repo: HeshamFS/materials-simulation-skills
-skill_dir: post-processing
+display_name: Post Processing
+description: Extract, analyze, and summarize simulation output data — pull spatial fields at specific timesteps, compute time-series
+  trends and detect steady state, extract line profiles through the domain, generate statistical summaries and distributions,
+  calculate derived quantities (gradients, fluxes, volume fractions, interface area), compare results against analytical solutions
+  or experimental data, and produce automated analysis reports. Use when interpreting finished simulation results, checking
+  mass or energy conservation, comparing two runs or meshes, extracting interface profiles from phase-field output, or preparing
+  publication-quality analysis, even if the user only says "what do my results look like" or "did my simulation reach steady
+  state."
+authors:
+- HeshamFS
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/simulation-workflow/post-processing
+  repo: HeshamFS/materials-simulation-skills
+metadata: {}
 added_at: '2026-06-05'

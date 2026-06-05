@@ -1,8 +1,14 @@
 id: deanpeters-Product-Manager-Skills-altitude-horizon-framework
-description: Understand the PM-to-Director transition through altitude and horizon
-  thinking. Use when diagnosing scope, time-horizon, or leadership-level gaps.
-url: https://raw.githubusercontent.com/deanpeters/Product-Manager-Skills/main/skills/altitude-horizon-framework/SKILL.md
-folder_url: https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/altitude-horizon-framework
-repo: deanpeters/Product-Manager-Skills
-skill_dir: altitude-horizon-framework
+display_name: Altitude Horizon Framework
+description: Understand the PM-to-Director transition through altitude and horizon thinking. Use when diagnosing scope, time-horizon,
+  or leadership-level gaps.
+authors:
+- deanpeters
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/altitude-horizon-framework
+  repo: deanpeters/Product-Manager-Skills
+metadata: {}
 added_at: '2026-06-05'

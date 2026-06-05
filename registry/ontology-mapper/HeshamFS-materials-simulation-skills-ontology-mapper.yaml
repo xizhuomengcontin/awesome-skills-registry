@@ -1,16 +1,19 @@
 id: HeshamFS-materials-simulation-skills-ontology-mapper
-description: "Map materials science terms, crystal structures, and sample descriptions\
-  \ to standardized ontology classes and properties \u2014 resolve natural-language\
-  \ concepts to ontology entries with confidence scores, translate Bravais lattice\
-  \ types, space groups, and lattice constants into ontology-compliant annotations,\
-  \ and produce full sample metadata from structured descriptions. Supports any ontology\
-  \ in ontology_registry.json (CMSO, ASMO, etc.). Use when annotating simulation inputs\
-  \ with FAIR metadata, translating \"BCC iron\" or \"FCC copper\" into formal ontology\
-  \ terms, preparing machine- readable sample descriptions, or bridging between lab\
-  \ vocabulary and ontology vocabulary, even if the user only says \"what CMSO terms\
-  \ describe my material\" or \"annotate this sample for me.\""
-url: https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/ontology/ontology-mapper/SKILL.md
-folder_url: https://github.com/HeshamFS/materials-simulation-skills/tree/main/skills/ontology/ontology-mapper
-repo: HeshamFS/materials-simulation-skills
-skill_dir: ontology-mapper
+display_name: Ontology Mapper
+description: Map materials science terms, crystal structures, and sample descriptions to standardized ontology classes and
+  properties — resolve natural-language concepts to ontology entries with confidence scores, translate Bravais lattice types,
+  space groups, and lattice constants into ontology-compliant annotations, and produce full sample metadata from structured
+  descriptions. Supports any ontology in ontology_registry.json (CMSO, ASMO, etc.). Use when annotating simulation inputs
+  with FAIR metadata, translating "BCC iron" or "FCC copper" into formal ontology terms, preparing machine- readable sample
+  descriptions, or bridging between lab vocabulary and ontology vocabulary, even if the user only says "what CMSO terms describe
+  my material" or "annotate this sample for me."
+authors:
+- HeshamFS
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/ontology/ontology-mapper
+  repo: HeshamFS/materials-simulation-skills
+metadata: {}
 added_at: '2026-06-05'

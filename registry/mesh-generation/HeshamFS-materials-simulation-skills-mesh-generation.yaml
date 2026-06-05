@@ -1,14 +1,18 @@
 id: HeshamFS-materials-simulation-skills-mesh-generation
-description: "Plan and evaluate mesh generation for numerical simulations \u2014 estimate\
-  \ grid resolution from physics scales (interface width, boundary layers, wavelengths),\
-  \ check aspect ratios and skewness against quality thresholds, choose between structured,\
-  \ unstructured, and adaptive mesh refinement strategies, and compute grid sizing\
-  \ for 1D/2D/3D domains. Use when setting up a new mesh, diagnosing poor solver convergence\
-  \ caused by mesh quality, deciding how many points to place across a phase-field\
-  \ interface or boundary layer, or preparing a mesh convergence study, even if the\
-  \ user only asks \"what resolution do I need\" or \"why is my solver failing.\""
-url: https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/core-numerical/mesh-generation/SKILL.md
-folder_url: https://github.com/HeshamFS/materials-simulation-skills/tree/main/skills/core-numerical/mesh-generation
-repo: HeshamFS/materials-simulation-skills
-skill_dir: mesh-generation
+display_name: Mesh Generation
+description: Plan and evaluate mesh generation for numerical simulations — estimate grid resolution from physics scales (interface
+  width, boundary layers, wavelengths), check aspect ratios and skewness against quality thresholds, choose between structured,
+  unstructured, and adaptive mesh refinement strategies, and compute grid sizing for 1D/2D/3D domains. Use when setting up
+  a new mesh, diagnosing poor solver convergence caused by mesh quality, deciding how many points to place across a phase-field
+  interface or boundary layer, or preparing a mesh convergence study, even if the user only asks "what resolution do I need"
+  or "why is my solver failing."
+authors:
+- HeshamFS
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/core-numerical/mesh-generation
+  repo: HeshamFS/materials-simulation-skills
+metadata: {}
 added_at: '2026-06-05'

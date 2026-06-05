@@ -1,9 +1,14 @@
 id: bitwize-music-studio-claude-ai-music-skills-release-director
-description: Coordinates album release including QA, distribution prep, and platform
-  uploads. Use when mastering and album art are complete and the user is ready to
-  release.
-url: https://raw.githubusercontent.com/bitwize-music-studio/claude-ai-music-skills/main/skills/release-director/SKILL.md
-folder_url: https://github.com/bitwize-music-studio/claude-ai-music-skills/tree/main/skills/release-director
-repo: bitwize-music-studio/claude-ai-music-skills
-skill_dir: release-director
+display_name: Release Director
+description: Coordinates album release including QA, distribution prep, and platform uploads. Use when mastering and album
+  art are complete and the user is ready to release.
+authors:
+- bitwize-music-studio
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/release-director
+  repo: bitwize-music-studio/claude-ai-music-skills
+metadata: {}
 added_at: '2026-06-05'

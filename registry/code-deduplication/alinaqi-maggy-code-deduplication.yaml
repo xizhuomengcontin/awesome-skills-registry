@@ -1,7 +1,13 @@
 id: alinaqi-maggy-code-deduplication
+display_name: Code Deduplication
 description: Prevent semantic code duplication with capability index and check-before-write
-url: https://raw.githubusercontent.com/alinaqi/maggy/main/skills/code-deduplication/SKILL.md
-folder_url: https://github.com/alinaqi/maggy/tree/main/skills/code-deduplication
-repo: alinaqi/maggy
-skill_dir: code-deduplication
+authors:
+- alinaqi
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/code-deduplication
+  repo: alinaqi/maggy
+metadata: {}
 added_at: '2026-06-05'

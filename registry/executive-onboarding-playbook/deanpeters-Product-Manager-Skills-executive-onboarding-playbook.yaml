@@ -1,8 +1,14 @@
 id: deanpeters-Product-Manager-Skills-executive-onboarding-playbook
-description: Plan a VP or CPO 30-60-90 day diagnostic onboarding path. Use when entering
-  a new executive product role and avoiding premature change.
-url: https://raw.githubusercontent.com/deanpeters/Product-Manager-Skills/main/skills/executive-onboarding-playbook/SKILL.md
-folder_url: https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/executive-onboarding-playbook
-repo: deanpeters/Product-Manager-Skills
-skill_dir: executive-onboarding-playbook
+display_name: Executive Onboarding Playbook
+description: Plan a VP or CPO 30-60-90 day diagnostic onboarding path. Use when entering a new executive product role and
+  avoiding premature change.
+authors:
+- deanpeters
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/executive-onboarding-playbook
+  repo: deanpeters/Product-Manager-Skills
+metadata: {}
 added_at: '2026-06-05'

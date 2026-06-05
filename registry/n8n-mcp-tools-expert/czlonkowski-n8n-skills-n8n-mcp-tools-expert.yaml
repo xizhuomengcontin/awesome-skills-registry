@@ -1,14 +1,18 @@
 id: czlonkowski-n8n-skills-n8n-mcp-tools-expert
-description: "Expert guide for using n8n-mcp MCP tools effectively. Use when searching\
-  \ for nodes, validating configurations, accessing templates, managing workflows,\
-  \ managing credentials, auditing instance security, or using any n8n-mcp tool. Provides\
-  \ tool selection guidance, parameter formats, and common patterns. IMPORTANT \u2014\
-  \ Always consult this skill before calling any n8n-mcp tool \u2014 it prevents common\
-  \ mistakes like wrong nodeType formats, incorrect parameter structures, and inefficient\
-  \ tool usage. If the user mentions n8n, workflows, nodes, or automation and you\
-  \ have n8n MCP tools available, use this skill first."
-url: https://raw.githubusercontent.com/czlonkowski/n8n-skills/main/skills/n8n-mcp-tools-expert/SKILL.md
-folder_url: https://github.com/czlonkowski/n8n-skills/tree/main/skills/n8n-mcp-tools-expert
-repo: czlonkowski/n8n-skills
-skill_dir: n8n-mcp-tools-expert
+display_name: N8N Mcp Tools Expert
+description: Expert guide for using n8n-mcp MCP tools effectively. Use when searching for nodes, validating configurations,
+  accessing templates, managing workflows, managing credentials, auditing instance security, or using any n8n-mcp tool. Provides
+  tool selection guidance, parameter formats, and common patterns. IMPORTANT — Always consult this skill before calling any
+  n8n-mcp tool — it prevents common mistakes like wrong nodeType formats, incorrect parameter structures, and inefficient
+  tool usage. If the user mentions n8n, workflows, nodes, or automation and you have n8n MCP tools available, use this skill
+  first.
+authors:
+- czlonkowski
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/n8n-mcp-tools-expert
+  repo: czlonkowski/n8n-skills
+metadata: {}
 added_at: '2026-06-05'

@@ -1,7 +1,13 @@
 id: alinaqi-maggy-supabase-nextjs
+display_name: Supabase Nextjs
 description: Next.js with Supabase and Drizzle ORM
-url: https://raw.githubusercontent.com/alinaqi/maggy/main/skills/supabase-nextjs/SKILL.md
-folder_url: https://github.com/alinaqi/maggy/tree/main/skills/supabase-nextjs
-repo: alinaqi/maggy
-skill_dir: supabase-nextjs
+authors:
+- alinaqi
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/supabase-nextjs
+  repo: alinaqi/maggy
+metadata: {}
 added_at: '2026-06-05'

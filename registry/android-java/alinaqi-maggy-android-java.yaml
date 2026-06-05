@@ -1,7 +1,13 @@
 id: alinaqi-maggy-android-java
+display_name: Android Java
 description: Android Java development with MVVM, ViewBinding, and Espresso testing
-url: https://raw.githubusercontent.com/alinaqi/maggy/main/skills/android-java/SKILL.md
-folder_url: https://github.com/alinaqi/maggy/tree/main/skills/android-java
-repo: alinaqi/maggy
-skill_dir: android-java
+authors:
+- alinaqi
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/android-java
+  repo: alinaqi/maggy
+metadata: {}
 added_at: '2026-06-05'

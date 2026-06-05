@@ -1,8 +1,14 @@
 id: bitwize-music-studio-claude-ai-music-skills-researchers-primary-source
-description: Researches the subject's own words from tweets, blogs, forums, and chat
-  logs. Use when research needs direct quotes or first-person accounts.
-url: https://raw.githubusercontent.com/bitwize-music-studio/claude-ai-music-skills/main/skills/researchers-primary-source/SKILL.md
-folder_url: https://github.com/bitwize-music-studio/claude-ai-music-skills/tree/main/skills/researchers-primary-source
-repo: bitwize-music-studio/claude-ai-music-skills
-skill_dir: researchers-primary-source
+display_name: Researchers Primary Source
+description: Researches the subject's own words from tweets, blogs, forums, and chat logs. Use when research needs direct
+  quotes or first-person accounts.
+authors:
+- bitwize-music-studio
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/researchers-primary-source
+  repo: bitwize-music-studio/claude-ai-music-skills
+metadata: {}
 added_at: '2026-06-05'

@@ -1,9 +1,14 @@
 id: huggingface-skills-hf-mcp
-description: Use Hugging Face Hub via MCP server tools. Search models, datasets, Spaces,
-  papers. Get repo details, fetch documentation, run compute jobs, and use Gradio
-  Spaces as AI tools. Available when connected to the HF MCP server.
-url: https://raw.githubusercontent.com/huggingface/skills/main/hf-mcp/skills/hf-mcp/SKILL.md
-folder_url: https://github.com/huggingface/skills/tree/main/hf-mcp/skills/hf-mcp
-repo: huggingface/skills
-skill_dir: hf-mcp
+display_name: Hf Mcp
+description: Use Hugging Face Hub via MCP server tools. Search models, datasets, Spaces, papers. Get repo details, fetch documentation,
+  run compute jobs, and use Gradio Spaces as AI tools. Available when connected to the HF MCP server.
+authors:
+- huggingface
+is_official: true
+tags: []
+category: none
+source:
+  path: /hf-mcp/skills/hf-mcp
+  repo: huggingface/skills
+metadata: {}
 added_at: '2026-06-05'

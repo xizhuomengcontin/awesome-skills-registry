@@ -1,9 +1,14 @@
 id: bitwize-music-studio-claude-ai-music-skills-clipboard
-description: Copies track content (lyrics, style prompts, streaming lyrics) to the
-  system clipboard. Use when the user needs to paste lyrics or style prompts into
-  Suno or other external tools.
-url: https://raw.githubusercontent.com/bitwize-music-studio/claude-ai-music-skills/main/skills/clipboard/SKILL.md
-folder_url: https://github.com/bitwize-music-studio/claude-ai-music-skills/tree/main/skills/clipboard
-repo: bitwize-music-studio/claude-ai-music-skills
-skill_dir: clipboard
+display_name: Clipboard
+description: Copies track content (lyrics, style prompts, streaming lyrics) to the system clipboard. Use when the user needs
+  to paste lyrics or style prompts into Suno or other external tools.
+authors:
+- bitwize-music-studio
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/clipboard
+  repo: bitwize-music-studio/claude-ai-music-skills
+metadata: {}
 added_at: '2026-06-05'

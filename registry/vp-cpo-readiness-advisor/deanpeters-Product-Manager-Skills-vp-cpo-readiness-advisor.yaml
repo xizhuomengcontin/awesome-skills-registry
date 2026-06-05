@@ -1,8 +1,14 @@
 id: deanpeters-Product-Manager-Skills-vp-cpo-readiness-advisor
-description: Guide the transition to VP or CPO across preparing, interviewing, landing,
-  and recalibrating. Use when executive product scope is changing fast.
-url: https://raw.githubusercontent.com/deanpeters/Product-Manager-Skills/main/skills/vp-cpo-readiness-advisor/SKILL.md
-folder_url: https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/vp-cpo-readiness-advisor
-repo: deanpeters/Product-Manager-Skills
-skill_dir: vp-cpo-readiness-advisor
+display_name: Vp Cpo Readiness Advisor
+description: Guide the transition to VP or CPO across preparing, interviewing, landing, and recalibrating. Use when executive
+  product scope is changing fast.
+authors:
+- deanpeters
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/vp-cpo-readiness-advisor
+  repo: deanpeters/Product-Manager-Skills
+metadata: {}
 added_at: '2026-06-05'

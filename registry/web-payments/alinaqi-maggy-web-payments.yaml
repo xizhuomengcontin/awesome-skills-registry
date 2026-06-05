@@ -1,7 +1,13 @@
 id: alinaqi-maggy-web-payments
+display_name: Web Payments
 description: Stripe Checkout, subscriptions, webhooks, customer portal
-url: https://raw.githubusercontent.com/alinaqi/maggy/main/skills/web-payments/SKILL.md
-folder_url: https://github.com/alinaqi/maggy/tree/main/skills/web-payments
-repo: alinaqi/maggy
-skill_dir: web-payments
+authors:
+- alinaqi
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/web-payments
+  repo: alinaqi/maggy
+metadata: {}
 added_at: '2026-06-05'

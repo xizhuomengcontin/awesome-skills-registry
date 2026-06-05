@@ -1,7 +1,13 @@
 id: alinaqi-maggy-typescript
+display_name: Typescript
 description: TypeScript strict mode with eslint and jest
-url: https://raw.githubusercontent.com/alinaqi/maggy/main/skills/typescript/SKILL.md
-folder_url: https://github.com/alinaqi/maggy/tree/main/skills/typescript
-repo: alinaqi/maggy
-skill_dir: typescript
+authors:
+- alinaqi
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/typescript
+  repo: alinaqi/maggy
+metadata: {}
 added_at: '2026-06-05'

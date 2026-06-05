@@ -1,9 +1,14 @@
 id: CloudAI-X-threejs-skills-threejs-animation
-description: Three.js animation - keyframe animation, skeletal animation, morph targets,
-  animation mixing. Use when animating objects, playing GLTF animations, creating
-  procedural motion, or blending animations.
-url: https://raw.githubusercontent.com/CloudAI-X/threejs-skills/main/skills/threejs-animation/SKILL.md
-folder_url: https://github.com/CloudAI-X/threejs-skills/tree/main/skills/threejs-animation
-repo: CloudAI-X/threejs-skills
-skill_dir: threejs-animation
+display_name: Threejs Animation
+description: Three.js animation - keyframe animation, skeletal animation, morph targets, animation mixing. Use when animating
+  objects, playing GLTF animations, creating procedural motion, or blending animations.
+authors:
+- CloudAI-X
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/threejs-animation
+  repo: CloudAI-X/threejs-skills
+metadata: {}
 added_at: '2026-06-05'

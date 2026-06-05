@@ -1,9 +1,14 @@
 id: bitwize-music-studio-claude-ai-music-skills-lyric-refiner
-description: Autonomous multi-pass lyric refinement for tightening, cohesion, and
-  album unity. Use after lyrics are written to polish a track or entire album through
-  iterative passes.
-url: https://raw.githubusercontent.com/bitwize-music-studio/claude-ai-music-skills/main/skills/lyric-refiner/SKILL.md
-folder_url: https://github.com/bitwize-music-studio/claude-ai-music-skills/tree/main/skills/lyric-refiner
-repo: bitwize-music-studio/claude-ai-music-skills
-skill_dir: lyric-refiner
+display_name: Lyric Refiner
+description: Autonomous multi-pass lyric refinement for tightening, cohesion, and album unity. Use after lyrics are written
+  to polish a track or entire album through iterative passes.
+authors:
+- bitwize-music-studio
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/lyric-refiner
+  repo: bitwize-music-studio/claude-ai-music-skills
+metadata: {}
 added_at: '2026-06-05'

@@ -1,8 +1,14 @@
 id: alinaqi-maggy-council-review
-description: "Multi-model validation council \u2014 auto-validate plans, architecture\
-  \ changes, and PRs via validate-plan/review before executing"
-url: https://raw.githubusercontent.com/alinaqi/maggy/main/skills/council-review/SKILL.md
-folder_url: https://github.com/alinaqi/maggy/tree/main/skills/council-review
-repo: alinaqi/maggy
-skill_dir: council-review
+display_name: Council Review
+description: Multi-model validation council — auto-validate plans, architecture changes, and PRs via validate-plan/review
+  before executing
+authors:
+- alinaqi
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/council-review
+  repo: alinaqi/maggy
+metadata: {}
 added_at: '2026-06-05'
