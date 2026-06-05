@@ -28,7 +28,12 @@ except ImportError:
 REPO_ROOT = Path(__file__).resolve().parent.parent
 REGISTRY_DIR = REPO_ROOT / "registry"
 
-REQUIRED_FIELDS = ("id", "description", "url", "repo", "added_at")
+REQUIRED_FIELDS = ("id", "display_name", "description", "authors", "is_official", "tags", "category", "source", "metadata", "added_at")
+
+VALID_CATEGORIES = frozenset({
+    "none", "coding", "design", "productivity", "marketing", "business",
+    "data-ai", "science", "creative", "health", "legal", "miscellaneous",
+})
 
 
 @dataclass
@@ -78,6 +83,42 @@ def lint_file(filepath: Path, fix: bool = False) -> list[LintIssue]:
     for field_name in REQUIRED_FIELDS:
         if field_name not in data or data[field_name] is None:
             issues.append(LintIssue(str(rel), "missing-field", f"Missing required field: {field_name}"))
+
+    source = data.get("source")
+    if source is not None:
+        if not isinstance(source, dict):
+            issues.append(LintIssue(str(rel), "source-not-mapping", "Field 'source' must be a mapping"))
+        else:
+            if "repo" not in source:
+                issues.append(LintIssue(str(rel), "missing-field", "Missing required field: source.repo"))
+            if "path" not in source:
+                issues.append(LintIssue(str(rel), "missing-field", "Missing required field: source.path"))
+
+    display_name = data.get("display_name")
+    if display_name is not None and (not isinstance(display_name, str) or not display_name.strip()):
+        issues.append(LintIssue(str(rel), "display-name-empty", "Field 'display_name' must be a non-empty string"))
+
+    authors = data.get("authors")
+    if authors is not None:
+        if not isinstance(authors, list):
+            issues.append(LintIssue(str(rel), "authors-not-list", "Field 'authors' must be a list"))
+        elif not authors:
+            issues.append(LintIssue(str(rel), "authors-empty", "Field 'authors' is an empty list"))
+
+    is_official = data.get("is_official")
+    if is_official is not None and not isinstance(is_official, bool):
+        issues.append(LintIssue(str(rel), "is-official-not-bool", "Field 'is_official' must be a boolean"))
+
+    tags = data.get("tags")
+    if tags is not None and not isinstance(tags, list):
+        issues.append(LintIssue(str(rel), "tags-not-list", "Field 'tags' must be a list"))
+
+    category = data.get("category")
+    if category is not None and category not in VALID_CATEGORIES:
+        issues.append(LintIssue(
+            str(rel), "category-invalid",
+            f"Invalid category '{category}'; must be one of: {', '.join(sorted(VALID_CATEGORIES))}",
+        ))
 
     desc = data.get("description")
     if desc is not None:
@@ -136,7 +177,7 @@ def lint_file(filepath: Path, fix: bool = False) -> list[LintIssue]:
 
 def _write_fixed(filepath: Path, data: dict) -> None:
     """Re-serialize and write the fixed YAML, preserving field order."""
-    field_order = ["id", "description", "url", "folder_url", "repo", "skill_dir", "added_at"]
+    field_order = ["id", "display_name", "description", "authors", "is_official", "tags", "category", "source", "metadata", "added_at"]
     ordered: dict = {}
     for key in field_order:
         if key in data:

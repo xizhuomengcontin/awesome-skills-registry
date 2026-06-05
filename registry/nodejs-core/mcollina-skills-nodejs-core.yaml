@@ -1,12 +1,16 @@
 id: mcollina-skills-nodejs-core
-description: Debugs native module crashes, optimizes V8 performance, configures node-gyp
-  builds, writes N-API/node-addon-api bindings, and diagnoses libuv event loop issues
-  in Node.js. Use when working with C++ addons, native modules, binding.gyp, node-gyp
-  errors, segfaults, memory leaks in native code, V8 optimization/deoptimization,
-  libuv thread pool tuning, N-API or NAN bindings, build system failures, or any Node.js
-  internals below the JavaScript layer.
-url: https://raw.githubusercontent.com/mcollina/skills/main/skills/nodejs-core/SKILL.md
-folder_url: https://github.com/mcollina/skills/tree/main/skills/nodejs-core
-repo: mcollina/skills
-skill_dir: nodejs-core
+display_name: Nodejs Core
+description: Debugs native module crashes, optimizes V8 performance, configures node-gyp builds, writes N-API/node-addon-api
+  bindings, and diagnoses libuv event loop issues in Node.js. Use when working with C++ addons, native modules, binding.gyp,
+  node-gyp errors, segfaults, memory leaks in native code, V8 optimization/deoptimization, libuv thread pool tuning, N-API
+  or NAN bindings, build system failures, or any Node.js internals below the JavaScript layer.
+authors:
+- mcollina
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/nodejs-core
+  repo: mcollina/skills
+metadata: {}
 added_at: '2026-06-05'

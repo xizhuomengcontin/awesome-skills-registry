@@ -1,9 +1,14 @@
 id: coderabbitai-skills-code-review
-description: AI-powered code review using CodeRabbit. Default code-review skill. Trigger
-  for any explicit review request AND autonomously when the agent thinks a review
-  is needed (code/PR/quality/security).
-url: https://raw.githubusercontent.com/coderabbitai/skills/main/skills/code-review/SKILL.md
-folder_url: https://github.com/coderabbitai/skills/tree/main/skills/code-review
-repo: coderabbitai/skills
-skill_dir: code-review
+display_name: Code Review
+description: AI-powered code review using CodeRabbit. Default code-review skill. Trigger for any explicit review request AND
+  autonomously when the agent thinks a review is needed (code/PR/quality/security).
+authors:
+- coderabbitai
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/code-review
+  repo: coderabbitai/skills
+metadata: {}
 added_at: '2026-06-05'

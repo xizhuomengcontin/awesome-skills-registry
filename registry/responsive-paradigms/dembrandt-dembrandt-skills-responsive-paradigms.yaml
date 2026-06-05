@@ -1,11 +1,15 @@
 id: dembrandt-dembrandt-skills-responsive-paradigms
-description: "Mobile, tablet, and desktop are different interaction paradigms \u2014\
-  \ not the same layout scaled up or down. Sections can be hidden, repositioned, or\
-  \ made sticky on mobile. Navigation and primary actions move. Use when designing\
-  \ responsive layouts, adapting desktop UI for mobile, or deciding what to show on\
-  \ each breakpoint."
-url: https://raw.githubusercontent.com/dembrandt/dembrandt-skills/main/skills/responsive-paradigms/SKILL.md
-folder_url: https://github.com/dembrandt/dembrandt-skills/tree/main/skills/responsive-paradigms
-repo: dembrandt/dembrandt-skills
-skill_dir: responsive-paradigms
+display_name: Responsive Paradigms
+description: Mobile, tablet, and desktop are different interaction paradigms — not the same layout scaled up or down. Sections
+  can be hidden, repositioned, or made sticky on mobile. Navigation and primary actions move. Use when designing responsive
+  layouts, adapting desktop UI for mobile, or deciding what to show on each breakpoint.
+authors:
+- dembrandt
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/responsive-paradigms
+  repo: dembrandt/dembrandt-skills
+metadata: {}
 added_at: '2026-06-05'

@@ -1,8 +1,14 @@
 id: indranilbanerjee-digital-marketing-pro-marketing-automation
-description: 'Design marketing automation workflows. Use when: building lead scoring,
-  nurture sequences, drip campaigns, or behavioral triggers.'
-url: https://raw.githubusercontent.com/indranilbanerjee/digital-marketing-pro/main/skills/marketing-automation/SKILL.md
-folder_url: https://github.com/indranilbanerjee/digital-marketing-pro/tree/main/skills/marketing-automation
-repo: indranilbanerjee/digital-marketing-pro
-skill_dir: marketing-automation
+display_name: Marketing Automation
+description: 'Design marketing automation workflows. Use when: building lead scoring, nurture sequences, drip campaigns, or
+  behavioral triggers.'
+authors:
+- indranilbanerjee
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/marketing-automation
+  repo: indranilbanerjee/digital-marketing-pro
+metadata: {}
 added_at: '2026-06-05'

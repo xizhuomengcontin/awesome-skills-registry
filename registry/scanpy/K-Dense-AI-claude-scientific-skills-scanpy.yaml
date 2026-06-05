@@ -1,12 +1,16 @@
 id: K-Dense-AI-claude-scientific-skills-scanpy
-description: Standard single-cell RNA-seq analysis pipeline. Use for QC, normalization,
-  dimensionality reduction (PCA/UMAP/t-SNE), clustering, differential expression,
-  visualization, and converting R-friendly single-cell formats such as Seurat or SingleCellExperiment
-  RDS files into h5ad for Scanpy. Best for exploratory scRNA-seq analysis with established
-  workflows. For deep learning models use scvi-tools; for data format questions use
-  anndata.
-url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/skills/scanpy/SKILL.md
-folder_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/scanpy
-repo: K-Dense-AI/claude-scientific-skills
-skill_dir: scanpy
+display_name: Scanpy
+description: Standard single-cell RNA-seq analysis pipeline. Use for QC, normalization, dimensionality reduction (PCA/UMAP/t-SNE),
+  clustering, differential expression, visualization, and converting R-friendly single-cell formats such as Seurat or SingleCellExperiment
+  RDS files into h5ad for Scanpy. Best for exploratory scRNA-seq analysis with established workflows. For deep learning models
+  use scvi-tools; for data format questions use anndata.
+authors:
+- K-Dense-AI
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/scanpy
+  repo: K-Dense-AI/claude-scientific-skills
+metadata: {}
 added_at: '2026-06-05'

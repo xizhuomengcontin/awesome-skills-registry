@@ -1,8 +1,13 @@
 id: indranilbanerjee-digital-marketing-pro-creative-health
-description: 'Assess ad creative fatigue. Use when: ads underperform, need refresh
-  timing, or creative lifecycle review.'
-url: https://raw.githubusercontent.com/indranilbanerjee/digital-marketing-pro/main/skills/creative-health/SKILL.md
-folder_url: https://github.com/indranilbanerjee/digital-marketing-pro/tree/main/skills/creative-health
-repo: indranilbanerjee/digital-marketing-pro
-skill_dir: creative-health
+display_name: Creative Health
+description: 'Assess ad creative fatigue. Use when: ads underperform, need refresh timing, or creative lifecycle review.'
+authors:
+- indranilbanerjee
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/creative-health
+  repo: indranilbanerjee/digital-marketing-pro
+metadata: {}
 added_at: '2026-06-05'

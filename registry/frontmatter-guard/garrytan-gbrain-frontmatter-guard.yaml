@@ -1,9 +1,15 @@
 id: garrytan-gbrain-frontmatter-guard
+display_name: Frontmatter Guard
 description: Validate and auto-repair YAML frontmatter on brain pages. Catches malformed pages before they enter the brain
   (missing closing ---, nested quotes, slug mismatches, null bytes, empty frontmatter, YAML parse failures). Wraps the `gbrain
   frontmatter` CLI for agent-driven workflows.
-url: https://raw.githubusercontent.com/garrytan/gbrain/master/skills/frontmatter-guard/SKILL.md
-folder_url: https://github.com/garrytan/gbrain/tree/master/skills/frontmatter-guard
-repo: garrytan/gbrain
-skill_dir: frontmatter-guard
+authors:
+- garrytan
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/frontmatter-guard
+  repo: garrytan/gbrain
+metadata: {}
 added_at: '2026-06-05'

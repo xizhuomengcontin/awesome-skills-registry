@@ -1,11 +1,15 @@
 id: cloudflare-skills-cloudflare
-description: Comprehensive Cloudflare platform skill covering Workers, Pages, storage
-  (KV, D1, R2), AI (Workers AI, Vectorize, Agents SDK), feature flags (Flagship),
-  networking (Tunnel, Spectrum), security (WAF, DDoS), and infrastructure-as-code
-  (Terraform, Pulumi). Use for any Cloudflare development task. Biases towards retrieval
-  from Cloudflare docs over pre-trained knowledge.
-url: https://raw.githubusercontent.com/cloudflare/skills/main/skills/cloudflare/SKILL.md
-folder_url: https://github.com/cloudflare/skills/tree/main/skills/cloudflare
-repo: cloudflare/skills
-skill_dir: cloudflare
+display_name: Cloudflare
+description: Comprehensive Cloudflare platform skill covering Workers, Pages, storage (KV, D1, R2), AI (Workers AI, Vectorize,
+  Agents SDK), feature flags (Flagship), networking (Tunnel, Spectrum), security (WAF, DDoS), and infrastructure-as-code (Terraform,
+  Pulumi). Use for any Cloudflare development task. Biases towards retrieval from Cloudflare docs over pre-trained knowledge.
+authors:
+- cloudflare
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/cloudflare
+  repo: cloudflare/skills
+metadata: {}
 added_at: '2026-06-05'

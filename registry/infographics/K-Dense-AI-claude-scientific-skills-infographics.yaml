@@ -1,10 +1,15 @@
 id: K-Dense-AI-claude-scientific-skills-infographics
-description: Create professional infographics using Nano Banana Pro AI with smart
-  iterative refinement. Uses Gemini 3 Pro for quality review. Integrates research-lookup
-  and web search for accurate data. Supports 10 infographic types, 8 industry styles,
-  and colorblind-safe palettes.
-url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/skills/infographics/SKILL.md
-folder_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/infographics
-repo: K-Dense-AI/claude-scientific-skills
-skill_dir: infographics
+display_name: Infographics
+description: Create professional infographics using Nano Banana Pro AI with smart iterative refinement. Uses Gemini 3 Pro
+  for quality review. Integrates research-lookup and web search for accurate data. Supports 10 infographic types, 8 industry
+  styles, and colorblind-safe palettes.
+authors:
+- K-Dense-AI
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/infographics
+  repo: K-Dense-AI/claude-scientific-skills
+metadata: {}
 added_at: '2026-06-05'

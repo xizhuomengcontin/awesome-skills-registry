@@ -1,11 +1,16 @@
 id: kreuzberg-dev-kreuzberg-kreuzberg
-description: Extract text, tables, metadata, and images from 91+ document formats
-  (PDF, Office, images, HTML, email, archives, academic) using Kreuzberg. Use when
-  writing code that calls Kreuzberg APIs in Python, Node.js/TypeScript, Rust, or CLI.
-  Covers installation, extraction (sync/async), configuration (OCR, chunking, output
-  format), batch processing, error handling, and plugins.
-url: https://raw.githubusercontent.com/kreuzberg-dev/kreuzberg/main/skills/kreuzberg/SKILL.md
-folder_url: https://github.com/kreuzberg-dev/kreuzberg/tree/main/skills/kreuzberg
-repo: kreuzberg-dev/kreuzberg
-skill_dir: kreuzberg
+display_name: Kreuzberg
+description: Extract text, tables, metadata, and images from 91+ document formats (PDF, Office, images, HTML, email, archives,
+  academic) using Kreuzberg. Use when writing code that calls Kreuzberg APIs in Python, Node.js/TypeScript, Rust, or CLI.
+  Covers installation, extraction (sync/async), configuration (OCR, chunking, output format), batch processing, error handling,
+  and plugins.
+authors:
+- kreuzberg-dev
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/kreuzberg
+  repo: kreuzberg-dev/kreuzberg
+metadata: {}
 added_at: '2026-06-05'

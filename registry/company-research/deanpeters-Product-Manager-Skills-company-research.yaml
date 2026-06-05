@@ -1,9 +1,14 @@
 id: deanpeters-Product-Manager-Skills-company-research
-description: Create a company research brief with executive quotes, product strategy,
-  and org context. Use when preparing for interviews, competitive analysis, partnerships,
-  or market-entry work.
-url: https://raw.githubusercontent.com/deanpeters/Product-Manager-Skills/main/skills/company-research/SKILL.md
-folder_url: https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/company-research
-repo: deanpeters/Product-Manager-Skills
-skill_dir: company-research
+display_name: Company Research
+description: Create a company research brief with executive quotes, product strategy, and org context. Use when preparing
+  for interviews, competitive analysis, partnerships, or market-entry work.
+authors:
+- deanpeters
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/company-research
+  repo: deanpeters/Product-Manager-Skills
+metadata: {}
 added_at: '2026-06-05'

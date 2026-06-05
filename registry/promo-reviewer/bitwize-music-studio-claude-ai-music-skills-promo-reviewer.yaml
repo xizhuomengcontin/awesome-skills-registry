@@ -1,9 +1,14 @@
 id: bitwize-music-studio-claude-ai-music-skills-promo-reviewer
-description: Reviews and iterates on social media copy in album promo/ files. Use
-  after populating promo templates and before release to polish platform-specific
-  posts.
-url: https://raw.githubusercontent.com/bitwize-music-studio/claude-ai-music-skills/main/skills/promo-reviewer/SKILL.md
-folder_url: https://github.com/bitwize-music-studio/claude-ai-music-skills/tree/main/skills/promo-reviewer
-repo: bitwize-music-studio/claude-ai-music-skills
-skill_dir: promo-reviewer
+display_name: Promo Reviewer
+description: Reviews and iterates on social media copy in album promo/ files. Use after populating promo templates and before
+  release to polish platform-specific posts.
+authors:
+- bitwize-music-studio
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/promo-reviewer
+  repo: bitwize-music-studio/claude-ai-music-skills
+metadata: {}
 added_at: '2026-06-05'

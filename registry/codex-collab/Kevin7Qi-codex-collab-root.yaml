@@ -1,10 +1,15 @@
 id: Kevin7Qi-codex-collab-root
-description: "Use when the user asks to invoke, delegate to, or collaborate with Codex\
-  \ on any task. Also use PROACTIVELY when an independent, non-Claude perspective\
-  \ from Codex would add value \u2014 second opinions on code, plans, architecture,\
-  \ or design decisions."
-url: https://raw.githubusercontent.com/Kevin7Qi/codex-collab/main/SKILL.md
-folder_url: https://github.com/Kevin7Qi/codex-collab/tree/main
-repo: Kevin7Qi/codex-collab
-skill_dir: root
+display_name: Root
+description: Use when the user asks to invoke, delegate to, or collaborate with Codex on any task. Also use PROACTIVELY when
+  an independent, non-Claude perspective from Codex would add value — second opinions on code, plans, architecture, or design
+  decisions.
+authors:
+- Kevin7Qi
+is_official: false
+tags: []
+category: none
+source:
+  path: /
+  repo: Kevin7Qi/codex-collab
+metadata: {}
 added_at: '2026-06-05'

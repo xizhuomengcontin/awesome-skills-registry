@@ -1,8 +1,14 @@
 id: indranilbanerjee-digital-marketing-pro-aeo-geo
-description: 'Optimize AI engine visibility. Use when: AEO/GEO strategy, citation
-  optimization, entity consistency across AI platforms.'
-url: https://raw.githubusercontent.com/indranilbanerjee/digital-marketing-pro/main/skills/aeo-geo/SKILL.md
-folder_url: https://github.com/indranilbanerjee/digital-marketing-pro/tree/main/skills/aeo-geo
-repo: indranilbanerjee/digital-marketing-pro
-skill_dir: aeo-geo
+display_name: Aeo Geo
+description: 'Optimize AI engine visibility. Use when: AEO/GEO strategy, citation optimization, entity consistency across
+  AI platforms.'
+authors:
+- indranilbanerjee
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/aeo-geo
+  repo: indranilbanerjee/digital-marketing-pro
+metadata: {}
 added_at: '2026-06-05'

@@ -1,13 +1,17 @@
 id: cloudflare-skills-cloudflare-email-service
-description: "Send and receive transactional emails with Cloudflare Email Service\
-  \ (Email Sending + Email Routing). Use when building email sending (Workers binding\
-  \ or REST API), email routing, Agents SDK email handling, or integrating email into\
-  \ any app \u2014 Workers, Node.js, Python, Go, etc. Also use for email deliverability,\
-  \ SPF/DKIM/DMARC, wrangler email setup, MCP email tools, or when a coding agent\
-  \ needs to send emails. Even for simple requests like \"add email to my Worker\"\
-  \ \u2014 this skill has critical config details."
-url: https://raw.githubusercontent.com/cloudflare/skills/main/skills/cloudflare-email-service/SKILL.md
-folder_url: https://github.com/cloudflare/skills/tree/main/skills/cloudflare-email-service
-repo: cloudflare/skills
-skill_dir: cloudflare-email-service
+display_name: Cloudflare Email Service
+description: Send and receive transactional emails with Cloudflare Email Service (Email Sending + Email Routing). Use when
+  building email sending (Workers binding or REST API), email routing, Agents SDK email handling, or integrating email into
+  any app — Workers, Node.js, Python, Go, etc. Also use for email deliverability, SPF/DKIM/DMARC, wrangler email setup, MCP
+  email tools, or when a coding agent needs to send emails. Even for simple requests like "add email to my Worker" — this
+  skill has critical config details.
+authors:
+- cloudflare
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/cloudflare-email-service
+  repo: cloudflare/skills
+metadata: {}
 added_at: '2026-06-05'

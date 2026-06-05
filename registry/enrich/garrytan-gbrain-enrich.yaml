@@ -1,8 +1,14 @@
 id: garrytan-gbrain-enrich
+display_name: Enrich
 description: Enrich brain pages with tiered enrichment protocol. Creates and updates person/company pages with compiled truth,
   timeline, and cross-links. Use when a new entity is mentioned or an existing page needs updating.
-url: https://raw.githubusercontent.com/garrytan/gbrain/master/skills/enrich/SKILL.md
-folder_url: https://github.com/garrytan/gbrain/tree/master/skills/enrich
-repo: garrytan/gbrain
-skill_dir: enrich
+authors:
+- garrytan
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/enrich
+  repo: garrytan/gbrain
+metadata: {}
 added_at: '2026-06-05'

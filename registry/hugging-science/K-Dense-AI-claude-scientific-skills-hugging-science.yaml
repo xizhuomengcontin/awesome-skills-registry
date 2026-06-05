@@ -1,13 +1,17 @@
 id: K-Dense-AI-claude-scientific-skills-hugging-science
-description: Use when the user is doing AI/ML work in a scientific domain such as
-  biology, chemistry, physics, astronomy, climate, genomics, materials, medicine,
-  ecology, energy, engineering, math, drug discovery, protein design, weather modeling,
-  theorem proving, single-cell, or PDE solving. Hugging Science is a curated catalog
-  of scientific datasets, models, blog posts, and interactive Spaces. This skill helps
-  discover and use resources via `datasets`, `transformers`, the HF Inference API,
-  `gradio_client`, and methodology citations.
-url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/skills/hugging-science/SKILL.md
-folder_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/hugging-science
-repo: K-Dense-AI/claude-scientific-skills
-skill_dir: hugging-science
+display_name: Hugging Science
+description: Use when the user is doing AI/ML work in a scientific domain such as biology, chemistry, physics, astronomy,
+  climate, genomics, materials, medicine, ecology, energy, engineering, math, drug discovery, protein design, weather modeling,
+  theorem proving, single-cell, or PDE solving. Hugging Science is a curated catalog of scientific datasets, models, blog
+  posts, and interactive Spaces. This skill helps discover and use resources via `datasets`, `transformers`, the HF Inference
+  API, `gradio_client`, and methodology citations.
+authors:
+- K-Dense-AI
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/hugging-science
+  repo: K-Dense-AI/claude-scientific-skills
+metadata: {}
 added_at: '2026-06-05'

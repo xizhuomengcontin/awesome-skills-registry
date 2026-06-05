@@ -1,8 +1,14 @@
 id: indranilbanerjee-digital-marketing-pro-competitor-alerts
-description: 'Configure competitor alerts. Use when: tracking content changes, pricing
-  shifts, ad launches, SERP changes, social spikes.'
-url: https://raw.githubusercontent.com/indranilbanerjee/digital-marketing-pro/main/skills/competitor-alerts/SKILL.md
-folder_url: https://github.com/indranilbanerjee/digital-marketing-pro/tree/main/skills/competitor-alerts
-repo: indranilbanerjee/digital-marketing-pro
-skill_dir: competitor-alerts
+display_name: Competitor Alerts
+description: 'Configure competitor alerts. Use when: tracking content changes, pricing shifts, ad launches, SERP changes,
+  social spikes.'
+authors:
+- indranilbanerjee
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/competitor-alerts
+  repo: indranilbanerjee/digital-marketing-pro
+metadata: {}
 added_at: '2026-06-05'

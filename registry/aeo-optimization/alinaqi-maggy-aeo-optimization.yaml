@@ -1,8 +1,13 @@
 id: alinaqi-maggy-aeo-optimization
-description: AI Engine Optimization - semantic triples, page templates, content clusters
-  for AI citations
-url: https://raw.githubusercontent.com/alinaqi/maggy/main/skills/aeo-optimization/SKILL.md
-folder_url: https://github.com/alinaqi/maggy/tree/main/skills/aeo-optimization
-repo: alinaqi/maggy
-skill_dir: aeo-optimization
+display_name: Aeo Optimization
+description: AI Engine Optimization - semantic triples, page templates, content clusters for AI citations
+authors:
+- alinaqi
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/aeo-optimization
+  repo: alinaqi/maggy
+metadata: {}
 added_at: '2026-06-05'

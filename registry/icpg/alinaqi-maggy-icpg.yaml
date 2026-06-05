@@ -1,9 +1,14 @@
 id: alinaqi-maggy-icpg
-description: "Intent-Augmented Code Property Graph \u2014 tracks WHY code exists via\
-  \ ReasonNodes with formal contracts, 6-dimension drift detection, and 3 canonical\
-  \ pre-task queries for autonomous development"
-url: https://raw.githubusercontent.com/alinaqi/maggy/main/skills/icpg/SKILL.md
-folder_url: https://github.com/alinaqi/maggy/tree/main/skills/icpg
-repo: alinaqi/maggy
-skill_dir: icpg
+display_name: Icpg
+description: Intent-Augmented Code Property Graph — tracks WHY code exists via ReasonNodes with formal contracts, 6-dimension
+  drift detection, and 3 canonical pre-task queries for autonomous development
+authors:
+- alinaqi
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/icpg
+  repo: alinaqi/maggy
+metadata: {}
 added_at: '2026-06-05'

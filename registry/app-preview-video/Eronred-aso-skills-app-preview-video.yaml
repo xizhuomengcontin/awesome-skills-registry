@@ -1,15 +1,17 @@
 id: Eronred-aso-skills-app-preview-video
-description: "When the user wants to plan, script, produce, or optimize App Store\
-  \ Preview videos or Google Play promo videos \u2014 the autoplay videos that show\
-  \ in App Store/Play Store search and product pages. Use when the user mentions \"\
-  App Preview\", \"preview video\", \"app store video\", \"promo video\", \"Play Store\
-  \ video\", \"video poster frame\", \"YouTube promo for Play Store\", \"30 second\
-  \ app video\", \"video script\", \"video specs\", or \"should I add a preview video\"\
-  . For static screenshots, see screenshot-optimization. For A/B testing the video,\
-  \ see ab-test-store-listing. For broader creative briefs, see screenshot-optimization\
-  \ (covers stills)."
-url: https://raw.githubusercontent.com/Eronred/aso-skills/main/skills/app-preview-video/SKILL.md
-folder_url: https://github.com/Eronred/aso-skills/tree/main/skills/app-preview-video
-repo: Eronred/aso-skills
-skill_dir: app-preview-video
+display_name: App Preview Video
+description: When the user wants to plan, script, produce, or optimize App Store Preview videos or Google Play promo videos
+  — the autoplay videos that show in App Store/Play Store search and product pages. Use when the user mentions "App Preview",
+  "preview video", "app store video", "promo video", "Play Store video", "video poster frame", "YouTube promo for Play Store",
+  "30 second app video", "video script", "video specs", or "should I add a preview video". For static screenshots, see screenshot-optimization.
+  For A/B testing the video, see ab-test-store-listing. For broader creative briefs, see screenshot-optimization (covers stills).
+authors:
+- Eronred
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/app-preview-video
+  repo: Eronred/aso-skills
+metadata: {}
 added_at: '2026-06-05'

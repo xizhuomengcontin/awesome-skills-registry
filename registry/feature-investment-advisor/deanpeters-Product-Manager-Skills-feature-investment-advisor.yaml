@@ -1,8 +1,14 @@
 id: deanpeters-Product-Manager-Skills-feature-investment-advisor
-description: Evaluate feature investments using revenue impact, cost structure, ROI,
-  and strategy. Use when deciding whether a feature deserves investment.
-url: https://raw.githubusercontent.com/deanpeters/Product-Manager-Skills/main/skills/feature-investment-advisor/SKILL.md
-folder_url: https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/feature-investment-advisor
-repo: deanpeters/Product-Manager-Skills
-skill_dir: feature-investment-advisor
+display_name: Feature Investment Advisor
+description: Evaluate feature investments using revenue impact, cost structure, ROI, and strategy. Use when deciding whether
+  a feature deserves investment.
+authors:
+- deanpeters
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/feature-investment-advisor
+  repo: deanpeters/Product-Manager-Skills
+metadata: {}
 added_at: '2026-06-05'

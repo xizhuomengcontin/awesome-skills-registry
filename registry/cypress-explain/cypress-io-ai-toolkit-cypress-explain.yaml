@@ -1,11 +1,16 @@
 id: cypress-io-ai-toolkit-cypress-explain
-description: Explains Cypress tests (E2E and component tests), and answers questions
-  about Cypress use and behavior. Use when the user asks to explain how a test works,
-  explain how Cypress works, review or critique a test without writing code. Apply
-  even when the user does not say 'Cypress' (e.g. 'explain this test'). Prefer the
-  cypress-author skill when the user wants to create, fix, or update tests.
-url: https://raw.githubusercontent.com/cypress-io/ai-toolkit/main/skills/cypress-explain/SKILL.md
-folder_url: https://github.com/cypress-io/ai-toolkit/tree/main/skills/cypress-explain
-repo: cypress-io/ai-toolkit
-skill_dir: cypress-explain
+display_name: Cypress Explain
+description: Explains Cypress tests (E2E and component tests), and answers questions about Cypress use and behavior. Use when
+  the user asks to explain how a test works, explain how Cypress works, review or critique a test without writing code. Apply
+  even when the user does not say 'Cypress' (e.g. 'explain this test'). Prefer the cypress-author skill when the user wants
+  to create, fix, or update tests.
+authors:
+- cypress-io
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/cypress-explain
+  repo: cypress-io/ai-toolkit
+metadata: {}
 added_at: '2026-06-05'

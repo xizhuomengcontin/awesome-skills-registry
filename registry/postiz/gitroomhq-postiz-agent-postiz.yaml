@@ -1,11 +1,15 @@
 id: gitroomhq-postiz-agent-postiz
-description: Postiz is a tool to schedule social media and chat posts to 28+ channels
-  X, LinkedIn, LinkedIn Page, Reddit, Instagram, Facebook Page, Threads, YouTube,
-  Google My Business, TikTok, Pinterest, Dribbble, Discord, Slack, Kick, Twitch, Mastodon,
-  Bluesky, Lemmy, Farcaster, Telegram, Nostr, VK, Medium, Dev.to, Hashnode, WordPress,
-  ListMonk
-url: https://raw.githubusercontent.com/gitroomhq/postiz-agent/main/skills/postiz/SKILL.md
-folder_url: https://github.com/gitroomhq/postiz-agent/tree/main/skills/postiz
-repo: gitroomhq/postiz-agent
-skill_dir: postiz
+display_name: Postiz
+description: Postiz is a tool to schedule social media and chat posts to 28+ channels X, LinkedIn, LinkedIn Page, Reddit,
+  Instagram, Facebook Page, Threads, YouTube, Google My Business, TikTok, Pinterest, Dribbble, Discord, Slack, Kick, Twitch,
+  Mastodon, Bluesky, Lemmy, Farcaster, Telegram, Nostr, VK, Medium, Dev.to, Hashnode, WordPress, ListMonk
+authors:
+- gitroomhq
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/postiz
+  repo: gitroomhq/postiz-agent
+metadata: {}
 added_at: '2026-06-05'

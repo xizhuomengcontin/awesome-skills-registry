@@ -1,9 +1,14 @@
 id: deanpeters-Product-Manager-Skills-problem-statement
-description: Write a user-centered problem statement with who is blocked, what they
-  are trying to do, why it matters, and how it feels. Use when framing discovery,
-  prioritization, or a PRD.
-url: https://raw.githubusercontent.com/deanpeters/Product-Manager-Skills/main/skills/problem-statement/SKILL.md
-folder_url: https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/problem-statement
-repo: deanpeters/Product-Manager-Skills
-skill_dir: problem-statement
+display_name: Problem Statement
+description: Write a user-centered problem statement with who is blocked, what they are trying to do, why it matters, and
+  how it feels. Use when framing discovery, prioritization, or a PRD.
+authors:
+- deanpeters
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/problem-statement
+  repo: deanpeters/Product-Manager-Skills
+metadata: {}
 added_at: '2026-06-05'

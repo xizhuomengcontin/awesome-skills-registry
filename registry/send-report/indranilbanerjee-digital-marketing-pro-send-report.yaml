@@ -1,8 +1,13 @@
 id: indranilbanerjee-digital-marketing-pro-send-report
-description: 'Deliver performance reports. Use when: sending KPI summaries via Slack,
-  email, or Google Sheets with analysis.'
-url: https://raw.githubusercontent.com/indranilbanerjee/digital-marketing-pro/main/skills/send-report/SKILL.md
-folder_url: https://github.com/indranilbanerjee/digital-marketing-pro/tree/main/skills/send-report
-repo: indranilbanerjee/digital-marketing-pro
-skill_dir: send-report
+display_name: Send Report
+description: 'Deliver performance reports. Use when: sending KPI summaries via Slack, email, or Google Sheets with analysis.'
+authors:
+- indranilbanerjee
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/send-report
+  repo: indranilbanerjee/digital-marketing-pro
+metadata: {}
 added_at: '2026-06-05'

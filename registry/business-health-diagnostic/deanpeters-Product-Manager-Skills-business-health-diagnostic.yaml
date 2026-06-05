@@ -1,8 +1,14 @@
 id: deanpeters-Product-Manager-Skills-business-health-diagnostic
-description: Diagnose SaaS business health across growth, retention, efficiency, and
-  capital. Use when preparing a business review or prioritizing urgent fixes.
-url: https://raw.githubusercontent.com/deanpeters/Product-Manager-Skills/main/skills/business-health-diagnostic/SKILL.md
-folder_url: https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/business-health-diagnostic
-repo: deanpeters/Product-Manager-Skills
-skill_dir: business-health-diagnostic
+display_name: Business Health Diagnostic
+description: Diagnose SaaS business health across growth, retention, efficiency, and capital. Use when preparing a business
+  review or prioritizing urgent fixes.
+authors:
+- deanpeters
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/business-health-diagnostic
+  repo: deanpeters/Product-Manager-Skills
+metadata: {}
 added_at: '2026-06-05'

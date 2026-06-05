@@ -1,7 +1,13 @@
 id: alinaqi-maggy-project-tooling
+display_name: Project Tooling
 description: gh, vercel, supabase, render CLI and deployment platform setup
-url: https://raw.githubusercontent.com/alinaqi/maggy/main/skills/project-tooling/SKILL.md
-folder_url: https://github.com/alinaqi/maggy/tree/main/skills/project-tooling
-repo: alinaqi/maggy
-skill_dir: project-tooling
+authors:
+- alinaqi
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/project-tooling
+  repo: alinaqi/maggy
+metadata: {}
 added_at: '2026-06-05'

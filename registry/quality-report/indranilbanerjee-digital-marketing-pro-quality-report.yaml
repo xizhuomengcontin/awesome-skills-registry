@@ -1,8 +1,14 @@
 id: indranilbanerjee-digital-marketing-pro-quality-report
-description: 'Generate quality trends report. Use when: reviewing eval scores over
-  time, content type performance, or regression alerts.'
-url: https://raw.githubusercontent.com/indranilbanerjee/digital-marketing-pro/main/skills/quality-report/SKILL.md
-folder_url: https://github.com/indranilbanerjee/digital-marketing-pro/tree/main/skills/quality-report
-repo: indranilbanerjee/digital-marketing-pro
-skill_dir: quality-report
+display_name: Quality Report
+description: 'Generate quality trends report. Use when: reviewing eval scores over time, content type performance, or regression
+  alerts.'
+authors:
+- indranilbanerjee
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/quality-report
+  repo: indranilbanerjee/digital-marketing-pro
+metadata: {}
 added_at: '2026-06-05'

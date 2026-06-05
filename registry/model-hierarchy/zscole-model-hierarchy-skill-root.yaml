@@ -1,11 +1,16 @@
 id: zscole-model-hierarchy-skill-root
-description: 'Cost-optimize AI agent operations by routing tasks to appropriate models
-  based on complexity. Use this skill when: (1) deciding which model to use for a
-  task, (2) spawning sub-agents, (3) considering cost efficiency, (4) the current
-  model feels like overkill for the task. Triggers: "model routing", "cost optimization",
-  "which model", "too expensive", "spawn agent".'
-url: https://raw.githubusercontent.com/zscole/model-hierarchy-skill/main/SKILL.md
-folder_url: https://github.com/zscole/model-hierarchy-skill/tree/main
-repo: zscole/model-hierarchy-skill
-skill_dir: root
+display_name: Root
+description: 'Cost-optimize AI agent operations by routing tasks to appropriate models based on complexity. Use this skill
+  when: (1) deciding which model to use for a task, (2) spawning sub-agents, (3) considering cost efficiency, (4) the current
+  model feels like overkill for the task. Triggers: "model routing", "cost optimization", "which model", "too expensive",
+  "spawn agent".'
+authors:
+- zscole
+is_official: false
+tags: []
+category: none
+source:
+  path: /
+  repo: zscole/model-hierarchy-skill
+metadata: {}
 added_at: '2026-06-05'

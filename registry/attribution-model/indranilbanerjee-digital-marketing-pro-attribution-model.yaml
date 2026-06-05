@@ -1,8 +1,14 @@
 id: indranilbanerjee-digital-marketing-pro-attribution-model
-description: 'Set up attribution models. Use when: multi-touch attribution, credit
-  distribution rules, GA4 config, channel contribution.'
-url: https://raw.githubusercontent.com/indranilbanerjee/digital-marketing-pro/main/skills/attribution-model/SKILL.md
-folder_url: https://github.com/indranilbanerjee/digital-marketing-pro/tree/main/skills/attribution-model
-repo: indranilbanerjee/digital-marketing-pro
-skill_dir: attribution-model
+display_name: Attribution Model
+description: 'Set up attribution models. Use when: multi-touch attribution, credit distribution rules, GA4 config, channel
+  contribution.'
+authors:
+- indranilbanerjee
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/attribution-model
+  repo: indranilbanerjee/digital-marketing-pro
+metadata: {}
 added_at: '2026-06-05'

@@ -1,21 +1,22 @@
 id: lawvable-awesome-legal-skills-mediation-dispute-analysis-jinzhe-tan
-description: 'Use this skill whenever a lawyer or mediator needs help analyzing a
-  dispute for mediation purposes. This includes: reviewing case materials (pleadings,
-  contracts, correspondence, evidence) to identify issues in dispute, summarizing
-  each party''s position and interests, conducting legal analysis of the key issues,
-  proposing mediation strategies or settlement directions, and preparing for mediation
-  sessions. Trigger this skill when the user mentions ''mediation'', ''dispute analysis'',
-  ''settlement'', ''dispute resolution'', ''identify issues in dispute'', ''party
-  positions'', ''mediation brief'', ''case analysis for mediation'', ''ADR'', ''mediation
-  preparation'', ''caucus strategy'', ''settlement options'', or any request to analyze
-  a conflict between two or more parties with the goal of finding resolution. Also
-  trigger when the user uploads case files and asks for a structured breakdown of
-  who wants what, what the core disagreements are, or how the case might settle. Even
-  if the user doesn''t explicitly say ''mediation'', trigger when the context involves
-  analyzing opposing positions in a dispute with a resolution-oriented (rather than
-  litigation-oriented) goal.'
-url: https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/mediation-dispute-analysis-jinzhe-tan/SKILL.md
-folder_url: https://github.com/lawvable/awesome-legal-skills/tree/main/skills/mediation-dispute-analysis-jinzhe-tan
-repo: lawvable/awesome-legal-skills
-skill_dir: mediation-dispute-analysis-jinzhe-tan
+display_name: Mediation Dispute Analysis Jinzhe Tan
+description: 'Use this skill whenever a lawyer or mediator needs help analyzing a dispute for mediation purposes. This includes:
+  reviewing case materials (pleadings, contracts, correspondence, evidence) to identify issues in dispute, summarizing each
+  party''s position and interests, conducting legal analysis of the key issues, proposing mediation strategies or settlement
+  directions, and preparing for mediation sessions. Trigger this skill when the user mentions ''mediation'', ''dispute analysis'',
+  ''settlement'', ''dispute resolution'', ''identify issues in dispute'', ''party positions'', ''mediation brief'', ''case
+  analysis for mediation'', ''ADR'', ''mediation preparation'', ''caucus strategy'', ''settlement options'', or any request
+  to analyze a conflict between two or more parties with the goal of finding resolution. Also trigger when the user uploads
+  case files and asks for a structured breakdown of who wants what, what the core disagreements are, or how the case might
+  settle. Even if the user doesn''t explicitly say ''mediation'', trigger when the context involves analyzing opposing positions
+  in a dispute with a resolution-oriented (rather than litigation-oriented) goal.'
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/mediation-dispute-analysis-jinzhe-tan
+  repo: lawvable/awesome-legal-skills
+metadata: {}
 added_at: '2026-06-05'

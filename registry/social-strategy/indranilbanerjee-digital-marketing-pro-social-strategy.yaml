@@ -1,8 +1,14 @@
 id: indranilbanerjee-digital-marketing-pro-social-strategy
-description: 'Build social media strategy. Use when: defining content pillars, posting
-  cadence, engagement tactics, or growth plans.'
-url: https://raw.githubusercontent.com/indranilbanerjee/digital-marketing-pro/main/skills/social-strategy/SKILL.md
-folder_url: https://github.com/indranilbanerjee/digital-marketing-pro/tree/main/skills/social-strategy
-repo: indranilbanerjee/digital-marketing-pro
-skill_dir: social-strategy
+display_name: Social Strategy
+description: 'Build social media strategy. Use when: defining content pillars, posting cadence, engagement tactics, or growth
+  plans.'
+authors:
+- indranilbanerjee
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/social-strategy
+  repo: indranilbanerjee/digital-marketing-pro
+metadata: {}
 added_at: '2026-06-05'

@@ -1,8 +1,13 @@
 id: indranilbanerjee-digital-marketing-pro-launch-ad-campaign
-description: 'Launch paid ad campaigns. Use when: deploying ads on Google, Meta, LinkedIn,
-  or TikTok with targeting and safeguards.'
-url: https://raw.githubusercontent.com/indranilbanerjee/digital-marketing-pro/main/skills/launch-ad-campaign/SKILL.md
-folder_url: https://github.com/indranilbanerjee/digital-marketing-pro/tree/main/skills/launch-ad-campaign
-repo: indranilbanerjee/digital-marketing-pro
-skill_dir: launch-ad-campaign
+display_name: Launch Ad Campaign
+description: 'Launch paid ad campaigns. Use when: deploying ads on Google, Meta, LinkedIn, or TikTok with targeting and safeguards.'
+authors:
+- indranilbanerjee
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/launch-ad-campaign
+  repo: indranilbanerjee/digital-marketing-pro
+metadata: {}
 added_at: '2026-06-05'

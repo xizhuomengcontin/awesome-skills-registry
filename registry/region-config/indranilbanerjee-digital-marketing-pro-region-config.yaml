@@ -1,8 +1,13 @@
 id: indranilbanerjee-digital-marketing-pro-region-config
-description: 'Configure regional settings. Use when: setting timezone, language, compliance
-  rules, currency, or local preferences.'
-url: https://raw.githubusercontent.com/indranilbanerjee/digital-marketing-pro/main/skills/region-config/SKILL.md
-folder_url: https://github.com/indranilbanerjee/digital-marketing-pro/tree/main/skills/region-config
-repo: indranilbanerjee/digital-marketing-pro
-skill_dir: region-config
+display_name: Region Config
+description: 'Configure regional settings. Use when: setting timezone, language, compliance rules, currency, or local preferences.'
+authors:
+- indranilbanerjee
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/region-config
+  repo: indranilbanerjee/digital-marketing-pro
+metadata: {}
 added_at: '2026-06-05'

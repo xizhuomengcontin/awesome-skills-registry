@@ -1,8 +1,14 @@
 id: indranilbanerjee-digital-marketing-pro-local-seo-audit
-description: 'Audit local SEO health. Use when: reviewing GBP optimization, NAP consistency,
-  local citations, or local pack rankings.'
-url: https://raw.githubusercontent.com/indranilbanerjee/digital-marketing-pro/main/skills/local-seo-audit/SKILL.md
-folder_url: https://github.com/indranilbanerjee/digital-marketing-pro/tree/main/skills/local-seo-audit
-repo: indranilbanerjee/digital-marketing-pro
-skill_dir: local-seo-audit
+display_name: Local Seo Audit
+description: 'Audit local SEO health. Use when: reviewing GBP optimization, NAP consistency, local citations, or local pack
+  rankings.'
+authors:
+- indranilbanerjee
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/local-seo-audit
+  repo: indranilbanerjee/digital-marketing-pro
+metadata: {}
 added_at: '2026-06-05'

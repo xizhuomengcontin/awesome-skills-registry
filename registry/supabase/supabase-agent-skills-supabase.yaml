@@ -1,12 +1,16 @@
 id: supabase-agent-skills-supabase
-description: 'Use when doing ANY task involving Supabase. Triggers: Supabase products
-  (Database, Auth, Edge Functions, Realtime, Storage, Vectors, Cron, Queues); client
-  libraries and SSR integrations (supabase-js, @supabase/ssr) in Next.js, React, SvelteKit,
-  Astro, Remix; auth issues (login, logout, sessions, JWT, cookies, getSession, getUser,
-  getClaims, RLS); Supabase CLI or MCP server; schema changes, migrations, security
-  audits, Postgres extensions (pg_graphql, pg_cron, pg_vector).'
-url: https://raw.githubusercontent.com/supabase/agent-skills/main/skills/supabase/SKILL.md
-folder_url: https://github.com/supabase/agent-skills/tree/main/skills/supabase
-repo: supabase/agent-skills
-skill_dir: supabase
+display_name: Supabase
+description: 'Use when doing ANY task involving Supabase. Triggers: Supabase products (Database, Auth, Edge Functions, Realtime,
+  Storage, Vectors, Cron, Queues); client libraries and SSR integrations (supabase-js, @supabase/ssr) in Next.js, React, SvelteKit,
+  Astro, Remix; auth issues (login, logout, sessions, JWT, cookies, getSession, getUser, getClaims, RLS); Supabase CLI or
+  MCP server; schema changes, migrations, security audits, Postgres extensions (pg_graphql, pg_cron, pg_vector).'
+authors:
+- supabase
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/supabase
+  repo: supabase/agent-skills
+metadata: {}
 added_at: '2026-06-05'

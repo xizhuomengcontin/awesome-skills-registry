@@ -1,10 +1,15 @@
 id: makenotion-claude-code-notion-plugin-knowledge-capture
-description: Transforms conversations and discussions into structured documentation
-  pages in Notion. Captures insights, decisions, and knowledge from chat context,
-  formats appropriately, and saves to wikis or databases with proper organization
-  and linking for easy discovery.
-url: https://raw.githubusercontent.com/makenotion/claude-code-notion-plugin/main/skills/notion/knowledge-capture/SKILL.md
-folder_url: https://github.com/makenotion/claude-code-notion-plugin/tree/main/skills/notion/knowledge-capture
-repo: makenotion/claude-code-notion-plugin
-skill_dir: knowledge-capture
+display_name: Knowledge Capture
+description: Transforms conversations and discussions into structured documentation pages in Notion. Captures insights, decisions,
+  and knowledge from chat context, formats appropriately, and saves to wikis or databases with proper organization and linking
+  for easy discovery.
+authors:
+- makenotion
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/notion/knowledge-capture
+  repo: makenotion/claude-code-notion-plugin
+metadata: {}
 added_at: '2026-06-05'

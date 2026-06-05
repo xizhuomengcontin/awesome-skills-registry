@@ -1,9 +1,14 @@
 id: bitwize-music-studio-claude-ai-music-skills-researchers-verifier
-description: Performs quality control, citation validation, and fact-checking before
-  human review. Use after research is complete to verify all sources and claims before
-  production.
-url: https://raw.githubusercontent.com/bitwize-music-studio/claude-ai-music-skills/main/skills/researchers-verifier/SKILL.md
-folder_url: https://github.com/bitwize-music-studio/claude-ai-music-skills/tree/main/skills/researchers-verifier
-repo: bitwize-music-studio/claude-ai-music-skills
-skill_dir: researchers-verifier
+display_name: Researchers Verifier
+description: Performs quality control, citation validation, and fact-checking before human review. Use after research is complete
+  to verify all sources and claims before production.
+authors:
+- bitwize-music-studio
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/researchers-verifier
+  repo: bitwize-music-studio/claude-ai-music-skills
+metadata: {}
 added_at: '2026-06-05'

@@ -1,11 +1,16 @@
 id: tech-leads-club-agent-skills-sentry
-description: Inspect Sentry issues, summarize production errors, and pull health data
-  via the Sentry API (read-only). Use when user says "check Sentry", "what errors
-  in production?", "summarize Sentry issues", "recent crashes", or "production error
-  report". Requires SENTRY_AUTH_TOKEN. Do NOT use for setting up Sentry SDK, configuring
-  alerts, or non-Sentry error monitoring.
-url: https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(monitoring)/sentry/SKILL.md
-folder_url: https://github.com/tech-leads-club/agent-skills/tree/main/packages/skills-catalog/skills/(monitoring)/sentry
-repo: tech-leads-club/agent-skills
-skill_dir: sentry
+display_name: Sentry
+description: Inspect Sentry issues, summarize production errors, and pull health data via the Sentry API (read-only). Use
+  when user says "check Sentry", "what errors in production?", "summarize Sentry issues", "recent crashes", or "production
+  error report". Requires SENTRY_AUTH_TOKEN. Do NOT use for setting up Sentry SDK, configuring alerts, or non-Sentry error
+  monitoring.
+authors:
+- tech-leads-club
+is_official: false
+tags: []
+category: none
+source:
+  path: /packages/skills-catalog/skills/(monitoring)/sentry
+  repo: tech-leads-club/agent-skills
+metadata: {}
 added_at: '2026-06-05'

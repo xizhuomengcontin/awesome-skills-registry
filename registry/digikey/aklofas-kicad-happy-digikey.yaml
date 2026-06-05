@@ -1,17 +1,20 @@
 id: aklofas-kicad-happy-digikey
-description: "Search DigiKey for electronic components and download datasheets \u2014\
-  \ primary source for prototype orders and the preferred API method for fetching\
-  \ datasheets. Find parts by keyword or MPN, check pricing/stock, download datasheets\
-  \ via API, analyze specifications. Sync and maintain a local datasheets directory\
-  \ \u2014 extract components from schematics, download missing datasheets, keep them\
-  \ up to date. Also supports batch MPN-list seeding (`--mpn-list`) for bulk workflows\
-  \ without a KiCad project. Use when the user asks about electronic components, part\
-  \ specs, datasheets, pricing, stock, footprints, or needs to download a datasheet\
-  \ \u2014 even without mentioning \"DigiKey\". Also for \"sync datasheets\", \"download\
-  \ datasheets for my board/project\", or mentions a datasheets directory. DigiKey\
-  \ is the default distributor for prototyping. For BOM workflows, see the bom skill."
-url: https://raw.githubusercontent.com/aklofas/kicad-happy/main/skills/digikey/SKILL.md
-folder_url: https://github.com/aklofas/kicad-happy/tree/main/skills/digikey
-repo: aklofas/kicad-happy
-skill_dir: digikey
+display_name: Digikey
+description: Search DigiKey for electronic components and download datasheets — primary source for prototype orders and the
+  preferred API method for fetching datasheets. Find parts by keyword or MPN, check pricing/stock, download datasheets via
+  API, analyze specifications. Sync and maintain a local datasheets directory — extract components from schematics, download
+  missing datasheets, keep them up to date. Also supports batch MPN-list seeding (`--mpn-list`) for bulk workflows without
+  a KiCad project. Use when the user asks about electronic components, part specs, datasheets, pricing, stock, footprints,
+  or needs to download a datasheet — even without mentioning "DigiKey". Also for "sync datasheets", "download datasheets for
+  my board/project", or mentions a datasheets directory. DigiKey is the default distributor for prototyping. For BOM workflows,
+  see the bom skill.
+authors:
+- aklofas
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/digikey
+  repo: aklofas/kicad-happy
+metadata: {}
 added_at: '2026-06-05'

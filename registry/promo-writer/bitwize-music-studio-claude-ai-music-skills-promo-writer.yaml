@@ -1,8 +1,14 @@
 id: bitwize-music-studio-claude-ai-music-skills-promo-writer
-description: Generates platform-specific social media copy from album themes, track
-  concepts, and lyrics. Use when promo/ templates need to be populated before release.
-url: https://raw.githubusercontent.com/bitwize-music-studio/claude-ai-music-skills/main/skills/promo-writer/SKILL.md
-folder_url: https://github.com/bitwize-music-studio/claude-ai-music-skills/tree/main/skills/promo-writer
-repo: bitwize-music-studio/claude-ai-music-skills
-skill_dir: promo-writer
+display_name: Promo Writer
+description: Generates platform-specific social media copy from album themes, track concepts, and lyrics. Use when promo/
+  templates need to be populated before release.
+authors:
+- bitwize-music-studio
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/promo-writer
+  repo: bitwize-music-studio/claude-ai-music-skills
+metadata: {}
 added_at: '2026-06-05'

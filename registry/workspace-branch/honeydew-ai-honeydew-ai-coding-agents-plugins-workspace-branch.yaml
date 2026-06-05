@@ -1,12 +1,16 @@
 id: honeydew-ai-honeydew-ai-coding-agents-plugins-workspace-branch
-description: Use when setting up workspace and branch context, switching workspaces
-  or branches, creating or deleting branches, reviewing branch history, or creating
-  a pull request for a working branch. This skill should be used when the user asks
-  to "list workspaces", "switch workspace", "create a branch", "delete a branch",
-  "switch branch", "show branch history", "create a PR", or "open a pull request"
-  in Honeydew.
-url: https://raw.githubusercontent.com/honeydew-ai/honeydew-ai-coding-agents-plugins/main/skills/workspace-branch/SKILL.md
-folder_url: https://github.com/honeydew-ai/honeydew-ai-coding-agents-plugins/tree/main/skills/workspace-branch
-repo: honeydew-ai/honeydew-ai-coding-agents-plugins
-skill_dir: workspace-branch
+display_name: Workspace Branch
+description: Use when setting up workspace and branch context, switching workspaces or branches, creating or deleting branches,
+  reviewing branch history, or creating a pull request for a working branch. This skill should be used when the user asks
+  to "list workspaces", "switch workspace", "create a branch", "delete a branch", "switch branch", "show branch history",
+  "create a PR", or "open a pull request" in Honeydew.
+authors:
+- honeydew-ai
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/workspace-branch
+  repo: honeydew-ai/honeydew-ai-coding-agents-plugins
+metadata: {}
 added_at: '2026-06-05'

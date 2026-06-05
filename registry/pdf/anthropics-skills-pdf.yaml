@@ -1,12 +1,16 @@
 id: anthropics-skills-pdf
-description: Use this skill whenever the user wants to do anything with PDF files.
-  This includes reading or extracting text/tables from PDFs, combining or merging
-  multiple PDFs into one, splitting PDFs apart, rotating pages, adding watermarks,
-  creating new PDFs, filling PDF forms, encrypting/decrypting PDFs, extracting images,
-  and OCR on scanned PDFs to make them searchable. If the user mentions a .pdf file
-  or asks to produce one, use this skill.
-url: https://raw.githubusercontent.com/anthropics/skills/main/skills/pdf/SKILL.md
-folder_url: https://github.com/anthropics/skills/tree/main/skills/pdf
-repo: anthropics/skills
-skill_dir: pdf
+display_name: Pdf
+description: Use this skill whenever the user wants to do anything with PDF files. This includes reading or extracting text/tables
+  from PDFs, combining or merging multiple PDFs into one, splitting PDFs apart, rotating pages, adding watermarks, creating
+  new PDFs, filling PDF forms, encrypting/decrypting PDFs, extracting images, and OCR on scanned PDFs to make them searchable.
+  If the user mentions a .pdf file or asks to produce one, use this skill.
+authors:
+- anthropics
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/pdf
+  repo: anthropics/skills
+metadata: {}
 added_at: '2026-06-05'

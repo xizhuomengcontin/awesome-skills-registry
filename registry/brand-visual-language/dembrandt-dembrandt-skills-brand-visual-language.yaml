@@ -1,11 +1,15 @@
 id: dembrandt-dembrandt-skills-brand-visual-language
-description: "A brand's visual tone \u2014 playful or serious, rounded or angular\
-  \ \u2014 should be consistent across all UI elements. Shape language in typography,\
-  \ border-radius, and iconography communicates personality before a single word is\
-  \ read. Use when establishing a design system, choosing icon libraries, setting\
-  \ border-radius tokens, or reviewing visual consistency."
-url: https://raw.githubusercontent.com/dembrandt/dembrandt-skills/main/skills/brand-visual-language/SKILL.md
-folder_url: https://github.com/dembrandt/dembrandt-skills/tree/main/skills/brand-visual-language
-repo: dembrandt/dembrandt-skills
-skill_dir: brand-visual-language
+display_name: Brand Visual Language
+description: A brand's visual tone — playful or serious, rounded or angular — should be consistent across all UI elements.
+  Shape language in typography, border-radius, and iconography communicates personality before a single word is read. Use
+  when establishing a design system, choosing icon libraries, setting border-radius tokens, or reviewing visual consistency.
+authors:
+- dembrandt
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/brand-visual-language
+  repo: dembrandt/dembrandt-skills
+metadata: {}
 added_at: '2026-06-05'

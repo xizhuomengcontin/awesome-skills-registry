@@ -1,8 +1,14 @@
 id: deanpeters-Product-Manager-Skills-user-story-mapping
-description: Create a user story map that lays out activities, steps, tasks, and release
-  slices. Use when planning a workflow, backlog, or MVP around the user journey.
-url: https://raw.githubusercontent.com/deanpeters/Product-Manager-Skills/main/skills/user-story-mapping/SKILL.md
-folder_url: https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/user-story-mapping
-repo: deanpeters/Product-Manager-Skills
-skill_dir: user-story-mapping
+display_name: User Story Mapping
+description: Create a user story map that lays out activities, steps, tasks, and release slices. Use when planning a workflow,
+  backlog, or MVP around the user journey.
+authors:
+- deanpeters
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/user-story-mapping
+  repo: deanpeters/Product-Manager-Skills
+metadata: {}
 added_at: '2026-06-05'

@@ -1,8 +1,14 @@
 id: indranilbanerjee-digital-marketing-pro-autopilot-status
-description: 'Check campaign autopilot status. Use when: health scores, auto-corrections,
-  guardrail review, campaigns needing attention.'
-url: https://raw.githubusercontent.com/indranilbanerjee/digital-marketing-pro/main/skills/autopilot-status/SKILL.md
-folder_url: https://github.com/indranilbanerjee/digital-marketing-pro/tree/main/skills/autopilot-status
-repo: indranilbanerjee/digital-marketing-pro
-skill_dir: autopilot-status
+display_name: Autopilot Status
+description: 'Check campaign autopilot status. Use when: health scores, auto-corrections, guardrail review, campaigns needing
+  attention.'
+authors:
+- indranilbanerjee
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/autopilot-status
+  repo: indranilbanerjee/digital-marketing-pro
+metadata: {}
 added_at: '2026-06-05'

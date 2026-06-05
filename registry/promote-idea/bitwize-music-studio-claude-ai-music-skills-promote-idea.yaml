@@ -1,9 +1,14 @@
 id: bitwize-music-studio-claude-ai-music-skills-promote-idea
-description: Converts an album idea from IDEAS.md into an actual album project in
-  one step. Use when the user says "promote [idea title]", "turn idea into album",
-  or "start working on [idea]".
-url: https://raw.githubusercontent.com/bitwize-music-studio/claude-ai-music-skills/main/skills/promote-idea/SKILL.md
-folder_url: https://github.com/bitwize-music-studio/claude-ai-music-skills/tree/main/skills/promote-idea
-repo: bitwize-music-studio/claude-ai-music-skills
-skill_dir: promote-idea
+display_name: Promote Idea
+description: Converts an album idea from IDEAS.md into an actual album project in one step. Use when the user says "promote
+  [idea title]", "turn idea into album", or "start working on [idea]".
+authors:
+- bitwize-music-studio
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/promote-idea
+  repo: bitwize-music-studio/claude-ai-music-skills
+metadata: {}
 added_at: '2026-06-05'

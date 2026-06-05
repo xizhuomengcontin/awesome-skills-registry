@@ -1,8 +1,14 @@
 id: indranilbanerjee-digital-marketing-pro-pricing-test
-description: 'Test pricing strategies with synthetic data. Use when: simulating willingness
-  to pay, price sensitivity, or optimal price points.'
-url: https://raw.githubusercontent.com/indranilbanerjee/digital-marketing-pro/main/skills/pricing-test/SKILL.md
-folder_url: https://github.com/indranilbanerjee/digital-marketing-pro/tree/main/skills/pricing-test
-repo: indranilbanerjee/digital-marketing-pro
-skill_dir: pricing-test
+display_name: Pricing Test
+description: 'Test pricing strategies with synthetic data. Use when: simulating willingness to pay, price sensitivity, or
+  optimal price points.'
+authors:
+- indranilbanerjee
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/pricing-test
+  repo: indranilbanerjee/digital-marketing-pro
+metadata: {}
 added_at: '2026-06-05'

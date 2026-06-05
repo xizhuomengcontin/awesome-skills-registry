@@ -1,12 +1,16 @@
 id: dembrandt-dembrandt-skills-data-display-and-selection
-description: "Complex data deserves multiple view modes \u2014 grid, list, table \u2014\
-  \ chosen by the user based on their task. Row and item selection should use large\
-  \ hit areas (the whole row or card, not just a checkbox). Selected state is communicated\
-  \ through a subtle background colour shift. Mass actions appear when items are selected.\
-  \ Use when designing data tables, product listings, file browsers, or any multi-item\
-  \ collection."
-url: https://raw.githubusercontent.com/dembrandt/dembrandt-skills/main/skills/data-display-and-selection/SKILL.md
-folder_url: https://github.com/dembrandt/dembrandt-skills/tree/main/skills/data-display-and-selection
-repo: dembrandt/dembrandt-skills
-skill_dir: data-display-and-selection
+display_name: Data Display And Selection
+description: Complex data deserves multiple view modes — grid, list, table — chosen by the user based on their task. Row and
+  item selection should use large hit areas (the whole row or card, not just a checkbox). Selected state is communicated through
+  a subtle background colour shift. Mass actions appear when items are selected. Use when designing data tables, product listings,
+  file browsers, or any multi-item collection.
+authors:
+- dembrandt
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/data-display-and-selection
+  repo: dembrandt/dembrandt-skills
+metadata: {}
 added_at: '2026-06-05'

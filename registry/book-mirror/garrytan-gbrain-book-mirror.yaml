@@ -1,10 +1,15 @@
 id: garrytan-gbrain-book-mirror
-description: Take any book (EPUB/PDF), produce a personalized chapter-by-chapter analysis
-  with two-column tables. Left column preserves the chapter content; right column
-  maps every idea to the reader's actual life using brain context. Output is a single
-  brain page at media/books/<slug>-personalized.md plus an optional PDF via brain-pdf.
-url: https://raw.githubusercontent.com/garrytan/gbrain/master/skills/book-mirror/SKILL.md
-folder_url: https://github.com/garrytan/gbrain/tree/master/skills/book-mirror
-repo: garrytan/gbrain
-skill_dir: book-mirror
+display_name: Book Mirror
+description: Take any book (EPUB/PDF), produce a personalized chapter-by-chapter analysis with two-column tables. Left column
+  preserves the chapter content; right column maps every idea to the reader's actual life using brain context. Output is a
+  single brain page at media/books/<slug>-personalized.md plus an optional PDF via brain-pdf.
+authors:
+- garrytan
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/book-mirror
+  repo: garrytan/gbrain
+metadata: {}
 added_at: '2026-06-05'

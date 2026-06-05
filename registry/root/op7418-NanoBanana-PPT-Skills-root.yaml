@@ -1,7 +1,13 @@
 id: op7418-NanoBanana-PPT-Skills-root
-description: "- **Skill \u540D\u79F0**: ppt-generator-pro"
-url: https://raw.githubusercontent.com/op7418/NanoBanana-PPT-Skills/main/SKILL.md
-folder_url: https://github.com/op7418/NanoBanana-PPT-Skills/tree/main
-repo: op7418/NanoBanana-PPT-Skills
-skill_dir: root
+display_name: Root
+description: '- **Skill 名称**: ppt-generator-pro'
+authors:
+- op7418
+is_official: false
+tags: []
+category: none
+source:
+  path: /
+  repo: op7418/NanoBanana-PPT-Skills
+metadata: {}
 added_at: '2026-06-05'

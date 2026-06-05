@@ -1,12 +1,16 @@
 id: cloudflare-skills-web-perf
-description: Analyzes web performance using Chrome DevTools MCP. Measures Core Web
-  Vitals (LCP, INP, CLS) and supplementary metrics (FCP, TBT, Speed Index), identifies
-  render-blocking resources, network dependency chains, layout shifts, caching issues,
-  and accessibility gaps. Use when asked to audit, profile, debug, or optimize page
-  load performance, Lighthouse scores, or site speed. Biases towards retrieval from
-  current documentation over pre-trained knowledge.
-url: https://raw.githubusercontent.com/cloudflare/skills/main/skills/web-perf/SKILL.md
-folder_url: https://github.com/cloudflare/skills/tree/main/skills/web-perf
-repo: cloudflare/skills
-skill_dir: web-perf
+display_name: Web Perf
+description: Analyzes web performance using Chrome DevTools MCP. Measures Core Web Vitals (LCP, INP, CLS) and supplementary
+  metrics (FCP, TBT, Speed Index), identifies render-blocking resources, network dependency chains, layout shifts, caching
+  issues, and accessibility gaps. Use when asked to audit, profile, debug, or optimize page load performance, Lighthouse scores,
+  or site speed. Biases towards retrieval from current documentation over pre-trained knowledge.
+authors:
+- cloudflare
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/web-perf
+  repo: cloudflare/skills
+metadata: {}
 added_at: '2026-06-05'

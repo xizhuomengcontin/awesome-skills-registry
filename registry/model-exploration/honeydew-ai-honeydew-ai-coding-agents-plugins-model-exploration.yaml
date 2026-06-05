@@ -1,10 +1,15 @@
 id: honeydew-ai-honeydew-ai-coding-agents-plugins-model-exploration
-description: Use when exploring Honeydew semantic layer, discovering entities/fields,
-  setting up workspace and branch context, or running simple structured queries to
-  inspect data. For analysis questions use the query skill. For creating metrics use
+display_name: Model Exploration
+description: Use when exploring Honeydew semantic layer, discovering entities/fields, setting up workspace and branch context,
+  or running simple structured queries to inspect data. For analysis questions use the query skill. For creating metrics use
   metric-creation skill. For creating attributes use attribute-creation skill.
-url: https://raw.githubusercontent.com/honeydew-ai/honeydew-ai-coding-agents-plugins/main/skills/model-exploration/SKILL.md
-folder_url: https://github.com/honeydew-ai/honeydew-ai-coding-agents-plugins/tree/main/skills/model-exploration
-repo: honeydew-ai/honeydew-ai-coding-agents-plugins
-skill_dir: model-exploration
+authors:
+- honeydew-ai
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/model-exploration
+  repo: honeydew-ai/honeydew-ai-coding-agents-plugins
+metadata: {}
 added_at: '2026-06-05'

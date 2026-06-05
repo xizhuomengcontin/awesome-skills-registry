@@ -1,10 +1,15 @@
 id: makenotion-notion-cookbook-research-documentation
-description: Searches across your Notion workspace, synthesizes findings from multiple
-  pages, and creates comprehensive research documentation saved as new Notion pages.
-  Turns scattered information into structured reports with proper citations and actionable
+display_name: Research Documentation
+description: Searches across your Notion workspace, synthesizes findings from multiple pages, and creates comprehensive research
+  documentation saved as new Notion pages. Turns scattered information into structured reports with proper citations and actionable
   insights.
-url: https://raw.githubusercontent.com/makenotion/notion-cookbook/main/skills/claude/research-documentation/SKILL.md
-folder_url: https://github.com/makenotion/notion-cookbook/tree/main/skills/claude/research-documentation
-repo: makenotion/notion-cookbook
-skill_dir: research-documentation
+authors:
+- makenotion
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/claude/research-documentation
+  repo: makenotion/notion-cookbook
+metadata: {}
 added_at: '2026-06-05'

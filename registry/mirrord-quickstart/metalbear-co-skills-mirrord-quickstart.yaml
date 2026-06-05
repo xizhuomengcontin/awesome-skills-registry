@@ -1,9 +1,14 @@
 id: metalbear-co-skills-mirrord-quickstart
-description: Guide users from zero to their first working mirrord session. Use when
-  a user is new to mirrord, wants to install it, or needs help running their first
-  session connecting to a Kubernetes cluster.
-url: https://raw.githubusercontent.com/metalbear-co/skills/main/skills/mirrord-quickstart/SKILL.md
-folder_url: https://github.com/metalbear-co/skills/tree/main/skills/mirrord-quickstart
-repo: metalbear-co/skills
-skill_dir: mirrord-quickstart
+display_name: Mirrord Quickstart
+description: Guide users from zero to their first working mirrord session. Use when a user is new to mirrord, wants to install
+  it, or needs help running their first session connecting to a Kubernetes cluster.
+authors:
+- metalbear-co
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/mirrord-quickstart
+  repo: metalbear-co/skills
+metadata: {}
 added_at: '2026-06-05'

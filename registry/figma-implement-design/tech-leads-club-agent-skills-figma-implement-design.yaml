@@ -1,12 +1,16 @@
 id: tech-leads-club-agent-skills-figma-implement-design
-description: Translate Figma nodes into production-ready code with 1:1 visual fidelity
-  using the Figma MCP workflow (design context, screenshots, assets, and project-convention
-  translation). Use when the user provides Figma URLs or node IDs and asks to implement
-  designs or components that must match Figma specs. Requires a working Figma MCP
-  server connection. Do NOT use for general Figma data fetching, variable exploration,
-  or MCP troubleshooting (use figma instead).
-url: https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(design)/figma-implement-design/SKILL.md
-folder_url: https://github.com/tech-leads-club/agent-skills/tree/main/packages/skills-catalog/skills/(design)/figma-implement-design
-repo: tech-leads-club/agent-skills
-skill_dir: figma-implement-design
+display_name: Figma Implement Design
+description: Translate Figma nodes into production-ready code with 1:1 visual fidelity using the Figma MCP workflow (design
+  context, screenshots, assets, and project-convention translation). Use when the user provides Figma URLs or node IDs and
+  asks to implement designs or components that must match Figma specs. Requires a working Figma MCP server connection. Do
+  NOT use for general Figma data fetching, variable exploration, or MCP troubleshooting (use figma instead).
+authors:
+- tech-leads-club
+is_official: false
+tags: []
+category: none
+source:
+  path: /packages/skills-catalog/skills/(design)/figma-implement-design
+  repo: tech-leads-club/agent-skills
+metadata: {}
 added_at: '2026-06-05'

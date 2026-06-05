@@ -1,11 +1,15 @@
 id: Eronred-aso-skills-ua-campaign
-description: When the user wants to plan or optimize paid user acquisition campaigns.
-  Also use when the user mentions "Apple Search Ads", "user acquisition", "paid ads",
-  "UA", "ad campaign", "install campaign", "Facebook ads for apps", "TikTok ads",
-  or "cost per install". For organic growth, see aso-audit. For launch-specific UA,
-  see app-launch.
-url: https://raw.githubusercontent.com/Eronred/aso-skills/main/skills/ua-campaign/SKILL.md
-folder_url: https://github.com/Eronred/aso-skills/tree/main/skills/ua-campaign
-repo: Eronred/aso-skills
-skill_dir: ua-campaign
+display_name: Ua Campaign
+description: When the user wants to plan or optimize paid user acquisition campaigns. Also use when the user mentions "Apple
+  Search Ads", "user acquisition", "paid ads", "UA", "ad campaign", "install campaign", "Facebook ads for apps", "TikTok ads",
+  or "cost per install". For organic growth, see aso-audit. For launch-specific UA, see app-launch.
+authors:
+- Eronred
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/ua-campaign
+  repo: Eronred/aso-skills
+metadata: {}
 added_at: '2026-06-05'

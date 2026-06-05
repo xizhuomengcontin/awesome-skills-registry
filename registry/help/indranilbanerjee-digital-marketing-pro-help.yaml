@@ -1,8 +1,13 @@
 id: indranilbanerjee-digital-marketing-pro-help
-description: Show the getting started guide, available commands, examples, and help
-  for Digital Marketing Pro
-url: https://raw.githubusercontent.com/indranilbanerjee/digital-marketing-pro/main/skills/help/SKILL.md
-folder_url: https://github.com/indranilbanerjee/digital-marketing-pro/tree/main/skills/help
-repo: indranilbanerjee/digital-marketing-pro
-skill_dir: help
+display_name: Help
+description: Show the getting started guide, available commands, examples, and help for Digital Marketing Pro
+authors:
+- indranilbanerjee
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/help
+  repo: indranilbanerjee/digital-marketing-pro
+metadata: {}
 added_at: '2026-06-05'

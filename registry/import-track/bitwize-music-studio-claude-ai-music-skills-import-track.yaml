@@ -1,9 +1,14 @@
 id: bitwize-music-studio-claude-ai-music-skills-import-track
-description: Moves track markdown files to the correct album location. Use when the
-  user has track files in Downloads or other locations that need to be placed in an
-  album.
-url: https://raw.githubusercontent.com/bitwize-music-studio/claude-ai-music-skills/main/skills/import-track/SKILL.md
-folder_url: https://github.com/bitwize-music-studio/claude-ai-music-skills/tree/main/skills/import-track
-repo: bitwize-music-studio/claude-ai-music-skills
-skill_dir: import-track
+display_name: Import Track
+description: Moves track markdown files to the correct album location. Use when the user has track files in Downloads or other
+  locations that need to be placed in an album.
+authors:
+- bitwize-music-studio
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/import-track
+  repo: bitwize-music-studio/claude-ai-music-skills
+metadata: {}
 added_at: '2026-06-05'

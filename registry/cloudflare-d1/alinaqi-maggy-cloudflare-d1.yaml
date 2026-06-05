@@ -1,7 +1,13 @@
 id: alinaqi-maggy-cloudflare-d1
+display_name: Cloudflare D1
 description: Cloudflare D1 SQLite database with Workers, Drizzle ORM, migrations
-url: https://raw.githubusercontent.com/alinaqi/maggy/main/skills/cloudflare-d1/SKILL.md
-folder_url: https://github.com/alinaqi/maggy/tree/main/skills/cloudflare-d1
-repo: alinaqi/maggy
-skill_dir: cloudflare-d1
+authors:
+- alinaqi
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/cloudflare-d1
+  repo: alinaqi/maggy
+metadata: {}
 added_at: '2026-06-05'

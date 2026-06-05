@@ -1,9 +1,14 @@
 id: bitwize-music-studio-claude-ai-music-skills-album-art-director
-description: Creates visual concepts for album artwork and generates AI art prompts.
-  Use during planning for concept discussion, or after all tracks are Final for actual
-  artwork generation.
-url: https://raw.githubusercontent.com/bitwize-music-studio/claude-ai-music-skills/main/skills/album-art-director/SKILL.md
-folder_url: https://github.com/bitwize-music-studio/claude-ai-music-skills/tree/main/skills/album-art-director
-repo: bitwize-music-studio/claude-ai-music-skills
-skill_dir: album-art-director
+display_name: Album Art Director
+description: Creates visual concepts for album artwork and generates AI art prompts. Use during planning for concept discussion,
+  or after all tracks are Final for actual artwork generation.
+authors:
+- bitwize-music-studio
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/album-art-director
+  repo: bitwize-music-studio/claude-ai-music-skills
+metadata: {}
 added_at: '2026-06-05'

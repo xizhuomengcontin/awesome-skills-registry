@@ -1,8 +1,14 @@
 id: indranilbanerjee-digital-marketing-pro-crm-sync
-description: 'Sync data to CRM platforms. Use when: pushing contacts, deals, or campaigns
-  to Salesforce, HubSpot, Zoho, or Pipedrive.'
-url: https://raw.githubusercontent.com/indranilbanerjee/digital-marketing-pro/main/skills/crm-sync/SKILL.md
-folder_url: https://github.com/indranilbanerjee/digital-marketing-pro/tree/main/skills/crm-sync
-repo: indranilbanerjee/digital-marketing-pro
-skill_dir: crm-sync
+display_name: Crm Sync
+description: 'Sync data to CRM platforms. Use when: pushing contacts, deals, or campaigns to Salesforce, HubSpot, Zoho, or
+  Pipedrive.'
+authors:
+- indranilbanerjee
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/crm-sync
+  repo: indranilbanerjee/digital-marketing-pro
+metadata: {}
 added_at: '2026-06-05'

@@ -1,8 +1,14 @@
 id: bitwize-music-studio-claude-ai-music-skills-next-step
-description: Analyzes album state and recommends the optimal next action. Use when
-  the user asks "what should I do next?" or "what's left to do?"
-url: https://raw.githubusercontent.com/bitwize-music-studio/claude-ai-music-skills/main/skills/next-step/SKILL.md
-folder_url: https://github.com/bitwize-music-studio/claude-ai-music-skills/tree/main/skills/next-step
-repo: bitwize-music-studio/claude-ai-music-skills
-skill_dir: next-step
+display_name: Next Step
+description: Analyzes album state and recommends the optimal next action. Use when the user asks "what should I do next?"
+  or "what's left to do?"
+authors:
+- bitwize-music-studio
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/next-step
+  repo: bitwize-music-studio/claude-ai-music-skills
+metadata: {}
 added_at: '2026-06-05'

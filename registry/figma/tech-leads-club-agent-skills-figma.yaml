@@ -1,12 +1,16 @@
 id: tech-leads-club-agent-skills-figma
-description: Use the Figma MCP server to fetch design context, screenshots, variables,
-  and assets from Figma, and to translate Figma nodes into production code. Use when
-  a task involves Figma URLs, node IDs, design-to-code implementation, or Figma MCP
-  setup and troubleshooting. Covers general Figma data fetching and exploration. Do
-  NOT use when the goal is specifically pixel-perfect code implementation from a Figma
-  design (use figma-implement-design instead).
-url: https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(design)/figma/SKILL.md
-folder_url: https://github.com/tech-leads-club/agent-skills/tree/main/packages/skills-catalog/skills/(design)/figma
-repo: tech-leads-club/agent-skills
-skill_dir: figma
+display_name: Figma
+description: Use the Figma MCP server to fetch design context, screenshots, variables, and assets from Figma, and to translate
+  Figma nodes into production code. Use when a task involves Figma URLs, node IDs, design-to-code implementation, or Figma
+  MCP setup and troubleshooting. Covers general Figma data fetching and exploration. Do NOT use when the goal is specifically
+  pixel-perfect code implementation from a Figma design (use figma-implement-design instead).
+authors:
+- tech-leads-club
+is_official: false
+tags: []
+category: none
+source:
+  path: /packages/skills-catalog/skills/(design)/figma
+  repo: tech-leads-club/agent-skills
+metadata: {}
 added_at: '2026-06-05'

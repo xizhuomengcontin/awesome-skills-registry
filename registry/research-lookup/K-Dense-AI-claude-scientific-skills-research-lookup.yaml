@@ -1,12 +1,16 @@
 id: K-Dense-AI-claude-scientific-skills-research-lookup
-description: 'Look up current research information using parallel-cli search (primary,
-  fast web search), the Parallel Chat API (deep research), or Perplexity sonar-pro-search
-  (academic paper searches). Automatically routes queries to the best backend. Use
-  for finding papers, gathering research data, and verifying scientific information.
-  Note: query text is transmitted to api.parallel.ai (PARALLEL_API_KEY) and, for academic
-  searches, to openrouter.ai (OPENROUTER_API_KEY).'
-url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/skills/research-lookup/SKILL.md
-folder_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/research-lookup
-repo: K-Dense-AI/claude-scientific-skills
-skill_dir: research-lookup
+display_name: Research Lookup
+description: 'Look up current research information using parallel-cli search (primary, fast web search), the Parallel Chat
+  API (deep research), or Perplexity sonar-pro-search (academic paper searches). Automatically routes queries to the best
+  backend. Use for finding papers, gathering research data, and verifying scientific information. Note: query text is transmitted
+  to api.parallel.ai (PARALLEL_API_KEY) and, for academic searches, to openrouter.ai (OPENROUTER_API_KEY).'
+authors:
+- K-Dense-AI
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/research-lookup
+  repo: K-Dense-AI/claude-scientific-skills
+metadata: {}
 added_at: '2026-06-05'

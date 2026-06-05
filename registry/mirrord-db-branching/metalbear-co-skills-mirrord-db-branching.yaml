@@ -1,10 +1,15 @@
 id: metalbear-co-skills-mirrord-db-branching
-description: Helps users configure mirrord.json for database branching, enabling isolated
-  database copies for safe development and testing. Use when the user wants to set
-  up MySQL or PostgreSQL branching, configure copy modes, IAM authentication, or manage
-  database branches.
-url: https://raw.githubusercontent.com/metalbear-co/skills/main/skills/mirrord-db-branching/SKILL.md
-folder_url: https://github.com/metalbear-co/skills/tree/main/skills/mirrord-db-branching
-repo: metalbear-co/skills
-skill_dir: mirrord-db-branching
+display_name: Mirrord Db Branching
+description: Helps users configure mirrord.json for database branching, enabling isolated database copies for safe development
+  and testing. Use when the user wants to set up MySQL or PostgreSQL branching, configure copy modes, IAM authentication,
+  or manage database branches.
+authors:
+- metalbear-co
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/mirrord-db-branching
+  repo: metalbear-co/skills
+metadata: {}
 added_at: '2026-06-05'

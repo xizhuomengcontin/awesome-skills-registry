@@ -1,10 +1,15 @@
 id: dembrandt-dembrandt-skills-button-states
-description: "Every interactive element needs a complete set of visual states \u2014\
-  \ rest, hover, active/pressed, focus, disabled, and loading. States should be derived\
-  \ algorithmically from the base colour, not chosen arbitrarily. Use when designing\
-  \ buttons, links, inputs, or any clickable component."
-url: https://raw.githubusercontent.com/dembrandt/dembrandt-skills/main/skills/button-states/SKILL.md
-folder_url: https://github.com/dembrandt/dembrandt-skills/tree/main/skills/button-states
-repo: dembrandt/dembrandt-skills
-skill_dir: button-states
+display_name: Button States
+description: Every interactive element needs a complete set of visual states — rest, hover, active/pressed, focus, disabled,
+  and loading. States should be derived algorithmically from the base colour, not chosen arbitrarily. Use when designing buttons,
+  links, inputs, or any clickable component.
+authors:
+- dembrandt
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/button-states
+  repo: dembrandt/dembrandt-skills
+metadata: {}
 added_at: '2026-06-05'

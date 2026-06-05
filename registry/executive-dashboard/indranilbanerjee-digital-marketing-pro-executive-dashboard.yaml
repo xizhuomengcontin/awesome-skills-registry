@@ -1,8 +1,13 @@
 id: indranilbanerjee-digital-marketing-pro-executive-dashboard
-description: 'Design executive marketing dashboards. Use when: building CMO reports,
-  board metrics, or leadership views.'
-url: https://raw.githubusercontent.com/indranilbanerjee/digital-marketing-pro/main/skills/executive-dashboard/SKILL.md
-folder_url: https://github.com/indranilbanerjee/digital-marketing-pro/tree/main/skills/executive-dashboard
-repo: indranilbanerjee/digital-marketing-pro
-skill_dir: executive-dashboard
+display_name: Executive Dashboard
+description: 'Design executive marketing dashboards. Use when: building CMO reports, board metrics, or leadership views.'
+authors:
+- indranilbanerjee
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/executive-dashboard
+  repo: indranilbanerjee/digital-marketing-pro
+metadata: {}
 added_at: '2026-06-05'

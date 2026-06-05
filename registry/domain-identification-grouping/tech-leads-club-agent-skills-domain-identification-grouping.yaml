@@ -1,11 +1,16 @@
 id: tech-leads-club-agent-skills-domain-identification-grouping
-description: Groups existing components into logical business domains to plan service-based
-  architecture. Use when asking "which components belong together?", "group these
-  into services", "organize by domain", "component-to-domain mapping", or planning
-  service extraction from an existing codebase. Do NOT use for identifying new domains
-  from scratch (use domain-analysis) or analyzing coupling (use coupling-analysis).
-url: https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(architecture)/domain-identification-grouping/SKILL.md
-folder_url: https://github.com/tech-leads-club/agent-skills/tree/main/packages/skills-catalog/skills/(architecture)/domain-identification-grouping
-repo: tech-leads-club/agent-skills
-skill_dir: domain-identification-grouping
+display_name: Domain Identification Grouping
+description: Groups existing components into logical business domains to plan service-based architecture. Use when asking
+  "which components belong together?", "group these into services", "organize by domain", "component-to-domain mapping", or
+  planning service extraction from an existing codebase. Do NOT use for identifying new domains from scratch (use domain-analysis)
+  or analyzing coupling (use coupling-analysis).
+authors:
+- tech-leads-club
+is_official: false
+tags: []
+category: none
+source:
+  path: /packages/skills-catalog/skills/(architecture)/domain-identification-grouping
+  repo: tech-leads-club/agent-skills
+metadata: {}
 added_at: '2026-06-05'

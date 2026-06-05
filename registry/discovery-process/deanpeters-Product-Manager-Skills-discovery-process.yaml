@@ -1,9 +1,14 @@
 id: deanpeters-Product-Manager-Skills-discovery-process
-description: Run a full discovery cycle from problem hypothesis to validated solution.
-  Use when a team needs a structured path through framing, interviews, synthesis,
-  and experiments.
-url: https://raw.githubusercontent.com/deanpeters/Product-Manager-Skills/main/skills/discovery-process/SKILL.md
-folder_url: https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/discovery-process
-repo: deanpeters/Product-Manager-Skills
-skill_dir: discovery-process
+display_name: Discovery Process
+description: Run a full discovery cycle from problem hypothesis to validated solution. Use when a team needs a structured
+  path through framing, interviews, synthesis, and experiments.
+authors:
+- deanpeters
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/discovery-process
+  repo: deanpeters/Product-Manager-Skills
+metadata: {}
 added_at: '2026-06-05'

@@ -1,13 +1,16 @@
 id: lawvable-awesome-legal-skills-dpia-sentinel-oliver-schmidt-prietz
-description: "GDPR Data Protection Impact Assessment (DPIA) guidance under Article\
-  \ 35 GDPR, EDPB Guidelines WP 248 rev.01, EDPB Opinion 28/2024 (AI), and national\
-  \ SA blacklists/whitelists. Triggers: \"DPIA\", \"DSFA\", \"Datenschutz-Folgenabsch\xE4\
-  tzung\", \"impact assessment\", \"Art. 35\", \"do I need a DPIA\", descriptions\
-  \ of new high-risk processing (profiling, AI, biometrics, large-scale monitoring,\
-  \ special category data), Art. 36 prior consultation questions, national blacklist/whitelist\
-  \ queries."
-url: https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/dpia-sentinel-oliver-schmidt-prietz/SKILL.md
-folder_url: https://github.com/lawvable/awesome-legal-skills/tree/main/skills/dpia-sentinel-oliver-schmidt-prietz
-repo: lawvable/awesome-legal-skills
-skill_dir: dpia-sentinel-oliver-schmidt-prietz
+display_name: Dpia Sentinel Oliver Schmidt Prietz
+description: 'GDPR Data Protection Impact Assessment (DPIA) guidance under Article 35 GDPR, EDPB Guidelines WP 248 rev.01,
+  EDPB Opinion 28/2024 (AI), and national SA blacklists/whitelists. Triggers: "DPIA", "DSFA", "Datenschutz-Folgenabschätzung",
+  "impact assessment", "Art. 35", "do I need a DPIA", descriptions of new high-risk processing (profiling, AI, biometrics,
+  large-scale monitoring, special category data), Art. 36 prior consultation questions, national blacklist/whitelist queries.'
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/dpia-sentinel-oliver-schmidt-prietz
+  repo: lawvable/awesome-legal-skills
+metadata: {}
 added_at: '2026-06-05'

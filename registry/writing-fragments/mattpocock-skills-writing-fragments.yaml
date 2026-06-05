@@ -1,11 +1,15 @@
 id: mattpocock-skills-writing-fragments
-description: "Grilling session that mines the user for fragments \u2014 heterogeneous\
-  \ nuggets of writing (claims, vignettes, sharp sentences, half-thoughts) \u2014\
-  \ and appends them to a single document as raw material for a future article. Use\
-  \ when the user wants to develop ideas before imposing structure, or mentions \"\
-  fragments\", \"ideate\", or \"raw material\" for writing."
-url: https://raw.githubusercontent.com/mattpocock/skills/main/skills/in-progress/writing-fragments/SKILL.md
-folder_url: https://github.com/mattpocock/skills/tree/main/skills/in-progress/writing-fragments
-repo: mattpocock/skills
-skill_dir: writing-fragments
+display_name: Writing Fragments
+description: Grilling session that mines the user for fragments — heterogeneous nuggets of writing (claims, vignettes, sharp
+  sentences, half-thoughts) — and appends them to a single document as raw material for a future article. Use when the user
+  wants to develop ideas before imposing structure, or mentions "fragments", "ideate", or "raw material" for writing.
+authors:
+- mattpocock
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/in-progress/writing-fragments
+  repo: mattpocock/skills
+metadata: {}
 added_at: '2026-06-05'

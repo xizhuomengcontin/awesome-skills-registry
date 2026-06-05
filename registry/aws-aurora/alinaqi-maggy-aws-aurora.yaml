@@ -1,7 +1,13 @@
 id: alinaqi-maggy-aws-aurora
+display_name: Aws Aurora
 description: AWS Aurora Serverless v2, RDS Proxy, Data API, connection pooling
-url: https://raw.githubusercontent.com/alinaqi/maggy/main/skills/aws-aurora/SKILL.md
-folder_url: https://github.com/alinaqi/maggy/tree/main/skills/aws-aurora
-repo: alinaqi/maggy
-skill_dir: aws-aurora
+authors:
+- alinaqi
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/aws-aurora
+  repo: alinaqi/maggy
+metadata: {}
 added_at: '2026-06-05'

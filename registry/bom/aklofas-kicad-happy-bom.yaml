@@ -1,18 +1,20 @@
 id: aklofas-kicad-happy-bom
-description: "BOM (Bill of Materials) management for electronics projects \u2014 the\
-  \ primary orchestrator skill that coordinates DigiKey, Mouser, LCSC, element14,\
-  \ JLCPCB, PCBWay, and KiCad skills into a unified workflow. Create, update, and\
-  \ maintain BOMs with part numbers, costs, quantities stored as KiCad symbol properties.\
-  \ ALWAYS trigger this skill for any task involving component sourcing, pricing,\
-  \ ordering, distributor searches, BOM export, or fabrication preparation \u2014\
-  \ even if the user names a specific distributor or fab house (e.g. \"search DigiKey\
-  \ for...\", \"generate JLCPCB BOM\", \"order from Mouser\"). This skill decides\
-  \ which distributor/fab skills to invoke and in what order. Also trigger on phrases\
-  \ like \"what parts do I need\", \"order components\", \"how much will this cost\"\
-  , \"export for JLCPCB\", \"find parts for this board\", \"cost estimate\", \"compare\
-  \ pricing\", or \"check stock\"."
-url: https://raw.githubusercontent.com/aklofas/kicad-happy/main/skills/bom/SKILL.md
-folder_url: https://github.com/aklofas/kicad-happy/tree/main/skills/bom
-repo: aklofas/kicad-happy
-skill_dir: bom
+display_name: Bom
+description: BOM (Bill of Materials) management for electronics projects — the primary orchestrator skill that coordinates
+  DigiKey, Mouser, LCSC, element14, JLCPCB, PCBWay, and KiCad skills into a unified workflow. Create, update, and maintain
+  BOMs with part numbers, costs, quantities stored as KiCad symbol properties. ALWAYS trigger this skill for any task involving
+  component sourcing, pricing, ordering, distributor searches, BOM export, or fabrication preparation — even if the user names
+  a specific distributor or fab house (e.g. "search DigiKey for...", "generate JLCPCB BOM", "order from Mouser"). This skill
+  decides which distributor/fab skills to invoke and in what order. Also trigger on phrases like "what parts do I need", "order
+  components", "how much will this cost", "export for JLCPCB", "find parts for this board", "cost estimate", "compare pricing",
+  or "check stock".
+authors:
+- aklofas
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/bom
+  repo: aklofas/kicad-happy
+metadata: {}
 added_at: '2026-06-05'

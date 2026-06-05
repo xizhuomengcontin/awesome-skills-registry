@@ -1,12 +1,16 @@
 id: K-Dense-AI-claude-scientific-skills-scikit-survival
-description: Comprehensive toolkit for survival analysis and time-to-event modeling
-  in Python using scikit-survival. Use this skill when working with censored survival
-  data, performing time-to-event analysis, fitting Cox models, Random Survival Forests,
-  Gradient Boosting models, or Survival SVMs, evaluating survival predictions with
-  concordance index or Brier score, handling competing risks, or implementing any
-  survival analysis workflow with the scikit-survival library.
-url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/skills/scikit-survival/SKILL.md
-folder_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/scikit-survival
-repo: K-Dense-AI/claude-scientific-skills
-skill_dir: scikit-survival
+display_name: Scikit Survival
+description: Comprehensive toolkit for survival analysis and time-to-event modeling in Python using scikit-survival. Use this
+  skill when working with censored survival data, performing time-to-event analysis, fitting Cox models, Random Survival Forests,
+  Gradient Boosting models, or Survival SVMs, evaluating survival predictions with concordance index or Brier score, handling
+  competing risks, or implementing any survival analysis workflow with the scikit-survival library.
+authors:
+- K-Dense-AI
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/scikit-survival
+  repo: K-Dense-AI/claude-scientific-skills
+metadata: {}
 added_at: '2026-06-05'

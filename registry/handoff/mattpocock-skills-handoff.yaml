@@ -1,8 +1,13 @@
 id: mattpocock-skills-handoff
-description: Compact the current conversation into a handoff document for another
-  agent to pick up.
-url: https://raw.githubusercontent.com/mattpocock/skills/main/skills/productivity/handoff/SKILL.md
-folder_url: https://github.com/mattpocock/skills/tree/main/skills/productivity/handoff
-repo: mattpocock/skills
-skill_dir: handoff
+display_name: Handoff
+description: Compact the current conversation into a handoff document for another agent to pick up.
+authors:
+- mattpocock
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/productivity/handoff
+  repo: mattpocock/skills
+metadata: {}
 added_at: '2026-06-05'

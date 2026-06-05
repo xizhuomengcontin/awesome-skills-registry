@@ -1,13 +1,17 @@
 id: tech-leads-club-agent-skills-gtm-engineering
-description: When the user wants to build GTM automation with code, design workflow
-  architectures, use AI agents for GTM tasks, or implement the 'architecture over
-  tools' principle. Also use when the user mentions 'GTM engineering,' 'GTM automation,'
-  'n8n,' 'Make,' 'Zapier,' 'workflow automation,' 'Clay API,' 'instruction stacks,'
-  'AI agents for GTM,' or 'revenue automation.' This skill covers technical GTM infrastructure
-  from workflow design through agent orchestration. Do NOT use for technical implementation,
-  code review, or software architecture.
-url: https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(gtm)/gtm-engineering/SKILL.md
-folder_url: https://github.com/tech-leads-club/agent-skills/tree/main/packages/skills-catalog/skills/(gtm)/gtm-engineering
-repo: tech-leads-club/agent-skills
-skill_dir: gtm-engineering
+display_name: Gtm Engineering
+description: When the user wants to build GTM automation with code, design workflow architectures, use AI agents for GTM tasks,
+  or implement the 'architecture over tools' principle. Also use when the user mentions 'GTM engineering,' 'GTM automation,'
+  'n8n,' 'Make,' 'Zapier,' 'workflow automation,' 'Clay API,' 'instruction stacks,' 'AI agents for GTM,' or 'revenue automation.'
+  This skill covers technical GTM infrastructure from workflow design through agent orchestration. Do NOT use for technical
+  implementation, code review, or software architecture.
+authors:
+- tech-leads-club
+is_official: false
+tags: []
+category: none
+source:
+  path: /packages/skills-catalog/skills/(gtm)/gtm-engineering
+  repo: tech-leads-club/agent-skills
+metadata: {}
 added_at: '2026-06-05'

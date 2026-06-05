@@ -1,8 +1,13 @@
 id: indranilbanerjee-digital-marketing-pro-funnel-architect
-description: 'Design marketing funnels. Use when: mapping customer journeys, attribution
-  modeling, or conversion paths.'
-url: https://raw.githubusercontent.com/indranilbanerjee/digital-marketing-pro/main/skills/funnel-architect/SKILL.md
-folder_url: https://github.com/indranilbanerjee/digital-marketing-pro/tree/main/skills/funnel-architect
-repo: indranilbanerjee/digital-marketing-pro
-skill_dir: funnel-architect
+display_name: Funnel Architect
+description: 'Design marketing funnels. Use when: mapping customer journeys, attribution modeling, or conversion paths.'
+authors:
+- indranilbanerjee
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/funnel-architect
+  repo: indranilbanerjee/digital-marketing-pro
+metadata: {}
 added_at: '2026-06-05'

@@ -1,10 +1,15 @@
 id: lawvable-awesome-legal-skills-politique-lanceur-alerte-malik-taiar
-description: Guide for (a) auditing an existing whistleblower system or (b) drafting
-  a compliant reporting policy from a provided template. Covers EU Directive 2019/1937,
-  the amended Sapin II law (Waserman 2022), Decree 2022-1284, CNIL guidelines, public
+display_name: Politique Lanceur Alerte Malik Taiar
+description: Guide for (a) auditing an existing whistleblower system or (b) drafting a compliant reporting policy from a provided
+  template. Covers EU Directive 2019/1937, the amended Sapin II law (Waserman 2022), Decree 2022-1284, CNIL guidelines, public
   sector requirements, and duty of vigilance.
-url: https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/politique-lanceur-alerte-malik-taiar/SKILL.md
-folder_url: https://github.com/lawvable/awesome-legal-skills/tree/main/skills/politique-lanceur-alerte-malik-taiar
-repo: lawvable/awesome-legal-skills
-skill_dir: politique-lanceur-alerte-malik-taiar
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/politique-lanceur-alerte-malik-taiar
+  repo: lawvable/awesome-legal-skills
+metadata: {}
 added_at: '2026-06-05'

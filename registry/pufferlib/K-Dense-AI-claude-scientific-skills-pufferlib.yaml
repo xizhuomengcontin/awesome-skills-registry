@@ -1,11 +1,16 @@
 id: K-Dense-AI-claude-scientific-skills-pufferlib
-description: High-performance reinforcement learning framework optimized for speed
-  and scale. Use when you need fast parallel training, vectorized environments, multi-agent
-  systems, or integration with game environments (Atari, Procgen, NetHack). Achieves
-  2-10x speedups over standard implementations. For quick prototyping or standard
-  algorithm implementations with extensive documentation, use stable-baselines3 instead.
-url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/skills/pufferlib/SKILL.md
-folder_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/pufferlib
-repo: K-Dense-AI/claude-scientific-skills
-skill_dir: pufferlib
+display_name: Pufferlib
+description: High-performance reinforcement learning framework optimized for speed and scale. Use when you need fast parallel
+  training, vectorized environments, multi-agent systems, or integration with game environments (Atari, Procgen, NetHack).
+  Achieves 2-10x speedups over standard implementations. For quick prototyping or standard algorithm implementations with
+  extensive documentation, use stable-baselines3 instead.
+authors:
+- K-Dense-AI
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/pufferlib
+  repo: K-Dense-AI/claude-scientific-skills
+metadata: {}
 added_at: '2026-06-05'

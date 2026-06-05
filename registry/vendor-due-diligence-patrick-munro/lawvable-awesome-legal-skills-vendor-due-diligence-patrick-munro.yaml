@@ -1,14 +1,18 @@
 id: lawvable-awesome-legal-skills-vendor-due-diligence-patrick-munro
-description: 'Framework for assessing IT service providers, technology vendors, and
-  third-party partners. Creates structured risk assessments across financial, operational,
-  compliance, security, and reputational dimensions with regulatory checklists (GDPR,
-  DORA, NIS2, SOX). Use when: (1) Evaluating new vendors or technology providers,
-  (2) Conducting third-party risk assessments for procurement, (3) Performing critical
-  vendor due diligence for regulatory compliance, (4) Creating vendor onboarding documentation,
-  (5) Establishing ongoing vendor monitoring processes, (6) Assessing vendor concentration
-  risk, or (7) Generating executive-level vendor risk reports.'
-url: https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/vendor-due-diligence-patrick-munro/SKILL.md
-folder_url: https://github.com/lawvable/awesome-legal-skills/tree/main/skills/vendor-due-diligence-patrick-munro
-repo: lawvable/awesome-legal-skills
-skill_dir: vendor-due-diligence-patrick-munro
+display_name: Vendor Due Diligence Patrick Munro
+description: 'Framework for assessing IT service providers, technology vendors, and third-party partners. Creates structured
+  risk assessments across financial, operational, compliance, security, and reputational dimensions with regulatory checklists
+  (GDPR, DORA, NIS2, SOX). Use when: (1) Evaluating new vendors or technology providers, (2) Conducting third-party risk assessments
+  for procurement, (3) Performing critical vendor due diligence for regulatory compliance, (4) Creating vendor onboarding
+  documentation, (5) Establishing ongoing vendor monitoring processes, (6) Assessing vendor concentration risk, or (7) Generating
+  executive-level vendor risk reports.'
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/vendor-due-diligence-patrick-munro
+  repo: lawvable/awesome-legal-skills
+metadata: {}
 added_at: '2026-06-05'

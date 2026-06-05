@@ -1,8 +1,14 @@
 id: garrytan-gbrain-query
+display_name: Query
 description: Answer questions using the brain's knowledge with 3-layer search, synthesis, and citation propagation. Use when
   the user asks a question, wants a lookup, or needs information from the brain.
-url: https://raw.githubusercontent.com/garrytan/gbrain/master/skills/query/SKILL.md
-folder_url: https://github.com/garrytan/gbrain/tree/master/skills/query
-repo: garrytan/gbrain
-skill_dir: query
+authors:
+- garrytan
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/query
+  repo: garrytan/gbrain
+metadata: {}
 added_at: '2026-06-05'

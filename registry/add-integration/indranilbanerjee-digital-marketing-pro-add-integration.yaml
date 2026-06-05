@@ -1,8 +1,13 @@
 id: indranilbanerjee-digital-marketing-pro-add-integration
-description: 'Add MCP server integrations. Use when: connecting a custom tool, API,
-  or service to the plugin via .mcp.json.'
-url: https://raw.githubusercontent.com/indranilbanerjee/digital-marketing-pro/main/skills/add-integration/SKILL.md
-folder_url: https://github.com/indranilbanerjee/digital-marketing-pro/tree/main/skills/add-integration
-repo: indranilbanerjee/digital-marketing-pro
-skill_dir: add-integration
+display_name: Add Integration
+description: 'Add MCP server integrations. Use when: connecting a custom tool, API, or service to the plugin via .mcp.json.'
+authors:
+- indranilbanerjee
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/add-integration
+  repo: indranilbanerjee/digital-marketing-pro
+metadata: {}
 added_at: '2026-06-05'

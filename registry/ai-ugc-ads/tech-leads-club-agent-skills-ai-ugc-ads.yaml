@@ -1,12 +1,16 @@
 id: tech-leads-club-agent-skills-ai-ugc-ads
-description: When the user wants to create UGC ad campaigns, recruit UGC creators,
-  generate AI UGC content, or scale with user-generated content. Also use when the
-  user mentions 'UGC,' 'user-generated content,' 'creator ads,' 'Spark Ads,' 'whitelisting,'
-  'AI UGC,' 'Arcads,' 'Creatify,' 'creator brief,' or 'UGC testing.' This skill covers
-  the UGC growth framework from creator recruitment through AI-powered scaling. Do
-  NOT use for technical implementation, code review, or software architecture.
-url: https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(gtm)/ai-ugc-ads/SKILL.md
-folder_url: https://github.com/tech-leads-club/agent-skills/tree/main/packages/skills-catalog/skills/(gtm)/ai-ugc-ads
-repo: tech-leads-club/agent-skills
-skill_dir: ai-ugc-ads
+display_name: Ai Ugc Ads
+description: When the user wants to create UGC ad campaigns, recruit UGC creators, generate AI UGC content, or scale with
+  user-generated content. Also use when the user mentions 'UGC,' 'user-generated content,' 'creator ads,' 'Spark Ads,' 'whitelisting,'
+  'AI UGC,' 'Arcads,' 'Creatify,' 'creator brief,' or 'UGC testing.' This skill covers the UGC growth framework from creator
+  recruitment through AI-powered scaling. Do NOT use for technical implementation, code review, or software architecture.
+authors:
+- tech-leads-club
+is_official: false
+tags: []
+category: none
+source:
+  path: /packages/skills-catalog/skills/(gtm)/ai-ugc-ads
+  repo: tech-leads-club/agent-skills
+metadata: {}
 added_at: '2026-06-05'

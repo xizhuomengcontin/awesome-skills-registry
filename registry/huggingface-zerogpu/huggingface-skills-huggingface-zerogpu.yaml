@@ -1,17 +1,19 @@
 id: huggingface-skills-huggingface-zerogpu
-description: "AI demos and GPU compute with Gradio Spaces and Hugging Face Spaces\
-  \ ZeroGPU. Use when writing or reviewing code that uses `@spaces.GPU`, configuring\
-  \ `python_version` or `requirements.txt` for a ZeroGPU Space, or handling ZeroGPU-specific\
-  \ code constraints \u2014 pickle-based process isolation, `gr.State` semantics across\
-  \ the worker boundary, no `torch.compile` (use AoTI instead), CUDA wheel-only builds\
-  \ (no `nvcc` at build or runtime), large vs xlarge sizing, and dynamic duration\
-  \ callables. Make sure to use this skill whenever the user mentions ZeroGPU, `@spaces.GPU`,\
-  \ or the `spaces` Python package, or hits ZeroGPU-specific code errors like `PicklingError`\
-  \ across the worker boundary, `illegal duration`, or `flash-attn` wheel-build failures\
-  \ \u2014 even when the user does not explicitly ask for ZeroGPU coding guidance.\
-  \ Trigger on `import spaces` or `@spaces.GPU` in code."
-url: https://raw.githubusercontent.com/huggingface/skills/main/skills/huggingface-zerogpu/SKILL.md
-folder_url: https://github.com/huggingface/skills/tree/main/skills/huggingface-zerogpu
-repo: huggingface/skills
-skill_dir: huggingface-zerogpu
+display_name: Huggingface Zerogpu
+description: AI demos and GPU compute with Gradio Spaces and Hugging Face Spaces ZeroGPU. Use when writing or reviewing code
+  that uses `@spaces.GPU`, configuring `python_version` or `requirements.txt` for a ZeroGPU Space, or handling ZeroGPU-specific
+  code constraints — pickle-based process isolation, `gr.State` semantics across the worker boundary, no `torch.compile` (use
+  AoTI instead), CUDA wheel-only builds (no `nvcc` at build or runtime), large vs xlarge sizing, and dynamic duration callables.
+  Make sure to use this skill whenever the user mentions ZeroGPU, `@spaces.GPU`, or the `spaces` Python package, or hits ZeroGPU-specific
+  code errors like `PicklingError` across the worker boundary, `illegal duration`, or `flash-attn` wheel-build failures —
+  even when the user does not explicitly ask for ZeroGPU coding guidance. Trigger on `import spaces` or `@spaces.GPU` in code.
+authors:
+- huggingface
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/huggingface-zerogpu
+  repo: huggingface/skills
+metadata: {}
 added_at: '2026-06-05'

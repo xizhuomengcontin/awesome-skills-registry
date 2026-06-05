@@ -1,7 +1,13 @@
 id: stripe-ai-upgrade-stripe
+display_name: Upgrade Stripe
 description: Guide for upgrading Stripe API versions and SDKs
-url: https://raw.githubusercontent.com/stripe/ai/main/skills/upgrade-stripe/SKILL.md
-folder_url: https://github.com/stripe/ai/tree/main/skills/upgrade-stripe
-repo: stripe/ai
-skill_dir: upgrade-stripe
+authors:
+- stripe
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/upgrade-stripe
+  repo: stripe/ai
+metadata: {}
 added_at: '2026-06-05'

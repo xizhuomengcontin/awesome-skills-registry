@@ -1,10 +1,15 @@
 id: HeshamFS-materials-simulation-skills-benchmark-and-mms-planner
-description: Plan verification and validation campaigns for simulation codes using
-  manufactured solutions, canonical benchmark problems, grid/time refinement, uncertainty
-  propagation, and pass/fail acceptance criteria. Use when an agent needs to prove
+display_name: Benchmark And Mms Planner
+description: Plan verification and validation campaigns for simulation codes using manufactured solutions, canonical benchmark
+  problems, grid/time refinement, uncertainty propagation, and pass/fail acceptance criteria. Use when an agent needs to prove
   a solver, model, or result is trustworthy rather than only plausible.
-url: https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/verification-validation/benchmark-and-mms-planner/SKILL.md
-folder_url: https://github.com/HeshamFS/materials-simulation-skills/tree/main/skills/verification-validation/benchmark-and-mms-planner
-repo: HeshamFS/materials-simulation-skills
-skill_dir: benchmark-and-mms-planner
+authors:
+- HeshamFS
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/verification-validation/benchmark-and-mms-planner
+  repo: HeshamFS/materials-simulation-skills
+metadata: {}
 added_at: '2026-06-05'

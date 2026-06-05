@@ -1,8 +1,14 @@
 id: indranilbanerjee-digital-marketing-pro-counter-narrative
-description: 'Build counter-narrative playbooks. Use when: competitor rebrand, new
-  category claim, aggressive campaign, price change response.'
-url: https://raw.githubusercontent.com/indranilbanerjee/digital-marketing-pro/main/skills/counter-narrative/SKILL.md
-folder_url: https://github.com/indranilbanerjee/digital-marketing-pro/tree/main/skills/counter-narrative
-repo: indranilbanerjee/digital-marketing-pro
-skill_dir: counter-narrative
+display_name: Counter Narrative
+description: 'Build counter-narrative playbooks. Use when: competitor rebrand, new category claim, aggressive campaign, price
+  change response.'
+authors:
+- indranilbanerjee
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/counter-narrative
+  repo: indranilbanerjee/digital-marketing-pro
+metadata: {}
 added_at: '2026-06-05'

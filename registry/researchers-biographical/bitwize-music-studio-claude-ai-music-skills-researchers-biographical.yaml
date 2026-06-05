@@ -1,9 +1,14 @@
 id: bitwize-music-studio-claude-ai-music-skills-researchers-biographical
-description: Researches personal backgrounds, interviews, motivations, and humanizing
-  details. Use when research needs biographical context about people involved in the
-  album's subject.
-url: https://raw.githubusercontent.com/bitwize-music-studio/claude-ai-music-skills/main/skills/researchers-biographical/SKILL.md
-folder_url: https://github.com/bitwize-music-studio/claude-ai-music-skills/tree/main/skills/researchers-biographical
-repo: bitwize-music-studio/claude-ai-music-skills
-skill_dir: researchers-biographical
+display_name: Researchers Biographical
+description: Researches personal backgrounds, interviews, motivations, and humanizing details. Use when research needs biographical
+  context about people involved in the album's subject.
+authors:
+- bitwize-music-studio
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/researchers-biographical
+  repo: bitwize-music-studio/claude-ai-music-skills
+metadata: {}
 added_at: '2026-06-05'

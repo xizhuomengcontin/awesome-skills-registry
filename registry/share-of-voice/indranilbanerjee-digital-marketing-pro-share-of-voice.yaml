@@ -1,8 +1,14 @@
 id: indranilbanerjee-digital-marketing-pro-share-of-voice
-description: 'Measure share of voice. Use when: comparing keyword visibility, SERP
-  presence, ad share, or AI citations vs competitors.'
-url: https://raw.githubusercontent.com/indranilbanerjee/digital-marketing-pro/main/skills/share-of-voice/SKILL.md
-folder_url: https://github.com/indranilbanerjee/digital-marketing-pro/tree/main/skills/share-of-voice
-repo: indranilbanerjee/digital-marketing-pro
-skill_dir: share-of-voice
+display_name: Share Of Voice
+description: 'Measure share of voice. Use when: comparing keyword visibility, SERP presence, ad share, or AI citations vs
+  competitors.'
+authors:
+- indranilbanerjee
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/share-of-voice
+  repo: indranilbanerjee/digital-marketing-pro
+metadata: {}
 added_at: '2026-06-05'

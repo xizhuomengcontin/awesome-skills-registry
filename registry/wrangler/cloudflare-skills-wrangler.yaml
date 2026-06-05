@@ -1,11 +1,15 @@
 id: cloudflare-skills-wrangler
-description: Cloudflare Workers CLI for deploying, developing, and managing Workers,
-  KV, R2, D1, Vectorize, Hyperdrive, Workers AI, Containers, Queues, Workflows, Pipelines,
-  and Secrets Store. Load before running wrangler commands to ensure correct syntax
-  and best practices. Biases towards retrieval from Cloudflare docs over pre-trained
-  knowledge.
-url: https://raw.githubusercontent.com/cloudflare/skills/main/skills/wrangler/SKILL.md
-folder_url: https://github.com/cloudflare/skills/tree/main/skills/wrangler
-repo: cloudflare/skills
-skill_dir: wrangler
+display_name: Wrangler
+description: Cloudflare Workers CLI for deploying, developing, and managing Workers, KV, R2, D1, Vectorize, Hyperdrive, Workers
+  AI, Containers, Queues, Workflows, Pipelines, and Secrets Store. Load before running wrangler commands to ensure correct
+  syntax and best practices. Biases towards retrieval from Cloudflare docs over pre-trained knowledge.
+authors:
+- cloudflare
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/wrangler
+  repo: cloudflare/skills
+metadata: {}
 added_at: '2026-06-05'

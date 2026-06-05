@@ -1,14 +1,17 @@
 id: lawvable-awesome-legal-skills-gdpr-privacy-notice-eu-oliver-schmidt-prietz
-description: "Draft GDPR/DSGVO-compliant privacy notices as .docx for any EU/EEA jurisdiction\
-  \ and audience. Use when user asks to create a privacy policy/notice, mentions \"\
-  Datenschutzerkl\xE4rung\", \"politique de confidentialit\xE9\", \"privacy notice\"\
-  , needs Art. 13/14 disclosures, AI Act transparency, cookie policy, or notices for\
-  \ applicants (\"Bewerber-Datenschutz\"), employees (\"Besch\xE4ftigten-Datenschutz\"\
-  ), B2B partners, or B2C customers. Covers DE (DSGVO+BDSG+TDDDG), FR (RGPD+LIL+LCEN),\
-  \ AT, IT, ES, NL, BE, IE, UK GDPR. Five notice types: Website/App, Applicant, Employee,\
-  \ Business Partner, B2C Customer."
-url: https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/gdpr-privacy-notice-eu-oliver-schmidt-prietz/SKILL.md
-folder_url: https://github.com/lawvable/awesome-legal-skills/tree/main/skills/gdpr-privacy-notice-eu-oliver-schmidt-prietz
-repo: lawvable/awesome-legal-skills
-skill_dir: gdpr-privacy-notice-eu-oliver-schmidt-prietz
+display_name: Gdpr Privacy Notice Eu Oliver Schmidt Prietz
+description: 'Draft GDPR/DSGVO-compliant privacy notices as .docx for any EU/EEA jurisdiction and audience. Use when user
+  asks to create a privacy policy/notice, mentions "Datenschutzerklärung", "politique de confidentialité", "privacy notice",
+  needs Art. 13/14 disclosures, AI Act transparency, cookie policy, or notices for applicants ("Bewerber-Datenschutz"), employees
+  ("Beschäftigten-Datenschutz"), B2B partners, or B2C customers. Covers DE (DSGVO+BDSG+TDDDG), FR (RGPD+LIL+LCEN), AT, IT,
+  ES, NL, BE, IE, UK GDPR. Five notice types: Website/App, Applicant, Employee, Business Partner, B2C Customer.'
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/gdpr-privacy-notice-eu-oliver-schmidt-prietz
+  repo: lawvable/awesome-legal-skills
+metadata: {}
 added_at: '2026-06-05'

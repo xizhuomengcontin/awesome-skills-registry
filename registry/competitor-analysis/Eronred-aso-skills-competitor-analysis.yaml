@@ -1,11 +1,16 @@
 id: Eronred-aso-skills-competitor-analysis
-description: When the user wants to analyze competitors' App Store strategy, find
-  keyword gaps, or understand competitive positioning. Also use when the user mentions
-  "competitor analysis", "competitive research", "keyword gap", "what are my competitors
-  doing", or "compare my app to". For keyword-specific research, see keyword-research.
-  For metadata writing, see metadata-optimization.
-url: https://raw.githubusercontent.com/Eronred/aso-skills/main/skills/competitor-analysis/SKILL.md
-folder_url: https://github.com/Eronred/aso-skills/tree/main/skills/competitor-analysis
-repo: Eronred/aso-skills
-skill_dir: competitor-analysis
+display_name: Competitor Analysis
+description: When the user wants to analyze competitors' App Store strategy, find keyword gaps, or understand competitive
+  positioning. Also use when the user mentions "competitor analysis", "competitive research", "keyword gap", "what are my
+  competitors doing", or "compare my app to". For keyword-specific research, see keyword-research. For metadata writing, see
+  metadata-optimization.
+authors:
+- Eronred
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/competitor-analysis
+  repo: Eronred/aso-skills
+metadata: {}
 added_at: '2026-06-05'

@@ -1,11 +1,15 @@
 id: K-Dense-AI-claude-scientific-skills-matchms
-description: Spectral similarity and compound identification for metabolomics. Use
-  for comparing mass spectra, computing similarity scores (cosine, modified cosine),
-  and identifying unknown compounds from spectral libraries. Best for metabolite identification,
-  spectral matching, library searching. For full LC-MS/MS proteomics pipelines use
-  pyopenms.
-url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/skills/matchms/SKILL.md
-folder_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/matchms
-repo: K-Dense-AI/claude-scientific-skills
-skill_dir: matchms
+display_name: Matchms
+description: Spectral similarity and compound identification for metabolomics. Use for comparing mass spectra, computing similarity
+  scores (cosine, modified cosine), and identifying unknown compounds from spectral libraries. Best for metabolite identification,
+  spectral matching, library searching. For full LC-MS/MS proteomics pipelines use pyopenms.
+authors:
+- K-Dense-AI
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/matchms
+  repo: K-Dense-AI/claude-scientific-skills
+metadata: {}
 added_at: '2026-06-05'

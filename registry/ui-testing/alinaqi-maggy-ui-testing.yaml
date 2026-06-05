@@ -1,7 +1,13 @@
 id: alinaqi-maggy-ui-testing
+display_name: Ui Testing
 description: Visual testing - catch invisible buttons, broken layouts, contrast
-url: https://raw.githubusercontent.com/alinaqi/maggy/main/skills/ui-testing/SKILL.md
-folder_url: https://github.com/alinaqi/maggy/tree/main/skills/ui-testing
-repo: alinaqi/maggy
-skill_dir: ui-testing
+authors:
+- alinaqi
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/ui-testing
+  repo: alinaqi/maggy
+metadata: {}
 added_at: '2026-06-05'

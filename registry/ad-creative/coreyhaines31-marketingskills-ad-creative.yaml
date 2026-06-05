@@ -1,15 +1,18 @@
 id: coreyhaines31-marketingskills-ad-creative
-description: "When the user wants to generate, iterate, or scale ad creative \u2014\
-  \ headlines, descriptions, primary text, or full ad variations \u2014 for any paid\
-  \ advertising platform. Also use when the user mentions 'ad copy variations,' 'ad\
-  \ creative,' 'generate headlines,' 'RSA headlines,' 'bulk ad copy,' 'ad iterations,'\
-  \ 'creative testing,' 'ad performance optimization,' 'write me some ads,' 'Facebook\
-  \ ad copy,' 'Google ad headlines,' 'LinkedIn ad text,' or 'I need more ad variations.'\
-  \ Use this whenever someone needs to produce ad copy at scale or iterate on existing\
-  \ ads. For campaign strategy and targeting, see ads. For landing page copy, see\
-  \ copywriting."
-url: https://raw.githubusercontent.com/coreyhaines31/marketingskills/main/skills/ad-creative/SKILL.md
-folder_url: https://github.com/coreyhaines31/marketingskills/tree/main/skills/ad-creative
-repo: coreyhaines31/marketingskills
-skill_dir: ad-creative
+display_name: Ad Creative
+description: When the user wants to generate, iterate, or scale ad creative — headlines, descriptions, primary text, or full
+  ad variations — for any paid advertising platform. Also use when the user mentions 'ad copy variations,' 'ad creative,'
+  'generate headlines,' 'RSA headlines,' 'bulk ad copy,' 'ad iterations,' 'creative testing,' 'ad performance optimization,'
+  'write me some ads,' 'Facebook ad copy,' 'Google ad headlines,' 'LinkedIn ad text,' or 'I need more ad variations.' Use
+  this whenever someone needs to produce ad copy at scale or iterate on existing ads. For campaign strategy and targeting,
+  see ads. For landing page copy, see copywriting.
+authors:
+- coreyhaines31
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/ad-creative
+  repo: coreyhaines31/marketingskills
+metadata: {}
 added_at: '2026-06-05'

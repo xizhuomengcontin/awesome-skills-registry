@@ -1,10 +1,15 @@
 id: lawvable-awesome-legal-skills-legal-risk-assessment-anthropic
-description: Assess and classify legal risks using a severity-by-likelihood framework
-  with escalation criteria. Use when evaluating contract risk, assessing deal exposure,
-  classifying issues by severity, or determining whether a matter needs senior counsel
+display_name: Legal Risk Assessment Anthropic
+description: Assess and classify legal risks using a severity-by-likelihood framework with escalation criteria. Use when evaluating
+  contract risk, assessing deal exposure, classifying issues by severity, or determining whether a matter needs senior counsel
   or outside legal review.
-url: https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/legal-risk-assessment-anthropic/SKILL.md
-folder_url: https://github.com/lawvable/awesome-legal-skills/tree/main/skills/legal-risk-assessment-anthropic
-repo: lawvable/awesome-legal-skills
-skill_dir: legal-risk-assessment-anthropic
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/legal-risk-assessment-anthropic
+  repo: lawvable/awesome-legal-skills
+metadata: {}
 added_at: '2026-06-05'

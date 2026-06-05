@@ -1,8 +1,13 @@
 id: indranilbanerjee-digital-marketing-pro-ab-test-plan
-description: 'Design A/B and multivariate tests. Use when: sample size calculation,
-  testing hypothesis, CRO experimentation.'
-url: https://raw.githubusercontent.com/indranilbanerjee/digital-marketing-pro/main/skills/ab-test-plan/SKILL.md
-folder_url: https://github.com/indranilbanerjee/digital-marketing-pro/tree/main/skills/ab-test-plan
-repo: indranilbanerjee/digital-marketing-pro
-skill_dir: ab-test-plan
+display_name: Ab Test Plan
+description: 'Design A/B and multivariate tests. Use when: sample size calculation, testing hypothesis, CRO experimentation.'
+authors:
+- indranilbanerjee
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/ab-test-plan
+  repo: indranilbanerjee/digital-marketing-pro
+metadata: {}
 added_at: '2026-06-05'

@@ -1,8 +1,14 @@
 id: deanpeters-Product-Manager-Skills-workshop-facilitation
-description: Facilitate workshop sessions in a one-step, multi-turn flow. Use when
-  an interactive skill needs consistent pacing, options, and progress tracking.
-url: https://raw.githubusercontent.com/deanpeters/Product-Manager-Skills/main/skills/workshop-facilitation/SKILL.md
-folder_url: https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/workshop-facilitation
-repo: deanpeters/Product-Manager-Skills
-skill_dir: workshop-facilitation
+display_name: Workshop Facilitation
+description: Facilitate workshop sessions in a one-step, multi-turn flow. Use when an interactive skill needs consistent pacing,
+  options, and progress tracking.
+authors:
+- deanpeters
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/workshop-facilitation
+  repo: deanpeters/Product-Manager-Skills
+metadata: {}
 added_at: '2026-06-05'

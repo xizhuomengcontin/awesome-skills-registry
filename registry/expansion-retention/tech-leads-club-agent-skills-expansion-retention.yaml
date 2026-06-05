@@ -1,12 +1,16 @@
 id: tech-leads-club-agent-skills-expansion-retention
-description: When the user wants to reduce churn, build expansion revenue, automate
-  customer success, or optimize net revenue retention. Also use when the user mentions
-  'churn,' 'retention,' 'expansion revenue,' 'upsell,' 'NRR,' 'net revenue retention,'
-  'customer success,' 'land and expand,' 'closed-lost,' or 'renewal.' This skill covers
-  expansion and retention systems from usage triggers through automated customer success.
-  Do NOT use for technical implementation, code review, or software architecture.
-url: https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(gtm)/expansion-retention/SKILL.md
-folder_url: https://github.com/tech-leads-club/agent-skills/tree/main/packages/skills-catalog/skills/(gtm)/expansion-retention
-repo: tech-leads-club/agent-skills
-skill_dir: expansion-retention
+display_name: Expansion Retention
+description: When the user wants to reduce churn, build expansion revenue, automate customer success, or optimize net revenue
+  retention. Also use when the user mentions 'churn,' 'retention,' 'expansion revenue,' 'upsell,' 'NRR,' 'net revenue retention,'
+  'customer success,' 'land and expand,' 'closed-lost,' or 'renewal.' This skill covers expansion and retention systems from
+  usage triggers through automated customer success. Do NOT use for technical implementation, code review, or software architecture.
+authors:
+- tech-leads-club
+is_official: false
+tags: []
+category: none
+source:
+  path: /packages/skills-catalog/skills/(gtm)/expansion-retention
+  repo: tech-leads-club/agent-skills
+metadata: {}
 added_at: '2026-06-05'

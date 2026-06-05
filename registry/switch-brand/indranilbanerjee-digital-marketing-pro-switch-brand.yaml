@@ -1,8 +1,13 @@
 id: indranilbanerjee-digital-marketing-pro-switch-brand
-description: 'Switch active brand profile. Use when: changing brand context in multi-client
-  or agency workflows.'
-url: https://raw.githubusercontent.com/indranilbanerjee/digital-marketing-pro/main/skills/switch-brand/SKILL.md
-folder_url: https://github.com/indranilbanerjee/digital-marketing-pro/tree/main/skills/switch-brand
-repo: indranilbanerjee/digital-marketing-pro
-skill_dir: switch-brand
+display_name: Switch Brand
+description: 'Switch active brand profile. Use when: changing brand context in multi-client or agency workflows.'
+authors:
+- indranilbanerjee
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/switch-brand
+  repo: indranilbanerjee/digital-marketing-pro
+metadata: {}
 added_at: '2026-06-05'

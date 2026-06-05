@@ -1,10 +1,15 @@
 id: K-Dense-AI-claude-scientific-skills-imaging-data-commons
-description: Query and download public cancer imaging data from NCI Imaging Data Commons
-  using idc-index. Use for accessing large-scale radiology (CT, MR, PET) and pathology
-  datasets for AI training or research. No authentication required. Query by metadata,
-  visualize in browser, check licenses.
-url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/skills/imaging-data-commons/SKILL.md
-folder_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/imaging-data-commons
-repo: K-Dense-AI/claude-scientific-skills
-skill_dir: imaging-data-commons
+display_name: Imaging Data Commons
+description: Query and download public cancer imaging data from NCI Imaging Data Commons using idc-index. Use for accessing
+  large-scale radiology (CT, MR, PET) and pathology datasets for AI training or research. No authentication required. Query
+  by metadata, visualize in browser, check licenses.
+authors:
+- K-Dense-AI
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/imaging-data-commons
+  repo: K-Dense-AI/claude-scientific-skills
+metadata: {}
 added_at: '2026-06-05'

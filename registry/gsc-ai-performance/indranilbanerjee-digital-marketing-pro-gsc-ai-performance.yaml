@@ -1,10 +1,15 @@
 id: indranilbanerjee-digital-marketing-pro-gsc-ai-performance
-description: 'Query and interpret the new Google Search Console AI Performance Report
-  (AI Overviews + AI Mode impressions/pages/countries/devices/dates). Use when: baselining
-  AI search visibility, reading the new GSC AI report, or configuring the in-Search-Console
-  AI opt-out toggle.'
-url: https://raw.githubusercontent.com/indranilbanerjee/digital-marketing-pro/main/skills/gsc-ai-performance/SKILL.md
-folder_url: https://github.com/indranilbanerjee/digital-marketing-pro/tree/main/skills/gsc-ai-performance
-repo: indranilbanerjee/digital-marketing-pro
-skill_dir: gsc-ai-performance
+display_name: Gsc Ai Performance
+description: 'Query and interpret the new Google Search Console AI Performance Report (AI Overviews + AI Mode impressions/pages/countries/devices/dates).
+  Use when: baselining AI search visibility, reading the new GSC AI report, or configuring the in-Search-Console AI opt-out
+  toggle.'
+authors:
+- indranilbanerjee
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/gsc-ai-performance
+  repo: indranilbanerjee/digital-marketing-pro
+metadata: {}
 added_at: '2026-06-05'

@@ -1,8 +1,13 @@
 id: indranilbanerjee-digital-marketing-pro-campaign-orchestrator
-description: 'Orchestrate full campaign lifecycle. Use when: planning, launching,
-  managing, UTM setup, media plan, post-mortem.'
-url: https://raw.githubusercontent.com/indranilbanerjee/digital-marketing-pro/main/skills/campaign-orchestrator/SKILL.md
-folder_url: https://github.com/indranilbanerjee/digital-marketing-pro/tree/main/skills/campaign-orchestrator
-repo: indranilbanerjee/digital-marketing-pro
-skill_dir: campaign-orchestrator
+display_name: Campaign Orchestrator
+description: 'Orchestrate full campaign lifecycle. Use when: planning, launching, managing, UTM setup, media plan, post-mortem.'
+authors:
+- indranilbanerjee
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/campaign-orchestrator
+  repo: indranilbanerjee/digital-marketing-pro
+metadata: {}
 added_at: '2026-06-05'

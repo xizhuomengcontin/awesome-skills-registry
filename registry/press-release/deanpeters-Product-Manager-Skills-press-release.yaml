@@ -1,9 +1,14 @@
 id: deanpeters-Product-Manager-Skills-press-release
-description: Write an Amazon-style press release that defines customer value before
-  building. Use when aligning stakeholders on a new product, feature, or strategic
-  bet.
-url: https://raw.githubusercontent.com/deanpeters/Product-Manager-Skills/main/skills/press-release/SKILL.md
-folder_url: https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/press-release
-repo: deanpeters/Product-Manager-Skills
-skill_dir: press-release
+display_name: Press Release
+description: Write an Amazon-style press release that defines customer value before building. Use when aligning stakeholders
+  on a new product, feature, or strategic bet.
+authors:
+- deanpeters
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/press-release
+  repo: deanpeters/Product-Manager-Skills
+metadata: {}
 added_at: '2026-06-05'

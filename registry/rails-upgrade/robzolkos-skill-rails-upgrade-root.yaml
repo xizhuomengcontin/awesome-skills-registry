@@ -1,9 +1,14 @@
 id: robzolkos-skill-rails-upgrade-root
-description: Analyze Rails application upgrade path. Checks current version, finds
-  latest release, fetches upgrade notes and diffs, then performs selective upgrade
-  preserving local customizations.
-url: https://raw.githubusercontent.com/robzolkos/skill-rails-upgrade/master/SKILL.md
-folder_url: https://github.com/robzolkos/skill-rails-upgrade/tree/master
-repo: robzolkos/skill-rails-upgrade
-skill_dir: root
+display_name: Root
+description: Analyze Rails application upgrade path. Checks current version, finds latest release, fetches upgrade notes and
+  diffs, then performs selective upgrade preserving local customizations.
+authors:
+- robzolkos
+is_official: false
+tags: []
+category: none
+source:
+  path: /
+  repo: robzolkos/skill-rails-upgrade
+metadata: {}
 added_at: '2026-06-05'

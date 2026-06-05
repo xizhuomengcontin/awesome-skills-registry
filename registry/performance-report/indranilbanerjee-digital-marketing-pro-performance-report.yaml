@@ -1,8 +1,13 @@
 id: indranilbanerjee-digital-marketing-pro-performance-report
-description: 'Generate performance reports. Use when: tracking KPIs, trend analysis,
-  anomaly detection, and actionable recommendations.'
-url: https://raw.githubusercontent.com/indranilbanerjee/digital-marketing-pro/main/skills/performance-report/SKILL.md
-folder_url: https://github.com/indranilbanerjee/digital-marketing-pro/tree/main/skills/performance-report
-repo: indranilbanerjee/digital-marketing-pro
-skill_dir: performance-report
+display_name: Performance Report
+description: 'Generate performance reports. Use when: tracking KPIs, trend analysis, anomaly detection, and actionable recommendations.'
+authors:
+- indranilbanerjee
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/performance-report
+  repo: indranilbanerjee/digital-marketing-pro
+metadata: {}
 added_at: '2026-06-05'

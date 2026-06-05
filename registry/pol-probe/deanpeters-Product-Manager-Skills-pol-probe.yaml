@@ -1,8 +1,14 @@
 id: deanpeters-Product-Manager-Skills-pol-probe
-description: Define a Proof of Life probe to test a risky hypothesis cheaply. Use
-  when you need harsh truth before building real product.
-url: https://raw.githubusercontent.com/deanpeters/Product-Manager-Skills/main/skills/pol-probe/SKILL.md
-folder_url: https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/pol-probe
-repo: deanpeters/Product-Manager-Skills
-skill_dir: pol-probe
+display_name: Pol Probe
+description: Define a Proof of Life probe to test a risky hypothesis cheaply. Use when you need harsh truth before building
+  real product.
+authors:
+- deanpeters
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/pol-probe
+  repo: deanpeters/Product-Manager-Skills
+metadata: {}
 added_at: '2026-06-05'

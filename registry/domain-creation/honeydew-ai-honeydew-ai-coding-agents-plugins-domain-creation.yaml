@@ -1,9 +1,14 @@
 id: honeydew-ai-honeydew-ai-coding-agents-plugins-domain-creation
-description: "Guides you through creating a Honeydew domain \u2014 a governance object\
-  \ that scopes entity/field visibility and applies mandatory filters \u2014 ideal\
-  \ for setting up contexts for deep analysis."
-url: https://raw.githubusercontent.com/honeydew-ai/honeydew-ai-coding-agents-plugins/main/skills/domain-creation/SKILL.md
-folder_url: https://github.com/honeydew-ai/honeydew-ai-coding-agents-plugins/tree/main/skills/domain-creation
-repo: honeydew-ai/honeydew-ai-coding-agents-plugins
-skill_dir: domain-creation
+display_name: Domain Creation
+description: Guides you through creating a Honeydew domain — a governance object that scopes entity/field visibility and applies
+  mandatory filters — ideal for setting up contexts for deep analysis.
+authors:
+- honeydew-ai
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/domain-creation
+  repo: honeydew-ai/honeydew-ai-coding-agents-plugins
+metadata: {}
 added_at: '2026-06-05'

@@ -1,12 +1,16 @@
 id: lawvable-awesome-legal-skills-vscode-extension-builder-lawvable
-description: Build VS Code extensions from scratch or convert existing JS/React/Vue
-  apps. Supports commands, webviews (React/Vue), custom editors, tree views, and AI
-  agent integration via file-bridge IPC. Use when user wants to create a VS Code extension,
-  convert a web app to an extension, add webviews or custom UIs to VS Code, implement
-  tree views, build custom file editors, integrate with AI agents, or package/publish
-  extensions (.vsix).
-url: https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/vscode-extension-builder-lawvable/SKILL.md
-folder_url: https://github.com/lawvable/awesome-legal-skills/tree/main/skills/vscode-extension-builder-lawvable
-repo: lawvable/awesome-legal-skills
-skill_dir: vscode-extension-builder-lawvable
+display_name: Vscode Extension Builder Lawvable
+description: Build VS Code extensions from scratch or convert existing JS/React/Vue apps. Supports commands, webviews (React/Vue),
+  custom editors, tree views, and AI agent integration via file-bridge IPC. Use when user wants to create a VS Code extension,
+  convert a web app to an extension, add webviews or custom UIs to VS Code, implement tree views, build custom file editors,
+  integrate with AI agents, or package/publish extensions (.vsix).
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/vscode-extension-builder-lawvable
+  repo: lawvable/awesome-legal-skills
+metadata: {}
 added_at: '2026-06-05'

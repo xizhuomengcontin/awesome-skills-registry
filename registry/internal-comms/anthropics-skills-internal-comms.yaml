@@ -1,11 +1,15 @@
 id: anthropics-skills-internal-comms
-description: A set of resources to help me write all kinds of internal communications,
-  using the formats that my company likes to use. Claude should use this skill whenever
-  asked to write some sort of internal communications (status reports, leadership
-  updates, 3P updates, company newsletters, FAQs, incident reports, project updates,
-  etc.).
-url: https://raw.githubusercontent.com/anthropics/skills/main/skills/internal-comms/SKILL.md
-folder_url: https://github.com/anthropics/skills/tree/main/skills/internal-comms
-repo: anthropics/skills
-skill_dir: internal-comms
+display_name: Internal Comms
+description: A set of resources to help me write all kinds of internal communications, using the formats that my company likes
+  to use. Claude should use this skill whenever asked to write some sort of internal communications (status reports, leadership
+  updates, 3P updates, company newsletters, FAQs, incident reports, project updates, etc.).
+authors:
+- anthropics
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/internal-comms
+  repo: anthropics/skills
+metadata: {}
 added_at: '2026-06-05'

@@ -1,8 +1,13 @@
 id: indranilbanerjee-digital-marketing-pro-data-export
-description: 'Export marketing data. Use when: sending data to BigQuery, Google Sheets,
-  or Supabase for analysis or reporting.'
-url: https://raw.githubusercontent.com/indranilbanerjee/digital-marketing-pro/main/skills/data-export/SKILL.md
-folder_url: https://github.com/indranilbanerjee/digital-marketing-pro/tree/main/skills/data-export
-repo: indranilbanerjee/digital-marketing-pro
-skill_dir: data-export
+display_name: Data Export
+description: 'Export marketing data. Use when: sending data to BigQuery, Google Sheets, or Supabase for analysis or reporting.'
+authors:
+- indranilbanerjee
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/data-export
+  repo: indranilbanerjee/digital-marketing-pro
+metadata: {}
 added_at: '2026-06-05'

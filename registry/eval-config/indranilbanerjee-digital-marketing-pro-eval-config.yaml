@@ -1,8 +1,13 @@
 id: indranilbanerjee-digital-marketing-pro-eval-config
-description: 'Configure content eval settings. Use when: adjusting score thresholds,
-  dimension weights, or auto-reject rules.'
-url: https://raw.githubusercontent.com/indranilbanerjee/digital-marketing-pro/main/skills/eval-config/SKILL.md
-folder_url: https://github.com/indranilbanerjee/digital-marketing-pro/tree/main/skills/eval-config
-repo: indranilbanerjee/digital-marketing-pro
-skill_dir: eval-config
+display_name: Eval Config
+description: 'Configure content eval settings. Use when: adjusting score thresholds, dimension weights, or auto-reject rules.'
+authors:
+- indranilbanerjee
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/eval-config
+  repo: indranilbanerjee/digital-marketing-pro
+metadata: {}
 added_at: '2026-06-05'

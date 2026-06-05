@@ -1,14 +1,18 @@
 id: coreyhaines31-marketingskills-video
-description: When the user wants to create, generate, or produce video content using
-  AI tools or programmatic frameworks. Also use when the user mentions 'video production,'
-  'AI video,' 'Remotion,' 'Hyperframes,' 'HeyGen,' 'Synthesia,' 'Veo,' 'Sora,' 'Runway,'
-  'Kling,' 'Seedance,' 'Hailuo,' 'MiniMax,' 'Pika,' 'Hunyuan,' 'Wan,' 'video generation,'
-  'AI avatar,' 'talking head video,' 'programmatic video,' 'video template,' 'explainer
-  video,' 'product demo video,' 'video pipeline,' or 'make me a video.' Use this for
-  video creation, generation, and production workflows. For video content strategy
-  and what to post, see social. For paid video ad creative, see ad-creative.
-url: https://raw.githubusercontent.com/coreyhaines31/marketingskills/main/skills/video/SKILL.md
-folder_url: https://github.com/coreyhaines31/marketingskills/tree/main/skills/video
-repo: coreyhaines31/marketingskills
-skill_dir: video
+display_name: Video
+description: When the user wants to create, generate, or produce video content using AI tools or programmatic frameworks.
+  Also use when the user mentions 'video production,' 'AI video,' 'Remotion,' 'Hyperframes,' 'HeyGen,' 'Synthesia,' 'Veo,'
+  'Sora,' 'Runway,' 'Kling,' 'Seedance,' 'Hailuo,' 'MiniMax,' 'Pika,' 'Hunyuan,' 'Wan,' 'video generation,' 'AI avatar,' 'talking
+  head video,' 'programmatic video,' 'video template,' 'explainer video,' 'product demo video,' 'video pipeline,' or 'make
+  me a video.' Use this for video creation, generation, and production workflows. For video content strategy and what to post,
+  see social. For paid video ad creative, see ad-creative.
+authors:
+- coreyhaines31
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/video
+  repo: coreyhaines31/marketingskills
+metadata: {}
 added_at: '2026-06-05'

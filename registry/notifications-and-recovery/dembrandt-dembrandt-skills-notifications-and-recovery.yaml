@@ -1,10 +1,15 @@
 id: dembrandt-dembrandt-skills-notifications-and-recovery
-description: When something goes wrong, the user must be able to recover or try again.
-  Toasts, inline errors, banners, and notification patterns each have a specific role.
-  Use when designing error states, success confirmations, async feedback, in-place
-  editing, or any system that communicates state changes to the user.
-url: https://raw.githubusercontent.com/dembrandt/dembrandt-skills/main/skills/notifications-and-recovery/SKILL.md
-folder_url: https://github.com/dembrandt/dembrandt-skills/tree/main/skills/notifications-and-recovery
-repo: dembrandt/dembrandt-skills
-skill_dir: notifications-and-recovery
+display_name: Notifications And Recovery
+description: When something goes wrong, the user must be able to recover or try again. Toasts, inline errors, banners, and
+  notification patterns each have a specific role. Use when designing error states, success confirmations, async feedback,
+  in-place editing, or any system that communicates state changes to the user.
+authors:
+- dembrandt
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/notifications-and-recovery
+  repo: dembrandt/dembrandt-skills
+metadata: {}
 added_at: '2026-06-05'

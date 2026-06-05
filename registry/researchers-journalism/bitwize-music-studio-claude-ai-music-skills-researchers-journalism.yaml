@@ -1,8 +1,14 @@
 id: bitwize-music-studio-claude-ai-music-skills-researchers-journalism
-description: Researches investigative articles, interviews, and news coverage. Use
-  when research needs journalistic sources for cross-referencing or additional context.
-url: https://raw.githubusercontent.com/bitwize-music-studio/claude-ai-music-skills/main/skills/researchers-journalism/SKILL.md
-folder_url: https://github.com/bitwize-music-studio/claude-ai-music-skills/tree/main/skills/researchers-journalism
-repo: bitwize-music-studio/claude-ai-music-skills
-skill_dir: researchers-journalism
+display_name: Researchers Journalism
+description: Researches investigative articles, interviews, and news coverage. Use when research needs journalistic sources
+  for cross-referencing or additional context.
+authors:
+- bitwize-music-studio
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/researchers-journalism
+  repo: bitwize-music-studio/claude-ai-music-skills
+metadata: {}
 added_at: '2026-06-05'

@@ -1,8 +1,13 @@
 id: indranilbanerjee-digital-marketing-pro-campaign-status
-description: 'Check active campaign status. Use when: cross-platform execution history,
-  performance metrics, pending approvals.'
-url: https://raw.githubusercontent.com/indranilbanerjee/digital-marketing-pro/main/skills/campaign-status/SKILL.md
-folder_url: https://github.com/indranilbanerjee/digital-marketing-pro/tree/main/skills/campaign-status
-repo: indranilbanerjee/digital-marketing-pro
-skill_dir: campaign-status
+display_name: Campaign Status
+description: 'Check active campaign status. Use when: cross-platform execution history, performance metrics, pending approvals.'
+authors:
+- indranilbanerjee
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/campaign-status
+  repo: indranilbanerjee/digital-marketing-pro
+metadata: {}
 added_at: '2026-06-05'

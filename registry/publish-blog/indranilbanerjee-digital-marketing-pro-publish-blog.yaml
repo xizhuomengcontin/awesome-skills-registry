@@ -1,8 +1,13 @@
 id: indranilbanerjee-digital-marketing-pro-publish-blog
-description: 'Publish blog posts. Use when: deploying to WordPress or Webflow with
-  SEO optimization, categories, and scheduling.'
-url: https://raw.githubusercontent.com/indranilbanerjee/digital-marketing-pro/main/skills/publish-blog/SKILL.md
-folder_url: https://github.com/indranilbanerjee/digital-marketing-pro/tree/main/skills/publish-blog
-repo: indranilbanerjee/digital-marketing-pro
-skill_dir: publish-blog
+display_name: Publish Blog
+description: 'Publish blog posts. Use when: deploying to WordPress or Webflow with SEO optimization, categories, and scheduling.'
+authors:
+- indranilbanerjee
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/publish-blog
+  repo: indranilbanerjee/digital-marketing-pro
+metadata: {}
 added_at: '2026-06-05'

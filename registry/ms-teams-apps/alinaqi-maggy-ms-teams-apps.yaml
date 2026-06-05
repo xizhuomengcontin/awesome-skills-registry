@@ -1,8 +1,13 @@
 id: alinaqi-maggy-ms-teams-apps
-description: Microsoft Teams bots and AI agents - Claude/OpenAI, Adaptive Cards, Graph
-  API
-url: https://raw.githubusercontent.com/alinaqi/maggy/main/skills/ms-teams-apps/SKILL.md
-folder_url: https://github.com/alinaqi/maggy/tree/main/skills/ms-teams-apps
-repo: alinaqi/maggy
-skill_dir: ms-teams-apps
+display_name: Ms Teams Apps
+description: Microsoft Teams bots and AI agents - Claude/OpenAI, Adaptive Cards, Graph API
+authors:
+- alinaqi
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/ms-teams-apps
+  repo: alinaqi/maggy
+metadata: {}
 added_at: '2026-06-05'

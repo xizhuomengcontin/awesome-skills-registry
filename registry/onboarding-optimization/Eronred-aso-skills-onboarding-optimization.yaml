@@ -1,12 +1,16 @@
 id: Eronred-aso-skills-onboarding-optimization
-description: When the user wants to improve their app's onboarding experience, increase
-  activation rate, reduce Day 1 drop-off, or optimize the first-run flow. Use when
-  the user mentions "onboarding", "first-run", "activation", "tutorial", "day 1 retention",
-  "new user flow", "permission prompts", "sign-up conversion", "onboarding funnel",
-  or "users dropping off early". For overall retention strategy, see retention-optimization.
-  For paywall placement, see monetization-strategy.
-url: https://raw.githubusercontent.com/Eronred/aso-skills/main/skills/onboarding-optimization/SKILL.md
-folder_url: https://github.com/Eronred/aso-skills/tree/main/skills/onboarding-optimization
-repo: Eronred/aso-skills
-skill_dir: onboarding-optimization
+display_name: Onboarding Optimization
+description: When the user wants to improve their app's onboarding experience, increase activation rate, reduce Day 1 drop-off,
+  or optimize the first-run flow. Use when the user mentions "onboarding", "first-run", "activation", "tutorial", "day 1 retention",
+  "new user flow", "permission prompts", "sign-up conversion", "onboarding funnel", or "users dropping off early". For overall
+  retention strategy, see retention-optimization. For paywall placement, see monetization-strategy.
+authors:
+- Eronred
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/onboarding-optimization
+  repo: Eronred/aso-skills
+metadata: {}
 added_at: '2026-06-05'

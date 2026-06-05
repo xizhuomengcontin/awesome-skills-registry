@@ -1,13 +1,17 @@
 id: lawvable-awesome-legal-skills-statute-analysis-rafal-fryc
-description: Guide for reading, interpreting, and applying statutes, regulations,
-  and rules in legal and compliance contexts. Use when the user asks about (1) how
-  to read and interpret statutes, regulations, or rules, (2) statutory interpretation
-  methods and canons of construction, (3) understanding legislative intent, (4) applying
-  statutes to specific legal situations, (5) extracting requirements from legal text,
-  (6) distinguishing between different types of legal requirements, or (7) cross-jurisdictional
+display_name: Statute Analysis Rafal Fryc
+description: Guide for reading, interpreting, and applying statutes, regulations, and rules in legal and compliance contexts.
+  Use when the user asks about (1) how to read and interpret statutes, regulations, or rules, (2) statutory interpretation
+  methods and canons of construction, (3) understanding legislative intent, (4) applying statutes to specific legal situations,
+  (5) extracting requirements from legal text, (6) distinguishing between different types of legal requirements, or (7) cross-jurisdictional
   compliance analysis.
-url: https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/statute-analysis-rafal-fryc/SKILL.md
-folder_url: https://github.com/lawvable/awesome-legal-skills/tree/main/skills/statute-analysis-rafal-fryc
-repo: lawvable/awesome-legal-skills
-skill_dir: statute-analysis-rafal-fryc
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/statute-analysis-rafal-fryc
+  repo: lawvable/awesome-legal-skills
+metadata: {}
 added_at: '2026-06-05'

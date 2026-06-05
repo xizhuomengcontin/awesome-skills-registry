@@ -1,13 +1,17 @@
 id: huggingface-skills-train-sentence-transformers
-description: Train or fine-tune sentence-transformers models across `SentenceTransformer`
-  (bi-encoder; dense or static embedding model; for retrieval, similarity, clustering,
-  classification, paraphrase mining, dedup, multimodal), `CrossEncoder` (reranker;
-  pair scoring for two-stage retrieval / pair classification), and `SparseEncoder`
-  (SPLADE, sparse embedding model; for learned-sparse retrieval). Covers loss selection,
-  hard-negative mining, evaluators, distillation, LoRA, Matryoshka, and Hugging Face
-  Hub publishing. Use for any sentence-transformers training task.
-url: https://raw.githubusercontent.com/huggingface/skills/main/skills/train-sentence-transformers/SKILL.md
-folder_url: https://github.com/huggingface/skills/tree/main/skills/train-sentence-transformers
-repo: huggingface/skills
-skill_dir: train-sentence-transformers
+display_name: Train Sentence Transformers
+description: Train or fine-tune sentence-transformers models across `SentenceTransformer` (bi-encoder; dense or static embedding
+  model; for retrieval, similarity, clustering, classification, paraphrase mining, dedup, multimodal), `CrossEncoder` (reranker;
+  pair scoring for two-stage retrieval / pair classification), and `SparseEncoder` (SPLADE, sparse embedding model; for learned-sparse
+  retrieval). Covers loss selection, hard-negative mining, evaluators, distillation, LoRA, Matryoshka, and Hugging Face Hub
+  publishing. Use for any sentence-transformers training task.
+authors:
+- huggingface
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/train-sentence-transformers
+  repo: huggingface/skills
+metadata: {}
 added_at: '2026-06-05'

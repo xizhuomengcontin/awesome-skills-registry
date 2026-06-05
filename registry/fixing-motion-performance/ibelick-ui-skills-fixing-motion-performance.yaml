@@ -1,9 +1,14 @@
 id: ibelick-ui-skills-fixing-motion-performance
-description: Audit and fix animation performance issues including layout thrashing,
-  compositor properties, scroll-linked motion, and blur effects. Use when animations
-  stutter, transitions jank, or reviewing CSS/JS animation performance.
-url: https://raw.githubusercontent.com/ibelick/ui-skills/main/skills/fixing-motion-performance/SKILL.md
-folder_url: https://github.com/ibelick/ui-skills/tree/main/skills/fixing-motion-performance
-repo: ibelick/ui-skills
-skill_dir: fixing-motion-performance
+display_name: Fixing Motion Performance
+description: Audit and fix animation performance issues including layout thrashing, compositor properties, scroll-linked motion,
+  and blur effects. Use when animations stutter, transitions jank, or reviewing CSS/JS animation performance.
+authors:
+- ibelick
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/fixing-motion-performance
+  repo: ibelick/ui-skills
+metadata: {}
 added_at: '2026-06-05'

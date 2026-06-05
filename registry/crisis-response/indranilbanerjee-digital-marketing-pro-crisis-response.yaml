@@ -1,8 +1,13 @@
 id: indranilbanerjee-digital-marketing-pro-crisis-response
-description: 'Manage PR crises. Use when: reputational threat emerges, need stakeholder
-  messaging, or communication timeline.'
-url: https://raw.githubusercontent.com/indranilbanerjee/digital-marketing-pro/main/skills/crisis-response/SKILL.md
-folder_url: https://github.com/indranilbanerjee/digital-marketing-pro/tree/main/skills/crisis-response
-repo: indranilbanerjee/digital-marketing-pro
-skill_dir: crisis-response
+display_name: Crisis Response
+description: 'Manage PR crises. Use when: reputational threat emerges, need stakeholder messaging, or communication timeline.'
+authors:
+- indranilbanerjee
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/crisis-response
+  repo: indranilbanerjee/digital-marketing-pro
+metadata: {}
 added_at: '2026-06-05'

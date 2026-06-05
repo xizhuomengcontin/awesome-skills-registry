@@ -1,8 +1,14 @@
 id: bitwize-music-studio-claude-ai-music-skills-researchers-historical
-description: Researches archives, contemporary accounts, and timeline reconstruction.
-  Use when the album subject involves historical events that need primary source verification.
-url: https://raw.githubusercontent.com/bitwize-music-studio/claude-ai-music-skills/main/skills/researchers-historical/SKILL.md
-folder_url: https://github.com/bitwize-music-studio/claude-ai-music-skills/tree/main/skills/researchers-historical
-repo: bitwize-music-studio/claude-ai-music-skills
-skill_dir: researchers-historical
+display_name: Researchers Historical
+description: Researches archives, contemporary accounts, and timeline reconstruction. Use when the album subject involves
+  historical events that need primary source verification.
+authors:
+- bitwize-music-studio
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/researchers-historical
+  repo: bitwize-music-studio/claude-ai-music-skills
+metadata: {}
 added_at: '2026-06-05'

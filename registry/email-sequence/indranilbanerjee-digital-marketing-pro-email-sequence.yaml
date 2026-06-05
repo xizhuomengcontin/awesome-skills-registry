@@ -1,8 +1,14 @@
 id: indranilbanerjee-digital-marketing-pro-email-sequence
-description: 'Design email sequences. Use when: building subject lines, body copy,
-  timing, segmentation logic, and deliverability plans.'
-url: https://raw.githubusercontent.com/indranilbanerjee/digital-marketing-pro/main/skills/email-sequence/SKILL.md
-folder_url: https://github.com/indranilbanerjee/digital-marketing-pro/tree/main/skills/email-sequence
-repo: indranilbanerjee/digital-marketing-pro
-skill_dir: email-sequence
+display_name: Email Sequence
+description: 'Design email sequences. Use when: building subject lines, body copy, timing, segmentation logic, and deliverability
+  plans.'
+authors:
+- indranilbanerjee
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/email-sequence
+  repo: indranilbanerjee/digital-marketing-pro
+metadata: {}
 added_at: '2026-06-05'

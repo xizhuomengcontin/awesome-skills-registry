@@ -1,9 +1,14 @@
 id: huggingface-skills-huggingface-paper-publisher
-description: Publish and manage research papers on Hugging Face Hub. Supports creating
-  paper pages, linking papers to models/datasets, claiming authorship, and generating
-  professional markdown-based research articles.
-url: https://raw.githubusercontent.com/huggingface/skills/main/skills/huggingface-paper-publisher/SKILL.md
-folder_url: https://github.com/huggingface/skills/tree/main/skills/huggingface-paper-publisher
-repo: huggingface/skills
-skill_dir: huggingface-paper-publisher
+display_name: Huggingface Paper Publisher
+description: Publish and manage research papers on Hugging Face Hub. Supports creating paper pages, linking papers to models/datasets,
+  claiming authorship, and generating professional markdown-based research articles.
+authors:
+- huggingface
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/huggingface-paper-publisher
+  repo: huggingface/skills
+metadata: {}
 added_at: '2026-06-05'

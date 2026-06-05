@@ -1,13 +1,17 @@
 id: tech-leads-club-agent-skills-sales-motion-design
-description: When the user wants to choose between PLG and sales-led, design a sales
-  motion, optimize time-to-first-value, or build a value-before-purchase experience.
-  Also use when the user mentions 'PLG,' 'product-led growth,' 'sales-led,' 'sales
-  motion,' 'free trial,' 'freemium,' 'self-serve,' 'demo-first,' 'time-to-first-value,'
-  'TTFV,' or 'agent-led sales.' This skill covers sales motion selection, value delivery
-  design, and go-to-market motion architecture. Do NOT use for technical implementation,
-  code review, or software architecture.
-url: https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(gtm)/sales-motion-design/SKILL.md
-folder_url: https://github.com/tech-leads-club/agent-skills/tree/main/packages/skills-catalog/skills/(gtm)/sales-motion-design
-repo: tech-leads-club/agent-skills
-skill_dir: sales-motion-design
+display_name: Sales Motion Design
+description: When the user wants to choose between PLG and sales-led, design a sales motion, optimize time-to-first-value,
+  or build a value-before-purchase experience. Also use when the user mentions 'PLG,' 'product-led growth,' 'sales-led,' 'sales
+  motion,' 'free trial,' 'freemium,' 'self-serve,' 'demo-first,' 'time-to-first-value,' 'TTFV,' or 'agent-led sales.' This
+  skill covers sales motion selection, value delivery design, and go-to-market motion architecture. Do NOT use for technical
+  implementation, code review, or software architecture.
+authors:
+- tech-leads-club
+is_official: false
+tags: []
+category: none
+source:
+  path: /packages/skills-catalog/skills/(gtm)/sales-motion-design
+  repo: tech-leads-club/agent-skills
+metadata: {}
 added_at: '2026-06-05'

@@ -1,7 +1,13 @@
 id: alinaqi-maggy-playwright-testing
+display_name: Playwright Testing
 description: E2E testing with Playwright - Page Objects, cross-browser, CI/CD
-url: https://raw.githubusercontent.com/alinaqi/maggy/main/skills/playwright-testing/SKILL.md
-folder_url: https://github.com/alinaqi/maggy/tree/main/skills/playwright-testing
-repo: alinaqi/maggy
-skill_dir: playwright-testing
+authors:
+- alinaqi
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/playwright-testing
+  repo: alinaqi/maggy
+metadata: {}
 added_at: '2026-06-05'

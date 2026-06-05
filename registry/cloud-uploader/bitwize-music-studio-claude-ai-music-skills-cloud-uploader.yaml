@@ -1,8 +1,14 @@
 id: bitwize-music-studio-claude-ai-music-skills-cloud-uploader
-description: Uploads promo videos and content to Cloudflare R2 or AWS S3. Use when
-  the user wants to host promo content for social media or distribution.
-url: https://raw.githubusercontent.com/bitwize-music-studio/claude-ai-music-skills/main/skills/cloud-uploader/SKILL.md
-folder_url: https://github.com/bitwize-music-studio/claude-ai-music-skills/tree/main/skills/cloud-uploader
-repo: bitwize-music-studio/claude-ai-music-skills
-skill_dir: cloud-uploader
+display_name: Cloud Uploader
+description: Uploads promo videos and content to Cloudflare R2 or AWS S3. Use when the user wants to host promo content for
+  social media or distribution.
+authors:
+- bitwize-music-studio
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/cloud-uploader
+  repo: bitwize-music-studio/claude-ai-music-skills
+metadata: {}
 added_at: '2026-06-05'

@@ -1,13 +1,17 @@
 id: tech-leads-club-agent-skills-ai-sdr
-description: When the user wants to deploy AI sales development reps, automate sales
-  qualification, build signal-to-action routing, or design AI agent architecture for
-  sales. Also use when the user mentions 'AI SDR,' 'AI sales agent,' 'automated qualification,'
-  'signal routing,' 'sales automation,' '11x,' 'Artisan,' 'AiSDR,' 'AI BDR,' or 'autonomous
-  sales.' This skill covers AI SDR deployment, qualification automation, and agent
-  architecture for sales development. Do NOT use for technical implementation, code
-  review, or software architecture.
-url: https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(gtm)/ai-sdr/SKILL.md
-folder_url: https://github.com/tech-leads-club/agent-skills/tree/main/packages/skills-catalog/skills/(gtm)/ai-sdr
-repo: tech-leads-club/agent-skills
-skill_dir: ai-sdr
+display_name: Ai Sdr
+description: When the user wants to deploy AI sales development reps, automate sales qualification, build signal-to-action
+  routing, or design AI agent architecture for sales. Also use when the user mentions 'AI SDR,' 'AI sales agent,' 'automated
+  qualification,' 'signal routing,' 'sales automation,' '11x,' 'Artisan,' 'AiSDR,' 'AI BDR,' or 'autonomous sales.' This skill
+  covers AI SDR deployment, qualification automation, and agent architecture for sales development. Do NOT use for technical
+  implementation, code review, or software architecture.
+authors:
+- tech-leads-club
+is_official: false
+tags: []
+category: none
+source:
+  path: /packages/skills-catalog/skills/(gtm)/ai-sdr
+  repo: tech-leads-club/agent-skills
+metadata: {}
 added_at: '2026-06-05'

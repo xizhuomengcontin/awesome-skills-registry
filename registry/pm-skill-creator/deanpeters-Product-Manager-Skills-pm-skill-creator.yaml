@@ -1,8 +1,14 @@
 id: deanpeters-Product-Manager-Skills-pm-skill-creator
-description: Design a new PM skill through guided conversation. Use when you have
-  raw content or an idea and want to shape it into a compliant skill.
-url: https://raw.githubusercontent.com/deanpeters/Product-Manager-Skills/main/skills/pm-skill-creator/SKILL.md
-folder_url: https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/pm-skill-creator
-repo: deanpeters/Product-Manager-Skills
-skill_dir: pm-skill-creator
+display_name: Pm Skill Creator
+description: Design a new PM skill through guided conversation. Use when you have raw content or an idea and want to shape
+  it into a compliant skill.
+authors:
+- deanpeters
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/pm-skill-creator
+  repo: deanpeters/Product-Manager-Skills
+metadata: {}
 added_at: '2026-06-05'

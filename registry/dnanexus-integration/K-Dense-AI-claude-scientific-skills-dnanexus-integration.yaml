@@ -1,9 +1,14 @@
 id: K-Dense-AI-claude-scientific-skills-dnanexus-integration
-description: DNAnexus cloud genomics platform. Build apps/applets, manage data (upload/download),
-  dxpy Python SDK, run workflows, FASTQ/BAM/VCF, for genomics pipeline development
-  and execution.
-url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/skills/dnanexus-integration/SKILL.md
-folder_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/dnanexus-integration
-repo: K-Dense-AI/claude-scientific-skills
-skill_dir: dnanexus-integration
+display_name: Dnanexus Integration
+description: DNAnexus cloud genomics platform. Build apps/applets, manage data (upload/download), dxpy Python SDK, run workflows,
+  FASTQ/BAM/VCF, for genomics pipeline development and execution.
+authors:
+- K-Dense-AI
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/dnanexus-integration
+  repo: K-Dense-AI/claude-scientific-skills
+metadata: {}
 added_at: '2026-06-05'

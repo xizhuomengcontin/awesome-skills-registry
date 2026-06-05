@@ -1,8 +1,13 @@
 id: indranilbanerjee-digital-marketing-pro-journey-design
-description: 'Design cross-channel customer journeys. Use when: mapping touchpoints,
-  branching logic, or stage transitions.'
-url: https://raw.githubusercontent.com/indranilbanerjee/digital-marketing-pro/main/skills/journey-design/SKILL.md
-folder_url: https://github.com/indranilbanerjee/digital-marketing-pro/tree/main/skills/journey-design
-repo: indranilbanerjee/digital-marketing-pro
-skill_dir: journey-design
+display_name: Journey Design
+description: 'Design cross-channel customer journeys. Use when: mapping touchpoints, branching logic, or stage transitions.'
+authors:
+- indranilbanerjee
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/journey-design
+  repo: indranilbanerjee/digital-marketing-pro
+metadata: {}
 added_at: '2026-06-05'

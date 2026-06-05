@@ -1,9 +1,14 @@
 id: deanpeters-Product-Manager-Skills-positioning-statement
-description: Create a Geoffrey Moore-style positioning statement. Use when clarifying
-  who you serve, what problem you solve, your category, and why you're different from
-  alternatives.
-url: https://raw.githubusercontent.com/deanpeters/Product-Manager-Skills/main/skills/positioning-statement/SKILL.md
-folder_url: https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/positioning-statement
-repo: deanpeters/Product-Manager-Skills
-skill_dir: positioning-statement
+display_name: Positioning Statement
+description: Create a Geoffrey Moore-style positioning statement. Use when clarifying who you serve, what problem you solve,
+  your category, and why you're different from alternatives.
+authors:
+- deanpeters
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/positioning-statement
+  repo: deanpeters/Product-Manager-Skills
+metadata: {}
 added_at: '2026-06-05'

@@ -1,7 +1,13 @@
 id: alinaqi-maggy-medusa
+display_name: Medusa
 description: Medusa headless commerce - modules, workflows, API routes, admin UI
-url: https://raw.githubusercontent.com/alinaqi/maggy/main/skills/medusa/SKILL.md
-folder_url: https://github.com/alinaqi/maggy/tree/main/skills/medusa
-repo: alinaqi/maggy
-skill_dir: medusa
+authors:
+- alinaqi
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/medusa
+  repo: alinaqi/maggy
+metadata: {}
 added_at: '2026-06-05'

@@ -1,13 +1,17 @@
 id: trycourier-courier-skills-root
-description: Use when building notifications with Courier across email, SMS, push,
-  in-app inbox, Slack, Teams, or WhatsApp. Covers transactional messages (password
-  reset, OTP, orders, billing), growth notifications (onboarding, engagement, referral),
-  multi-channel routing, preferences and topics, reliability and webhooks, journeys
-  (multi-step notification sequences via API), template CRUD and Elemental content,
-  routing strategies, provider configuration, the Courier CLI and MCP server, and
+display_name: Root
+description: Use when building notifications with Courier across email, SMS, push, in-app inbox, Slack, Teams, or WhatsApp.
+  Covers transactional messages (password reset, OTP, orders, billing), growth notifications (onboarding, engagement, referral),
+  multi-channel routing, preferences and topics, reliability and webhooks, journeys (multi-step notification sequences via
+  API), template CRUD and Elemental content, routing strategies, provider configuration, the Courier CLI and MCP server, and
   migrations from Knock, Novu, or other notification systems.
-url: https://raw.githubusercontent.com/trycourier/courier-skills/main/SKILL.md
-folder_url: https://github.com/trycourier/courier-skills/tree/main
-repo: trycourier/courier-skills
-skill_dir: root
+authors:
+- trycourier
+is_official: true
+tags: []
+category: none
+source:
+  path: /
+  repo: trycourier/courier-skills
+metadata: {}
 added_at: '2026-06-05'

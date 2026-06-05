@@ -1,10 +1,15 @@
 id: omkamal-pypict-claude-skill-root
-description: Design comprehensive test cases using PICT (Pairwise Independent Combinatorial
-  Testing) for any piece of requirements or code. Analyzes inputs, generates PICT
-  models with parameters, values, and constraints for valid scenarios using pairwise
+display_name: Root
+description: Design comprehensive test cases using PICT (Pairwise Independent Combinatorial Testing) for any piece of requirements
+  or code. Analyzes inputs, generates PICT models with parameters, values, and constraints for valid scenarios using pairwise
   testing. Outputs the PICT model, markdown table of test cases, and expected results.
-url: https://raw.githubusercontent.com/omkamal/pypict-claude-skill/main/SKILL.md
-folder_url: https://github.com/omkamal/pypict-claude-skill/tree/main
-repo: omkamal/pypict-claude-skill
-skill_dir: root
+authors:
+- omkamal
+is_official: false
+tags: []
+category: none
+source:
+  path: /
+  repo: omkamal/pypict-claude-skill
+metadata: {}
 added_at: '2026-06-05'

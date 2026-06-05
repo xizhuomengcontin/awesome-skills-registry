@@ -1,12 +1,16 @@
 id: tech-leads-club-agent-skills-perf-lighthouse
-description: 'Run Lighthouse audits locally via CLI or Node API, parse and interpret
-  reports, and set performance budgets. Use when measuring site performance, understanding
-  Lighthouse scores, setting up budgets, or integrating audits into CI. Triggers on:
-  lighthouse, run lighthouse, lighthouse score, performance audit, performance budget.
-  Do NOT use for fixing specific performance issues (use perf-web-optimization or
-  core-web-vitals) or Astro-specific optimization (use perf-astro).'
-url: https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(performance)/perf-lighthouse/SKILL.md
-folder_url: https://github.com/tech-leads-club/agent-skills/tree/main/packages/skills-catalog/skills/(performance)/perf-lighthouse
-repo: tech-leads-club/agent-skills
-skill_dir: perf-lighthouse
+display_name: Perf Lighthouse
+description: 'Run Lighthouse audits locally via CLI or Node API, parse and interpret reports, and set performance budgets.
+  Use when measuring site performance, understanding Lighthouse scores, setting up budgets, or integrating audits into CI.
+  Triggers on: lighthouse, run lighthouse, lighthouse score, performance audit, performance budget. Do NOT use for fixing
+  specific performance issues (use perf-web-optimization or core-web-vitals) or Astro-specific optimization (use perf-astro).'
+authors:
+- tech-leads-club
+is_official: false
+tags: []
+category: none
+source:
+  path: /packages/skills-catalog/skills/(performance)/perf-lighthouse
+  repo: tech-leads-club/agent-skills
+metadata: {}
 added_at: '2026-06-05'
