@@ -315,9 +315,12 @@ def write_skill_yaml(
     filepath = target_dir / filename
 
     entry_id = f"{skill_file.owner}-{skill_file.repo}-{skill_file.skill_dir}"
+    raw_desc = metadata.get("description", "")
+    description = re.sub(r"\s+", " ", raw_desc).strip()
+
     entry = {
         "id": entry_id,
-        "description": metadata.get("description", ""),
+        "description": description,
         "url": skill_file.raw_url,
         "folder_url": skill_file.folder_url,
         "repo": f"{skill_file.owner}/{skill_file.repo}",

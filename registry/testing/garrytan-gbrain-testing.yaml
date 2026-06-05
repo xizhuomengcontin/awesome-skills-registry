@@ -1,15 +1,7 @@
 id: garrytan-gbrain-testing
-description: 'Skill validation framework PLUS daily test-suite health and regression
-
-  intelligence. Validates skill conformance (frontmatter, manifest coverage,
-
-  resolver coverage). Runs the project test suite in tiered phases (unit /
-
-  evals / integration / system health), classifies failures, and produces
-
-  a regression-aware report.
-
-  '
+description: Skill validation framework PLUS daily test-suite health and regression intelligence. Validates skill conformance
+  (frontmatter, manifest coverage, resolver coverage). Runs the project test suite in tiered phases (unit / evals / integration
+  / system health), classifies failures, and produces a regression-aware report.
 url: https://raw.githubusercontent.com/garrytan/gbrain/master/skills/testing/SKILL.md
 folder_url: https://github.com/garrytan/gbrain/tree/master/skills/testing
 repo: garrytan/gbrain

@@ -1,8 +1,7 @@
 id: garrytan-gbrain-brain-taxonomist
-description: "Filing gate for ALL brain writes. Consulted before creating any new\n\
-  brain page to determine the correct path. Reads the ACTIVE schema pack\nvia `gbrain\
-  \ schema show --json` \u2014 no hardcoded directory table. Also\nruns periodic taxonomy\
-  \ drift detection via `gbrain schema review-orphans`.\n"
+description: Filing gate for ALL brain writes. Consulted before creating any new brain page to determine the correct path.
+  Reads the ACTIVE schema pack via `gbrain schema show --json` — no hardcoded directory table. Also runs periodic taxonomy
+  drift detection via `gbrain schema review-orphans`.
 url: https://raw.githubusercontent.com/garrytan/gbrain/master/skills/brain-taxonomist/SKILL.md
 folder_url: https://github.com/garrytan/gbrain/tree/master/skills/brain-taxonomist
 repo: garrytan/gbrain

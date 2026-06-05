@@ -1,14 +1,7 @@
 id: garrytan-gbrain-citation-fixer
-description: 'Audit and fix citation formatting across brain pages. Ensures every
-  fact has
-
-  an inline [Source: ...] citation matching the standard format. Extended in
-
-  v0.25.1: scans for broken tweet/post references that lack actual URLs and
-
-  resolves them via the host''s X / Twitter API integration.
-
-  '
+description: 'Audit and fix citation formatting across brain pages. Ensures every fact has an inline [Source: ...] citation
+  matching the standard format. Extended in v0.25.1: scans for broken tweet/post references that lack actual URLs and resolves
+  them via the host''s X / Twitter API integration.'
 url: https://raw.githubusercontent.com/garrytan/gbrain/master/skills/citation-fixer/SKILL.md
 folder_url: https://github.com/garrytan/gbrain/tree/master/skills/citation-fixer
 repo: garrytan/gbrain

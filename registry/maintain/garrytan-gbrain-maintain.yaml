@@ -1,11 +1,6 @@
 id: garrytan-gbrain-maintain
-description: 'Brain health checks: back-link enforcement, citation audit, filing validation,
-
-  stale info detection, orphan pages, and benchmarks. Use when asked to check
-
-  brain health, run maintenance, or audit quality.
-
-  '
+description: 'Brain health checks: back-link enforcement, citation audit, filing validation, stale info detection, orphan
+  pages, and benchmarks. Use when asked to check brain health, run maintenance, or audit quality.'
 url: https://raw.githubusercontent.com/garrytan/gbrain/master/skills/maintain/SKILL.md
 folder_url: https://github.com/garrytan/gbrain/tree/master/skills/maintain
 repo: garrytan/gbrain

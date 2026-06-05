@@ -1,12 +1,6 @@
 id: garrytan-gbrain-signal-detector
-description: 'Always-on ambient signal capture. Fires on every inbound message to
-  detect
-
-  original thinking and entity mentions. Spawn as a cheap sub-agent in parallel,
-
-  never block the main response.
-
-  '
+description: Always-on ambient signal capture. Fires on every inbound message to detect original thinking and entity mentions.
+  Spawn as a cheap sub-agent in parallel, never block the main response.
 url: https://raw.githubusercontent.com/garrytan/gbrain/master/skills/signal-detector/SKILL.md
 folder_url: https://github.com/garrytan/gbrain/tree/master/skills/signal-detector
 repo: garrytan/gbrain

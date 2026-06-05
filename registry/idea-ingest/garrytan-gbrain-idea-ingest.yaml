@@ -1,12 +1,6 @@
 id: garrytan-gbrain-idea-ingest
-description: 'Ingest links, articles, tweets, and ideas into the brain. Fetch content,
-  save
-
-  to brain with analysis, create author people page, and cross-link. Use when the
-
-  user shares a link or says "read this", "save this", "think about this".
-
-  '
+description: Ingest links, articles, tweets, and ideas into the brain. Fetch content, save to brain with analysis, create
+  author people page, and cross-link. Use when the user shares a link or says "read this", "save this", "think about this".
 url: https://raw.githubusercontent.com/garrytan/gbrain/master/skills/idea-ingest/SKILL.md
 folder_url: https://github.com/garrytan/gbrain/tree/master/skills/idea-ingest
 repo: garrytan/gbrain

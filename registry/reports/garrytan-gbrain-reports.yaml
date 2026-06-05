@@ -1,10 +1,6 @@
 id: garrytan-gbrain-reports
-description: 'Save and load timestamped reports. Keyword routing for fast lookup.
-  Cron jobs
-
-  save output as reports; the agent or user queries them by keyword.
-
-  '
+description: Save and load timestamped reports. Keyword routing for fast lookup. Cron jobs save output as reports; the agent
+  or user queries them by keyword.
 url: https://raw.githubusercontent.com/garrytan/gbrain/master/skills/reports/SKILL.md
 folder_url: https://github.com/garrytan/gbrain/tree/master/skills/reports
 repo: garrytan/gbrain
