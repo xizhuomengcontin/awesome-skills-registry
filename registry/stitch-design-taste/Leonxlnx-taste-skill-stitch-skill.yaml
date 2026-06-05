@@ -1,0 +1,10 @@
+id: Leonxlnx-taste-skill-stitch-skill
+description: "Semantic Design System Skill for Google Stitch. Generates agent-friendly\
+  \ DESIGN.md files that enforce premium, anti-generic UI standards \u2014 strict\
+  \ typography, calibrated color, asymmetric layouts, perpetual micro-motion, and\
+  \ hardware-accelerated performance."
+url: https://raw.githubusercontent.com/Leonxlnx/taste-skill/main/skills/stitch-skill/SKILL.md
+folder_url: https://github.com/Leonxlnx/taste-skill/tree/main/skills/stitch-skill
+repo: Leonxlnx/taste-skill
+skill_dir: stitch-skill
+added_at: '2026-06-05'

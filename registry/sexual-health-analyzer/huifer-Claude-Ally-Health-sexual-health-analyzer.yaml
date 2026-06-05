@@ -1,0 +1,12 @@
+id: huifer-Claude-Ally-Health-sexual-health-analyzer
+description: "\u672C\u6280\u80FD\u63D0\u4F9B\u5168\u9762\u7684\u6027\u5065\u5EB7\u6570\
+  \u636E\u5206\u6790\u529F\u80FD,\u5305\u62ECIIEF-5\u8BC4\u5206\u5206\u6790\u3001\
+  STD\u7B5B\u67E5\u7BA1\u7406\u3001\u907F\u5B55\u6548\u679C\u8BC4\u4F30\u3001\u6027\
+  \u6D3B\u52A8\u7EDF\u8BA1\u4EE5\u53CA\u4E0E\u7528\u836F\u3001\u6162\u6027\u75C5\u3001\
+  \u5FC3\u7406\u3001\u8425\u517B\u3001\u8FD0\u52A8\u7B49\u6A21\u5757\u7684\u6DF1\u5EA6\
+  \u5173\u8054\u5206\u6790\u3002"
+url: https://raw.githubusercontent.com/huifer/Claude-Ally-Health/main/skills/sexual-health-analyzer/SKILL.md
+folder_url: https://github.com/huifer/Claude-Ally-Health/tree/main/skills/sexual-health-analyzer
+repo: huifer/Claude-Ally-Health
+skill_dir: sexual-health-analyzer
+added_at: '2026-06-05'

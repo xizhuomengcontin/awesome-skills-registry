@@ -1,0 +1,12 @@
+id: blader-humanizer-root
+description: 'Remove signs of AI-generated writing from text. Use when editing or
+  reviewing text to make it sound more natural and human-written. Based on Wikipedia''s
+  comprehensive "Signs of AI writing" guide. Detects and fixes patterns including:
+  inflated symbolism, promotional language, superficial -ing analyses, vague attributions,
+  em dash overuse, rule of three, AI vocabulary words, passive voice, negative parallelisms,
+  and filler phrases.'
+url: https://raw.githubusercontent.com/blader/humanizer/main/SKILL.md
+folder_url: https://github.com/blader/humanizer/tree/main
+repo: blader/humanizer
+skill_dir: root
+added_at: '2026-06-05'

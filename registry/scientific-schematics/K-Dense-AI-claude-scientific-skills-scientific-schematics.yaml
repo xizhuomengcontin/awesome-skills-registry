@@ -1,0 +1,11 @@
+id: K-Dense-AI-claude-scientific-skills-scientific-schematics
+description: Create publication-quality scientific diagrams using Nano Banana 2 AI
+  with smart iterative refinement. Uses Gemini 3.1 Pro Preview for quality review.
+  Only regenerates if quality is below threshold for your document type. Specialized
+  in neural network architectures, system diagrams, flowcharts, biological pathways,
+  and complex scientific visualizations.
+url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/skills/scientific-schematics/SKILL.md
+folder_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/scientific-schematics
+repo: K-Dense-AI/claude-scientific-skills
+skill_dir: scientific-schematics
+added_at: '2026-06-05'

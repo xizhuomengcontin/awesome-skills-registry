@@ -1,0 +1,16 @@
+id: Eronred-aso-skills-web-to-app-funnel
+description: "When the user wants to design or optimize the funnel that takes web\
+  \ visitors into installing and onboarding the app \u2014 including smart app banners,\
+  \ web-to-app deep links, deferred deep links, web onboarding (Stripe-paid web flow\
+  \ before app install), QR codes, \"open in app\" CTAs, and the trade-off between\
+  \ paying on web vs in-app. Use when the user mentions \"web to app\", \"smart app\
+  \ banner\", \"Stripe before app\", \"web paywall before install\", \"Branch web\
+  \ SDK\", \"web funnel for app\", \"AppsFlyer OneLink web\", \"Universal Links\"\
+  , \"App Links\", \"QR code to app\", \"open in app\", \"deferred deep link from\
+  \ web\", or \"should I sell on web first then push to app\". For pure in-app onboarding,\
+  \ see onboarding-optimization. For deep link infra, see attribution-setup."
+url: https://raw.githubusercontent.com/Eronred/aso-skills/main/skills/web-to-app-funnel/SKILL.md
+folder_url: https://github.com/Eronred/aso-skills/tree/main/skills/web-to-app-funnel
+repo: Eronred/aso-skills
+skill_dir: web-to-app-funnel
+added_at: '2026-06-05'

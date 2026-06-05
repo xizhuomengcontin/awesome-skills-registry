@@ -1,0 +1,10 @@
+id: K-Dense-AI-claude-scientific-skills-torch-geometric
+description: "PyTorch Geometric (PyG) for graph neural networks \u2014 node/link/graph\
+  \ classification, message passing (GCN, GAT, GraphSAGE, GIN), heterogeneous graphs,\
+  \ neighbor sampling, and custom datasets. Use when working with torch_geometric,\
+  \ not for general NetworkX analytics or non-graph PyTorch models."
+url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/skills/torch-geometric/SKILL.md
+folder_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/torch-geometric
+repo: K-Dense-AI/claude-scientific-skills
+skill_dir: torch-geometric
+added_at: '2026-06-05'

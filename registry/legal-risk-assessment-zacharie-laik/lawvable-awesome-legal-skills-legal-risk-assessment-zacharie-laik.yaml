@@ -1,0 +1,13 @@
+id: lawvable-awesome-legal-skills-legal-risk-assessment-zacharie-laik
+description: "Conduct legal research and risk analysis using GoodLegal MCP tools.\
+  \ Use this skill whenever the user asks a legal question, wants to research case\
+  \ law or legislation, needs a legal risk assessment, or asks about French or EU\
+  \ law. Trigger on any mention of jurisprudence, legal research, contract risk, regulatory\
+  \ analysis, legal memo, or references to GoodLegal tools \u2014 even if the user\
+  \ just says something like \"can you look into whether this clause is enforceable\"\
+  \ or \"what does the case law say about X\"."
+url: https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/legal-risk-assessment-zacharie-laik/SKILL.md
+folder_url: https://github.com/lawvable/awesome-legal-skills/tree/main/skills/legal-risk-assessment-zacharie-laik
+repo: lawvable/awesome-legal-skills
+skill_dir: legal-risk-assessment-zacharie-laik
+added_at: '2026-06-05'

@@ -1,0 +1,9 @@
+id: mattpocock-skills-migrate-to-shoehorn
+description: Migrate test files from `as` type assertions to @total-typescript/shoehorn.
+  Use when user mentions shoehorn, wants to replace `as` in tests, or needs partial
+  test data.
+url: https://raw.githubusercontent.com/mattpocock/skills/main/skills/misc/migrate-to-shoehorn/SKILL.md
+folder_url: https://github.com/mattpocock/skills/tree/main/skills/misc/migrate-to-shoehorn
+repo: mattpocock/skills
+skill_dir: migrate-to-shoehorn
+added_at: '2026-06-05'

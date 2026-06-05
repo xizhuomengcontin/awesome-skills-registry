@@ -1,0 +1,9 @@
+id: cypress-io-ai-toolkit-cypress-docs
+description: Search and extract Cypress information from official documentation (docs.cypress.io,
+  cypress.io); prefer LLM markdown under /llm/* and refuse unverified API or behavior
+  claims.
+url: https://raw.githubusercontent.com/cypress-io/ai-toolkit/main/skills/cypress-docs/SKILL.md
+folder_url: https://github.com/cypress-io/ai-toolkit/tree/main/skills/cypress-docs
+repo: cypress-io/ai-toolkit
+skill_dir: cypress-docs
+added_at: '2026-06-05'

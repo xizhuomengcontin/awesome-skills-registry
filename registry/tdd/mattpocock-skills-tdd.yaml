@@ -1,0 +1,9 @@
+id: mattpocock-skills-tdd
+description: Test-driven development with red-green-refactor loop. Use when user wants
+  to build features or fix bugs using TDD, mentions "red-green-refactor", wants integration
+  tests, or asks for test-first development.
+url: https://raw.githubusercontent.com/mattpocock/skills/main/skills/engineering/tdd/SKILL.md
+folder_url: https://github.com/mattpocock/skills/tree/main/skills/engineering/tdd
+repo: mattpocock/skills
+skill_dir: tdd
+added_at: '2026-06-05'

@@ -1,0 +1,10 @@
+id: K-Dense-AI-claude-scientific-skills-seaborn
+description: Statistical visualization with pandas integration. Use for quick exploration
+  of distributions, relationships, and categorical comparisons with attractive defaults.
+  Best for box plots, violin plots, pair plots, heatmaps. Built on matplotlib. For
+  interactive plots use plotly; for publication styling use scientific-visualization.
+url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/skills/seaborn/SKILL.md
+folder_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/seaborn
+repo: K-Dense-AI/claude-scientific-skills
+skill_dir: seaborn
+added_at: '2026-06-05'

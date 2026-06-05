@@ -1,0 +1,9 @@
+id: indranilbanerjee-digital-marketing-pro-check
+description: "Run the unified pre-publish quality gate on marketing content \u2014\
+  \ hallucination detection, claim verification, brand voice scoring, structure validation.\
+  \ Use before publishing any marketing copy."
+url: https://raw.githubusercontent.com/indranilbanerjee/digital-marketing-pro/main/skills/check/SKILL.md
+folder_url: https://github.com/indranilbanerjee/digital-marketing-pro/tree/main/skills/check
+repo: indranilbanerjee/digital-marketing-pro
+skill_dir: check
+added_at: '2026-06-05'

@@ -1,0 +1,11 @@
+id: Eronred-aso-skills-aso-audit
+description: When the user wants a full ASO health audit, review their App Store listing
+  quality, or diagnose why their app isn't ranking. Also use when the user mentions
+  "ASO audit", "ASO score", "why am I not ranking", "listing review", or "optimize
+  my app store page". For keyword-specific research, see keyword-research. For metadata
+  writing, see metadata-optimization.
+url: https://raw.githubusercontent.com/Eronred/aso-skills/main/skills/aso-audit/SKILL.md
+folder_url: https://github.com/Eronred/aso-skills/tree/main/skills/aso-audit
+repo: Eronred/aso-skills
+skill_dir: aso-audit
+added_at: '2026-06-05'

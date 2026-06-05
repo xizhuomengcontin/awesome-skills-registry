@@ -1,0 +1,13 @@
+id: Eronred-aso-skills-subscription-lifecycle
+description: "When the user wants to optimize their subscription business end-to-end\
+  \ \u2014 from trial start through renewal, cancellation, and win-back. Use when\
+  \ the user mentions \"subscription lifecycle\", \"trial conversion\", \"churn\"\
+  , \"cancellation\", \"win-back\", \"lapsed subscribers\", \"dunning\", \"billing\
+  \ retry\", \"grace period\", \"renewal rate\", \"subscriber LTV\", or \"resubscribe\"\
+  . For paywall design and pricing strategy, see monetization-strategy. For subscription\
+  \ analytics dashboards, see app-analytics."
+url: https://raw.githubusercontent.com/Eronred/aso-skills/main/skills/subscription-lifecycle/SKILL.md
+folder_url: https://github.com/Eronred/aso-skills/tree/main/skills/subscription-lifecycle
+repo: Eronred/aso-skills
+skill_dir: subscription-lifecycle
+added_at: '2026-06-05'

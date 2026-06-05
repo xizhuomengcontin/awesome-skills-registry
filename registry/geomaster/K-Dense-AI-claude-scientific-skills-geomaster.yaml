@@ -1,0 +1,15 @@
+id: K-Dense-AI-claude-scientific-skills-geomaster
+description: Comprehensive geospatial science skill covering remote sensing, GIS,
+  spatial analysis, machine learning for earth observation, and 30+ scientific domains.
+  Supports satellite imagery processing (Sentinel, Landsat, MODIS, SAR, hyperspectral),
+  vector and raster data operations, spatial statistics, point cloud processing, network
+  analysis, cloud-native workflows (STAC, COG, Planetary Computer), and 8 programming
+  languages (Python, R, Julia, JavaScript, C++, Java, Go, Rust) with 500+ code examples.
+  Use for remote sensing workflows, GIS analysis, spatial ML, Earth observation data
+  processing, terrain analysis, hydrological modeling, marine spatial analysis, atmospheric
+  science, and any geospatial computation task.
+url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/skills/geomaster/SKILL.md
+folder_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/geomaster
+repo: K-Dense-AI/claude-scientific-skills
+skill_dir: geomaster
+added_at: '2026-06-05'

@@ -1,0 +1,13 @@
+id: K-Dense-AI-claude-scientific-skills-matlab
+description: MATLAB and GNU Octave numerical computing for matrix operations, data
+  analysis, visualization, and scientific computing. Use when writing MATLAB/Octave
+  scripts for linear algebra, signal processing, image processing, differential equations,
+  optimization, statistics, or creating scientific visualizations. Also use when the
+  user needs help with MATLAB syntax, functions, or wants to convert between MATLAB
+  and Python code. Scripts can be executed with MATLAB or the open-source GNU Octave
+  interpreter.
+url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/skills/matlab/SKILL.md
+folder_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/matlab
+repo: K-Dense-AI/claude-scientific-skills
+skill_dir: matlab
+added_at: '2026-06-05'

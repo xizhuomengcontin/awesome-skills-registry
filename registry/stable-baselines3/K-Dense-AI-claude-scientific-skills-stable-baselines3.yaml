@@ -1,0 +1,11 @@
+id: K-Dense-AI-claude-scientific-skills-stable-baselines3
+description: Production-ready reinforcement learning algorithms (PPO, SAC, DQN, TD3,
+  DDPG, A2C) with scikit-learn-like API. Use for standard RL experiments, quick prototyping,
+  and well-documented algorithm implementations. Best for single-agent RL with Gymnasium
+  environments. For high-performance parallel training, multi-agent systems, or custom
+  vectorized environments, use pufferlib instead.
+url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/skills/stable-baselines3/SKILL.md
+folder_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/stable-baselines3
+repo: K-Dense-AI/claude-scientific-skills
+skill_dir: stable-baselines3
+added_at: '2026-06-05'

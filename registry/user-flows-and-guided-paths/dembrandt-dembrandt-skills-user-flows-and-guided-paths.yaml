@@ -1,0 +1,11 @@
+id: dembrandt-dembrandt-skills-user-flows-and-guided-paths
+description: "Related features and tasks \u2014 such as purchase flows, onboarding,\
+  \ or multi-step configuration \u2014 should be designed as natural, guided paths\
+  \ that feel coherent and fit the product hierarchy. Use wizards for complex sequential\
+  \ tasks. Use when designing flows, onboarding, checkout, setup sequences, or any\
+  \ multi-step user journey."
+url: https://raw.githubusercontent.com/dembrandt/dembrandt-skills/main/skills/user-flows-and-guided-paths/SKILL.md
+folder_url: https://github.com/dembrandt/dembrandt-skills/tree/main/skills/user-flows-and-guided-paths
+repo: dembrandt/dembrandt-skills
+skill_dir: user-flows-and-guided-paths
+added_at: '2026-06-05'

@@ -1,0 +1,10 @@
+id: K-Dense-AI-claude-scientific-skills-astropy
+description: Core Python library for astronomy and astrophysics workflows that need
+  Astropy APIs, including units/quantities, coordinates, FITS I/O, tables, time systems,
+  WCS, and cosmology. Use when implementing or debugging astronomical data analysis
+  code with Astropy.
+url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/skills/astropy/SKILL.md
+folder_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/astropy
+repo: K-Dense-AI/claude-scientific-skills
+skill_dir: astropy
+added_at: '2026-06-05'

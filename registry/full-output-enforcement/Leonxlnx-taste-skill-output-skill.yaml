@@ -1,0 +1,9 @@
+id: Leonxlnx-taste-skill-output-skill
+description: Overrides default LLM truncation behavior. Enforces complete code generation,
+  bans placeholder patterns, and handles token-limit splits cleanly. Apply to any
+  task requiring exhaustive, unabridged output.
+url: https://raw.githubusercontent.com/Leonxlnx/taste-skill/main/skills/output-skill/SKILL.md
+folder_url: https://github.com/Leonxlnx/taste-skill/tree/main/skills/output-skill
+repo: Leonxlnx/taste-skill
+skill_dir: output-skill
+added_at: '2026-06-05'

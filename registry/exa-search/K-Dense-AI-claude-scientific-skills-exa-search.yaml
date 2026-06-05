@@ -1,0 +1,13 @@
+id: K-Dense-AI-claude-scientific-skills-exa-search
+description: "Web toolkit powered by Exa, tuned for scientific and technical content.\
+  \ Use this skill when the user needs to search the web or fetch/extract URL content.\
+  \ Covers: web search (semantic lookups, research, current info \u2014 with optional\
+  \ research-paper category and academic domain filtering) and URL extraction (fetching\
+  \ pages, articles, academic PDFs in batch). Use this skill for web-related tasks\
+  \ when the user wants high-quality search or scholarly filtering via category=research\
+  \ paper. Triggers on requests to search, look up, fetch a page, or extract an article."
+url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/skills/exa-search/SKILL.md
+folder_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/exa-search
+repo: K-Dense-AI/claude-scientific-skills
+skill_dir: exa-search
+added_at: '2026-06-05'

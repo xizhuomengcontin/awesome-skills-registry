@@ -1,0 +1,10 @@
+id: K-Dense-AI-claude-scientific-skills-simpy
+description: Process-based discrete-event simulation framework in Python. Use this
+  skill when building simulations of systems with processes, queues, resources, and
+  time-based events such as manufacturing systems, service operations, network traffic,
+  logistics, or any system where entities interact with shared resources over time.
+url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/skills/simpy/SKILL.md
+folder_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/simpy
+repo: K-Dense-AI/claude-scientific-skills
+skill_dir: simpy
+added_at: '2026-06-05'

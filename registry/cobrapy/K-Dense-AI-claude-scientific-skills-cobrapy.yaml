@@ -1,0 +1,8 @@
+id: K-Dense-AI-claude-scientific-skills-cobrapy
+description: Constraint-based metabolic modeling (COBRA). FBA, FVA, gene knockouts,
+  flux sampling, SBML models, for systems biology and metabolic engineering analysis.
+url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/skills/cobrapy/SKILL.md
+folder_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/cobrapy
+repo: K-Dense-AI/claude-scientific-skills
+skill_dir: cobrapy
+added_at: '2026-06-05'

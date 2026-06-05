@@ -1,0 +1,9 @@
+id: mattpocock-skills-request-refactor-plan
+description: Create a detailed refactor plan with tiny commits via user interview,
+  then file it as a GitHub issue. Use when user wants to plan a refactor, create a
+  refactoring RFC, or break a refactor into safe incremental steps.
+url: https://raw.githubusercontent.com/mattpocock/skills/main/skills/deprecated/request-refactor-plan/SKILL.md
+folder_url: https://github.com/mattpocock/skills/tree/main/skills/deprecated/request-refactor-plan
+repo: mattpocock/skills
+skill_dir: request-refactor-plan
+added_at: '2026-06-05'

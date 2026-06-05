@@ -1,0 +1,9 @@
+id: K-Dense-AI-claude-scientific-skills-zarr-python
+description: Chunked N-D arrays for cloud storage (Zarr-Python 3). Compressed arrays,
+  parallel I/O, S3/GCS via fsspec, NumPy/Dask/Xarray compatible, for large-scale scientific
+  computing pipelines.
+url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/skills/zarr-python/SKILL.md
+folder_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/zarr-python
+repo: K-Dense-AI/claude-scientific-skills
+skill_dir: zarr-python
+added_at: '2026-06-05'

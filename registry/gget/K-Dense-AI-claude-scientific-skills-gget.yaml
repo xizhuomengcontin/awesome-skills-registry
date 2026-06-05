@@ -1,0 +1,10 @@
+id: K-Dense-AI-claude-scientific-skills-gget
+description: 'Fast CLI/Python queries to 20+ bioinformatics databases. Use for quick
+  lookups: gene info, BLAST searches, AlphaFold structures, enrichment analysis. Best
+  for interactive exploration, simple queries. For batch processing or advanced BLAST
+  use biopython; for multi-database Python workflows use bioservices.'
+url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/skills/gget/SKILL.md
+folder_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/gget
+repo: K-Dense-AI/claude-scientific-skills
+skill_dir: gget
+added_at: '2026-06-05'

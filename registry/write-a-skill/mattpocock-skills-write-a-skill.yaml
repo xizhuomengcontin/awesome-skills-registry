@@ -1,0 +1,8 @@
+id: mattpocock-skills-write-a-skill
+description: Create new agent skills with proper structure, progressive disclosure,
+  and bundled resources. Use when user wants to create, write, or build a new skill.
+url: https://raw.githubusercontent.com/mattpocock/skills/main/skills/productivity/write-a-skill/SKILL.md
+folder_url: https://github.com/mattpocock/skills/tree/main/skills/productivity/write-a-skill
+repo: mattpocock/skills
+skill_dir: write-a-skill
+added_at: '2026-06-05'

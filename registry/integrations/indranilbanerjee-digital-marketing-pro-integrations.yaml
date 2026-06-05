@@ -1,0 +1,8 @@
+id: indranilbanerjee-digital-marketing-pro-integrations
+description: 'Show MCP integration status. Use when: checking active connectors, available
+  integrations, or skill unlocks.'
+url: https://raw.githubusercontent.com/indranilbanerjee/digital-marketing-pro/main/skills/integrations/SKILL.md
+folder_url: https://github.com/indranilbanerjee/digital-marketing-pro/tree/main/skills/integrations
+repo: indranilbanerjee/digital-marketing-pro
+skill_dir: integrations
+added_at: '2026-06-05'

@@ -1,0 +1,9 @@
+id: K-Dense-AI-claude-scientific-skills-umap-learn
+description: UMAP dimensionality reduction. Fast nonlinear manifold learning for 2D/3D
+  visualization, clustering preprocessing (HDBSCAN), supervised/parametric UMAP, for
+  high-dimensional data.
+url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/skills/umap-learn/SKILL.md
+folder_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/umap-learn
+repo: K-Dense-AI/claude-scientific-skills
+skill_dir: umap-learn
+added_at: '2026-06-05'

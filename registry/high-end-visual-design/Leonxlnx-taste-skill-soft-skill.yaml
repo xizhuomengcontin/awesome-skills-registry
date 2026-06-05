@@ -1,0 +1,9 @@
+id: Leonxlnx-taste-skill-soft-skill
+description: Teaches the AI to design like a high-end agency. Defines the exact fonts,
+  spacing, shadows, card structures, and animations that make a website feel expensive.
+  Blocks all the common defaults that make AI designs look cheap or generic.
+url: https://raw.githubusercontent.com/Leonxlnx/taste-skill/main/skills/soft-skill/SKILL.md
+folder_url: https://github.com/Leonxlnx/taste-skill/tree/main/skills/soft-skill
+repo: Leonxlnx/taste-skill
+skill_dir: soft-skill
+added_at: '2026-06-05'

@@ -1,0 +1,12 @@
+id: K-Dense-AI-claude-scientific-skills-xlsx
+description: Create, edit, analyze, or convert Excel spreadsheets (.xlsx, .xlsm) where
+  the workbook file is the primary deliverable. Use for formulas, formatting, financial
+  models, multi-sheet workbooks, and tabular cleanup exported to Excel. Also applies
+  to .csv/.tsv when the user wants spreadsheet output. Do NOT use for Word documents,
+  HTML reports, standalone Python scripts, database pipelines, or Google Sheets API
+  work.
+url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/skills/xlsx/SKILL.md
+folder_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/xlsx
+repo: K-Dense-AI/claude-scientific-skills
+skill_dir: xlsx
+added_at: '2026-06-05'

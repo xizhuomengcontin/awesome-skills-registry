@@ -1,0 +1,15 @@
+id: Eronred-aso-skills-custom-product-pages
+description: "When the user wants to design, deploy, or measure Apple Custom Product\
+  \ Pages (CPP) \u2014 the alternate App Store product pages with different screenshots,\
+  \ preview videos, and promo text shown to users coming from specific URLs (typically\
+  \ ad campaigns or social posts). Use when the user mentions \"Custom Product Page\"\
+  , \"CPP\", \"alternate product page\", \"App Store URL variant\", \"ASA CPP\", \"\
+  campaign-specific landing page\", \"product page per audience\", \"App Store Connect\
+  \ CPP\", \"ppoUrl\", \"?cpp=\" parameter, or \"show different screenshots to different\
+  \ ad audiences\". For App Store A/B tests on the default page, see ab-test-store-listing.\
+  \ For paid ad campaigns that route to CPPs, see apple-search-ads or ua-campaign."
+url: https://raw.githubusercontent.com/Eronred/aso-skills/main/skills/custom-product-pages/SKILL.md
+folder_url: https://github.com/Eronred/aso-skills/tree/main/skills/custom-product-pages
+repo: Eronred/aso-skills
+skill_dir: custom-product-pages
+added_at: '2026-06-05'

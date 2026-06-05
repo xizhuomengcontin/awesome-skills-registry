@@ -1,0 +1,10 @@
+id: K-Dense-AI-claude-scientific-skills-gtars
+description: High-performance toolkit for genomic interval analysis in Rust with Python
+  bindings. Use when working with genomic regions, BED files, coverage tracks, overlap
+  detection, tokenization for ML models, or fragment analysis in computational genomics
+  and machine learning applications.
+url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/skills/gtars/SKILL.md
+folder_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/gtars
+repo: K-Dense-AI/claude-scientific-skills
+skill_dir: gtars
+added_at: '2026-06-05'

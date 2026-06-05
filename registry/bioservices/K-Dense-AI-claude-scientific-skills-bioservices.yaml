@@ -1,0 +1,10 @@
+id: K-Dense-AI-claude-scientific-skills-bioservices
+description: Unified Python interface to 40+ bioinformatics services. Use when querying
+  multiple databases (UniProt, KEGG, ChEMBL, Reactome) in a single workflow with consistent
+  API. Best for cross-database analysis, ID mapping across services. For quick single-database
+  lookups use gget; for sequence/file manipulation use biopython.
+url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/skills/bioservices/SKILL.md
+folder_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/bioservices
+repo: K-Dense-AI/claude-scientific-skills
+skill_dir: bioservices
+added_at: '2026-06-05'

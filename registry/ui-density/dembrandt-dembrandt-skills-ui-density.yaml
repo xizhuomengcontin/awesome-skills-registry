@@ -1,0 +1,11 @@
+id: dembrandt-dembrandt-skills-ui-density
+description: "UI density \u2014 how much information and how many features appear\
+  \ at once \u2014 should match the primary platform and user type. Desktop supports\
+  \ dense, feature-rich interfaces; mobile requires focused, reduced layouts. Enterprise\
+  \ power users tolerate higher density than occasional users. Use when designing\
+  \ data tables, dashboards, toolbars, or adapting a desktop product for mobile."
+url: https://raw.githubusercontent.com/dembrandt/dembrandt-skills/main/skills/ui-density/SKILL.md
+folder_url: https://github.com/dembrandt/dembrandt-skills/tree/main/skills/ui-density
+repo: dembrandt/dembrandt-skills
+skill_dir: ui-density
+added_at: '2026-06-05'

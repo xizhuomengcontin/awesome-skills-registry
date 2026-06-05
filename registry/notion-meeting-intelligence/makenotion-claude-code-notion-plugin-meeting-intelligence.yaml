@@ -1,0 +1,10 @@
+id: makenotion-claude-code-notion-plugin-meeting-intelligence
+description: Prepares meeting materials by gathering context from Notion, enriching
+  with Claude research, and creating both an internal pre-read and external agenda
+  saved to Notion. Helps you arrive prepared with comprehensive background and structured
+  meeting docs.
+url: https://raw.githubusercontent.com/makenotion/claude-code-notion-plugin/main/skills/notion/meeting-intelligence/SKILL.md
+folder_url: https://github.com/makenotion/claude-code-notion-plugin/tree/main/skills/notion/meeting-intelligence
+repo: makenotion/claude-code-notion-plugin
+skill_dir: meeting-intelligence
+added_at: '2026-06-05'

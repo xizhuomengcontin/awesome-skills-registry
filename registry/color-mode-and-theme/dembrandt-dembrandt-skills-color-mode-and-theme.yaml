@@ -1,0 +1,11 @@
+id: dembrandt-dembrandt-skills-color-mode-and-theme
+description: "Choose light, dark, or combined color mode deliberately based on brand\
+  \ tone and user context. Offer a theme selector only when user control genuinely\
+  \ matters \u2014 enterprise tools, data-heavy UIs, or extended-use applications.\
+  \ Use when defining the base color palette, designing a design system, or deciding\
+  \ whether to build dark mode support."
+url: https://raw.githubusercontent.com/dembrandt/dembrandt-skills/main/skills/color-mode-and-theme/SKILL.md
+folder_url: https://github.com/dembrandt/dembrandt-skills/tree/main/skills/color-mode-and-theme
+repo: dembrandt/dembrandt-skills
+skill_dir: color-mode-and-theme
+added_at: '2026-06-05'

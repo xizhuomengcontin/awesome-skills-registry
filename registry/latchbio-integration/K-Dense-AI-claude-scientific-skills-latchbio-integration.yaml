@@ -1,0 +1,9 @@
+id: K-Dense-AI-claude-scientific-skills-latchbio-integration
+description: Latch platform for bioinformatics workflows. Build pipelines with Latch
+  SDK, @workflow/@task decorators, deploy serverless workflows, LatchFile/LatchDir,
+  Nextflow/Snakemake integration.
+url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/skills/latchbio-integration/SKILL.md
+folder_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/latchbio-integration
+repo: K-Dense-AI/claude-scientific-skills
+skill_dir: latchbio-integration
+added_at: '2026-06-05'

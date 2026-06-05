@@ -1,0 +1,11 @@
+id: Eronred-aso-skills-metadata-optimization
+description: "When the user wants to optimize App Store metadata \u2014 title, subtitle,\
+  \ keyword field, or description. Also use when the user mentions \"optimize my title\"\
+  , \"ASO metadata\", \"keyword field\", \"character limits\", \"app description\"\
+  , or \"write my subtitle\". For keyword discovery, see keyword-research. For full\
+  \ ASO audits, see aso-audit."
+url: https://raw.githubusercontent.com/Eronred/aso-skills/main/skills/metadata-optimization/SKILL.md
+folder_url: https://github.com/Eronred/aso-skills/tree/main/skills/metadata-optimization
+repo: Eronred/aso-skills
+skill_dir: metadata-optimization
+added_at: '2026-06-05'

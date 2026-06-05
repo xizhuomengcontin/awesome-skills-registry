@@ -1,0 +1,9 @@
+id: K-Dense-AI-claude-scientific-skills-omero-integration
+description: Microscopy data management platform. Access images via Python, retrieve
+  datasets, analyze pixels, manage ROIs/annotations, batch processing, for high-content
+  screening and microscopy workflows.
+url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/skills/omero-integration/SKILL.md
+folder_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/omero-integration
+repo: K-Dense-AI/claude-scientific-skills
+skill_dir: omero-integration
+added_at: '2026-06-05'

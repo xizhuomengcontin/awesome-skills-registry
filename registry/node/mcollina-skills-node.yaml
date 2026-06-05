@@ -1,0 +1,16 @@
+id: mcollina-skills-node
+description: Provides domain-specific best practices for Node.js development with
+  TypeScript, covering type stripping, async patterns, error handling, streams, modules,
+  testing, performance, caching, logging, and more. Use when setting up Node.js projects
+  with native TypeScript support, configuring type stripping (--experimental-strip-types),
+  writing Node 22+ TypeScript without a build step, or when the user mentions 'native
+  TypeScript in Node', 'strip types', 'Node 22 TypeScript', '.ts files without compilation',
+  'ts-node alternative', or needs guidance on error handling, graceful shutdown, flaky
+  tests, profiling, or environment configuration in Node.js. Helps configure tsconfig.json
+  for type stripping, set up package.json scripts, handle module resolution and import
+  extensions, and apply robust patterns across the full Node.js stack.
+url: https://raw.githubusercontent.com/mcollina/skills/main/skills/node/SKILL.md
+folder_url: https://github.com/mcollina/skills/tree/main/skills/node
+repo: mcollina/skills
+skill_dir: node
+added_at: '2026-06-05'

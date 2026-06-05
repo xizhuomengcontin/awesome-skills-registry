@@ -1,0 +1,10 @@
+id: K-Dense-AI-claude-scientific-skills-pptx-posters
+description: Create research posters using HTML/CSS that can be exported to PDF or
+  PPTX. Use this skill ONLY when the user explicitly requests PowerPoint/PPTX poster
+  format. For standard research posters, use latex-posters instead. This skill provides
+  modern web-based poster design with responsive layouts and easy visual integration.
+url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/skills/pptx-posters/SKILL.md
+folder_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/pptx-posters
+repo: K-Dense-AI/claude-scientific-skills
+skill_dir: pptx-posters
+added_at: '2026-06-05'

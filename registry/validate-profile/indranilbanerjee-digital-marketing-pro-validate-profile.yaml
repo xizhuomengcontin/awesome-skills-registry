@@ -1,0 +1,10 @@
+id: indranilbanerjee-digital-marketing-pro-validate-profile
+description: "Validate a brand profile end-to-end \u2014 required fields, voice/audience\
+  \ completeness, connector reachability, credentials health, and compliance prerequisites\
+  \ \u2014 without exposing credential values. Run after any credential change or\
+  \ brand-profile edit."
+url: https://raw.githubusercontent.com/indranilbanerjee/digital-marketing-pro/main/skills/validate-profile/SKILL.md
+folder_url: https://github.com/indranilbanerjee/digital-marketing-pro/tree/main/skills/validate-profile
+repo: indranilbanerjee/digital-marketing-pro
+skill_dir: validate-profile
+added_at: '2026-06-05'

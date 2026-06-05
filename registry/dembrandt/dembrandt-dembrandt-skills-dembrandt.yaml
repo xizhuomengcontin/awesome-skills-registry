@@ -1,0 +1,13 @@
+id: dembrandt-dembrandt-skills-dembrandt
+description: "Orchestrator for the full dembrandt UX pipeline. Routes a UI/UX task\
+  \ through six ordered stages \u2014 brand foundation \u2192 design tokens \u2192\
+  \ layout \u2192 components \u2192 UX polish \u2192 accessibility gate \u2014 loading\
+  \ the right sub-skill at each stage. Use when the task spans multiple design concerns:\
+  \ \"design review\", \"build UI\", \"audit interface\", \"from brand to UI\". For\
+  \ single-concern tasks (e.g. \"review my colour palette\") go directly to the relevant\
+  \ sub-skill instead."
+url: https://raw.githubusercontent.com/dembrandt/dembrandt-skills/main/skills/dembrandt/SKILL.md
+folder_url: https://github.com/dembrandt/dembrandt-skills/tree/main/skills/dembrandt
+repo: dembrandt/dembrandt-skills
+skill_dir: dembrandt
+added_at: '2026-06-05'

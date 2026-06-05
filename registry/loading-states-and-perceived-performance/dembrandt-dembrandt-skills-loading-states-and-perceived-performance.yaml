@@ -1,0 +1,11 @@
+id: dembrandt-dembrandt-skills-loading-states-and-perceived-performance
+description: "Manage user expectations during wait times with appropriate loading\
+  \ states \u2014 from simple spinners to complex skeleton screens and staggered animations.\
+  \ Perceived performance is often more important than actual load time. Use when\
+  \ designing data-heavy components, handling API calls, building hero sections, or\
+  \ improving the feel of a slow interface."
+url: https://raw.githubusercontent.com/dembrandt/dembrandt-skills/main/skills/loading-states-and-perceived-performance/SKILL.md
+folder_url: https://github.com/dembrandt/dembrandt-skills/tree/main/skills/loading-states-and-perceived-performance
+repo: dembrandt/dembrandt-skills
+skill_dir: loading-states-and-perceived-performance
+added_at: '2026-06-05'

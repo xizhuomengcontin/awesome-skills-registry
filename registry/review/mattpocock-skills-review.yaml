@@ -1,0 +1,12 @@
+id: mattpocock-skills-review
+description: "Review the changes since a fixed point (commit, branch, tag, or merge-base)\
+  \ along two axes \u2014 Standards (does the code follow this repo's documented coding\
+  \ standards?) and Spec (does the code match what the originating issue/PRD asked\
+  \ for?). Runs both reviews in parallel sub-agents and reports them side by side.\
+  \ Use when the user wants to review a branch, a PR, work-in-progress changes, or\
+  \ asks to \"review since X\"."
+url: https://raw.githubusercontent.com/mattpocock/skills/main/skills/in-progress/review/SKILL.md
+folder_url: https://github.com/mattpocock/skills/tree/main/skills/in-progress/review
+repo: mattpocock/skills
+skill_dir: review
+added_at: '2026-06-05'

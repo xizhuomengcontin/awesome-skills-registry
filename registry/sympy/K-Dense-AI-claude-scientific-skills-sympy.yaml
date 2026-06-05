@@ -1,0 +1,9 @@
+id: K-Dense-AI-claude-scientific-skills-sympy
+description: "Use when you need exact symbolic math in Python \u2014 algebra, calculus,\
+  \ equation solving, symbolic linear algebra, or code generation via lambdify/LaTeX.\
+  \ Prefer NumPy or SciPy when floating-point approximations are sufficient."
+url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/skills/sympy/SKILL.md
+folder_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/sympy
+repo: K-Dense-AI/claude-scientific-skills
+skill_dir: sympy
+added_at: '2026-06-05'

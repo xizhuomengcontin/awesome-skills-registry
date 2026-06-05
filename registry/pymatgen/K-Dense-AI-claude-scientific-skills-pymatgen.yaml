@@ -1,0 +1,9 @@
+id: K-Dense-AI-claude-scientific-skills-pymatgen
+description: Materials science toolkit. Crystal structures (CIF, POSCAR), phase diagrams,
+  band structure, DOS, Materials Project integration, format conversion, for computational
+  materials science.
+url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/skills/pymatgen/SKILL.md
+folder_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/pymatgen
+repo: K-Dense-AI/claude-scientific-skills
+skill_dir: pymatgen
+added_at: '2026-06-05'

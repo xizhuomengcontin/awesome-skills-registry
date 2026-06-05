@@ -1,0 +1,16 @@
+id: Eronred-aso-skills-paywall-optimization
+description: "When the user wants to design, test, or optimize their app's paywall\
+  \ \u2014 layout, copy, pricing display, trial offers, plan structure, hard vs soft\
+  \ paywall, paywall placement, or paywall A/B tests. Use when the user mentions \"\
+  paywall\", \"paywall design\", \"paywall conversion\", \"trial-to-paid\", \"soft\
+  \ paywall\", \"hard paywall\", \"paywall A/B test\", \"paywall copy\", \"plan picker\"\
+  , \"annual vs monthly display\", \"best paywall\", \"RevenueCat paywall\", \"Superwall\"\
+  , \"Adapty\", or \"my paywall isn't converting\". For overall pricing strategy and\
+  \ monetization model choice, see monetization-strategy. For trial nurture, dunning,\
+  \ and churn, see subscription-lifecycle. For where in the onboarding the paywall\
+  \ fires, see onboarding-optimization."
+url: https://raw.githubusercontent.com/Eronred/aso-skills/main/skills/paywall-optimization/SKILL.md
+folder_url: https://github.com/Eronred/aso-skills/tree/main/skills/paywall-optimization
+repo: Eronred/aso-skills
+skill_dir: paywall-optimization
+added_at: '2026-06-05'

@@ -1,0 +1,10 @@
+id: K-Dense-AI-claude-scientific-skills-pytorch-lightning
+description: Deep learning framework (PyTorch Lightning / lightning package). Organize
+  PyTorch code into LightningModules, configure Trainers for multi-GPU/TPU, implement
+  data pipelines, callbacks, logging (W&B, TensorBoard, MLflow), distributed training
+  (DDP, FSDP, DeepSpeed), for scalable neural network training.
+url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/skills/pytorch-lightning/SKILL.md
+folder_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/pytorch-lightning
+repo: K-Dense-AI/claude-scientific-skills
+skill_dir: pytorch-lightning
+added_at: '2026-06-05'

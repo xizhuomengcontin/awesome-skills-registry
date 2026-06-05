@@ -1,0 +1,10 @@
+id: K-Dense-AI-claude-scientific-skills-scvelo
+description: RNA velocity analysis with scVelo. Estimate cell state transitions from
+  unspliced/spliced mRNA dynamics, infer trajectory directions, compute latent time,
+  and identify driver genes in single-cell RNA-seq data. Complements Scanpy/scVI-tools
+  for trajectory inference.
+url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/skills/scvelo/SKILL.md
+folder_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/scvelo
+repo: K-Dense-AI/claude-scientific-skills
+skill_dir: scvelo
+added_at: '2026-06-05'
