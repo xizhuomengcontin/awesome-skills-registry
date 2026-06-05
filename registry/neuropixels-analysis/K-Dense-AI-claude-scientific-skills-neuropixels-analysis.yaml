@@ -1,0 +1,11 @@
+id: K-Dense-AI-claude-scientific-skills-neuropixels-analysis
+description: Analyze Neuropixels extracellular recordings end-to-end with SpikeInterface.
+  Covers loading SpikeGLX/Open Ephys/NWB data, preprocessing, drift/motion correction,
+  Kilosort4 (and CPU) spike sorting, quality metrics, and unit curation (threshold-based,
+  model-based UnitRefine, and AI-assisted visual review). Use when working with Neuropixels
+  1.0/2.0 recordings, spike sorting, or extracellular electrophysiology analysis.
+url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/skills/neuropixels-analysis/SKILL.md
+folder_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/neuropixels-analysis
+repo: K-Dense-AI/claude-scientific-skills
+skill_dir: neuropixels-analysis
+added_at: '2026-06-05'

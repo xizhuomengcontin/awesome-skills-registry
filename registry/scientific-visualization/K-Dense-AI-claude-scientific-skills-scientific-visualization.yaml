@@ -1,0 +1,11 @@
+id: K-Dense-AI-claude-scientific-skills-scientific-visualization
+description: Meta-skill for publication-ready figures. Use when creating journal submission
+  figures requiring multi-panel layouts, significance annotations, error bars, colorblind-safe
+  palettes, and specific journal formatting (Nature, Science, Cell). Orchestrates
+  matplotlib/seaborn/plotly with publication styles. For quick exploration use seaborn
+  or plotly directly.
+url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/skills/scientific-visualization/SKILL.md
+folder_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/scientific-visualization
+repo: K-Dense-AI/claude-scientific-skills
+skill_dir: scientific-visualization
+added_at: '2026-06-05'

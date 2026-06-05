@@ -1,0 +1,8 @@
+id: lawvable-awesome-legal-skills-docx-processing-superdoc
+description: Searches, replaces, and reads text in Word documents. Use when the user
+  asks to edit, search, or extract text from .docx files.
+url: https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/docx-processing-superdoc/SKILL.md
+folder_url: https://github.com/lawvable/awesome-legal-skills/tree/main/skills/docx-processing-superdoc
+repo: lawvable/awesome-legal-skills
+skill_dir: docx-processing-superdoc
+added_at: '2026-06-05'

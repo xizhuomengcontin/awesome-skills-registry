@@ -1,0 +1,12 @@
+id: Eronred-aso-skills-market-pulse
+description: When the user wants a comprehensive App Store market overview, daily/weekly
+  market briefing, or combined view of chart movements, trending keywords, featured
+  apps, and new releases. Also use when the user mentions "market overview", "what's
+  happening on the App Store", "market briefing", "weekly report", "market trends",
+  or "state of the market". For chart-specific rank changes only, see market-movers.
+  For keyword trends only, see keyword-research.
+url: https://raw.githubusercontent.com/Eronred/aso-skills/main/skills/market-pulse/SKILL.md
+folder_url: https://github.com/Eronred/aso-skills/tree/main/skills/market-pulse
+repo: Eronred/aso-skills
+skill_dir: market-pulse
+added_at: '2026-06-05'

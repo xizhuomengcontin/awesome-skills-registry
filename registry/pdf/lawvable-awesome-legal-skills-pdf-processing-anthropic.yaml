@@ -1,0 +1,12 @@
+id: lawvable-awesome-legal-skills-pdf-processing-anthropic
+description: Use this skill whenever the user wants to do anything with PDF files.
+  This includes reading or extracting text/tables from PDFs, combining or merging
+  multiple PDFs into one, splitting PDFs apart, rotating pages, adding watermarks,
+  creating new PDFs, filling PDF forms, encrypting/decrypting PDFs, extracting images,
+  and OCR on scanned PDFs to make them searchable. If the user mentions a .pdf file
+  or asks to produce one, use this skill.
+url: https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/pdf-processing-anthropic/SKILL.md
+folder_url: https://github.com/lawvable/awesome-legal-skills/tree/main/skills/pdf-processing-anthropic
+repo: lawvable/awesome-legal-skills
+skill_dir: pdf-processing-anthropic
+added_at: '2026-06-05'

@@ -1,0 +1,10 @@
+id: makenotion-notion-cookbook-knowledge-capture
+description: Transforms conversations and discussions into structured documentation
+  pages in Notion. Captures insights, decisions, and knowledge from chat context,
+  formats appropriately, and saves to wikis or databases with proper organization
+  and linking for easy discovery.
+url: https://raw.githubusercontent.com/makenotion/notion-cookbook/main/skills/claude/knowledge-capture/SKILL.md
+folder_url: https://github.com/makenotion/notion-cookbook/tree/main/skills/claude/knowledge-capture
+repo: makenotion/notion-cookbook
+skill_dir: knowledge-capture
+added_at: '2026-06-05'

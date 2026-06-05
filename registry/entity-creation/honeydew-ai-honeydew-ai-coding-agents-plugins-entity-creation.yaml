@@ -1,0 +1,9 @@
+id: honeydew-ai-honeydew-ai-coding-agents-plugins-entity-creation
+description: "Guides you through defining a new Honeydew entity from a data warehouse\
+  \ source \u2014 covering source type, granularity key, and initial attribute mapping\
+  \ \u2014 then pushes to Honeydew via the MCP tools."
+url: https://raw.githubusercontent.com/honeydew-ai/honeydew-ai-coding-agents-plugins/main/skills/entity-creation/SKILL.md
+folder_url: https://github.com/honeydew-ai/honeydew-ai-coding-agents-plugins/tree/main/skills/entity-creation
+repo: honeydew-ai/honeydew-ai-coding-agents-plugins
+skill_dir: entity-creation
+added_at: '2026-06-05'

@@ -1,0 +1,10 @@
+id: honeydew-ai-honeydew-ai-coding-agents-plugins-query
+description: "Use when the user wants to query or analyze data through the Honeydew\
+  \ semantic layer \u2014 including natural language analysis questions, deep multi-step\
+  \ investigations, and structured queries. For model/field discovery use the model-exploration\
+  \ skill."
+url: https://raw.githubusercontent.com/honeydew-ai/honeydew-ai-coding-agents-plugins/main/skills/query/SKILL.md
+folder_url: https://github.com/honeydew-ai/honeydew-ai-coding-agents-plugins/tree/main/skills/query
+repo: honeydew-ai/honeydew-ai-coding-agents-plugins
+skill_dir: query
+added_at: '2026-06-05'

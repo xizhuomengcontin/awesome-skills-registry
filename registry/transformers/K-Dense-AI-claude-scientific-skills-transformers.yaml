@@ -1,0 +1,10 @@
+id: K-Dense-AI-claude-scientific-skills-transformers
+description: "Hugging Face Transformers for loading Hub models, running pipeline inference,\
+  \ text generation, and Trainer fine-tuning on NLP, vision, audio, and multimodal\
+  \ tasks. Use when working with AutoModel, pipelines, tokenizers, or TrainingArguments\u2014\
+  not for general ML outside the Transformers library."
+url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/skills/transformers/SKILL.md
+folder_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/transformers
+repo: K-Dense-AI/claude-scientific-skills
+skill_dir: transformers
+added_at: '2026-06-05'

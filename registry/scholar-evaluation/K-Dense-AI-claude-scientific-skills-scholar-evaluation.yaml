@@ -1,0 +1,10 @@
+id: K-Dense-AI-claude-scientific-skills-scholar-evaluation
+description: Systematically evaluate scholarly work using the ScholarEval framework,
+  providing structured assessment across research quality dimensions including problem
+  formulation, methodology, analysis, and writing with quantitative scoring and actionable
+  feedback.
+url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/skills/scholar-evaluation/SKILL.md
+folder_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/scholar-evaluation
+repo: K-Dense-AI/claude-scientific-skills
+skill_dir: scholar-evaluation
+added_at: '2026-06-05'

@@ -1,0 +1,11 @@
+id: K-Dense-AI-claude-scientific-skills-cirq
+description: Google quantum computing framework. Use when targeting Google Quantum
+  AI hardware, designing noise-aware circuits, or running quantum characterization
+  experiments. Best for Google hardware, noise modeling, and low-level circuit design.
+  For IBM hardware use qiskit; for quantum ML with autodiff use pennylane; for physics
+  simulations use qutip.
+url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/skills/cirq/SKILL.md
+folder_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/cirq
+repo: K-Dense-AI/claude-scientific-skills
+skill_dir: cirq
+added_at: '2026-06-05'

@@ -1,0 +1,12 @@
+id: MohamedAbdallah-14-unslop-unslop-review
+description: 'Rewrites code review comments so they read like a human teammate wrote
+  them. Cuts corporate-AI throat-clearing ("I noticed...", "I was wondering if perhaps...",
+  "It might be worth considering..."). Each comment is direct: location, the issue,
+  a concrete fix. Use when user says "humanize review", "de-slop PR comment", "make
+  this feedback sound human", "review this PR", "code review", "/review", "/unslop-review".
+  Auto-triggers when reviewing PRs.'
+url: https://raw.githubusercontent.com/MohamedAbdallah-14/unslop/main/skills/unslop-review/SKILL.md
+folder_url: https://github.com/MohamedAbdallah-14/unslop/tree/main/skills/unslop-review
+repo: MohamedAbdallah-14/unslop
+skill_dir: unslop-review
+added_at: '2026-06-05'

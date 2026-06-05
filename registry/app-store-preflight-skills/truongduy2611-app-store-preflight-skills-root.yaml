@@ -1,0 +1,10 @@
+id: truongduy2611-app-store-preflight-skills-root
+description: Scan an iOS/macOS Xcode project for common App Store rejection patterns
+  before submission. Use when preparing an app for App Store review, after receiving
+  a rejection from Apple, or when auditing metadata, subscriptions, privacy manifests,
+  entitlements, or design compliance. Integrates with the asc CLI for metadata inspection.
+url: https://raw.githubusercontent.com/truongduy2611/app-store-preflight-skills/main/SKILL.md
+folder_url: https://github.com/truongduy2611/app-store-preflight-skills/tree/main
+repo: truongduy2611/app-store-preflight-skills
+skill_dir: root
+added_at: '2026-06-05'

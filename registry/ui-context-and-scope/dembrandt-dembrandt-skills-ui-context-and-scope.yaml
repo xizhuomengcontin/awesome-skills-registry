@@ -1,0 +1,10 @@
+id: dembrandt-dembrandt-skills-ui-context-and-scope
+description: "UI should make it immediately clear where the user is, what context\
+  \ they are operating in, and what their actions will affect. Use lines, regions,\
+  \ colour areas, breadcrumbs, and scope labels to communicate hierarchy and context\
+  \ \u2014 especially in deep navigation structures or multi-section layouts."
+url: https://raw.githubusercontent.com/dembrandt/dembrandt-skills/main/skills/ui-context-and-scope/SKILL.md
+folder_url: https://github.com/dembrandt/dembrandt-skills/tree/main/skills/ui-context-and-scope
+repo: dembrandt/dembrandt-skills
+skill_dir: ui-context-and-scope
+added_at: '2026-06-05'

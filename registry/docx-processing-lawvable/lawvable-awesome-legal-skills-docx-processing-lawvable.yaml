@@ -1,0 +1,11 @@
+id: lawvable-awesome-legal-skills-docx-processing-lawvable
+description: Programmatically edit Word documents (.docx) with live preview and track
+  changes via SuperDoc VS Code extension. Use when editing DOCX files, making tracked
+  changes, redlining, marking up contracts, or when the user wants to modify Word
+  documents with insertions/deletions visible. Triggers on docx, Word, track changes,
+  redline, markup.
+url: https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/docx-processing-lawvable/SKILL.md
+folder_url: https://github.com/lawvable/awesome-legal-skills/tree/main/skills/docx-processing-lawvable
+repo: lawvable/awesome-legal-skills
+skill_dir: docx-processing-lawvable
+added_at: '2026-06-05'

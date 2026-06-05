@@ -1,0 +1,12 @@
+id: K-Dense-AI-claude-scientific-skills-pacsomatic
+description: Operator toolkit for nf-core/pacsomatic matched tumor-normal workflows
+  from BAM inputs. Use this skill when the user needs to validate run inputs, generate
+  pacsomatic-compliant samplesheets, prepare reproducible Nextflow launch artifacts,
+  run locally or submit to schedulers (LSF/Slurm/PBS/SGE), and triage execution failures.
+  Triggers on requests to run pacsomatic, prepare launch commands/scripts, perform
+  dry-run checks, or troubleshoot pipeline startup and scheduler submission errors.
+url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/skills/pacsomatic/SKILL.md
+folder_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/pacsomatic
+repo: K-Dense-AI/claude-scientific-skills
+skill_dir: pacsomatic
+added_at: '2026-06-05'

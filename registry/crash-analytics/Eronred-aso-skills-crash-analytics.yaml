@@ -1,0 +1,13 @@
+id: Eronred-aso-skills-crash-analytics
+description: "When the user wants to monitor, triage, or reduce their app's crash\
+  \ rate \u2014 including setting up Crashlytics, prioritizing which crashes to fix\
+  \ first, interpreting crash data, and understanding how crashes affect App Store\
+  \ ranking. Use when the user mentions \"crash\", \"crashlytics\", \"crash rate\"\
+  , \"ANR\", \"app not responding\", \"crash-free sessions\", \"crash-free users\"\
+  , \"symbolication\", \"stability\", \"firebase crashes\", \"app crashing\", or \"\
+  crash report\". For overall analytics setup, see app-analytics."
+url: https://raw.githubusercontent.com/Eronred/aso-skills/main/skills/crash-analytics/SKILL.md
+folder_url: https://github.com/Eronred/aso-skills/tree/main/skills/crash-analytics
+repo: Eronred/aso-skills
+skill_dir: crash-analytics
+added_at: '2026-06-05'

@@ -1,0 +1,10 @@
+id: K-Dense-AI-claude-scientific-skills-polars
+description: Fast in-memory DataFrame library for datasets that fit in RAM. Use when
+  pandas is too slow but data still fits in memory. Lazy evaluation, parallel execution,
+  Apache Arrow backend. Best for 1-100GB datasets, ETL pipelines, faster pandas replacement.
+  For larger-than-RAM data use dask or vaex.
+url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/skills/polars/SKILL.md
+folder_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/polars
+repo: K-Dense-AI/claude-scientific-skills
+skill_dir: polars
+added_at: '2026-06-05'

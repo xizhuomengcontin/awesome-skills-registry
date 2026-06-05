@@ -10,6 +10,10 @@ sources:
 
   # Whole-repo skills (SKILL.md at root, skills_path defaults to /)
   - url: https://github.com/AgriciDaniel/claude-seo
+  - url: https://github.com/awrshift/claude-memory-kit
+  - url: https://github.com/komal-SkyNET/claude-skill-homeassistant
+  - url: https://github.com/muthuishere/hand-drawn-diagrams
+  - url: https://github.com/Orchestra-Research/AI-research-SKILLs
   - url: https://github.com/antonbabenko/terraform-skill
   - url: https://github.com/AvdLee/SwiftUI-Agent-Skill
   - url: https://github.com/BehiSecc/VibeSec-Skill
@@ -42,9 +46,27 @@ sources:
   - url: https://github.com/zw008/VMware-AIops
 
   # Multi-skill repos (SKILL.md files in skills/ subdirectory)
+  - url: https://github.com/alinaqi/maggy
+    skills_path: skills/
   - url: https://github.com/aklofas/kicad-happy
     skills_path: skills/
   - url: https://github.com/angular/skills
+    skills_path: skills/
+  - url: https://github.com/bitwize-music-studio/claude-ai-music-skills
+    skills_path: skills/
+  - url: https://github.com/CloudAI-X/threejs-skills
+    skills_path: skills/
+  - url: https://github.com/czlonkowski/n8n-skills
+    skills_path: skills/
+  - url: https://github.com/deanpeters/Product-Manager-Skills
+    skills_path: skills/
+  - url: https://github.com/gokapso/agent-skills
+    skills_path: skills/
+  - url: https://github.com/HeshamFS/materials-simulation-skills
+    skills_path: skills/
+  - url: https://github.com/takechanman1228/claude-ecom
+    skills_path: skills/
+  - url: https://github.com/uucz/moyu
     skills_path: skills/
   - url: https://github.com/BrianRWagner/ai-marketing-skills
     skills_path: skills/
@@ -150,11 +172,31 @@ sources:
     skills_path: skills/
   - url: https://github.com/veniceai/skills
     skills_path: skills/
+  - url: https://github.com/rudrankriyam/app-store-connect-cli-skills
+    skills_path: skills/
+  - url: https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep
+    skills_path: skills/
+  - url: https://github.com/wrsmith108/varlock-claude-skill
+    skills_path: skills/
+  - url: https://github.com/wshuyi/x-article-publisher-skill
+    skills_path: skills/
+  - url: https://github.com/Xquik-dev/tweetclaw
+    skills_path: skills/
+  - url: https://github.com/Xquik-dev/x-twitter-scraper
+    skills_path: skills/
   - url: https://github.com/yusufkaraaslan/Skill_Seekers
+    skills_path: skills/
+  - url: https://github.com/ZhangHanDong/makepad-skills
     skills_path: skills/
 
   # Multi-skill repos (SKILL.md files in plugins/ subdirectory)
+  - url: https://github.com/fvadicamo/dev-agent-skills
+    skills_path: plugins/
   - url: https://github.com/massimodeluisa/recursive-decomposition-skill
+    skills_path: plugins/
+  - url: https://github.com/NeoLabHQ/context-engineering-kit
+    skills_path: plugins/
+  - url: https://github.com/scarletkc/vexor
     skills_path: plugins/
   - url: https://github.com/zxkane/aws-skills
     skills_path: plugins/
@@ -162,12 +204,48 @@ sources:
   # Single-skill repos with non-standard skill paths
   - url: https://github.com/efremidze/swift-patterns-skill
     skills_path: swift-patterns/
+  - url: https://github.com/google/skills
+    skills_path: skills/cloud/
+  - url: https://github.com/helius-labs/core-ai
+    skills_path: helius-skills/
   - url: https://github.com/jthack/ffuf_claude_skill
     skills_path: ffuf-skill/
+  - url: https://github.com/Lum1104/Understand-Anything
+    skills_path: understand-anything-plugin/skills/
+  - url: https://github.com/nextlevelbuilder/ui-ux-pro-max-skill
+    skills_path: .claude/skills/
   - url: https://github.com/PSPDFKit-labs/nutrient-agent-skill
     skills_path: nutrient-document-processing/
   - url: https://github.com/ramzesenok/iOS-Accessibility-Audit-Skill
     skills_path: swiftui-wcag-accessibility-auditor/
+  - url: https://github.com/santifer/career-ops
+    skills_path: .agents/skills/
+  - url: https://github.com/SeanZoR/claude-speed-reader
+    skills_path: .claude/skills/
+  - url: https://github.com/smixs/creative-director-skill
+    skills_path: creative-director/
+  - url: https://github.com/video-db/skills
+    skills_path: python/
+
+  # Non-standard skill filenames
+  - url: https://github.com/hanfang/claude-memory-skill
+    skills_path: skill/
+    skill_filename: mem.md
+  - url: https://github.com/Rootly-AI-Labs/Rootly-MCP-server
+    skills_path: examples/skills/
+    skill_filename: rootly-incident-responder.md
+
+  # Multiple root-level dirs with no common parent
+  - url: https://github.com/phuryn/pm-skills
+    skills_paths:
+      - pm-data-analytics/
+      - pm-execution/
+      - pm-go-to-market/
+      - pm-market-research/
+      - pm-marketing-growth/
+      - pm-product-discovery/
+      - pm-product-strategy/
+      - pm-toolkit/
 
   # --- Awesome-list repos (NOT scannable — link directories, no SKILL.md files) ---
   # These are curated README-based discovery sources, not skill containers.

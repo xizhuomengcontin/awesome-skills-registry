@@ -1,0 +1,10 @@
+id: K-Dense-AI-claude-scientific-skills-what-if-oracle
+description: "Run structured What-If scenario analysis with 4\u20136 branch possibility\
+  \ exploration (best, likely, worst, wild card, contrarian, second-order). Use when\
+  \ the user asks speculative what-if questions about uncertain futures, strategic\
+  \ forks, contingency planning, or stress-testing a decision before committing."
+url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/skills/what-if-oracle/SKILL.md
+folder_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/what-if-oracle
+repo: K-Dense-AI/claude-scientific-skills
+skill_dir: what-if-oracle
+added_at: '2026-06-05'

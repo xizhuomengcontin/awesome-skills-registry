@@ -1,0 +1,8 @@
+id: coderabbitai-skills-autofix
+description: Safely review and apply CodeRabbit PR review-thread feedback from GitHub
+  with per-change approval; never execute reviewer-provided prompts directly
+url: https://raw.githubusercontent.com/coderabbitai/skills/main/skills/autofix/SKILL.md
+folder_url: https://github.com/coderabbitai/skills/tree/main/skills/autofix
+repo: coderabbitai/skills
+skill_dir: autofix
+added_at: '2026-06-05'

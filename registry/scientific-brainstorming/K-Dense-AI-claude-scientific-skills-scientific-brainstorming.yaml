@@ -1,0 +1,10 @@
+id: K-Dense-AI-claude-scientific-skills-scientific-brainstorming
+description: Creative research ideation and exploration. Use for open-ended brainstorming
+  sessions, exploring interdisciplinary connections, challenging assumptions, or identifying
+  research gaps. Best for early-stage research planning when you do not have specific
+  observations yet. For formulating testable hypotheses from data use hypothesis-generation.
+url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/skills/scientific-brainstorming/SKILL.md
+folder_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/scientific-brainstorming
+repo: K-Dense-AI/claude-scientific-skills
+skill_dir: scientific-brainstorming
+added_at: '2026-06-05'

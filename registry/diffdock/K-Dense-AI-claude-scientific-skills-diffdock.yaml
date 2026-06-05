@@ -1,0 +1,9 @@
+id: K-Dense-AI-claude-scientific-skills-diffdock
+description: Diffusion-based molecular docking. Predict protein-ligand binding poses
+  from PDB/SMILES, confidence scores, virtual screening, for structure-based drug
+  design. Not for affinity prediction.
+url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/skills/diffdock/SKILL.md
+folder_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/diffdock
+repo: K-Dense-AI/claude-scientific-skills
+skill_dir: diffdock
+added_at: '2026-06-05'

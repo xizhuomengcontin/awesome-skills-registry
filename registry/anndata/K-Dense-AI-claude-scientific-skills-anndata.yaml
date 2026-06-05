@@ -1,0 +1,10 @@
+id: K-Dense-AI-claude-scientific-skills-anndata
+description: "Data structure for annotated matrices in single-cell analysis. Use when\
+  \ working with .h5ad files or integrating with the scverse ecosystem. This is the\
+  \ data format skill\u2014for analysis workflows use scanpy; for probabilistic models\
+  \ use scvi-tools; for population-scale queries use cellxgene-census."
+url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/skills/anndata/SKILL.md
+folder_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/anndata
+repo: K-Dense-AI/claude-scientific-skills
+skill_dir: anndata
+added_at: '2026-06-05'

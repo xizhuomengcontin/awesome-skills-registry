@@ -1,0 +1,10 @@
+id: K-Dense-AI-claude-scientific-skills-latex-posters
+description: Create professional research posters in LaTeX using beamerposter, tikzposter,
+  or baposter. Support for conference presentations, academic posters, and scientific
+  communication. Includes layout design, color schemes, multi-column formats, figure
+  integration, and poster-specific best practices for visual communication.
+url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/skills/latex-posters/SKILL.md
+folder_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/latex-posters
+repo: K-Dense-AI/claude-scientific-skills
+skill_dir: latex-posters
+added_at: '2026-06-05'

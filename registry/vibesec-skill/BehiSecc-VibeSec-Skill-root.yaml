@@ -1,0 +1,9 @@
+id: BehiSecc-VibeSec-Skill-root
+description: This skill helps Claude write secure web applications. Use this when
+  working on any web application or when a user requests a scan or audit to ensure
+  security best practices are followed.
+url: https://raw.githubusercontent.com/BehiSecc/VibeSec-Skill/main/SKILL.md
+folder_url: https://github.com/BehiSecc/VibeSec-Skill/tree/main
+repo: BehiSecc/VibeSec-Skill
+skill_dir: root
+added_at: '2026-06-05'

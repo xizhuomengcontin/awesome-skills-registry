@@ -1,0 +1,8 @@
+id: mattpocock-skills-obsidian-vault
+description: Search, create, and manage notes in the Obsidian vault with wikilinks
+  and index notes. Use when user wants to find, create, or organize notes in Obsidian.
+url: https://raw.githubusercontent.com/mattpocock/skills/main/skills/personal/obsidian-vault/SKILL.md
+folder_url: https://github.com/mattpocock/skills/tree/main/skills/personal/obsidian-vault
+repo: mattpocock/skills
+skill_dir: obsidian-vault
+added_at: '2026-06-05'

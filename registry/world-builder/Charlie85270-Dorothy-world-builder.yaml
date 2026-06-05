@@ -1,0 +1,8 @@
+id: Charlie85270-Dorothy-world-builder
+description: Create and manage generative game zones for Dorothy's Pokemon-style world.
+  Use this skill when creating, updating, or designing game worlds via MCP tools.
+url: https://raw.githubusercontent.com/Charlie85270/Dorothy/main/skills/world-builder/SKILL.md
+folder_url: https://github.com/Charlie85270/Dorothy/tree/main/skills/world-builder
+repo: Charlie85270/Dorothy
+skill_dir: world-builder
+added_at: '2026-06-05'

@@ -10,7 +10,7 @@ import os
 import re
 import subprocess
 import time
-from dataclasses import dataclass
+from dataclasses import dataclass, field
 from datetime import date
 from pathlib import Path
 from urllib.parse import urlparse
@@ -63,6 +63,8 @@ class Source:
     owner: str
     repo: str
     skills_path: str = "/"
+    skills_paths: list[str] = field(default_factory=list)  # canonical list, always populated
+    skill_filename: str = "SKILL.md"
 
 
 @dataclass
@@ -72,6 +74,7 @@ class SkillFile:
     skill_dir: str
     path: str
     raw_url: str
+    skill_filename: str = "SKILL.md"
     folder_url: str = ""
 
 
@@ -105,12 +108,33 @@ def load_sources(path: Path = SOURCES_PATH) -> list[Source]:
         if skills_path != "/" and not skills_path.endswith("/"):
             skills_path += "/"
 
-        key = (owner, repo, skills_path)
+        # skills_paths (plural) supports multiple root-level dirs with no common parent
+        skills_paths_raw = entry.get("skills_paths", [])
+        if skills_paths_raw:
+            skills_paths = []
+            for p in skills_paths_raw:
+                p = str(p)
+                if p != "/" and not p.endswith("/"):
+                    p += "/"
+                skills_paths.append(p)
+        else:
+            skills_paths = [skills_path]
+
+        skill_filename = entry.get("skill_filename", "SKILL.md")
+
+        key = (owner, repo, str(skills_paths), skill_filename)
         if key in seen:
             continue
         seen.add(key)
 
-        sources.append(Source(url=url, owner=owner, repo=repo, skills_path=skills_path))
+        sources.append(Source(
+            url=url,
+            owner=owner,
+            repo=repo,
+            skills_path=skills_path,
+            skills_paths=skills_paths,
+            skill_filename=skill_filename,
+        ))
 
     return sources
 
@@ -132,6 +156,7 @@ def _walk_contents(
     owner: str,
     repo_name: str,
     default_branch: str,
+    skill_filename: str = "SKILL.md",
 ) -> list[SkillFile]:
     """Recursively walk a directory and collect SKILL.md files."""
     results: list[SkillFile] = []
@@ -149,9 +174,9 @@ def _walk_contents(
     for item in contents:
         if item.type == "dir":
             results.extend(
-                _walk_contents(repo, item.path, owner, repo_name, default_branch)
+                _walk_contents(repo, item.path, owner, repo_name, default_branch, skill_filename)
             )
-        elif item.name == "SKILL.md":
+        elif item.name == skill_filename:
             skill_dir = Path(item.path).parent.name
             skill_folder_path = str(Path(item.path).parent)
             if not skill_dir or skill_dir == ".":
@@ -164,6 +189,7 @@ def _walk_contents(
                     path=item.path,
                     raw_url=_build_raw_url(owner, repo_name, default_branch, item.path),
                     folder_url=_build_folder_url(owner, repo_name, default_branch, skill_folder_path),
+                    skill_filename=skill_filename,
                 )
             )
 
@@ -171,39 +197,44 @@ def _walk_contents(
 
 
 def find_skill_files(source: Source, github: Github) -> list[SkillFile]:
-    """Find all SKILL.md files in a source repo based on its skills_path."""
+    """Find all skill files in a source repo based on its skills_paths and skill_filename."""
     repo = github.get_repo(f"{source.owner}/{source.repo}")
     default_branch = repo.default_branch
+    results: list[SkillFile] = []
 
-    if source.skills_path == "/":
-        try:
-            content = repo.get_contents("SKILL.md")
-        except GithubException as exc:
-            if exc.status == 404:
-                return []
-            raise
+    for path in source.skills_paths:
+        if path == "/":
+            try:
+                content = repo.get_contents(source.skill_filename)
+            except GithubException as exc:
+                if exc.status == 404:
+                    continue
+                raise
 
-        if isinstance(content, list):
-            content = content[0]
+            if isinstance(content, list):
+                content = content[0]
 
-        return [
-            SkillFile(
-                owner=source.owner,
-                repo=source.repo,
-                skill_dir="root",
-                path="SKILL.md",
-                raw_url=_build_raw_url(
-                    source.owner, source.repo, default_branch, "SKILL.md"
-                ),
-                folder_url=_build_folder_url(
-                    source.owner, source.repo, default_branch, ""
-                ),
+            results.append(
+                SkillFile(
+                    owner=source.owner,
+                    repo=source.repo,
+                    skill_dir="root",
+                    path=source.skill_filename,
+                    raw_url=_build_raw_url(
+                        source.owner, source.repo, default_branch, source.skill_filename
+                    ),
+                    folder_url=_build_folder_url(
+                        source.owner, source.repo, default_branch, ""
+                    ),
+                    skill_filename=source.skill_filename,
+                )
             )
-        ]
+        else:
+            results.extend(_walk_contents(
+                repo, path.rstrip("/"), source.owner, source.repo, default_branch, source.skill_filename
+            ))
 
-    return _walk_contents(
-        repo, source.skills_path.rstrip("/"), source.owner, source.repo, default_branch
-    )
+    return results
 
 
 def already_registered(owner: str, repo: str, skill_dir: str) -> bool:
@@ -327,6 +358,8 @@ def write_skill_yaml(
         "skill_dir": skill_file.skill_dir,
         "added_at": date.today().isoformat(),
     }
+    if skill_file.skill_filename != "SKILL.md":
+        entry["skill_filename"] = skill_file.skill_filename
 
     with open(filepath, "w") as f:
         yaml.dump(entry, f, default_flow_style=False, sort_keys=False)
@@ -435,7 +468,7 @@ def main() -> None:
     new_files: list[str] = []
 
     for source in load_sources():
-        logger.info("Scanning %s/%s (path: %s)", source.owner, source.repo, source.skills_path)
+        logger.info("Scanning %s/%s (paths: %s, filename: %s)", source.owner, source.repo, source.skills_paths, source.skill_filename)
         repo = github.get_repo(f"{source.owner}/{source.repo}")
         skills = find_skill_files(source, github)
 

@@ -1,0 +1,12 @@
+id: K-Dense-AI-claude-scientific-skills-pyzotero
+description: Interact with Zotero reference management libraries using the pyzotero
+  Python client. Retrieve, create, update, and delete items, collections, tags, and
+  attachments via the Zotero Web API v3. Use this skill when working with Zotero libraries
+  programmatically, managing bibliographic references, exporting citations, searching
+  library contents, uploading PDF attachments, or building research automation workflows
+  that integrate with Zotero.
+url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/skills/pyzotero/SKILL.md
+folder_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/pyzotero
+repo: K-Dense-AI/claude-scientific-skills
+skill_dir: pyzotero
+added_at: '2026-06-05'

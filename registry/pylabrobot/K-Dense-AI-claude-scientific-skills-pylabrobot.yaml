@@ -1,0 +1,11 @@
+id: K-Dense-AI-claude-scientific-skills-pylabrobot
+description: Vendor-agnostic lab automation framework. Use when controlling multiple
+  equipment types (Hamilton, Tecan, Opentrons, plate readers, pumps) or needing unified
+  programming across different vendors. Best for complex workflows, multi-vendor setups,
+  simulation. For Opentrons-only protocols with official API, opentrons-integration
+  may be simpler.
+url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/skills/pylabrobot/SKILL.md
+folder_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/pylabrobot
+repo: K-Dense-AI/claude-scientific-skills
+skill_dir: pylabrobot
+added_at: '2026-06-05'

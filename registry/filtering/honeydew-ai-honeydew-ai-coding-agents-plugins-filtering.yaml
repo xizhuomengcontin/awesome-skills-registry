@@ -1,0 +1,9 @@
+id: honeydew-ai-honeydew-ai-coding-agents-plugins-filtering
+description: "Use when the user needs to filter data \u2014 whether in a structured\
+  \ query, a metric aggregation, or an attribute expression. Covers filter syntax,\
+  \ date handling, and best practices."
+url: https://raw.githubusercontent.com/honeydew-ai/honeydew-ai-coding-agents-plugins/main/skills/filtering/SKILL.md
+folder_url: https://github.com/honeydew-ai/honeydew-ai-coding-agents-plugins/tree/main/skills/filtering
+repo: honeydew-ai/honeydew-ai-coding-agents-plugins
+skill_dir: filtering
+added_at: '2026-06-05'

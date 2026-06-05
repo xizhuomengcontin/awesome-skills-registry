@@ -1,0 +1,10 @@
+id: K-Dense-AI-claude-scientific-skills-markdown-mermaid-writing
+description: Comprehensive markdown and Mermaid diagram writing skill. Use when creating
+  any scientific document, report, analysis, or visualization. Establishes text-based
+  diagrams as the default documentation standard with full style guides (markdown
+  + mermaid), 24 diagram type references, and 9 document templates.
+url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/skills/markdown-mermaid-writing/SKILL.md
+folder_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/markdown-mermaid-writing
+repo: K-Dense-AI/claude-scientific-skills
+skill_dir: markdown-mermaid-writing
+added_at: '2026-06-05'

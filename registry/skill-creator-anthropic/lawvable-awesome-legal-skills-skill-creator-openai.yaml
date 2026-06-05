@@ -1,0 +1,9 @@
+id: lawvable-awesome-legal-skills-skill-creator-openai
+description: Guide for creating effective skills. Use when users want to create a
+  new skill (or update an existing skill) that extends the model's capabilities with
+  specialized knowledge, workflows, or tool integrations.
+url: https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/skill-creator-openai/SKILL.md
+folder_url: https://github.com/lawvable/awesome-legal-skills/tree/main/skills/skill-creator-openai
+repo: lawvable/awesome-legal-skills
+skill_dir: skill-creator-openai
+added_at: '2026-06-05'

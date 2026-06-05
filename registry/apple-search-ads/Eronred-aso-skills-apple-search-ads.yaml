@@ -1,0 +1,13 @@
+id: Eronred-aso-skills-apple-search-ads
+description: "When the user wants to set up, optimize, or scale Apple Search Ads (ASA)\
+  \ campaigns \u2014 including keyword bidding, match types, campaign structure, Creative\
+  \ Product Sets, CPP routing, and ROAS optimization. Use when the user mentions \"\
+  Apple Search Ads\", \"ASA\", \"Search Ads\", \"Search tab ads\", \"Today tab ads\"\
+  , \"CPT\", \"TTR\", \"Search Match\", \"exact match\", \"broad match\", \"CPP in\
+  \ ads\", \"ASA bidding\", or \"Search Ads budget\". For Meta/Google UAC/TikTok paid\
+  \ UA, see ua-campaign."
+url: https://raw.githubusercontent.com/Eronred/aso-skills/main/skills/apple-search-ads/SKILL.md
+folder_url: https://github.com/Eronred/aso-skills/tree/main/skills/apple-search-ads
+repo: Eronred/aso-skills
+skill_dir: apple-search-ads
+added_at: '2026-06-05'

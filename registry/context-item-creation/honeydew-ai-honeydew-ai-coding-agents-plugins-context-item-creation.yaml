@@ -1,0 +1,11 @@
+id: honeydew-ai-honeydew-ai-coding-agents-plugins-context-item-creation
+description: "Guides you through creating context items \u2014 instructions, skills,\
+  \ knowledge pointers, and memory events \u2014 that give the AI analyst persistent\
+  \ knowledge about your organization. Covers when to create each type, naming conventions,\
+  \ folder organization, and the hard boundary between context (rules and procedures)\
+  \ and the semantic layer (logic and calculations)."
+url: https://raw.githubusercontent.com/honeydew-ai/honeydew-ai-coding-agents-plugins/main/skills/context-item-creation/SKILL.md
+folder_url: https://github.com/honeydew-ai/honeydew-ai-coding-agents-plugins/tree/main/skills/context-item-creation
+repo: honeydew-ai/honeydew-ai-coding-agents-plugins
+skill_dir: context-item-creation
+added_at: '2026-06-05'

@@ -1,0 +1,11 @@
+id: dembrandt-dembrandt-skills-global-toolbar-controls
+description: "Quick global settings \u2014 currency, language, region, units \u2014\
+  \ belong in a persistent, low-profile location such as a header toolbar or footer.\
+  \ These controls are frequent but not primary, so they use small typography and\
+  \ stay out of the main content hierarchy. Use when designing global selectors, locale\
+  \ switchers, or user preference controls that apply across the whole product."
+url: https://raw.githubusercontent.com/dembrandt/dembrandt-skills/main/skills/global-toolbar-controls/SKILL.md
+folder_url: https://github.com/dembrandt/dembrandt-skills/tree/main/skills/global-toolbar-controls
+repo: dembrandt/dembrandt-skills
+skill_dir: global-toolbar-controls
+added_at: '2026-06-05'

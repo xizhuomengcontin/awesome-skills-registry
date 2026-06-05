@@ -1,0 +1,13 @@
+id: Eronred-aso-skills-asc-metrics
+description: "When the user wants to analyze their own app's actual performance data\
+  \ from App Store Connect \u2014 real downloads, revenue, IAP, subscriptions, trials,\
+  \ or country breakdowns synced via Appeeky Connect. Use when the user asks about\
+  \ \"my downloads\", \"my revenue\", \"how is my app performing\", \"ASC data\",\
+  \ \"sales and trends\", \"my subscription numbers\", \"App Store Connect metrics\"\
+  , or wants to compare periods or top markets. For third-party app estimates, see\
+  \ app-analytics. For subscription analytics depth, see monetization-strategy."
+url: https://raw.githubusercontent.com/Eronred/aso-skills/main/skills/asc-metrics/SKILL.md
+folder_url: https://github.com/Eronred/aso-skills/tree/main/skills/asc-metrics
+repo: Eronred/aso-skills
+skill_dir: asc-metrics
+added_at: '2026-06-05'

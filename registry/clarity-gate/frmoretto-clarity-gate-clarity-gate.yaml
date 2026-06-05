@@ -1,0 +1,9 @@
+id: frmoretto-clarity-gate-clarity-gate
+description: Pre-ingestion verification for epistemic quality in RAG systems. Ensures
+  documents are properly qualified before entering knowledge bases. Produces CGD (Clarity-Gated
+  Documents) and validates SOT (Source of Truth) files.
+url: https://raw.githubusercontent.com/frmoretto/clarity-gate/main/skills/clarity-gate/SKILL.md
+folder_url: https://github.com/frmoretto/clarity-gate/tree/main/skills/clarity-gate
+repo: frmoretto/clarity-gate
+skill_dir: clarity-gate
+added_at: '2026-06-05'

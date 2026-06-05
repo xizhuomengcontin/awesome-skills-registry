@@ -1,0 +1,14 @@
+id: aklofas-kicad-happy-mouser
+description: "Search Mouser Electronics for electronic components \u2014 secondary\
+  \ source for prototype orders. Find parts, check pricing/stock, download datasheets,\
+  \ analyze specifications. Use with KiCad for BOM creation and part selection. Also\
+  \ supports batch MPN-list seeding (`--mpn-list`) for bulk datasheet workflows without\
+  \ a KiCad project. Use this skill when the user specifically mentions Mouser, when\
+  \ DigiKey is out of stock or has worse pricing, when comparing prices across distributors,\
+  \ or when searching for parts that DigiKey doesn't carry. For package cross-reference\
+  \ tables and BOM workflow, see the `bom` skill."
+url: https://raw.githubusercontent.com/aklofas/kicad-happy/main/skills/mouser/SKILL.md
+folder_url: https://github.com/aklofas/kicad-happy/tree/main/skills/mouser
+repo: aklofas/kicad-happy
+skill_dir: mouser
+added_at: '2026-06-05'

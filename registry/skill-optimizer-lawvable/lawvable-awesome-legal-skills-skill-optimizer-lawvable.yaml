@@ -1,0 +1,10 @@
+id: lawvable-awesome-legal-skills-skill-optimizer-lawvable
+description: Guide to analyze a current work session and propose improvements to skills.
+  Use (1) automatically after working with a skill to capture learnings, (2) when
+  the user suggests improvements, corrections, or additions during a skill-related
+  session, or (3) when the user manually invokes `self-improve`.
+url: https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/skill-optimizer-lawvable/SKILL.md
+folder_url: https://github.com/lawvable/awesome-legal-skills/tree/main/skills/skill-optimizer-lawvable
+repo: lawvable/awesome-legal-skills
+skill_dir: skill-optimizer-lawvable
+added_at: '2026-06-05'

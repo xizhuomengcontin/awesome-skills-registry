@@ -1,0 +1,11 @@
+id: K-Dense-AI-claude-scientific-skills-timesfm-forecasting
+description: Zero-shot time series forecasting with Google's TimesFM foundation model.
+  Use for any univariate time series (sales, sensors, energy, vitals, weather) without
+  training a custom model. Supports CSV/DataFrame/array inputs with point forecasts
+  and prediction intervals. Includes a preflight system checker script to verify RAM/GPU
+  before first use.
+url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/skills/timesfm-forecasting/SKILL.md
+folder_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/timesfm-forecasting
+repo: K-Dense-AI/claude-scientific-skills
+skill_dir: timesfm-forecasting
+added_at: '2026-06-05'

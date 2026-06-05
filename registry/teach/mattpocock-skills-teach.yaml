@@ -1,0 +1,7 @@
+id: mattpocock-skills-teach
+description: Teach the user a new skill or concept, within this workspace.
+url: https://raw.githubusercontent.com/mattpocock/skills/main/skills/in-progress/teach/SKILL.md
+folder_url: https://github.com/mattpocock/skills/tree/main/skills/in-progress/teach
+repo: mattpocock/skills
+skill_dir: teach
+added_at: '2026-06-05'

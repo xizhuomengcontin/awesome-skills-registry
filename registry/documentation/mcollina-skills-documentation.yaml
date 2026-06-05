@@ -1,0 +1,13 @@
+id: mcollina-skills-documentation
+description: "Creates, structures, and reviews technical documentation following the\
+  \ Di\xE1taxis framework (tutorials, how-to guides, reference, and explanation pages).\
+  \ Use when a user needs to write or reorganize docs, structure a tutorial vs. a\
+  \ how-to guide, build reference docs or API documentation, create explanation pages,\
+  \ choose between Di\xE1taxis documentation types, or improve existing documentation\
+  \ structure. Trigger terms include: documentation structure, Di\xE1taxis, tutorials\
+  \ vs how-to guides, organize docs, user guide, reference docs, technical writing."
+url: https://raw.githubusercontent.com/mcollina/skills/main/skills/documentation/SKILL.md
+folder_url: https://github.com/mcollina/skills/tree/main/skills/documentation
+repo: mcollina/skills
+skill_dir: documentation
+added_at: '2026-06-05'

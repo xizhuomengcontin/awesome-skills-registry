@@ -1,0 +1,11 @@
+id: honeydew-ai-honeydew-ai-coding-agents-plugins-conversation-review
+description: Use when a semantic/context layer curator wants to review past analysis
+  conversations in bulk, categorize user feedback into actionable improvement areas,
+  and apply targeted changes to the semantic model or context layer. Covers the full
+  workflow from collecting conversations and classifying feedback through to creating
+  action items and applying them on a branch.
+url: https://raw.githubusercontent.com/honeydew-ai/honeydew-ai-coding-agents-plugins/main/skills/conversation-review/SKILL.md
+folder_url: https://github.com/honeydew-ai/honeydew-ai-coding-agents-plugins/tree/main/skills/conversation-review
+repo: honeydew-ai/honeydew-ai-coding-agents-plugins
+skill_dir: conversation-review
+added_at: '2026-06-05'

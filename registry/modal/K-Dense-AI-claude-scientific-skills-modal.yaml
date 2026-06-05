@@ -1,0 +1,10 @@
+id: K-Dense-AI-claude-scientific-skills-modal
+description: Modal is a serverless cloud platform for running Python on demand, including
+  on-demand GPUs. Use when deploying or serving AI/ML models, running GPU-accelerated
+  workloads (training, fine-tuning, inference), serving web endpoints, scheduling
+  batch jobs, or scaling Python code to cloud containers with the Modal SDK.
+url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/skills/modal/SKILL.md
+folder_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/modal
+repo: K-Dense-AI/claude-scientific-skills
+skill_dir: modal
+added_at: '2026-06-05'
