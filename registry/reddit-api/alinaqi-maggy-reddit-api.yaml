@@ -1,0 +1,7 @@
+id: alinaqi-maggy-reddit-api
+description: Reddit API with PRAW (Python) and Snoowrap (Node.js)
+url: https://raw.githubusercontent.com/alinaqi/maggy/main/skills/reddit-api/SKILL.md
+folder_url: https://github.com/alinaqi/maggy/tree/main/skills/reddit-api
+repo: alinaqi/maggy
+skill_dir: reddit-api
+added_at: '2026-06-05'

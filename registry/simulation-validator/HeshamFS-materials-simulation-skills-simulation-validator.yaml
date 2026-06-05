@@ -1,0 +1,15 @@
+id: HeshamFS-materials-simulation-skills-simulation-validator
+description: "Validate simulations across three stages \u2014 run pre-flight checks\
+  \ on configuration files (parameter ranges, required fields, disk space), monitor\
+  \ runtime logs for residual growth, NaN/Inf, and adaptive dt collapse, and perform\
+  \ post-flight validation of results (physical bounds, mass/energy conservation,\
+  \ convergence). Diagnose failed simulations with probable-cause analysis and recommended\
+  \ fixes. Use when preparing to launch a simulation, checking whether a running job\
+  \ is healthy, verifying that finished results are trustworthy, or debugging a crash\
+  \ or blow-up, even if the user only says \"my simulation crashed\" or \"can I trust\
+  \ these results.\""
+url: https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/simulation-workflow/simulation-validator/SKILL.md
+folder_url: https://github.com/HeshamFS/materials-simulation-skills/tree/main/skills/simulation-workflow/simulation-validator
+repo: HeshamFS/materials-simulation-skills
+skill_dir: simulation-validator
+added_at: '2026-06-05'

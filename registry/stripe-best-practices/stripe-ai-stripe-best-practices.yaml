@@ -1,0 +1,14 @@
+id: stripe-ai-stripe-best-practices
+description: "Guides Stripe integration decisions \u2014 API selection (Checkout Sessions\
+  \ vs PaymentIntents), Connect platform setup (Accounts v2, controller properties),\
+  \ billing/subscriptions, Treasury financial accounts, integration surfaces (Checkout,\
+  \ Payment Element), migrating from deprecated Stripe APIs, and security best practices\
+  \ (API key management, restricted keys, webhooks, OAuth). Use when building, modifying,\
+  \ or reviewing any Stripe integration \u2014 including accepting payments, building\
+  \ marketplaces, integrating Stripe, processing payments, setting up subscriptions,\
+  \ creating connected accounts, or implementing secure key handling."
+url: https://raw.githubusercontent.com/stripe/ai/main/skills/stripe-best-practices/SKILL.md
+folder_url: https://github.com/stripe/ai/tree/main/skills/stripe-best-practices
+repo: stripe/ai
+skill_dir: stripe-best-practices
+added_at: '2026-06-05'

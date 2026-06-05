@@ -1,0 +1,9 @@
+id: gokapso-agent-skills-observe-whatsapp
+description: 'Observe and troubleshoot WhatsApp in Kapso: debug message delivery,
+  inspect webhook deliveries/retries, triage API errors, and run health checks. Use
+  when investigating production issues, message failures, or webhook delivery problems.'
+url: https://raw.githubusercontent.com/gokapso/agent-skills/master/skills/observe-whatsapp/SKILL.md
+folder_url: https://github.com/gokapso/agent-skills/tree/master/skills/observe-whatsapp
+repo: gokapso/agent-skills
+skill_dir: observe-whatsapp
+added_at: '2026-06-05'

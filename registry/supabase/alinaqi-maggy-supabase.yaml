@@ -1,0 +1,7 @@
+id: alinaqi-maggy-supabase
+description: Core Supabase CLI, migrations, RLS, Edge Functions
+url: https://raw.githubusercontent.com/alinaqi/maggy/main/skills/supabase/SKILL.md
+folder_url: https://github.com/alinaqi/maggy/tree/main/skills/supabase
+repo: alinaqi/maggy
+skill_dir: supabase
+added_at: '2026-06-05'

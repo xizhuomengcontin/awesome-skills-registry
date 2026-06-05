@@ -1,0 +1,9 @@
+id: CloudAI-X-threejs-skills-threejs-geometry
+description: Three.js geometry creation - built-in shapes, BufferGeometry, custom
+  geometry, instancing. Use when creating 3D shapes, working with vertices, building
+  custom meshes, or optimizing with instanced rendering.
+url: https://raw.githubusercontent.com/CloudAI-X/threejs-skills/main/skills/threejs-geometry/SKILL.md
+folder_url: https://github.com/CloudAI-X/threejs-skills/tree/main/skills/threejs-geometry
+repo: CloudAI-X/threejs-skills
+skill_dir: threejs-geometry
+added_at: '2026-06-05'

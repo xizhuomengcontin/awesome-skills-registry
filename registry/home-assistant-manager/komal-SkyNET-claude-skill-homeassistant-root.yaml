@@ -1,0 +1,11 @@
+id: komal-SkyNET-claude-skill-homeassistant-root
+description: Expert-level Home Assistant configuration management with efficient deployment
+  workflows (git and rapid scp iteration), remote CLI access via SSH and hass-cli,
+  automation verification protocols, log analysis, reload vs restart optimization,
+  and comprehensive Lovelace dashboard management for tablet-optimized UIs. Includes
+  template patterns, card types, debugging strategies, and real-world examples.
+url: https://raw.githubusercontent.com/komal-SkyNET/claude-skill-homeassistant/main/SKILL.md
+folder_url: https://github.com/komal-SkyNET/claude-skill-homeassistant/tree/main
+repo: komal-SkyNET/claude-skill-homeassistant
+skill_dir: root
+added_at: '2026-06-05'

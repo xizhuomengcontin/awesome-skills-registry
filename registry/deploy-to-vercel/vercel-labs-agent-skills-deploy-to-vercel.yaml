@@ -1,0 +1,9 @@
+id: vercel-labs-agent-skills-deploy-to-vercel
+description: Deploy applications and websites to Vercel. Use when the user requests
+  deployment actions like "deploy my app", "deploy and give me the link", "push this
+  live", or "create a preview deployment".
+url: https://raw.githubusercontent.com/vercel-labs/agent-skills/main/skills/deploy-to-vercel/SKILL.md
+folder_url: https://github.com/vercel-labs/agent-skills/tree/main/skills/deploy-to-vercel
+repo: vercel-labs/agent-skills
+skill_dir: deploy-to-vercel
+added_at: '2026-06-05'

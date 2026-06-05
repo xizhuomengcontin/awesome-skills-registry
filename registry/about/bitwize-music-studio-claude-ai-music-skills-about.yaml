@@ -1,0 +1,8 @@
+id: bitwize-music-studio-claude-ai-music-skills-about
+description: Provides information about the bitwize-music plugin, its version, and
+  its creator. Use when the user asks about the plugin, its purpose, version, or capabilities.
+url: https://raw.githubusercontent.com/bitwize-music-studio/claude-ai-music-skills/main/skills/about/SKILL.md
+folder_url: https://github.com/bitwize-music-studio/claude-ai-music-skills/tree/main/skills/about
+repo: bitwize-music-studio/claude-ai-music-skills
+skill_dir: about
+added_at: '2026-06-05'

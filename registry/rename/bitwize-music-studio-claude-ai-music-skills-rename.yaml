@@ -1,0 +1,8 @@
+id: bitwize-music-studio-claude-ai-music-skills-rename
+description: Renames an album or track, updating slugs, titles, and all mirrored paths.
+  Use when the user wants to rename an album or track.
+url: https://raw.githubusercontent.com/bitwize-music-studio/claude-ai-music-skills/main/skills/rename/SKILL.md
+folder_url: https://github.com/bitwize-music-studio/claude-ai-music-skills/tree/main/skills/rename
+repo: bitwize-music-studio/claude-ai-music-skills
+skill_dir: rename
+added_at: '2026-06-05'

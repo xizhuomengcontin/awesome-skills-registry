@@ -1,0 +1,9 @@
+id: vercel-labs-agent-skills-web-design-guidelines
+description: Review UI code for Web Interface Guidelines compliance. Use when asked
+  to "review my UI", "check accessibility", "audit design", "review UX", or "check
+  my site against best practices".
+url: https://raw.githubusercontent.com/vercel-labs/agent-skills/main/skills/web-design-guidelines/SKILL.md
+folder_url: https://github.com/vercel-labs/agent-skills/tree/main/skills/web-design-guidelines
+repo: vercel-labs/agent-skills
+skill_dir: web-design-guidelines
+added_at: '2026-06-05'

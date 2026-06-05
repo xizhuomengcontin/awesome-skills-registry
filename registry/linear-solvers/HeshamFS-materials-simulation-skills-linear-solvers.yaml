@@ -1,0 +1,14 @@
+id: HeshamFS-materials-simulation-skills-linear-solvers
+description: "Select and configure linear solvers for Ax=b systems arising in numerical\
+  \ simulations \u2014 choose between direct (LU, Cholesky) and iterative (CG, GMRES,\
+  \ BiCGSTAB, MINRES) methods, analyze sparsity patterns and matrix conditioning,\
+  \ recommend preconditioners (AMG, ILU, IC), apply row/column scaling, and diagnose\
+  \ convergence stagnation from residual histories. Use when setting up a linear solve\
+  \ for FEM/FVM assembly, debugging slow or stalled Krylov iterations, choosing a\
+  \ preconditioner for SPD or nonsymmetric systems, or investigating ill-conditioning,\
+  \ even if the user only says \"my solver is slow\" or \"GMRES won't converge.\""
+url: https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/core-numerical/linear-solvers/SKILL.md
+folder_url: https://github.com/HeshamFS/materials-simulation-skills/tree/main/skills/core-numerical/linear-solvers
+repo: HeshamFS/materials-simulation-skills
+skill_dir: linear-solvers
+added_at: '2026-06-05'

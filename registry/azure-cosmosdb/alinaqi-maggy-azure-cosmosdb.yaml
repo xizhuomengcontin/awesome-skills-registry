@@ -1,0 +1,8 @@
+id: alinaqi-maggy-azure-cosmosdb
+description: Azure Cosmos DB partition keys, consistency levels, change feed, SDK
+  patterns
+url: https://raw.githubusercontent.com/alinaqi/maggy/main/skills/azure-cosmosdb/SKILL.md
+folder_url: https://github.com/alinaqi/maggy/tree/main/skills/azure-cosmosdb
+repo: alinaqi/maggy
+skill_dir: azure-cosmosdb
+added_at: '2026-06-05'

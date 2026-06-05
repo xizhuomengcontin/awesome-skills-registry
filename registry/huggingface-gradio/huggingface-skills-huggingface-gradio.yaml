@@ -1,0 +1,8 @@
+id: huggingface-skills-huggingface-gradio
+description: Build Gradio web UIs and demos in Python. Use when creating or editing
+  Gradio apps, components, event listeners, layouts, or chatbots.
+url: https://raw.githubusercontent.com/huggingface/skills/main/skills/huggingface-gradio/SKILL.md
+folder_url: https://github.com/huggingface/skills/tree/main/skills/huggingface-gradio
+repo: huggingface/skills
+skill_dir: huggingface-gradio
+added_at: '2026-06-05'

@@ -1,0 +1,14 @@
+id: czlonkowski-n8n-skills-n8n-workflow-patterns
+description: "Proven workflow architectural patterns from real n8n workflows. Use\
+  \ when building new workflows, designing workflow structure, choosing workflow patterns,\
+  \ planning workflow architecture, or asking about webhook processing, HTTP API integration,\
+  \ database operations, AI agent workflows, batch processing, or scheduled tasks.\
+  \ Always consult this skill when the user asks to create, build, or design an n8n\
+  \ workflow, automate a process, or connect services \u2014 even if they don't explicitly\
+  \ mention 'patterns'. Covers webhook, API, database, AI, batch processing, and scheduled\
+  \ automation architectures."
+url: https://raw.githubusercontent.com/czlonkowski/n8n-skills/main/skills/n8n-workflow-patterns/SKILL.md
+folder_url: https://github.com/czlonkowski/n8n-skills/tree/main/skills/n8n-workflow-patterns
+repo: czlonkowski/n8n-skills
+skill_dir: n8n-workflow-patterns
+added_at: '2026-06-05'

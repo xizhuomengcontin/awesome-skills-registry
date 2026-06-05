@@ -630,6 +630,7 @@ def backfill_registry() -> None:
     logger.info("Backfilled %d registry file(s)", updated)
 
 
+
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(
         description="Scan source repos for SKILL.md files and update the registry."
