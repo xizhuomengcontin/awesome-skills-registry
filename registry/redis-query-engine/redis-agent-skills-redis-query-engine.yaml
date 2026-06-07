@@ -1,0 +1,19 @@
+id: redis-agent-skills-redis-query-engine
+display_name: redis-query-engine
+description: Redis Query Engine (RQE) guidance covering FT.CREATE schema design, field
+  type selection (TEXT, TAG, NUMERIC, GEO, GEOSHAPE, VECTOR), DIALECT 2 query syntax,
+  efficient FT.SEARCH and FT.AGGREGATE queries, zero-downtime index updates via aliases,
+  and the SKIPINITIALSCAN option. Use when defining a search index on Hash or JSON
+  documents, picking between TEXT and TAG for filtering, writing FT.SEARCH queries
+  with filters and SORTBY, managing or swapping indexes in production, or troubleshooting
+  slow searches with FT.PROFILE.
+authors:
+- redis
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/redis-query-engine
+  repo: redis/agent-skills
+metadata: {}
+added_at: '2026-06-07'

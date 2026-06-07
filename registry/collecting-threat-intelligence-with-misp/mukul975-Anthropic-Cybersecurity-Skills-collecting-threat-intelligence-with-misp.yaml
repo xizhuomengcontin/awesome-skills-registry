@@ -1,0 +1,15 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-collecting-threat-intelligence-with-misp
+display_name: collecting-threat-intelligence-with-misp
+description: MISP (Malware Information Sharing Platform) is an open-source threat
+  intelligence platform for gathering, sharing, storing, and correlating Indicators
+  of Compromise (IOCs) of targeted attacks, threat
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/collecting-threat-intelligence-with-misp
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata: {}
+added_at: '2026-06-07'

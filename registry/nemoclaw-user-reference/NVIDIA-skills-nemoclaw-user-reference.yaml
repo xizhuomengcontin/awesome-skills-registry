@@ -1,0 +1,19 @@
+id: NVIDIA-skills-nemoclaw-user-reference
+display_name: nemoclaw-user-reference
+description: Describes the NemoClaw plugin and blueprint architecture and how they
+  orchestrate the OpenClaw sandbox. Use when looking up architecture, plugin structure,
+  or blueprint design. Trigger keywords - nemoclaw architecture, nemoclaw plugin blueprint
+  structure, nemoclaw vs openshell, which cli, nemoclaw cli, openshell cli, sandbox
+  commands, nemoclaw cli commands, nemoclaw command reference, nemoclaw network policy,
+  sandbox egress control operator approval, nemoclaw troubleshooting, nemoclaw debug
+  sandbox issues.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/nemoclaw-user-reference
+  repo: NVIDIA/skills
+metadata: {}
+added_at: '2026-06-07'

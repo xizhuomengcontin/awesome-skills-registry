@@ -1,0 +1,15 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-performing-threat-modeling-with-owasp-threat-dragon
+display_name: performing-threat-modeling-with-owasp-threat-dragon
+description: Use OWASP Threat Dragon to create data flow diagrams, identify threats
+  using STRIDE and LINDDUN methodologies, and generate threat model reports for secure
+  design review.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/performing-threat-modeling-with-owasp-threat-dragon
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata: {}
+added_at: '2026-06-07'

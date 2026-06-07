@@ -1,0 +1,13 @@
+id: muratcankoylan-Agent-Skills-for-Context-Engineering-context-optimization
+display_name: Context Optimization
+description: '---'
+authors:
+- muratcankoylan
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/context-optimization
+  repo: muratcankoylan/Agent-Skills-for-Context-Engineering
+metadata: {}
+added_at: '2026-06-07'

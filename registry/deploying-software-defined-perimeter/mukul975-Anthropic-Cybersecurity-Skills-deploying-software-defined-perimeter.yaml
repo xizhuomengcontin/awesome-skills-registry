@@ -1,0 +1,15 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-deploying-software-defined-perimeter
+display_name: deploying-software-defined-perimeter
+description: Deploy a Software-Defined Perimeter using the CSA v2.0 specification
+  with Single Packet Authorization, mutual TLS, and SDP controller/gateway configuration
+  to enforce zero trust network access.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/deploying-software-defined-perimeter
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata: {}
+added_at: '2026-06-07'

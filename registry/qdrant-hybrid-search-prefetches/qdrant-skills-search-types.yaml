@@ -1,0 +1,16 @@
+id: qdrant-skills-search-types
+display_name: qdrant-hybrid-search-prefetches
+description: Use when someone asks 'how to combine lexical and semantic retrieval',
+  'dense and sparse in one search?', 'how to combine multiple fields for retrieval?',
+  'payloads or sparse vectors for lexical?', 'which sparse embedding model to use?',
+  'BM25 vs SPLADE?'
+authors:
+- qdrant
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/qdrant-search-quality/search-strategies/hybrid-search/search-types
+  repo: qdrant/skills
+metadata: {}
+added_at: '2026-06-07'

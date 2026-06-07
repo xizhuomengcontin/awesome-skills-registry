@@ -1,0 +1,13 @@
+id: rameerez-claude-code-startup-skills-x-post
+display_name: x-post
+description: Post to X (Twitter) from the command line. Text, images, and video.
+authors:
+- rameerez
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/x-post
+  repo: rameerez/claude-code-startup-skills
+metadata: {}
+added_at: '2026-06-07'

@@ -1,0 +1,15 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-aws-macie-for-data-classification
+display_name: implementing-aws-macie-for-data-classification
+description: Implement Amazon Macie to automatically discover, classify, and protect
+  sensitive data in S3 buckets using machine learning and pattern matching for PII,
+  financial data, and credentials detection.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-aws-macie-for-data-classification
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata: {}
+added_at: '2026-06-07'

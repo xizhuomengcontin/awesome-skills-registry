@@ -1,0 +1,15 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-jwt-signing-and-verification
+display_name: implementing-jwt-signing-and-verification
+description: JSON Web Tokens (JWT) defined in RFC 7519 are compact, URL-safe tokens
+  used for authentication and authorization in web applications. This skill covers
+  implementing secure JWT signing with HMAC-SHA256
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-jwt-signing-and-verification
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata: {}
+added_at: '2026-06-07'

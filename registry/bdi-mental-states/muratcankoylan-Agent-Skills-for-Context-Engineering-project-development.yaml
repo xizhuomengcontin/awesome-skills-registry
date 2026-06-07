@@ -1,0 +1,13 @@
+id: muratcankoylan-Agent-Skills-for-Context-Engineering-project-development
+display_name: Project Development
+description: '---'
+authors:
+- muratcankoylan
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/project-development
+  repo: muratcankoylan/Agent-Skills-for-Context-Engineering
+metadata: {}
+added_at: '2026-06-07'

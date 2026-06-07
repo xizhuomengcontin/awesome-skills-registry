@@ -1,0 +1,14 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-detecting-email-forwarding-rules-attack
+display_name: detecting-email-forwarding-rules-attack
+description: Detect malicious email forwarding rules created by adversaries to maintain
+  persistent access to email communications for intelligence collection and BEC attacks.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/detecting-email-forwarding-rules-attack
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata: {}
+added_at: '2026-06-07'

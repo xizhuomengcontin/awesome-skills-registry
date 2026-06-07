@@ -1,0 +1,15 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-kubernetes-pod-security-standards
+display_name: implementing-kubernetes-pod-security-standards
+description: Pod Security Standards (PSS) define three levels of security policies
+  -- Privileged, Baseline, and Restricted -- enforced by the Pod Security Admission
+  (PSA) controller built into Kubernetes 1.25+. PS
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-kubernetes-pod-security-standards
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata: {}
+added_at: '2026-06-07'

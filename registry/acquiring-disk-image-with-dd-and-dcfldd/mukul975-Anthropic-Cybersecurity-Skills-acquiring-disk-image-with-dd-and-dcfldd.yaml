@@ -1,0 +1,14 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-acquiring-disk-image-with-dd-and-dcfldd
+display_name: acquiring-disk-image-with-dd-and-dcfldd
+description: Create forensically sound bit-for-bit disk images using dd and dcfldd
+  while preserving evidence integrity through hash verification.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/acquiring-disk-image-with-dd-and-dcfldd
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata: {}
+added_at: '2026-06-07'

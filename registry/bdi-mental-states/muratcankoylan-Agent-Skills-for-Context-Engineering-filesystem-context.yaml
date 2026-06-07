@@ -1,0 +1,13 @@
+id: muratcankoylan-Agent-Skills-for-Context-Engineering-filesystem-context
+display_name: Filesystem Context
+description: '---'
+authors:
+- muratcankoylan
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/filesystem-context
+  repo: muratcankoylan/Agent-Skills-for-Context-Engineering
+metadata: {}
+added_at: '2026-06-07'

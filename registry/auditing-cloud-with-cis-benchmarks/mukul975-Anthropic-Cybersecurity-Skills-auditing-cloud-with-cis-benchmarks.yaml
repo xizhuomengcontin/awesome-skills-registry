@@ -1,0 +1,17 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-auditing-cloud-with-cis-benchmarks
+display_name: auditing-cloud-with-cis-benchmarks
+description: This skill details how to conduct cloud security audits using Center
+  for Internet Security benchmarks for AWS, Azure, and GCP. It covers interpreting
+  CIS Foundations Benchmark controls, running automated assessments with tools like
+  Prowler and ScoutSuite, remediating failed controls, and maintaining continuous
+  compliance monitoring against CIS v5 for AWS, v4 for Azure, and v4 for GCP.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/auditing-cloud-with-cis-benchmarks
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata: {}
+added_at: '2026-06-07'

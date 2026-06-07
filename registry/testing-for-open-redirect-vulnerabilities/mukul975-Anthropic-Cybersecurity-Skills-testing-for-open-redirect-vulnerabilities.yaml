@@ -1,0 +1,15 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-testing-for-open-redirect-vulnerabilities
+display_name: testing-for-open-redirect-vulnerabilities
+description: Identify and test open redirect vulnerabilities in web applications by
+  analyzing URL redirection parameters, bypass techniques, and exploitation chains
+  for phishing and token theft.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/testing-for-open-redirect-vulnerabilities
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata: {}
+added_at: '2026-06-07'

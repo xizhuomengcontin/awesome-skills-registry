@@ -1,0 +1,14 @@
+id: prompt-security-clawsec-clawtributor
+display_name: clawtributor
+description: Community incident reporting for AI agents. Contribute to collective
+  security by reporting threats.
+authors:
+- prompt-security
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/clawtributor
+  repo: prompt-security/clawsec
+metadata: {}
+added_at: '2026-06-07'

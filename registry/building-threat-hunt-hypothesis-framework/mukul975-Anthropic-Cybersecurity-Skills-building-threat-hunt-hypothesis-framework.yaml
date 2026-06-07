@@ -1,0 +1,14 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-building-threat-hunt-hypothesis-framework
+display_name: building-threat-hunt-hypothesis-framework
+description: Build a systematic threat hunt hypothesis framework that transforms threat
+  intelligence, attack patterns, and environmental data into testable hunting hypotheses.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/building-threat-hunt-hypothesis-framework
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata: {}
+added_at: '2026-06-07'
