@@ -1,12 +1,19 @@
 id: bitwize-music-studio-claude-ai-music-skills-import-audio
-display_name: Import Audio
+display_name: Import Audio Files
 description: Moves audio files to the correct album location with proper path structure. Use when the user has downloaded
   WAV files from Suno or other sources that need to be organized.
 authors:
 - bitwize-music-studio
 is_official: false
-tags: []
-category: none
+tags:
+- audio-files
+- music-production
+- file-management
+- wav
+- suno
+- audio-organization
+- album-workflow
+category: miscellaneous
 source:
   path: /skills/import-audio
   repo: bitwize-music-studio/claude-ai-music-skills

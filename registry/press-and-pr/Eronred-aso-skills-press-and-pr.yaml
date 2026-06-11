@@ -1,5 +1,5 @@
 id: Eronred-aso-skills-press-and-pr
-display_name: Press And Pr
+display_name: Press & PR
 description: When the user wants to get press coverage, media mentions, or editorial features for their app — including writing
   press releases, pitching journalists, getting on "best apps" lists, or building an app press kit. Use when the user mentions
   "press", "PR", "media coverage", "TechCrunch", "journalist", "press release", "app press kit", "get featured in media",
@@ -8,8 +8,15 @@ description: When the user wants to get press coverage, media mentions, or edito
 authors:
 - Eronred
 is_official: false
-tags: []
-category: none
+tags:
+- press-release
+- pr
+- media-coverage
+- app-marketing
+- journalist-outreach
+- press-kit
+- app-launch
+category: marketing
 source:
   path: /skills/press-and-pr
   repo: Eronred/aso-skills

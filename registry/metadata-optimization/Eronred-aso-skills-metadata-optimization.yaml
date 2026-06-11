@@ -6,8 +6,16 @@ description: When the user wants to optimize App Store metadata — title, subti
 authors:
 - Eronred
 is_official: false
-tags: []
-category: none
+tags:
+- aso
+- app-store-optimization
+- metadata
+- keyword-field
+- app-title
+- app-description
+- character-limits
+- mobile-marketing
+category: marketing
 source:
   path: /skills/metadata-optimization
   repo: Eronred/aso-skills

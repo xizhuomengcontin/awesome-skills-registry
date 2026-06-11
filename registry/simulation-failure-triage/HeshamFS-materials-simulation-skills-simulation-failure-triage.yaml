@@ -6,8 +6,15 @@ description: Triage cross-code simulation failures and propose safe retry ladder
 authors:
 - HeshamFS
 is_official: false
-tags: []
-category: none
+tags:
+- simulation
+- failure-triage
+- materials-science
+- convergence
+- debugging
+- hpc
+- numerical-stability
+category: science
 source:
   path: /skills/robustness/simulation-failure-triage
   repo: HeshamFS/materials-simulation-skills

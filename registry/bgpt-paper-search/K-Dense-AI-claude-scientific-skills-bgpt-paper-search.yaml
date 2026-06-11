@@ -1,13 +1,21 @@
 id: K-Dense-AI-claude-scientific-skills-bgpt-paper-search
-display_name: Bgpt Paper Search
+display_name: BGPT Paper Search
 description: Search scientific papers and retrieve structured experimental data extracted from full-text studies via the BGPT
   MCP server. Returns 25+ fields per paper including methods, results, sample sizes, quality scores, and conclusions. Use
   for literature reviews, evidence synthesis, and finding experimental details not available in abstracts alone.
 authors:
 - K-Dense-AI
 is_official: false
-tags: []
-category: none
+tags:
+- literature-review
+- paper-search
+- evidence-synthesis
+- scientific-data
+- full-text-extraction
+- research
+- mcp
+- experimental-data
+category: science
 source:
   path: /skills/bgpt-paper-search
   repo: K-Dense-AI/claude-scientific-skills

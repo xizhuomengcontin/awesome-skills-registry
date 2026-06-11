@@ -1,13 +1,21 @@
 id: ibelick-ui-skills-baseline-ui
-display_name: Baseline Ui
+display_name: Baseline UI
 description: Validates animation durations, enforces typography scale, checks component accessibility, and prevents layout
   anti-patterns in Tailwind CSS projects. Use when building UI components, reviewing CSS utilities, styling React views, or
   enforcing design consistency.
 authors:
 - ibelick
 is_official: false
-tags: []
-category: none
+tags:
+- tailwind-css
+- ui-components
+- accessibility
+- typography
+- animation
+- react
+- design-consistency
+- layout
+category: design
 source:
   path: /skills/baseline-ui
   repo: ibelick/ui-skills

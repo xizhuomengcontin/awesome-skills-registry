@@ -5,8 +5,14 @@ description: Break a large story or epic into smaller deliverable stories using 
 authors:
 - deanpeters
 is_official: false
-tags: []
-category: none
+tags:
+- user-stories
+- story-splitting
+- agile
+- backlog
+- epic-decomposition
+- product-management
+category: productivity
 source:
   path: /skills/user-story-splitting
   repo: deanpeters/Product-Manager-Skills

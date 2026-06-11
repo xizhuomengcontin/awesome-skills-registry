@@ -7,8 +7,14 @@ description: Translate Figma nodes into production-ready code with 1:1 visual fi
 authors:
 - tech-leads-club
 is_official: false
-tags: []
-category: none
+tags:
+- figma
+- design-to-code
+- pixel-perfect
+- component-implementation
+- mcp
+- ui-development
+category: design
 source:
   path: /packages/skills-catalog/skills/(design)/figma-implement-design
   repo: tech-leads-club/agent-skills

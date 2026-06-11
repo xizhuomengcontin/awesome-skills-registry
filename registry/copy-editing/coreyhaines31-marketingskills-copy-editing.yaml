@@ -8,8 +8,14 @@ description: When the user wants to edit, review, or improve existing marketing 
 authors:
 - coreyhaines31
 is_official: false
-tags: []
-category: none
+tags:
+- copy-editing
+- proofreading
+- content-refresh
+- copywriting
+- content-improvement
+- marketing-copy
+category: marketing
 source:
   path: /skills/copy-editing
   repo: coreyhaines31/marketingskills

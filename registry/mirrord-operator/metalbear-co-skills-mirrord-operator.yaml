@@ -5,8 +5,16 @@ description: Help users install and configure the mirrord operator for team envi
 authors:
 - metalbear-co
 is_official: true
-tags: []
-category: none
+tags:
+- mirrord
+- kubernetes-operator
+- helm
+- devops
+- team-deployment
+- licensing
+- multi-user
+- cluster-management
+category: coding
 source:
   path: /skills/mirrord-operator
   repo: metalbear-co/skills

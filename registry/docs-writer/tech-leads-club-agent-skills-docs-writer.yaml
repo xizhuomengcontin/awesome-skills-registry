@@ -7,8 +7,15 @@ description: Write, review, and edit documentation files with consistent structu
 authors:
 - tech-leads-club
 is_official: false
-tags: []
-category: none
+tags:
+- documentation
+- technical-writing
+- readme
+- markdown
+- developer-docs
+- guides
+- content-editing
+category: productivity
 source:
   path: /packages/skills-catalog/skills/(development)/docs-writer
   repo: tech-leads-club/agent-skills

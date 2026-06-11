@@ -1,5 +1,5 @@
 id: aklofas-kicad-happy-mouser
-display_name: Mouser
+display_name: Mouser Electronics
 description: Search Mouser Electronics for electronic components — secondary source for prototype orders. Find parts, check
   pricing/stock, download datasheets, analyze specifications. Use with KiCad for BOM creation and part selection. Also supports
   batch MPN-list seeding (`--mpn-list`) for bulk datasheet workflows without a KiCad project. Use this skill when the user
@@ -9,8 +9,16 @@ description: Search Mouser Electronics for electronic components — secondary s
 authors:
 - aklofas
 is_official: false
-tags: []
-category: none
+tags:
+- mouser-electronics
+- component-search
+- bom
+- kicad
+- electronic-parts
+- pricing
+- datasheets
+- hardware
+category: productivity
 source:
   path: /skills/mouser
   repo: aklofas/kicad-happy

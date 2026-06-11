@@ -4,8 +4,14 @@ description: 'Build detailed buyer personas. Use when: demographics, psychograph
 authors:
 - indranilbanerjee
 is_official: false
-tags: []
-category: none
+tags:
+- buyer-persona
+- demographics
+- psychographics
+- segmentation
+- jobs-to-be-done
+- audience-research
+category: marketing
 source:
   path: /skills/audience-profile
   repo: indranilbanerjee/digital-marketing-pro

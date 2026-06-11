@@ -5,8 +5,14 @@ description: Save any thought or content into the brain via one CLI command. The
 authors:
 - garrytan
 is_official: false
-tags: []
-category: none
+tags:
+- note-capture
+- knowledge-management
+- cli
+- personal-brain
+- second-brain
+- quick-capture
+category: productivity
 source:
   path: /skills/capture
   repo: garrytan/gbrain

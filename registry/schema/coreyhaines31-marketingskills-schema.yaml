@@ -1,5 +1,5 @@
 id: coreyhaines31-marketingskills-schema
-display_name: Schema
+display_name: Schema Markup & Structured Data
 description: When the user wants to add, fix, or optimize schema markup and structured data on their site. Also use when the
   user mentions "schema markup," "structured data," "JSON-LD," "rich snippets," "schema.org," "FAQ schema," "product schema,"
   "review schema," "breadcrumb schema," "Google rich results," "knowledge panel," "star ratings in search," or "add structured
@@ -8,8 +8,15 @@ description: When the user wants to add, fix, or optimize schema markup and stru
 authors:
 - coreyhaines31
 is_official: false
-tags: []
-category: none
+tags:
+- schema-markup
+- structured-data
+- json-ld
+- rich-snippets
+- seo
+- google-rich-results
+- schema-org
+category: marketing
 source:
   path: /skills/schema
   repo: coreyhaines31/marketingskills

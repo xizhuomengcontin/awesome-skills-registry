@@ -5,8 +5,16 @@ description: Biological data toolkit. Sequence analysis, alignments, phylogeneti
 authors:
 - K-Dense-AI
 is_official: false
-tags: []
-category: none
+tags:
+- bioinformatics
+- sequence-analysis
+- phylogenetics
+- microbiome
+- diversity-metrics
+- unifrac
+- pcoa
+- permanova
+category: science
 source:
   path: /skills/scikit-bio
   repo: K-Dense-AI/claude-scientific-skills

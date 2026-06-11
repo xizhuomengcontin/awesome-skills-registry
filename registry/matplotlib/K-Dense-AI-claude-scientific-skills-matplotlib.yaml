@@ -7,8 +7,15 @@ description: Low-level plotting library for full customization. Use when you nee
 authors:
 - K-Dense-AI
 is_official: false
-tags: []
-category: none
+tags:
+- matplotlib
+- data-visualization
+- plotting
+- python
+- publication-figures
+- scientific-charts
+- png-svg-export
+category: data-ai
 source:
   path: /skills/matplotlib
   repo: K-Dense-AI/claude-scientific-skills

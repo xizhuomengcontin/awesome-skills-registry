@@ -5,8 +5,15 @@ description: 6-phase interactive interview that generates the agent's identity (
 authors:
 - garrytan
 is_official: false
-tags: []
-category: none
+tags:
+- identity
+- agent-configuration
+- user-profiling
+- access-control
+- onboarding
+- interactive-interview
+- persona
+category: productivity
 source:
   path: /skills/soul-audit
   repo: garrytan/gbrain

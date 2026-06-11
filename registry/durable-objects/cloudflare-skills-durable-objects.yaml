@@ -1,5 +1,5 @@
 id: cloudflare-skills-durable-objects
-display_name: Durable Objects
+display_name: Cloudflare Durable Objects
 description: Create and review Cloudflare Durable Objects. Use when building stateful coordination (chat rooms, multiplayer
   games, booking systems), implementing RPC methods, SQLite storage, alarms, WebSockets, or reviewing DO code for best practices.
   Covers Workers integration, wrangler config, and testing with Vitest. Biases towards retrieval from Cloudflare docs over
@@ -7,8 +7,16 @@ description: Create and review Cloudflare Durable Objects. Use when building sta
 authors:
 - cloudflare
 is_official: true
-tags: []
-category: none
+tags:
+- cloudflare
+- durable-objects
+- workers
+- stateful-serverless
+- websockets
+- edge-computing
+- sqlite
+- real-time
+category: coding
 source:
   path: /skills/durable-objects
   repo: cloudflare/skills

@@ -1,12 +1,18 @@
 id: deanpeters-Product-Manager-Skills-pol-probe
-display_name: Pol Probe
+display_name: PoL Probe
 description: Define a Proof of Life probe to test a risky hypothesis cheaply. Use when you need harsh truth before building
   real product.
 authors:
 - deanpeters
 is_official: false
-tags: []
-category: none
+tags:
+- hypothesis-testing
+- product-validation
+- proof-of-concept
+- lean-startup
+- risk-reduction
+- product-management
+category: business
 source:
   path: /skills/pol-probe
   repo: deanpeters/Product-Manager-Skills

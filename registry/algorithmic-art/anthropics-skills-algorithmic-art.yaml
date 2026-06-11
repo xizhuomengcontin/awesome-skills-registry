@@ -6,8 +6,15 @@ description: Creating algorithmic art using p5.js with seeded randomness and int
 authors:
 - anthropics
 is_official: true
-tags: []
-category: none
+tags:
+- generative-art
+- p5js
+- algorithmic-art
+- flow-fields
+- particle-systems
+- creative-coding
+- procedural-art
+category: creative
 source:
   path: /skills/algorithmic-art
   repo: anthropics/skills

@@ -1,5 +1,5 @@
 id: K-Dense-AI-claude-scientific-skills-dhdna-profiler
-display_name: Dhdna Profiler
+display_name: DHDNA Profiler
 description: Extract cognitive patterns and thinking fingerprints from any text. Use this skill when the user wants to analyze
   how someone thinks, understand cognitive style, profile writing or speech patterns, compare thinking styles between people,
   asks "what's my thinking style", "analyze how this person reasons", "cognitive profile", "thinking pattern", "DHDNA", "digital
@@ -8,8 +8,15 @@ description: Extract cognitive patterns and thinking fingerprints from any text.
 authors:
 - K-Dense-AI
 is_official: false
-tags: []
-category: none
+tags:
+- cognitive-profiling
+- text-analysis
+- thinking-patterns
+- nlp
+- behavioral-analysis
+- writing-style
+- reasoning-patterns
+category: data-ai
 source:
   path: /skills/dhdna-profiler
   repo: K-Dense-AI/claude-scientific-skills

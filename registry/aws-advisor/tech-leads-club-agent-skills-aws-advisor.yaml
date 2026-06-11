@@ -1,5 +1,5 @@
 id: tech-leads-club-agent-skills-aws-advisor
-display_name: Aws Advisor
+display_name: AWS Advisor
 description: Expert AWS Cloud Advisor for architecture design, security review, and implementation guidance. Leverages AWS
   MCP tools for accurate, documentation-backed answers. Use when user asks about AWS architecture, security, service selection,
   migrations, troubleshooting, or learning AWS. Triggers on AWS, Lambda, S3, EC2, ECS, EKS, DynamoDB, RDS, CloudFormation,
@@ -8,8 +8,15 @@ description: Expert AWS Cloud Advisor for architecture design, security review, 
 authors:
 - tech-leads-club
 is_official: false
-tags: []
-category: none
+tags:
+- aws
+- cloud-architecture
+- security
+- infrastructure
+- devops
+- iam
+- serverless
+category: coding
 source:
   path: /packages/skills-catalog/skills/(cloud)/aws-advisor
   repo: tech-leads-club/agent-skills

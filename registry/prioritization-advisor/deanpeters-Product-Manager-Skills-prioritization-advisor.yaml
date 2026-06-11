@@ -5,8 +5,15 @@ description: Choose a prioritization framework based on stage, team context, and
 authors:
 - deanpeters
 is_official: false
-tags: []
-category: none
+tags:
+- prioritization
+- product-management
+- rice-framework
+- ice-scoring
+- roadmap
+- decision-making
+- frameworks
+category: productivity
 source:
   path: /skills/prioritization-advisor
   repo: deanpeters/Product-Manager-Skills

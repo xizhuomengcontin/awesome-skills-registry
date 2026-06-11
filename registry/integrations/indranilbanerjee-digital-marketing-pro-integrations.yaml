@@ -4,8 +4,13 @@ description: 'Show MCP integration status. Use when: checking active connectors,
 authors:
 - indranilbanerjee
 is_official: false
-tags: []
-category: none
+tags:
+- integrations
+- connectors
+- mcp
+- status-check
+- skill-management
+category: marketing
 source:
   path: /skills/integrations
   repo: indranilbanerjee/digital-marketing-pro

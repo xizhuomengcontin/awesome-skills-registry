@@ -5,8 +5,14 @@ description: Multi-model validation council — auto-validate plans, architectur
 authors:
 - alinaqi
 is_official: false
-tags: []
-category: none
+tags:
+- multi-model-validation
+- architecture-review
+- pull-request-review
+- plan-validation
+- code-review
+- ai-validation
+category: coding
 source:
   path: /skills/council-review
   repo: alinaqi/maggy

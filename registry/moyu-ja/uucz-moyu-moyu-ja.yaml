@@ -1,13 +1,19 @@
 id: uucz-moyu-moyu-ja
-display_name: Moyu Ja
+display_name: Moyu (Japanese)
 description: 過剰エンジニアリングのパターンが検出された場合に自動的に発動します： (1) ユーザーが明示的に変更を求めていないコードやファイルを修正する (2) 要求されていない新しい抽象レイヤー（class、interface、factory、wrapper）を作成する
   (3) 要求されていないコメント、ドキュメント、JSDoc、型注釈を追加する (4) 要求されていない新しい依存パッケージを導入する (5) 最小限の編集ではなくファイル全体を書き直す (6) diff の範囲がユーザーの要求を明らかに超えている
   (7) ユーザーが「やりすぎ」「そこは変えないで」「Xだけ変えて」「シンプルに」「やめて」と言う (8) 起こり得ないシナリオに対するエラーハンドリング、バリデーション、防御的コードを追加する (9) 要求されていないテスト、設定のスキャフォールディング、ドキュメントを生成する
 authors:
 - uucz
 is_official: false
-tags: []
-category: none
+tags:
+- anti-over-engineering
+- code-review
+- minimal-edits
+- scope-control
+- coding-discipline
+- japanese
+category: coding
 source:
   path: /skills/moyu-ja
   repo: uucz/moyu

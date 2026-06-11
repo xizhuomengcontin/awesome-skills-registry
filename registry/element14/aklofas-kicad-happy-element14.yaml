@@ -1,5 +1,5 @@
 id: aklofas-kicad-happy-element14
-display_name: Element14
+display_name: Element14 / Newark / Farnell Parts Search
 description: Search Newark, Farnell, and element14 for electronic components — find parts by MPN or distributor part number,
   check pricing/stock, download datasheets, analyze specifications. One unified API covers all three storefronts (Newark for
   US, Farnell for UK/EU, element14 for APAC). Free API key, simple query-parameter auth, no OAuth. Datasheets download directly
@@ -11,8 +11,16 @@ description: Search Newark, Farnell, and element14 for electronic components —
 authors:
 - aklofas
 is_official: false
-tags: []
-category: none
+tags:
+- electronic-components
+- newark
+- farnell
+- element14
+- parts-search
+- bom
+- datasheets
+- kicad
+category: science
 source:
   path: /skills/element14
   repo: aklofas/kicad-happy

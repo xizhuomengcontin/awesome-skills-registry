@@ -1,5 +1,5 @@
 id: K-Dense-AI-claude-scientific-skills-protocolsio-integration
-display_name: Protocolsio Integration
+display_name: Protocols.io Integration
 description: Integration with protocols.io API for managing scientific protocols. This skill should be used when working with
   protocols.io to search, create, update, or publish protocols; manage protocol steps and materials; handle discussions and
   comments; organize workspaces; upload and manage files; or integrate protocols.io functionality into workflows. Applicable
@@ -8,8 +8,15 @@ description: Integration with protocols.io API for managing scientific protocols
 authors:
 - K-Dense-AI
 is_official: false
-tags: []
-category: none
+tags:
+- protocols-io
+- lab-protocols
+- api-integration
+- experiment-tracking
+- scientific-documentation
+- lab-management
+- collaboration
+category: science
 source:
   path: /skills/protocolsio-integration
   repo: K-Dense-AI/claude-scientific-skills

@@ -8,8 +8,15 @@ description: Perform spatial and temporal convergence analysis for solution veri
 authors:
 - HeshamFS
 is_official: false
-tags: []
-category: none
+tags:
+- convergence-analysis
+- numerical-simulation
+- richardson-extrapolation
+- grid-convergence-index
+- mesh-verification
+- asme-vv20
+- discretization-error
+category: science
 source:
   path: /skills/core-numerical/convergence-study
   repo: HeshamFS/materials-simulation-skills

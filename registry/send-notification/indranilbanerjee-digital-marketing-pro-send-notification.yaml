@@ -4,8 +4,14 @@ description: 'Send team notifications. Use when: pushing campaign updates, alert
 authors:
 - indranilbanerjee
 is_official: false
-tags: []
-category: none
+tags:
+- notifications
+- slack
+- intercom
+- team-alerts
+- campaign-updates
+- approval-workflow
+category: productivity
 source:
   path: /skills/send-notification
   repo: indranilbanerjee/digital-marketing-pro

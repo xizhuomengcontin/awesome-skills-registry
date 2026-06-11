@@ -4,8 +4,15 @@ description: 'Orchestrate full campaign lifecycle. Use when: planning, launching
 authors:
 - indranilbanerjee
 is_official: false
-tags: []
-category: none
+tags:
+- campaign-management
+- campaign-lifecycle
+- utm-tracking
+- media-plan
+- post-mortem
+- launch
+- orchestration
+category: marketing
 source:
   path: /skills/campaign-orchestrator
   repo: indranilbanerjee/digital-marketing-pro

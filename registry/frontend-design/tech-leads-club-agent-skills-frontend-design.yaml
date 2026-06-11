@@ -6,8 +6,15 @@ description: Create distinctive, production-grade frontend interfaces with high 
 authors:
 - tech-leads-club
 is_official: false
-tags: []
-category: none
+tags:
+- frontend
+- web-components
+- ui-design
+- production-grade
+- html-css
+- code-generation
+- web-design
+category: design
 source:
   path: /packages/skills-catalog/skills/(design)/frontend-design
   repo: tech-leads-club/agent-skills

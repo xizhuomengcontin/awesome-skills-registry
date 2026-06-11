@@ -5,8 +5,14 @@ description: 'Analyze marketing performance. Use when: KPI frameworks, attributi
 authors:
 - indranilbanerjee
 is_official: false
-tags: []
-category: none
+tags:
+- kpi-framework
+- attribution-modeling
+- anomaly-detection
+- marketing-analytics
+- measurement-strategy
+- performance-analysis
+category: marketing
 source:
   path: /skills/analytics-insights
   repo: indranilbanerjee/digital-marketing-pro

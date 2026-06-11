@@ -1,13 +1,21 @@
 id: K-Dense-AI-claude-scientific-skills-gtars
-display_name: Gtars
+display_name: GTARS Genomic Interval Analysis
 description: High-performance toolkit for genomic interval analysis in Rust with Python bindings. Use when working with genomic
   regions, BED files, coverage tracks, overlap detection, tokenization for ML models, or fragment analysis in computational
   genomics and machine learning applications.
 authors:
 - K-Dense-AI
 is_official: false
-tags: []
-category: none
+tags:
+- genomics
+- bioinformatics
+- rust
+- python-bindings
+- bed-files
+- genomic-intervals
+- coverage-tracks
+- computational-genomics
+category: science
 source:
   path: /skills/gtars
   repo: K-Dense-AI/claude-scientific-skills

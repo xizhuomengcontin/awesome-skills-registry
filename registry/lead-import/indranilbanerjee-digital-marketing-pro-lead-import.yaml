@@ -4,8 +4,14 @@ description: 'Import leads into CRM. Use when: loading leads from forms, CSV, or
 authors:
 - indranilbanerjee
 is_official: false
-tags: []
-category: none
+tags:
+- crm
+- lead-import
+- csv
+- deduplication
+- lead-scoring
+- data-ingestion
+category: marketing
 source:
   path: /skills/lead-import
   repo: indranilbanerjee/digital-marketing-pro

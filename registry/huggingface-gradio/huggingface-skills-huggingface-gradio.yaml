@@ -1,12 +1,19 @@
 id: huggingface-skills-huggingface-gradio
-display_name: Huggingface Gradio
+display_name: HuggingFace Gradio
 description: Build Gradio web UIs and demos in Python. Use when creating or editing Gradio apps, components, event listeners,
   layouts, or chatbots.
 authors:
 - huggingface
 is_official: true
-tags: []
-category: none
+tags:
+- gradio
+- python
+- web-ui
+- demo-builder
+- chatbot
+- huggingface
+- ui-components
+category: coding
 source:
   path: /skills/huggingface-gradio
   repo: huggingface/skills

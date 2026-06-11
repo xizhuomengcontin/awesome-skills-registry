@@ -1,13 +1,20 @@
 id: huggingface-skills-huggingface-papers
-display_name: Huggingface Papers
+display_name: HuggingFace Papers
 description: Look up and read Hugging Face paper pages in markdown, and use the papers API for structured metadata such as
   authors, linked models/datasets/spaces, Github repo and project page. Use when the user shares a Hugging Face paper page
   URL, an arXiv URL or ID, or asks to summarize, explain, or analyze an AI research paper.
 authors:
 - huggingface
 is_official: true
-tags: []
-category: none
+tags:
+- research-papers
+- arxiv
+- huggingface
+- paper-summary
+- ai-research
+- metadata
+- literature-review
+category: science
 source:
   path: /skills/huggingface-papers
   repo: huggingface/skills

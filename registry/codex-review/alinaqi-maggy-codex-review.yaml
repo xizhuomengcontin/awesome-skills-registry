@@ -1,11 +1,18 @@
 id: alinaqi-maggy-codex-review
-display_name: Codex Review
+display_name: Codex CLI Review
 description: OpenAI Codex CLI code review with GPT-5.2-Codex, CI/CD integration
 authors:
 - alinaqi
 is_official: false
-tags: []
-category: none
+tags:
+- codex
+- openai
+- code-review
+- ci-cd
+- gpt
+- automated-review
+- integration
+category: coding
 source:
   path: /skills/codex-review
   repo: alinaqi/maggy

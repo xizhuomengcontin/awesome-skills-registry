@@ -6,8 +6,16 @@ description: Write competitive research proposals for NSF, NIH, DOE, DARPA, and 
 authors:
 - K-Dense-AI
 is_official: false
-tags: []
-category: none
+tags:
+- grant-writing
+- nsf
+- nih
+- darpa
+- research-proposal
+- funding
+- scientific-writing
+- compliance
+category: science
 source:
   path: /skills/research-grants
   repo: K-Dense-AI/claude-scientific-skills

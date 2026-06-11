@@ -1,11 +1,17 @@
 id: indranilbanerjee-digital-marketing-pro-client-report
-display_name: Client Report
+display_name: Client Report Generator
 description: 'Generate client-facing reports. Use when: white-labeled performance report with KPIs, trends, strategic recommendations.'
 authors:
 - indranilbanerjee
 is_official: false
-tags: []
-category: none
+tags:
+- client-reporting
+- kpi
+- performance-report
+- white-label
+- agency
+- recommendations
+category: marketing
 source:
   path: /skills/client-report
   repo: indranilbanerjee/digital-marketing-pro

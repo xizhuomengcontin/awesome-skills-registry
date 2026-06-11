@@ -6,8 +6,15 @@ description: When the user wants to analyze, respond to, or improve their app re
 authors:
 - Eronred
 is_official: false
-tags: []
-category: none
+tags:
+- app-reviews
+- ratings
+- aso
+- review-response
+- app-store
+- reputation-management
+- user-feedback
+category: marketing
 source:
   path: /skills/review-management
   repo: Eronred/aso-skills

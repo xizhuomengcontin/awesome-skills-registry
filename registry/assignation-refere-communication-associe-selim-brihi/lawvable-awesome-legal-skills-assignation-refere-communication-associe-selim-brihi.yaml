@@ -1,5 +1,5 @@
 id: lawvable-awesome-legal-skills-assignation-refere-communication-associe-selim-brihi
-display_name: Assignation Refere Communication Associe Selim Brihi
+display_name: Assignation Référé - Communication Associé
 description: Rédaction d'assignations en référé devant le tribunal de commerce ou des activités économiques pour le droit
   de communication d'un associé. Utiliser ce skill quand l'utilisateur demande de rédiger, préparer ou créer une assignation
   en référé fondée sur l'article L. 238-1 du code de commerce pour obtenir la communication forcée de documents sociaux (comptes
@@ -8,8 +8,15 @@ description: Rédaction d'assignations en référé devant le tribunal de commer
 authors:
 - lawvable
 is_official: false
-tags: []
-category: none
+tags:
+- french-law
+- assignation
+- refere
+- droit-des-societes
+- communication-documents
+- tribunal-de-commerce
+- associe
+category: legal
 source:
   path: /skills/assignation-refere-communication-associe-selim-brihi
   repo: lawvable/awesome-legal-skills

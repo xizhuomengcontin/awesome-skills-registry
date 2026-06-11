@@ -6,8 +6,16 @@ description: Take any book (EPUB/PDF), produce a personalized chapter-by-chapter
 authors:
 - garrytan
 is_official: false
-tags: []
-category: none
+tags:
+- book-analysis
+- epub
+- pdf
+- personalization
+- knowledge-base
+- note-taking
+- reading
+- chapter-summary
+category: productivity
 source:
   path: /skills/book-mirror
   repo: garrytan/gbrain

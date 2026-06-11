@@ -1,12 +1,19 @@
 id: deanpeters-Product-Manager-Skills-finance-metrics-quickref
-display_name: Finance Metrics Quickref
+display_name: Finance Metrics Quick Reference
 description: Look up SaaS finance metrics, formulas, and benchmarks fast. Use when you need a quick metric definition, formula,
   or benchmark during analysis.
 authors:
 - deanpeters
 is_official: false
-tags: []
-category: none
+tags:
+- saas-metrics
+- finance
+- formulas
+- benchmarks
+- kpis
+- quick-reference
+- product-management
+category: business
 source:
   path: /skills/finance-metrics-quickref
   repo: deanpeters/Product-Manager-Skills

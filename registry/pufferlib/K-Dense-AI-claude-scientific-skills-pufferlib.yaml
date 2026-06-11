@@ -1,5 +1,5 @@
 id: K-Dense-AI-claude-scientific-skills-pufferlib
-display_name: Pufferlib
+display_name: PufferLib RL Framework
 description: High-performance reinforcement learning framework optimized for speed and scale. Use when you need fast parallel
   training, vectorized environments, multi-agent systems, or integration with game environments (Atari, Procgen, NetHack).
   Achieves 2-10x speedups over standard implementations. For quick prototyping or standard algorithm implementations with
@@ -7,8 +7,15 @@ description: High-performance reinforcement learning framework optimized for spe
 authors:
 - K-Dense-AI
 is_official: false
-tags: []
-category: none
+tags:
+- reinforcement-learning
+- parallel-training
+- vectorized-environments
+- multi-agent
+- atari
+- game-ai
+- high-performance
+category: data-ai
 source:
   path: /skills/pufferlib
   repo: K-Dense-AI/claude-scientific-skills

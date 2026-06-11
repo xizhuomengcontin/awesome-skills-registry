@@ -1,5 +1,5 @@
 id: tech-leads-club-agent-skills-create-rfc
-display_name: Create Rfc
+display_name: Create RFC
 description: Creates structured Request for Comments (RFC) documents for proposing and deciding on significant changes. Use
   when the user says "write an RFC", "create a proposal", "I need to propose a change", "draft an RFC", "document a decision",
   or needs stakeholder alignment before making a major technical or process decision. Do NOT use for TDDs/implementation docs
@@ -7,8 +7,15 @@ description: Creates structured Request for Comments (RFC) documents for proposi
 authors:
 - tech-leads-club
 is_official: false
-tags: []
-category: none
+tags:
+- rfc
+- technical-proposal
+- architecture
+- stakeholder-alignment
+- decision-making
+- documentation
+- change-management
+category: coding
 source:
   path: /packages/skills-catalog/skills/(creation)/create-rfc
   repo: tech-leads-club/agent-skills

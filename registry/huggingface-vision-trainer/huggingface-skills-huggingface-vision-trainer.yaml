@@ -1,5 +1,5 @@
 id: huggingface-skills-huggingface-vision-trainer
-display_name: Huggingface Vision Trainer
+display_name: HuggingFace Vision Trainer
 description: Trains and fine-tunes vision models for object detection (D-FINE, RT-DETR v2, DETR, YOLOS), image classification
   (timm models — MobileNetV3, MobileViT, ResNet, ViT/DINOv3 — plus any Transformers classifier), and SAM/SAM2 segmentation
   using Hugging Face Transformers on Hugging Face Jobs cloud GPUs. Covers COCO-format dataset preparation, Albumentations
@@ -10,8 +10,15 @@ description: Trains and fine-tunes vision models for object detection (D-FINE, R
 authors:
 - huggingface
 is_official: true
-tags: []
-category: none
+tags:
+- vision-models
+- object-detection
+- image-classification
+- fine-tuning
+- sam
+- detr
+- huggingface-jobs
+category: data-ai
 source:
   path: /skills/huggingface-vision-trainer
   repo: huggingface/skills

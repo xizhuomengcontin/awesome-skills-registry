@@ -1,5 +1,5 @@
 id: coreyhaines31-marketingskills-seo-audit
-display_name: Seo Audit
+display_name: SEO Audit
 description: When the user wants to audit, review, or diagnose SEO issues on their site. Also use when the user mentions "SEO
   audit," "technical SEO," "why am I not ranking," "SEO issues," "on-page SEO," "meta tags review," "SEO health check," "my
   traffic dropped," "lost rankings," "not showing up in Google," "site isn't ranking," "Google update hit me," "page speed,"
@@ -9,8 +9,16 @@ description: When the user wants to audit, review, or diagnose SEO issues on the
 authors:
 - coreyhaines31
 is_official: false
-tags: []
-category: none
+tags:
+- seo-audit
+- technical-seo
+- core-web-vitals
+- crawl-errors
+- indexing
+- on-page-seo
+- ranking-diagnosis
+- traffic-analysis
+category: marketing
 source:
   path: /skills/seo-audit
   repo: coreyhaines31/marketingskills

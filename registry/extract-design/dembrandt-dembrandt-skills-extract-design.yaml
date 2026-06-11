@@ -1,5 +1,5 @@
 id: dembrandt-dembrandt-skills-extract-design
-display_name: Extract Design
+display_name: Extract Design System
 description: Extract a complete design system — colors, typography, spacing, components, shadows, and W3C design tokens —
   from any live website using Dembrandt. Runs a headless browser against the URL and returns real computed values from the
   DOM. Use when you need a site's actual design tokens, want to reverse-engineer a visual design, or need to seed a design
@@ -7,8 +7,16 @@ description: Extract a complete design system — colors, typography, spacing, c
 authors:
 - dembrandt
 is_official: false
-tags: []
-category: none
+tags:
+- design-system
+- design-tokens
+- reverse-engineering
+- headless-browser
+- css-extraction
+- typography
+- color-palette
+- w3c
+category: design
 source:
   path: /skills/extract-design
   repo: dembrandt/dembrandt-skills

@@ -5,8 +5,14 @@ description: Constructs technical Suno V5/V5.5 style prompts, selects genres, an
 authors:
 - bitwize-music-studio
 is_official: false
-tags: []
-category: none
+tags:
+- suno
+- ai-music
+- prompt-engineering
+- music-generation
+- genre
+- audio-production
+category: creative
 source:
   path: /skills/suno-engineer
   repo: bitwize-music-studio/claude-ai-music-skills

@@ -5,8 +5,14 @@ description: 'Monitor keyword rankings. Use when: tracking keyword positions, de
 authors:
 - indranilbanerjee
 is_official: false
-tags: []
-category: none
+tags:
+- seo
+- keyword-ranking
+- rank-tracking
+- serp
+- monitoring
+- alerts
+category: marketing
 source:
   path: /skills/rank-monitor
   repo: indranilbanerjee/digital-marketing-pro

@@ -7,8 +7,15 @@ description: 'Rewrites code review comments so they read like a human teammate w
 authors:
 - MohamedAbdallah-14
 is_official: false
-tags: []
-category: none
+tags:
+- code-review
+- pull-request
+- humanize-text
+- feedback
+- text-editing
+- developer-tools
+- pr-comments
+category: coding
 source:
   path: /skills/unslop-review
   repo: MohamedAbdallah-14/unslop

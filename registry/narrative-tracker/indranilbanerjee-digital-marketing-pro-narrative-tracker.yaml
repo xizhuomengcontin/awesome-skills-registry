@@ -5,8 +5,13 @@ description: 'Track AI engine brand narratives. Use when: detecting narrative dr
 authors:
 - indranilbanerjee
 is_official: false
-tags: []
-category: none
+tags:
+- brand-monitoring
+- narrative-tracking
+- ai-engine-visibility
+- competitor-analysis
+- brand-drift
+category: marketing
 source:
   path: /skills/narrative-tracker
   repo: indranilbanerjee/digital-marketing-pro

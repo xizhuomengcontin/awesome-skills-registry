@@ -8,8 +8,14 @@ description: Interpret validation errors and guide fixing them. Use when encount
 authors:
 - czlonkowski
 is_official: false
-tags: []
-category: none
+tags:
+- n8n
+- validation
+- error-handling
+- debugging
+- workflow-automation
+- auto-fix
+category: coding
 source:
   path: /skills/n8n-validation-expert
   repo: czlonkowski/n8n-skills

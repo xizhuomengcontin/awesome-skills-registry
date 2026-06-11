@@ -6,8 +6,15 @@ description: Deploy applications and websites to Vercel. Use when the user reque
 authors:
 - tech-leads-club
 is_official: false
-tags: []
-category: none
+tags:
+- vercel
+- deployment
+- hosting
+- preview-deployment
+- web-apps
+- devops
+- ci-cd
+category: coding
 source:
   path: /packages/skills-catalog/skills/(cloud)/vercel-deploy
   repo: tech-leads-club/agent-skills

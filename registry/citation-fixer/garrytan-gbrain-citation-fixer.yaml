@@ -6,8 +6,14 @@ description: 'Audit and fix citation formatting across brain pages. Ensures ever
 authors:
 - garrytan
 is_official: false
-tags: []
-category: none
+tags:
+- citation-formatting
+- fact-checking
+- source-validation
+- reference-management
+- content-audit
+- twitter-api
+category: productivity
 source:
   path: /skills/citation-fixer
   repo: garrytan/gbrain

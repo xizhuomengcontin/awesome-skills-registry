@@ -5,8 +5,14 @@ description: Plan a VP or CPO 30-60-90 day diagnostic onboarding path. Use when 
 authors:
 - deanpeters
 is_official: false
-tags: []
-category: none
+tags:
+- executive-onboarding
+- 30-60-90-day-plan
+- product-leadership
+- vp-cpo
+- onboarding-strategy
+- product-management
+category: business
 source:
   path: /skills/executive-onboarding-playbook
   repo: deanpeters/Product-Manager-Skills

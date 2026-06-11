@@ -4,8 +4,13 @@ description: 'Assess current market conditions. Use when: checking economic indi
 authors:
 - indranilbanerjee
 is_official: false
-tags: []
-category: none
+tags:
+- market-analysis
+- economic-indicators
+- competitive-intelligence
+- market-conditions
+- cultural-trends
+category: marketing
 source:
   path: /skills/market-weather
   repo: indranilbanerjee/digital-marketing-pro

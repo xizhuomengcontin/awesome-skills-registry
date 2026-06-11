@@ -1,13 +1,21 @@
 id: lawvable-awesome-legal-skills-politique-lanceur-alerte-malik-taiar
-display_name: Politique Lanceur Alerte Malik Taiar
+display_name: Whistleblower Policy Guide
 description: Guide for (a) auditing an existing whistleblower system or (b) drafting a compliant reporting policy from a provided
   template. Covers EU Directive 2019/1937, the amended Sapin II law (Waserman 2022), Decree 2022-1284, CNIL guidelines, public
   sector requirements, and duty of vigilance.
 authors:
 - lawvable
 is_official: false
-tags: []
-category: none
+tags:
+- whistleblower-policy
+- eu-directive
+- sapin-ii
+- compliance
+- french-law
+- cnil
+- reporting-policy
+- duty-of-vigilance
+category: legal
 source:
   path: /skills/politique-lanceur-alerte-malik-taiar
   repo: lawvable/awesome-legal-skills

@@ -8,8 +8,16 @@ description: When the user wants to choose between PLG and sales-led, design a s
 authors:
 - tech-leads-club
 is_official: false
-tags: []
-category: none
+tags:
+- product-led-growth
+- sales-led
+- plg
+- freemium
+- free-trial
+- go-to-market
+- time-to-value
+- sales-motion
+category: business
 source:
   path: /packages/skills-catalog/skills/(gtm)/sales-motion-design
   repo: tech-leads-club/agent-skills

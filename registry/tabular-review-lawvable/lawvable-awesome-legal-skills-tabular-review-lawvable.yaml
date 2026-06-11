@@ -1,5 +1,5 @@
 id: lawvable-awesome-legal-skills-tabular-review-lawvable
-display_name: Tabular Review Lawvable
+display_name: Tabular Review
 description: 'Guide to analyze multiple documents (PDF, DOCX) against user-defined columns and produce a structured Excel
   output with citations. Use when the user wants to: (1) Extract specific information from multiple documents into a table,
   (2) Compare clauses or provisions across contracts, (3) Create a document review matrix with source citations. Triggers
@@ -8,8 +8,16 @@ description: 'Guide to analyze multiple documents (PDF, DOCX) against user-defin
 authors:
 - lawvable
 is_official: false
-tags: []
-category: none
+tags:
+- document-review
+- contract-analysis
+- pdf
+- docx
+- excel
+- table-extraction
+- citations
+- multi-document
+category: legal
 source:
   path: /skills/tabular-review-lawvable
   repo: lawvable/awesome-legal-skills

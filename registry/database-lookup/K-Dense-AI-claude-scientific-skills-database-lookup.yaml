@@ -11,8 +11,16 @@ description: Search 78 public scientific, biomedical, materials science, and eco
 authors:
 - K-Dense-AI
 is_official: false
-tags: []
-category: none
+tags:
+- public-databases
+- rest-api
+- genomics
+- chemistry
+- biomedical
+- economics
+- clinical-trials
+- materials-science
+category: science
 source:
   path: /skills/database-lookup
   repo: K-Dense-AI/claude-scientific-skills

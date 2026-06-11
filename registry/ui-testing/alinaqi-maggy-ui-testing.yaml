@@ -1,11 +1,18 @@
 id: alinaqi-maggy-ui-testing
-display_name: Ui Testing
+display_name: UI Visual Testing
 description: Visual testing - catch invisible buttons, broken layouts, contrast
 authors:
 - alinaqi
 is_official: false
-tags: []
-category: none
+tags:
+- visual-testing
+- ui-testing
+- accessibility
+- contrast
+- layout-testing
+- front-end-testing
+- qa
+category: coding
 source:
   path: /skills/ui-testing
   repo: alinaqi/maggy

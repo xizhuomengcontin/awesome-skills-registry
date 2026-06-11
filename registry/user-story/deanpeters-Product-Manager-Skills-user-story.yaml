@@ -5,8 +5,14 @@ description: Create user stories with Mike Cohn format and Gherkin acceptance cr
 authors:
 - deanpeters
 is_official: false
-tags: []
-category: none
+tags:
+- user-stories
+- product-management
+- agile
+- gherkin
+- acceptance-criteria
+- backlog
+category: productivity
 source:
   path: /skills/user-story
   repo: deanpeters/Product-Manager-Skills

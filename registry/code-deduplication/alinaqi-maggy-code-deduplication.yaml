@@ -4,8 +4,14 @@ description: Prevent semantic code duplication with capability index and check-b
 authors:
 - alinaqi
 is_official: false
-tags: []
-category: none
+tags:
+- code-quality
+- deduplication
+- semantic-analysis
+- capability-index
+- refactoring
+- dry-principle
+category: coding
 source:
   path: /skills/code-deduplication
   repo: alinaqi/maggy

@@ -5,8 +5,14 @@ description: Diagnose context stuffing vs. context engineering. Use when an AI w
 authors:
 - deanpeters
 is_official: false
-tags: []
-category: none
+tags:
+- context-engineering
+- ai-workflow
+- prompt-optimization
+- ai-reliability
+- llm-tuning
+- context-management
+category: data-ai
 source:
   path: /skills/context-engineering-advisor
   repo: deanpeters/Product-Manager-Skills

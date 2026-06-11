@@ -5,8 +5,16 @@ description: Benchling Python SDK and REST API integration for registry entities
 authors:
 - K-Dense-AI
 is_official: false
-tags: []
-category: none
+tags:
+- benchling
+- lab-automation
+- python-sdk
+- rest-api
+- eln
+- lims
+- bioinformatics
+- data-warehouse
+category: science
 source:
   path: /skills/benchling-integration
   repo: K-Dense-AI/claude-scientific-skills

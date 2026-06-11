@@ -7,8 +7,16 @@ description: Machine learning in Python with scikit-learn. Use when working with
 authors:
 - K-Dense-AI
 is_official: false
-tags: []
-category: none
+tags:
+- machine-learning
+- python
+- classification
+- regression
+- clustering
+- model-evaluation
+- ml-pipelines
+- scikit-learn
+category: data-ai
 source:
   path: /skills/scikit-learn
   repo: K-Dense-AI/claude-scientific-skills

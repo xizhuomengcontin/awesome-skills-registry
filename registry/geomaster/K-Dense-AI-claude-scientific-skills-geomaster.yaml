@@ -9,8 +9,16 @@ description: Comprehensive geospatial science skill covering remote sensing, GIS
 authors:
 - K-Dense-AI
 is_official: false
-tags: []
-category: none
+tags:
+- geospatial
+- remote-sensing
+- gis
+- satellite-imagery
+- spatial-analysis
+- earth-observation
+- machine-learning
+- cloud-native
+category: science
 source:
   path: /skills/geomaster
   repo: K-Dense-AI/claude-scientific-skills

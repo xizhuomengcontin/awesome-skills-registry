@@ -1,13 +1,20 @@
 id: lawvable-awesome-legal-skills-canned-responses-anthropic
-display_name: Canned Responses Anthropic
+display_name: Legal Canned Responses
 description: Generate templated responses for common legal inquiries and identify when situations require individualized attention.
   Use when responding to routine legal questions — data subject requests, vendor inquiries, NDA requests, discovery holds
   — or when managing response templates.
 authors:
 - lawvable
 is_official: false
-tags: []
-category: none
+tags:
+- legal-templates
+- canned-responses
+- data-subject-requests
+- nda
+- discovery-hold
+- vendor-inquiries
+- compliance
+category: legal
 source:
   path: /skills/canned-responses-anthropic
   repo: lawvable/awesome-legal-skills

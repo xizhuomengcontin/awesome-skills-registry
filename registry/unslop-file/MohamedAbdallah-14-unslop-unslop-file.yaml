@@ -7,8 +7,15 @@ description: 'Humanize natural-language memory files (CLAUDE.md, todos, preferen
 authors:
 - MohamedAbdallah-14
 is_official: false
-tags: []
-category: none
+tags:
+- text-editing
+- humanize-text
+- markdown
+- file-editing
+- documentation
+- memory-files
+- content-rewriting
+category: productivity
 source:
   path: /skills/unslop-file
   repo: MohamedAbdallah-14/unslop

@@ -1,5 +1,5 @@
 id: coreyhaines31-marketingskills-competitors
-display_name: Competitors
+display_name: Competitor Comparison Pages
 description: 'When the user wants to create competitor comparison or alternative pages for SEO and sales enablement. Also
   use when the user mentions ''alternative page,'' ''vs page,'' ''competitor comparison,'' ''comparison page,'' ''[Product]
   vs [Product],'' ''[Product] alternative,'' ''competitive landing pages,'' ''how do we compare to X,'' ''battle card,'' or
@@ -9,8 +9,15 @@ description: 'When the user wants to create competitor comparison or alternative
 authors:
 - coreyhaines31
 is_official: false
-tags: []
-category: none
+tags:
+- competitor-comparison
+- versus-pages
+- alternative-pages
+- seo
+- sales-enablement
+- landing-pages
+- content-creation
+category: marketing
 source:
   path: /skills/competitors
   repo: coreyhaines31/marketingskills

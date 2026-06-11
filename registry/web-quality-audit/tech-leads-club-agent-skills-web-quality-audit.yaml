@@ -7,8 +7,15 @@ description: Comprehensive web quality audit covering performance, accessibility
 authors:
 - tech-leads-club
 is_official: false
-tags: []
-category: none
+tags:
+- web-audit
+- lighthouse
+- performance
+- accessibility
+- seo
+- best-practices
+- site-quality
+category: coding
 source:
   path: /packages/skills-catalog/skills/(quality)/web-quality-audit
   repo: tech-leads-club/agent-skills

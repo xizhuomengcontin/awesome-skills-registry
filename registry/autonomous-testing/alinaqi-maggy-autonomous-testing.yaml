@@ -5,8 +5,15 @@ description: An AI-driven testing agent that auto-discovers, generates, executes
 authors:
 - alinaqi
 is_official: false
-tags: []
-category: none
+tags:
+- testing
+- autonomous
+- test-generation
+- test-runner
+- ai-testing
+- qa
+- automation
+category: coding
 source:
   path: /skills/autonomous-testing
   repo: alinaqi/maggy

@@ -9,8 +9,16 @@ description: Select and apply numerical differentiation schemes for PDE and ODE 
 authors:
 - HeshamFS
 is_official: false
-tags: []
-category: none
+tags:
+- numerical-methods
+- finite-difference
+- pde
+- ode
+- discretization
+- computational-physics
+- stencils
+- numerical-analysis
+category: science
 source:
   path: /skills/core-numerical/differentiation-schemes
   repo: HeshamFS/materials-simulation-skills

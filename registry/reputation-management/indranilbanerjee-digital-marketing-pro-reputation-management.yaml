@@ -4,8 +4,15 @@ description: 'Manage brand reputation. Use when: handling reviews, crisis comms,
 authors:
 - indranilbanerjee
 is_official: false
-tags: []
-category: none
+tags:
+- reputation-management
+- brand-monitoring
+- review-management
+- crisis-communications
+- sentiment-analysis
+- pr
+- brand-recovery
+category: marketing
 source:
   path: /skills/reputation-management
   repo: indranilbanerjee/digital-marketing-pro

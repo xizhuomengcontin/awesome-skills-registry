@@ -7,8 +7,15 @@ description: When the user wants to design, test, or improve their app icon to i
 authors:
 - Eronred
 is_official: false
-tags: []
-category: none
+tags:
+- app-icon
+- icon-design
+- tap-through-rate
+- ab-testing
+- conversion-optimization
+- app-store
+- visual-assets
+category: marketing
 source:
   path: /skills/app-icon-optimization
   repo: Eronred/aso-skills

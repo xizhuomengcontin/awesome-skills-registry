@@ -6,8 +6,15 @@ description: Guided statistical analysis with test selection and reporting. Use 
 authors:
 - K-Dense-AI
 is_official: false
-tags: []
-category: none
+tags:
+- statistics
+- hypothesis-testing
+- power-analysis
+- apa-reporting
+- test-selection
+- academic-research
+- assumption-checking
+category: data-ai
 source:
   path: /skills/statistical-analysis
   repo: K-Dense-AI/claude-scientific-skills

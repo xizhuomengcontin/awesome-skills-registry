@@ -4,8 +4,13 @@ description: 'Assign tasks to team members. Use when: distributing work by role,
 authors:
 - indranilbanerjee
 is_official: false
-tags: []
-category: none
+tags:
+- task-assignment
+- team-management
+- workload-distribution
+- project-management
+- delegation
+category: productivity
 source:
   path: /skills/team-assign
   repo: indranilbanerjee/digital-marketing-pro

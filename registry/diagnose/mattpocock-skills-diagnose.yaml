@@ -6,8 +6,14 @@ description: Disciplined diagnosis loop for hard bugs and performance regression
 authors:
 - mattpocock
 is_official: false
-tags: []
-category: none
+tags:
+- debugging
+- bug-diagnosis
+- performance-regression
+- troubleshooting
+- code-fix
+- root-cause-analysis
+category: coding
 source:
   path: /skills/engineering/diagnose
   repo: mattpocock/skills

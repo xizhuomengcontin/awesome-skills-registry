@@ -5,8 +5,15 @@ description: 'Test message variants on synthetic audiences. Use when: predicting
 authors:
 - indranilbanerjee
 is_official: false
-tags: []
-category: none
+tags:
+- a-b-testing
+- message-testing
+- synthetic-audience
+- response-prediction
+- sentiment-analysis
+- copywriting
+- campaign-optimization
+category: marketing
 source:
   path: /skills/message-test
   repo: indranilbanerjee/digital-marketing-pro

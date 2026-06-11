@@ -1,5 +1,5 @@
 id: huggingface-skills-huggingface-zerogpu
-display_name: Huggingface Zerogpu
+display_name: HuggingFace ZeroGPU
 description: AI demos and GPU compute with Gradio Spaces and Hugging Face Spaces ZeroGPU. Use when writing or reviewing code
   that uses `@spaces.GPU`, configuring `python_version` or `requirements.txt` for a ZeroGPU Space, or handling ZeroGPU-specific
   code constraints — pickle-based process isolation, `gr.State` semantics across the worker boundary, no `torch.compile` (use
@@ -10,8 +10,15 @@ description: AI demos and GPU compute with Gradio Spaces and Hugging Face Spaces
 authors:
 - huggingface
 is_official: true
-tags: []
-category: none
+tags:
+- zerogpu
+- gradio
+- huggingface-spaces
+- gpu-compute
+- spaces-gpu
+- cuda
+- python
+category: coding
 source:
   path: /skills/huggingface-zerogpu
   repo: huggingface/skills

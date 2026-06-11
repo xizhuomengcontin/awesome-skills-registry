@@ -5,8 +5,14 @@ description: A `UserPromptSubmit` hook classifies every user prompt into one of 
 authors:
 - alinaqi
 is_official: false
-tags: []
-category: none
+tags:
+- prompt-routing
+- model-delegation
+- cost-optimization
+- llm-orchestration
+- tiered-inference
+- hooks
+category: data-ai
 source:
   path: /skills/external-model-delegation
   repo: alinaqi/maggy

@@ -6,8 +6,16 @@ description: Query and download public cancer imaging data from NCI Imaging Data
 authors:
 - K-Dense-AI
 is_official: false
-tags: []
-category: none
+tags:
+- medical-imaging
+- cancer-research
+- radiology
+- nci
+- open-data
+- ct-mri-pet
+- ai-training
+- pathology
+category: science
 source:
   path: /skills/imaging-data-commons
   repo: K-Dense-AI/claude-scientific-skills

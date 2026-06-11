@@ -1,13 +1,20 @@
 id: dembrandt-dembrandt-skills-motion-and-storytelling
-display_name: Motion And Storytelling
+display_name: Motion and Storytelling
 description: Disney's 12 animation principles, cinematic storytelling techniques, and comic book conventions apply to web
   UI — used subtly, they make interfaces feel alive, intentional, and emotionally resonant. Use when designing transitions,
   micro-interactions, onboarding flows, scroll animations, or any motion in the UI.
 authors:
 - dembrandt
 is_official: false
-tags: []
-category: none
+tags:
+- motion-design
+- animation
+- micro-interactions
+- ui-transitions
+- storytelling
+- scroll-animations
+- onboarding-ux
+category: design
 source:
   path: /skills/motion-and-storytelling
   repo: dembrandt/dembrandt-skills

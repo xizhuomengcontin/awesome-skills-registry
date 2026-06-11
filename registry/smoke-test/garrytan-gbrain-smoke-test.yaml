@@ -5,8 +5,14 @@ description: Post-restart smoke tests + auto-fix for gbrain and OpenClaw environ
 authors:
 - garrytan
 is_official: false
-tags: []
-category: none
+tags:
+- smoke-testing
+- gbrain
+- diagnostics
+- auto-fix
+- devops
+- environment-health
+category: productivity
 source:
   path: /skills/smoke-test
   repo: garrytan/gbrain

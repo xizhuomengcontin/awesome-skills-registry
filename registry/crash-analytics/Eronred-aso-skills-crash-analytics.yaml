@@ -8,8 +8,16 @@ description: When the user wants to monitor, triage, or reduce their app's crash
 authors:
 - Eronred
 is_official: false
-tags: []
-category: none
+tags:
+- crash-reporting
+- crashlytics
+- firebase
+- app-stability
+- mobile-analytics
+- error-triage
+- symbolication
+- anr
+category: data-ai
 source:
   path: /skills/crash-analytics
   repo: Eronred/aso-skills

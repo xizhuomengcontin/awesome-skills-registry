@@ -5,8 +5,14 @@ description: Run a positioning workshop that surfaces target customer, unmet nee
 authors:
 - deanpeters
 is_official: false
-tags: []
-category: none
+tags:
+- positioning-workshop
+- product-messaging
+- differentiation
+- target-customer
+- product-management
+- facilitation
+category: marketing
 source:
   path: /skills/positioning-workshop
   repo: deanpeters/Product-Manager-Skills

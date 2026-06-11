@@ -9,8 +9,15 @@ description: When the user's app or update was rejected by Apple App Review or G
 authors:
 - Eronred
 is_official: false
-tags: []
-category: none
+tags:
+- app-review
+- app-rejection
+- apple-guidelines
+- google-play-policy
+- app-store-compliance
+- resubmission
+- mobile-app
+category: business
 source:
   path: /skills/app-rejection-recovery
   repo: Eronred/aso-skills

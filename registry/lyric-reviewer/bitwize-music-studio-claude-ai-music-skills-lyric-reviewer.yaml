@@ -5,8 +5,15 @@ description: Reviews lyrics against a quality checklist before Suno generation. 
 authors:
 - bitwize-music-studio
 is_official: false
-tags: []
-category: none
+tags:
+- lyrics
+- quality-review
+- rhyme
+- prosody
+- suno
+- music-production
+- pre-generation
+category: creative
 source:
   path: /skills/lyric-reviewer
   repo: bitwize-music-studio/claude-ai-music-skills

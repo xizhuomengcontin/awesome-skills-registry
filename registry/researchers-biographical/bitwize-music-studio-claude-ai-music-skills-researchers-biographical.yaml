@@ -1,12 +1,18 @@
 id: bitwize-music-studio-claude-ai-music-skills-researchers-biographical
-display_name: Researchers Biographical
+display_name: Biographical Researcher
 description: Researches personal backgrounds, interviews, motivations, and humanizing details. Use when research needs biographical
   context about people involved in the album's subject.
 authors:
 - bitwize-music-studio
 is_official: false
-tags: []
-category: none
+tags:
+- biographical-research
+- personal-history
+- interviews
+- music-production
+- human-interest
+- album-context
+category: creative
 source:
   path: /skills/researchers-biographical
   repo: bitwize-music-studio/claude-ai-music-skills

@@ -6,8 +6,15 @@ description: Deploy applications to Render by analyzing codebases, generating re
 authors:
 - tech-leads-club
 is_official: false
-tags: []
-category: none
+tags:
+- render
+- cloud-deployment
+- devops
+- render-yaml
+- hosting
+- deployment-automation
+- infrastructure
+category: coding
 source:
   path: /packages/skills-catalog/skills/(cloud)/render-deploy
   repo: tech-leads-club/agent-skills

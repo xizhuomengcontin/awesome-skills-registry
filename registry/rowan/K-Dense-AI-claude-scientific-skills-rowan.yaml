@@ -1,5 +1,5 @@
 id: K-Dense-AI-claude-scientific-skills-rowan
-display_name: Rowan
+display_name: Rowan Molecular Modeling
 description: Rowan is a cloud-native molecular modeling and medicinal-chemistry workflow platform with a Python API. Use for
   pKa and macropKa prediction, conformer and tautomer ensembles, docking and analogue docking, protein-ligand cofolding, MSA
   generation, molecular dynamics, permeability, descriptor workflows, and related small-molecule or protein modeling tasks.
@@ -8,8 +8,16 @@ description: Rowan is a cloud-native molecular modeling and medicinal-chemistry 
 authors:
 - K-Dense-AI
 is_official: false
-tags: []
-category: none
+tags:
+- molecular-modeling
+- medicinal-chemistry
+- pka-prediction
+- docking
+- protein-ligand
+- molecular-dynamics
+- cheminformatics
+- batch-screening
+category: science
 source:
   path: /skills/rowan
   repo: K-Dense-AI/claude-scientific-skills

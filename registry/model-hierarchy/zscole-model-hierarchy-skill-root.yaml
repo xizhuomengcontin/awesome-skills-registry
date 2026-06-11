@@ -1,5 +1,5 @@
 id: zscole-model-hierarchy-skill-root
-display_name: Root
+display_name: Model Hierarchy Root
 description: 'Cost-optimize AI agent operations by routing tasks to appropriate models based on complexity. Use this skill
   when: (1) deciding which model to use for a task, (2) spawning sub-agents, (3) considering cost efficiency, (4) the current
   model feels like overkill for the task. Triggers: "model routing", "cost optimization", "which model", "too expensive",
@@ -7,8 +7,14 @@ description: 'Cost-optimize AI agent operations by routing tasks to appropriate 
 authors:
 - zscole
 is_official: false
-tags: []
-category: none
+tags:
+- model-routing
+- cost-optimization
+- agent-orchestration
+- sub-agents
+- llm-selection
+- task-routing
+category: data-ai
 source:
   path: /
   repo: zscole/model-hierarchy-skill

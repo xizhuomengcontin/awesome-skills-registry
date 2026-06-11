@@ -10,8 +10,16 @@ description: Expert Mermaid diagram creation, validation, and rendering with dua
 authors:
 - tech-leads-club
 is_official: false
-tags: []
-category: none
+tags:
+- mermaid
+- diagram-generation
+- architecture-diagrams
+- flowcharts
+- sequence-diagrams
+- erd
+- svg-rendering
+- c4-diagrams
+category: design
 source:
   path: /packages/skills-catalog/skills/(tooling)/mermaid-studio
   repo: tech-leads-club/agent-skills

@@ -5,8 +5,15 @@ description: Create exercise directory structures with sections, problems, solut
 authors:
 - mattpocock
 is_official: false
-tags: []
-category: none
+tags:
+- exercise-scaffolding
+- course-creation
+- typescript
+- education
+- code-stubs
+- linting
+- directory-structure
+category: coding
 source:
   path: /skills/misc/scaffold-exercises
   repo: mattpocock/skills

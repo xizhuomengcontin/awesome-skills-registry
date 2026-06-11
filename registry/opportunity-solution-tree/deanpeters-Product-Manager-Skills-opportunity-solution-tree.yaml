@@ -5,8 +5,14 @@ description: Build an Opportunity Solution Tree from outcomes to opportunities, 
 authors:
 - deanpeters
 is_official: false
-tags: []
-category: none
+tags:
+- product-management
+- opportunity-solution-tree
+- problem-framing
+- product-strategy
+- continuous-discovery
+- outcomes
+category: business
 source:
   path: /skills/opportunity-solution-tree
   repo: deanpeters/Product-Manager-Skills

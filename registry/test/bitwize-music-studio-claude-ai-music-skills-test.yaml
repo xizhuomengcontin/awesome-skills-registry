@@ -5,8 +5,14 @@ description: Runs automated tests to validate plugin integrity across 14 categor
 authors:
 - bitwize-music-studio
 is_official: false
-tags: []
-category: none
+tags:
+- automated-testing
+- plugin-validation
+- qa
+- integrity-check
+- ci-cd
+- health-check
+category: coding
 source:
   path: /skills/test
   repo: bitwize-music-studio/claude-ai-music-skills

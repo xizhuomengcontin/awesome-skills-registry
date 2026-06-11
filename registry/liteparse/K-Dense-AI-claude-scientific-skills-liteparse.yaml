@@ -1,5 +1,5 @@
 id: K-Dense-AI-claude-scientific-skills-liteparse
-display_name: Liteparse
+display_name: Liteparse Document Parser
 description: Local document and PDF parsing with spatial text and bounding boxes. Use for extracting text from PDFs, DOCX,
   Office files, and images; OCR on scans; layout-preserved JSON for RAG; batch-ingesting paper folders; or page screenshots
   for multimodal agents — even when the user does not name liteparse. Prefer over MarkItDown when you need bboxes, fast local
@@ -7,8 +7,16 @@ description: Local document and PDF parsing with spatial text and bounding boxes
 authors:
 - K-Dense-AI
 is_official: false
-tags: []
-category: none
+tags:
+- pdf-parsing
+- document-extraction
+- ocr
+- bounding-boxes
+- rag
+- multimodal
+- docx
+- local-processing
+category: data-ai
 source:
   path: /skills/liteparse
   repo: K-Dense-AI/claude-scientific-skills

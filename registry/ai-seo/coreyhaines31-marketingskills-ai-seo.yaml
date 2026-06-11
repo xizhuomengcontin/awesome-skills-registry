@@ -1,5 +1,5 @@
 id: coreyhaines31-marketingskills-ai-seo
-display_name: Ai Seo
+display_name: AI SEO & Answer Engine Optimization
 description: When the user wants to optimize content for AI search engines, get cited by LLMs, or appear in AI-generated answers.
   Also use when the user mentions 'AI SEO,' 'AEO,' 'GEO,' 'LLMO,' 'answer engine optimization,' 'generative engine optimization,'
   'LLM optimization,' 'AI Overviews,' 'optimize for ChatGPT,' 'optimize for Perplexity,' 'AI citations,' 'AI visibility,'
@@ -9,8 +9,16 @@ description: When the user wants to optimize content for AI search engines, get 
 authors:
 - coreyhaines31
 is_official: false
-tags: []
-category: none
+tags:
+- ai-seo
+- answer-engine-optimization
+- geo
+- llm-optimization
+- ai-citations
+- ai-visibility
+- generative-engine-optimization
+- zero-click-search
+category: marketing
 source:
   path: /skills/ai-seo
   repo: coreyhaines31/marketingskills

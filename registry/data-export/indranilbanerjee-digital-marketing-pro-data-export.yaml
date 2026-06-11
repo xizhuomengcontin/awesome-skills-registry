@@ -4,8 +4,14 @@ description: 'Export marketing data. Use when: sending data to BigQuery, Google 
 authors:
 - indranilbanerjee
 is_official: false
-tags: []
-category: none
+tags:
+- data-export
+- bigquery
+- google-sheets
+- supabase
+- reporting
+- marketing-data
+category: marketing
 source:
   path: /skills/data-export
   repo: indranilbanerjee/digital-marketing-pro

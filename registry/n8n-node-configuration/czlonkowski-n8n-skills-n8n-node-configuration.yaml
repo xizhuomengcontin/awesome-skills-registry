@@ -7,8 +7,14 @@ description: Operation-aware node configuration guidance. Use when configuring n
 authors:
 - czlonkowski
 is_official: false
-tags: []
-category: none
+tags:
+- n8n
+- node-configuration
+- workflow-automation
+- parameters
+- field-mapping
+- operations
+category: coding
 source:
   path: /skills/n8n-node-configuration
   repo: czlonkowski/n8n-skills

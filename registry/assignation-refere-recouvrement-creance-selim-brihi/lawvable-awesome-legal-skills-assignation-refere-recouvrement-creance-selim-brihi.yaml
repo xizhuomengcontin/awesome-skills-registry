@@ -1,5 +1,5 @@
 id: lawvable-awesome-legal-skills-assignation-refere-recouvrement-creance-selim-brihi
-display_name: Assignation Refere Recouvrement Creance Selim Brihi
+display_name: Assignation Référé - Recouvrement de Créance
 description: Rédaction d'assignations en référé devant le tribunal de commerce ou des activités économiques pour le recouvrement
   de créances commerciales. Utiliser ce skill quand l'utilisateur demande de rédiger, préparer ou créer une assignation en
   référé pour obtenir le paiement d'une créance impayée (factures, prestations de services, ventes de marchandises, etc.)
@@ -7,8 +7,15 @@ description: Rédaction d'assignations en référé devant le tribunal de commer
 authors:
 - lawvable
 is_official: false
-tags: []
-category: none
+tags:
+- french-law
+- assignation
+- refere
+- recouvrement-creance
+- droit-commercial
+- tribunal-de-commerce
+- factures-impayees
+category: legal
 source:
   path: /skills/assignation-refere-recouvrement-creance-selim-brihi
   repo: lawvable/awesome-legal-skills

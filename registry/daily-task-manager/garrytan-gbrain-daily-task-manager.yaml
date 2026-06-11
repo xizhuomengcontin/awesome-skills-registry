@@ -5,8 +5,14 @@ description: Task lifecycle management. Add, complete, defer, remove, and review
 authors:
 - garrytan
 is_official: false
-tags: []
-category: none
+tags:
+- task-management
+- to-do-list
+- task-lifecycle
+- notes
+- brain-page
+- organization
+category: productivity
 source:
   path: /skills/daily-task-manager
   repo: garrytan/gbrain

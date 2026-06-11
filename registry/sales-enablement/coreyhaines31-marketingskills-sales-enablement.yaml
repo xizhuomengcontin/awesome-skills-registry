@@ -9,8 +9,16 @@ description: When the user wants to create sales collateral, pitch decks, one-pa
 authors:
 - coreyhaines31
 is_official: false
-tags: []
-category: none
+tags:
+- sales-collateral
+- pitch-deck
+- one-pager
+- objection-handling
+- demo-script
+- sales-playbook
+- talk-track
+- proposal
+category: marketing
 source:
   path: /skills/sales-enablement
   repo: coreyhaines31/marketingskills

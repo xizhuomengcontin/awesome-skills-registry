@@ -1,5 +1,5 @@
 id: aklofas-kicad-happy-kidoc
-display_name: Kidoc
+display_name: KiDoc
 description: Generate professional engineering documentation from KiCad projects — Hardware Design Descriptions (HDD), CE
   Technical Files, Interface Control Documents (ICD), Design Review Packages, and Manufacturing Transfer Packages. Auto-runs
   schematic, PCB, EMC, and thermal analyses; renders schematic and PCB SVGs with subsystem cropping, focus dimming, net highlighting,
@@ -10,8 +10,16 @@ description: Generate professional engineering documentation from KiCad projects
 authors:
 - aklofas
 is_official: false
-tags: []
-category: none
+tags:
+- kicad
+- hardware-documentation
+- pcb-design
+- technical-writing
+- ce-compliance
+- design-review
+- pdf-generation
+- engineering-docs
+category: science
 source:
   path: /skills/kidoc
   repo: aklofas/kicad-happy

@@ -1,5 +1,5 @@
 id: Digidai-product-manager-skills-root
-display_name: Root
+display_name: PM Root Skill
 description: PM skill for Claude Code, Codex, Cursor, and Windsurf. Diagnoses SaaS metrics, critiques PRDs, plans roadmaps,
   runs discovery, coaches PM career transitions, pressure-tests AI product decisions, and designs PLG growth strategies. Seven
   knowledge domains, 12 templates, 40+ frameworks, and an opinionated interaction style that labels assumptions and names
@@ -7,8 +7,16 @@ description: PM skill for Claude Code, Codex, Cursor, and Windsurf. Diagnoses Sa
 authors:
 - Digidai
 is_official: false
-tags: []
-category: none
+tags:
+- product-management
+- saas-metrics
+- roadmap
+- prd
+- plg
+- pm-coaching
+- frameworks
+- growth-strategy
+category: business
 source:
   path: /
   repo: Digidai/product-manager-skills

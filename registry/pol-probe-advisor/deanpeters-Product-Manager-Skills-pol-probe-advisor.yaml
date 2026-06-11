@@ -1,12 +1,18 @@
 id: deanpeters-Product-Manager-Skills-pol-probe-advisor
-display_name: Pol Probe Advisor
+display_name: PoL Probe Advisor
 description: Select the right Proof of Life (PoL) probe based on hypothesis, risk, and resources. Use this to match the validation
   method to the real learning goal, not tooling comfort.
 authors:
 - deanpeters
 is_official: false
-tags: []
-category: none
+tags:
+- hypothesis-validation
+- proof-of-life
+- product-management
+- lean-validation
+- risk-assessment
+- learning-goals
+category: business
 source:
   path: /skills/pol-probe-advisor
   repo: deanpeters/Product-Manager-Skills

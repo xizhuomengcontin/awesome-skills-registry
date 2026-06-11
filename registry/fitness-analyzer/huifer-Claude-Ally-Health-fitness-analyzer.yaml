@@ -4,8 +4,14 @@ description: 分析运动数据、识别运动模式、评估健身进展，并�
 authors:
 - huifer
 is_official: false
-tags: []
-category: none
+tags:
+- fitness-tracking
+- exercise-data
+- training-recommendations
+- chronic-disease
+- workout-analysis
+- health-patterns
+category: health
 source:
   path: /skills/fitness-analyzer
   repo: huifer/Claude-Ally-Health

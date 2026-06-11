@@ -8,8 +8,16 @@ description: When the user wants to build data enrichment workflows, score leads
 authors:
 - tech-leads-club
 is_official: false
-tags: []
-category: none
+tags:
+- lead-enrichment
+- icp-scoring
+- clay
+- data-quality
+- contact-verification
+- lead-scoring
+- apollo
+- zoominfo
+category: marketing
 source:
   path: /packages/skills-catalog/skills/(gtm)/lead-enrichment
   repo: tech-leads-club/agent-skills

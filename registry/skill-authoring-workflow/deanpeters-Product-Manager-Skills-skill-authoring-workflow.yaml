@@ -5,8 +5,15 @@ description: Turn raw PM content into a compliant, publish-ready skill. Use when
 authors:
 - deanpeters
 is_official: false
-tags: []
-category: none
+tags:
+- skill-authoring
+- product-management
+- documentation
+- workflow
+- publishing
+- skill-md
+- standards-compliance
+category: productivity
 source:
   path: /skills/skill-authoring-workflow
   repo: deanpeters/Product-Manager-Skills

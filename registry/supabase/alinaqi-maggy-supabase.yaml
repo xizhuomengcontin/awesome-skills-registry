@@ -4,8 +4,15 @@ description: Core Supabase CLI, migrations, RLS, Edge Functions
 authors:
 - alinaqi
 is_official: false
-tags: []
-category: none
+tags:
+- supabase
+- database
+- rls
+- edge-functions
+- migrations
+- backend
+- cli
+category: coding
 source:
   path: /skills/supabase
   repo: alinaqi/maggy

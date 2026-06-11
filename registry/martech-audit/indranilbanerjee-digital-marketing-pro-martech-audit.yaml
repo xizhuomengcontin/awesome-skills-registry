@@ -5,8 +5,14 @@ description: 'Audit the martech stack. Use when: evaluating marketing tools, rec
 authors:
 - indranilbanerjee
 is_official: false
-tags: []
-category: none
+tags:
+- martech
+- tech-stack-audit
+- marketing-tools
+- platform-evaluation
+- tool-consolidation
+- stack-optimization
+category: marketing
 source:
   path: /skills/martech-audit
   repo: indranilbanerjee/digital-marketing-pro

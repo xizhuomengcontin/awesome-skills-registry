@@ -8,8 +8,16 @@ description: Use this skill whenever the user asks about Apple apps — Reminder
 authors:
 - more-io
 is_official: false
-tags: []
-category: none
+tags:
+- apple-apps
+- reminders
+- calendar
+- contacts
+- notes
+- mail
+- macos
+- automation
+category: productivity
 source:
   path: /skills/apple-bridges
   repo: more-io/claude-apple-bridges

@@ -5,8 +5,14 @@ description: Create a user story map that lays out activities, steps, tasks, and
 authors:
 - deanpeters
 is_official: false
-tags: []
-category: none
+tags:
+- user-story-mapping
+- product-management
+- agile
+- backlog
+- mvp
+- workflow-planning
+category: productivity
 source:
   path: /skills/user-story-mapping
   repo: deanpeters/Product-Manager-Skills

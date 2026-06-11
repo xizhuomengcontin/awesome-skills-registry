@@ -5,8 +5,14 @@ description: Converts mastered audio to sheet music and creates printable songbo
 authors:
 - bitwize-music-studio
 is_official: false
-tags: []
-category: none
+tags:
+- sheet-music
+- music-notation
+- songbook
+- audio-transcription
+- music-publishing
+- print-layout
+category: creative
 source:
   path: /skills/sheet-music-publisher
   repo: bitwize-music-studio/claude-ai-music-skills

@@ -5,8 +5,15 @@ description: 'Configure competitor alerts. Use when: tracking content changes, p
 authors:
 - indranilbanerjee
 is_official: false
-tags: []
-category: none
+tags:
+- competitor-monitoring
+- alerts
+- content-tracking
+- pricing-intelligence
+- serp-tracking
+- social-listening
+- ad-monitoring
+category: marketing
 source:
   path: /skills/competitor-alerts
   repo: indranilbanerjee/digital-marketing-pro

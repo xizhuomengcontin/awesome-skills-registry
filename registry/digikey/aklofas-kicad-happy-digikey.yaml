@@ -1,5 +1,5 @@
 id: aklofas-kicad-happy-digikey
-display_name: Digikey
+display_name: DigiKey
 description: Search DigiKey for electronic components and download datasheets — primary source for prototype orders and the
   preferred API method for fetching datasheets. Find parts by keyword or MPN, check pricing/stock, download datasheets via
   API, analyze specifications. Sync and maintain a local datasheets directory — extract components from schematics, download
@@ -11,8 +11,16 @@ description: Search DigiKey for electronic components and download datasheets �
 authors:
 - aklofas
 is_official: false
-tags: []
-category: none
+tags:
+- electronics
+- digikey
+- components
+- datasheets
+- kicad
+- bom
+- pcb-design
+- hardware
+category: coding
 source:
   path: /skills/digikey
   repo: aklofas/kicad-happy

@@ -1,13 +1,19 @@
 id: huggingface-skills-huggingface-tool-builder
-display_name: Huggingface Tool Builder
+display_name: HuggingFace Tool Builder
 description: Use this skill when the user wants to build tool/scripts or achieve a task where using data from the Hugging
   Face API would help. This is especially useful when chaining or combining API calls or the task will be repeated/automated.
   This Skill creates a reusable script to fetch, enrich or process data.
 authors:
 - huggingface
 is_official: true
-tags: []
-category: none
+tags:
+- huggingface
+- api-scripting
+- automation
+- data-pipeline
+- reusable-scripts
+- tool-building
+category: coding
 source:
   path: /skills/huggingface-tool-builder
   repo: huggingface/skills

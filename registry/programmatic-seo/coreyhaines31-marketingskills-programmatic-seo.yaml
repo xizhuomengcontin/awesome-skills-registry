@@ -1,5 +1,5 @@
 id: coreyhaines31-marketingskills-programmatic-seo
-display_name: Programmatic Seo
+display_name: Programmatic SEO
 description: When the user wants to create SEO-driven pages at scale using templates and data. Also use when the user mentions
   "programmatic SEO," "template pages," "pages at scale," "directory pages," "location pages," "[keyword] + [city] pages,"
   "comparison pages," "integration pages," "building many pages for SEO," "pSEO," "generate 100 pages," "data-driven pages,"
@@ -8,8 +8,15 @@ description: When the user wants to create SEO-driven pages at scale using templ
 authors:
 - coreyhaines31
 is_official: false
-tags: []
-category: none
+tags:
+- programmatic-seo
+- seo
+- content-at-scale
+- landing-pages
+- template-pages
+- keyword-strategy
+- location-pages
+category: marketing
 source:
   path: /skills/programmatic-seo
   repo: coreyhaines31/marketingskills

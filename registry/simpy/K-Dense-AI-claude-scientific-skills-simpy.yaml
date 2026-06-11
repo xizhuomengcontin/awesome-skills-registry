@@ -1,13 +1,20 @@
 id: K-Dense-AI-claude-scientific-skills-simpy
-display_name: Simpy
+display_name: SimPy Discrete-Event Simulation
 description: Process-based discrete-event simulation framework in Python. Use this skill when building simulations of systems
   with processes, queues, resources, and time-based events such as manufacturing systems, service operations, network traffic,
   logistics, or any system where entities interact with shared resources over time.
 authors:
 - K-Dense-AI
 is_official: false
-tags: []
-category: none
+tags:
+- simpy
+- discrete-event-simulation
+- python
+- queuing
+- process-modeling
+- manufacturing
+- logistics
+category: science
 source:
   path: /skills/simpy
   repo: K-Dense-AI/claude-scientific-skills

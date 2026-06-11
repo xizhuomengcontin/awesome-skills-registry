@@ -4,8 +4,14 @@ description: 'Manage XML sitemaps. Use when: auditing sitemap health, generating
 authors:
 - indranilbanerjee
 is_official: false
-tags: []
-category: none
+tags:
+- xml-sitemap
+- seo
+- sitemap-audit
+- site-structure
+- crawlability
+- search-indexing
+category: marketing
 source:
   path: /skills/sitemap-manager
   repo: indranilbanerjee/digital-marketing-pro

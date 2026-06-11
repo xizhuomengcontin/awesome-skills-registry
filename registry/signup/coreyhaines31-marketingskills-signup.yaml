@@ -1,5 +1,5 @@
 id: coreyhaines31-marketingskills-signup
-display_name: Signup
+display_name: Signup Flow Optimization
 description: When the user wants to optimize signup, registration, account creation, or trial activation flows. Also use when
   the user mentions "signup conversions," "registration friction," "signup form optimization," "free trial signup," "reduce
   signup dropoff," "account creation flow," "people aren't signing up," "signup abandonment," "trial conversion rate," "nobody
@@ -9,8 +9,15 @@ description: When the user wants to optimize signup, registration, account creat
 authors:
 - coreyhaines31
 is_official: false
-tags: []
-category: none
+tags:
+- signup-optimization
+- conversion-rate
+- registration-flow
+- trial-activation
+- ux
+- funnel-optimization
+- onboarding
+category: marketing
 source:
   path: /skills/signup
   repo: coreyhaines31/marketingskills

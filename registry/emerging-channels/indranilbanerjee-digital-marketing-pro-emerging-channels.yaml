@@ -1,11 +1,17 @@
 id: indranilbanerjee-digital-marketing-pro-emerging-channels
-display_name: Emerging Channels
+display_name: Emerging Marketing Channels
 description: 'Explore emerging marketing channels. Use when: evaluating voice search, social commerce, or new platforms.'
 authors:
 - indranilbanerjee
 is_official: false
-tags: []
-category: none
+tags:
+- emerging-channels
+- voice-search
+- social-commerce
+- platform-strategy
+- digital-marketing
+- channel-evaluation
+category: marketing
 source:
   path: /skills/emerging-channels
   repo: indranilbanerjee/digital-marketing-pro

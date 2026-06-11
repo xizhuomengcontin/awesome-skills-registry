@@ -7,8 +7,16 @@ description: 'Use when doing ANY task involving Supabase. Triggers: Supabase pro
 authors:
 - supabase
 is_official: true
-tags: []
-category: none
+tags:
+- supabase
+- postgresql
+- auth
+- realtime
+- edge-functions
+- nextjs
+- rls
+- storage
+category: coding
 source:
   path: /skills/supabase
   repo: supabase/agent-skills

@@ -8,8 +8,14 @@ description: 'Lightweight anti-over-engineering guard. Activates when: (1) Modif
 authors:
 - uucz
 is_official: false
-tags: []
-category: none
+tags:
+- anti-over-engineering
+- lightweight
+- code-review
+- minimal-edits
+- scope-control
+- coding-discipline
+category: coding
 source:
   path: /skills/moyu-lite
   repo: uucz/moyu

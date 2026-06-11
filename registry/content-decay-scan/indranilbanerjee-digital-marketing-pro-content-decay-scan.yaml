@@ -6,8 +6,14 @@ description: 'Scan content library for decay signals: declining traffic, falling
 authors:
 - indranilbanerjee
 is_official: false
-tags: []
-category: none
+tags:
+- content-audit
+- seo
+- traffic-recovery
+- content-refresh
+- ranking-analysis
+- content-performance
+category: marketing
 source:
   path: /skills/content-decay-scan
   repo: indranilbanerjee/digital-marketing-pro

@@ -1,5 +1,5 @@
 id: uucz-moyu-moyu-ko
-display_name: Moyu Ko
+display_name: Moyu (Korean)
 description: '과잉 엔지니어링 패턴이 감지되면 자동으로 활성화됩니다: (1) 사용자가 명시적으로 변경을 요청하지 않은 코드나 파일을 수정하는 경우 (2) 요청되지 않은 새로운 추상화 레이어(class, interface,
   factory, wrapper)를 생성하는 경우 (3) 요청되지 않은 주석, 문서, JSDoc, 타입 어노테이션을 추가하는 경우 (4) 요청되지 않은 새로운 의존성을 도입하는 경우 (5) 최소한의 편집 대신 파일 전체를
   다시 작성하는 경우 (6) diff 범위가 사용자의 요청을 명백히 초과하는 경우 (7) 사용자가 "너무 많아", "거기는 건드리지 마", "X만 변경해", "간단하게", "그만" 등의 신호를 보내는 경우 (8) 발생할
@@ -7,8 +7,14 @@ description: '과잉 엔지니어링 패턴이 감지되면 자동으로 활성�
 authors:
 - uucz
 is_official: false
-tags: []
-category: none
+tags:
+- anti-over-engineering
+- code-review
+- minimal-edits
+- scope-control
+- coding-discipline
+- korean
+category: coding
 source:
   path: /skills/moyu-ko
   repo: uucz/moyu

@@ -4,8 +4,13 @@ description: 'Audit funnel performance. Use when: finding drop-off points, conve
 authors:
 - indranilbanerjee
 is_official: false
-tags: []
-category: none
+tags:
+- funnel-audit
+- conversion-rate
+- drop-off-analysis
+- funnel-optimization
+- marketing-analytics
+category: marketing
 source:
   path: /skills/funnel-audit
   repo: indranilbanerjee/digital-marketing-pro

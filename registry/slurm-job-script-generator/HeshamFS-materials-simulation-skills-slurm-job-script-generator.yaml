@@ -1,5 +1,5 @@
 id: HeshamFS-materials-simulation-skills-slurm-job-script-generator
-display_name: Slurm Job Script Generator
+display_name: SLURM Job Script Generator
 description: 'Generate correct, copy-pasteable SLURM sbatch job scripts and sanity-check HPC resource requests — configure
   nodes, MPI tasks, OpenMP threads, memory (per-node or per-cpu), GPUs, walltime, partitions, modules, and environment variables,
   with automatic detection of conflicting directives and oversubscription. Use when preparing a SLURM submission script, deciding
@@ -9,8 +9,16 @@ description: 'Generate correct, copy-pasteable SLURM sbatch job scripts and sani
 authors:
 - HeshamFS
 is_official: false
-tags: []
-category: none
+tags:
+- slurm
+- hpc
+- job-scheduling
+- mpi
+- gpu
+- cluster-computing
+- bash-scripting
+- sbatch
+category: science
 source:
   path: /skills/hpc-deployment/slurm-job-script-generator
   repo: HeshamFS/materials-simulation-skills

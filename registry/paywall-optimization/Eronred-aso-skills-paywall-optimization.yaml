@@ -9,8 +9,16 @@ description: When the user wants to design, test, or optimize their app's paywal
 authors:
 - Eronred
 is_official: false
-tags: []
-category: none
+tags:
+- paywall
+- conversion-optimization
+- trial-to-paid
+- a-b-testing
+- revenuecat
+- superwall
+- app-monetization
+- paywall-design
+category: marketing
 source:
   path: /skills/paywall-optimization
   repo: Eronred/aso-skills

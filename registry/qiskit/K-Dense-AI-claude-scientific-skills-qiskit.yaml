@@ -7,8 +7,15 @@ description: IBM quantum computing framework. Use when targeting IBM Quantum har
 authors:
 - K-Dense-AI
 is_official: false
-tags: []
-category: none
+tags:
+- quantum-computing
+- ibm-quantum
+- qiskit
+- quantum-circuits
+- error-mitigation
+- quantum-hardware
+- python
+category: science
 source:
   path: /skills/qiskit
   repo: K-Dense-AI/claude-scientific-skills

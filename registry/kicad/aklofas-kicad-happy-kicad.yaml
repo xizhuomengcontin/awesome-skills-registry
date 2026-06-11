@@ -1,5 +1,5 @@
 id: aklofas-kicad-happy-kicad
-display_name: Kicad
+display_name: KiCad
 description: 'Analyze KiCad projects and PDF schematics: schematics, PCB layouts, Gerbers, footprints, symbols, netlists,
   and design rules. Reviews designs for bugs, traces nets, cross-references schematic to PCB, extracts BOM data, checks DRC/ERC,
   DFM, power trees, and regulator circuits. Every finding carries a confidence label and evidence source with trust_summary
@@ -11,8 +11,16 @@ description: 'Analyze KiCad projects and PDF schematics: schematics, PCB layouts
 authors:
 - aklofas
 is_official: false
-tags: []
-category: none
+tags:
+- kicad
+- pcb-design
+- schematic
+- hardware-review
+- drc
+- erc
+- bom
+- electronics
+category: science
 source:
   path: /skills/kicad
   repo: aklofas/kicad-happy

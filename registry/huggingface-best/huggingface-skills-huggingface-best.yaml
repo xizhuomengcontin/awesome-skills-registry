@@ -1,5 +1,5 @@
 id: huggingface-skills-huggingface-best
-display_name: Huggingface Best
+display_name: HuggingFace Model Finder
 description: 'Use when the user asks about finding the best, top, or recommended model for a task, wants to know what AI model
   to use, or wants to compare models by benchmark scores. Triggers on: "best model for X", "what model should I use for",
   "top models for [task]", "which model runs on my laptop/machine/device", "recommend a model for", "what LLM should I use
@@ -9,8 +9,15 @@ description: 'Use when the user asks about finding the best, top, or recommended
 authors:
 - huggingface
 is_official: true
-tags: []
-category: none
+tags:
+- model-selection
+- benchmarks
+- llm-comparison
+- huggingface
+- model-recommendations
+- leaderboard
+- ai-models
+category: data-ai
 source:
   path: /skills/huggingface-best
   repo: huggingface/skills

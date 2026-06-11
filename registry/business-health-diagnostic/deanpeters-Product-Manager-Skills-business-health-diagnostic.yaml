@@ -5,8 +5,15 @@ description: Diagnose SaaS business health across growth, retention, efficiency,
 authors:
 - deanpeters
 is_official: false
-tags: []
-category: none
+tags:
+- saas-metrics
+- business-review
+- retention
+- growth-analysis
+- unit-economics
+- diagnostics
+- kpi-tracking
+category: business
 source:
   path: /skills/business-health-diagnostic
   repo: deanpeters/Product-Manager-Skills

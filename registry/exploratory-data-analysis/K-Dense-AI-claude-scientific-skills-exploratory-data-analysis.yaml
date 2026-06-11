@@ -8,8 +8,16 @@ description: Perform comprehensive exploratory data analysis on scientific data 
 authors:
 - K-Dense-AI
 is_official: false
-tags: []
-category: none
+tags:
+- eda
+- scientific-data
+- bioinformatics
+- data-quality
+- spectroscopy
+- proteomics
+- multi-format
+- data-profiling
+category: data-ai
 source:
   path: /skills/exploratory-data-analysis
   repo: K-Dense-AI/claude-scientific-skills

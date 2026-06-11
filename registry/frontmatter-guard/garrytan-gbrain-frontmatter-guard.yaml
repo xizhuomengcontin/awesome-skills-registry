@@ -6,8 +6,15 @@ description: Validate and auto-repair YAML frontmatter on brain pages. Catches m
 authors:
 - garrytan
 is_official: false
-tags: []
-category: none
+tags:
+- yaml
+- frontmatter
+- validation
+- auto-repair
+- cli
+- knowledge-base
+- markdown
+category: productivity
 source:
   path: /skills/frontmatter-guard
   repo: garrytan/gbrain

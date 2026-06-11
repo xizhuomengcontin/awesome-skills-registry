@@ -6,8 +6,15 @@ description: Deploy applications and infrastructure to Cloudflare using Workers,
 authors:
 - tech-leads-club
 is_official: false
-tags: []
-category: none
+tags:
+- cloudflare
+- deployment
+- workers
+- pages
+- hosting
+- infrastructure
+- serverless
+category: coding
 source:
   path: /packages/skills-catalog/skills/(cloud)/cloudflare-deploy
   repo: tech-leads-club/agent-skills

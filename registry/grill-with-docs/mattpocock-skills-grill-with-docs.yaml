@@ -6,8 +6,15 @@ description: Grilling session that challenges your plan against the existing dom
 authors:
 - mattpocock
 is_official: false
-tags: []
-category: none
+tags:
+- planning
+- documentation
+- adr
+- stress-testing
+- domain-modeling
+- context-md
+- decision-making
+category: productivity
 source:
   path: /skills/engineering/grill-with-docs
   repo: mattpocock/skills

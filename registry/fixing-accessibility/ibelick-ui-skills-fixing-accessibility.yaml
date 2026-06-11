@@ -5,8 +5,16 @@ description: Audit and fix HTML accessibility issues including ARIA labels, keyb
 authors:
 - ibelick
 is_official: false
-tags: []
-category: none
+tags:
+- accessibility
+- wcag
+- aria
+- keyboard-navigation
+- color-contrast
+- focus-management
+- html
+- a11y
+category: design
 source:
   path: /skills/fixing-accessibility
   repo: ibelick/ui-skills

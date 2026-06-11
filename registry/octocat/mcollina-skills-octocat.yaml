@@ -8,8 +8,16 @@ description: Use this skill whenever the prompt contains any `github.com` URL, e
 authors:
 - mcollina
 is_official: false
-tags: []
-category: none
+tags:
+- github
+- git
+- pull-requests
+- ci-cd
+- code-review
+- gh-cli
+- version-control
+- repository
+category: coding
 source:
   path: /skills/octocat
   repo: mcollina/skills

@@ -1,12 +1,19 @@
 id: indranilbanerjee-digital-marketing-pro-seo-implement
-display_name: Seo Implement
+display_name: SEO Implementation
 description: 'Execute SEO changes. Use when: updating meta tags, schema markup, canonicals, redirects, or indexing via CMS
   MCP.'
 authors:
 - indranilbanerjee
 is_official: false
-tags: []
-category: none
+tags:
+- seo
+- meta-tags
+- schema-markup
+- canonical-urls
+- redirects
+- cms
+- indexing
+category: marketing
 source:
   path: /skills/seo-implement
   repo: indranilbanerjee/digital-marketing-pro

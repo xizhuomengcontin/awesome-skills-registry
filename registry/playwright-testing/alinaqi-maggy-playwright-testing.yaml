@@ -4,8 +4,14 @@ description: E2E testing with Playwright - Page Objects, cross-browser, CI/CD
 authors:
 - alinaqi
 is_official: false
-tags: []
-category: none
+tags:
+- playwright
+- e2e-testing
+- page-objects
+- cross-browser
+- ci-cd
+- test-automation
+category: coding
 source:
   path: /skills/playwright-testing
   repo: alinaqi/maggy

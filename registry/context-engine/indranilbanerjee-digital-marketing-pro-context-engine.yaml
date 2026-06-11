@@ -5,8 +5,13 @@ description: 'Load brand context for marketing tasks. Use when: setting up brand
 authors:
 - indranilbanerjee
 is_official: false
-tags: []
-category: none
+tags:
+- brand-context
+- brand-setup
+- industry-benchmarks
+- marketing-configuration
+- brand-management
+category: marketing
 source:
   path: /skills/context-engine
   repo: indranilbanerjee/digital-marketing-pro

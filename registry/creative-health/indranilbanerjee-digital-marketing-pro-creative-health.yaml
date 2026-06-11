@@ -4,8 +4,14 @@ description: 'Assess ad creative fatigue. Use when: ads underperform, need refre
 authors:
 - indranilbanerjee
 is_official: false
-tags: []
-category: none
+tags:
+- ad-creative
+- creative-fatigue
+- ad-performance
+- creative-lifecycle
+- refresh-timing
+- paid-advertising
+category: marketing
 source:
   path: /skills/creative-health
   repo: indranilbanerjee/digital-marketing-pro

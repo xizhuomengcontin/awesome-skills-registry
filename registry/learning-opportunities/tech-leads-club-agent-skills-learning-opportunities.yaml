@@ -7,8 +7,14 @@ description: Facilitates deliberate skill development during AI-assisted coding.
 authors:
 - tech-leads-club
 is_official: false
-tags: []
-category: none
+tags:
+- developer-learning
+- code-education
+- skill-development
+- interactive-exercises
+- code-review
+- mentoring
+category: coding
 source:
   path: /packages/skills-catalog/skills/(learning)/learning-opportunities
   repo: tech-leads-club/agent-skills

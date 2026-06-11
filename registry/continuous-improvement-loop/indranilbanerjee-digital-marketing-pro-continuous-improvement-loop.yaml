@@ -5,8 +5,13 @@ description: Run Part 12 — the continuous improvement loop. Aggregates market 
 authors:
 - indranilbanerjee
 is_official: false
-tags: []
-category: none
+tags:
+- continuous-improvement
+- market-signals
+- product-optimization
+- operations
+- marketing-feedback-loop
+category: marketing
 source:
   path: /skills/continuous-improvement-loop
   repo: indranilbanerjee/digital-marketing-pro

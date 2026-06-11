@@ -4,8 +4,15 @@ description: 分析旅行健康数据、评估目的地健康风险、提供疫�
 authors:
 - huifer
 is_official: false
-tags: []
-category: none
+tags:
+- travel-health
+- risk-assessment
+- vaccination
+- who-cdc
+- multilingual
+- emergency-medical
+- health-advisory
+category: health
 source:
   path: /skills/travel-health-analyzer
   repo: huifer/Claude-Ally-Health

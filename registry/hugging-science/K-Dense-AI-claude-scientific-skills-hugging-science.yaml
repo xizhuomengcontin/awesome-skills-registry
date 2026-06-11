@@ -1,5 +1,5 @@
 id: K-Dense-AI-claude-scientific-skills-hugging-science
-display_name: Hugging Science
+display_name: Hugging Face Science
 description: Use when the user is doing AI/ML work in a scientific domain such as biology, chemistry, physics, astronomy,
   climate, genomics, materials, medicine, ecology, energy, engineering, math, drug discovery, protein design, weather modeling,
   theorem proving, single-cell, or PDE solving. Hugging Science is a curated catalog of scientific datasets, models, blog
@@ -8,8 +8,16 @@ description: Use when the user is doing AI/ML work in a scientific domain such a
 authors:
 - K-Dense-AI
 is_official: false
-tags: []
-category: none
+tags:
+- hugging-face
+- scientific-ml
+- ai-for-science
+- bioinformatics
+- drug-discovery
+- protein-design
+- scientific-datasets
+- transformers
+category: science
 source:
   path: /skills/hugging-science
   repo: K-Dense-AI/claude-scientific-skills

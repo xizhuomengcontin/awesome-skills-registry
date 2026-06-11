@@ -1,13 +1,20 @@
 id: mattpocock-skills-to-issues
-display_name: To Issues
+display_name: Plan to Issues
 description: Break a plan, spec, or PRD into independently-grabbable issues on the project issue tracker using tracer-bullet
   vertical slices. Use when user wants to convert a plan into issues, create implementation tickets, or break down work into
   issues.
 authors:
 - mattpocock
 is_official: false
-tags: []
-category: none
+tags:
+- issue-tracking
+- ticket-creation
+- prd-breakdown
+- project-planning
+- vertical-slices
+- task-decomposition
+- github-issues
+category: productivity
 source:
   path: /skills/engineering/to-issues
   repo: mattpocock/skills

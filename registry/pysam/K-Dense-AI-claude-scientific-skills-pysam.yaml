@@ -1,12 +1,19 @@
 id: K-Dense-AI-claude-scientific-skills-pysam
-display_name: Pysam
+display_name: Pysam Genomic File Toolkit
 description: Genomic file toolkit. Read/write SAM/BAM/CRAM alignments, VCF/BCF variants, FASTA/FASTQ sequences, extract regions,
   calculate coverage, for NGS data processing pipelines.
 authors:
 - K-Dense-AI
 is_official: false
-tags: []
-category: none
+tags:
+- genomics
+- bam-sam
+- vcf
+- ngs
+- sequence-alignment
+- bioinformatics
+- variant-calling
+category: science
 source:
   path: /skills/pysam
   repo: K-Dense-AI/claude-scientific-skills

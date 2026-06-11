@@ -7,8 +7,16 @@ description: Core skill for the deep research and writing tool. Write scientific
 authors:
 - K-Dense-AI
 is_official: false
-tags: []
-category: none
+tags:
+- manuscript-writing
+- imrad
+- citations
+- reporting-guidelines
+- prisma
+- consort
+- journal-submission
+- academic-writing
+category: science
 source:
   path: /skills/scientific-writing
   repo: K-Dense-AI/claude-scientific-skills

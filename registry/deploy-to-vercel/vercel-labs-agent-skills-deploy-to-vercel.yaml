@@ -1,12 +1,19 @@
 id: vercel-labs-agent-skills-deploy-to-vercel
-display_name: Deploy To Vercel
+display_name: Deploy to Vercel
 description: Deploy applications and websites to Vercel. Use when the user requests deployment actions like "deploy my app",
   "deploy and give me the link", "push this live", or "create a preview deployment".
 authors:
 - vercel-labs
 is_official: true
-tags: []
-category: none
+tags:
+- deployment
+- vercel
+- web-hosting
+- ci-cd
+- preview-deployment
+- frontend
+- devops
+category: coding
 source:
   path: /skills/deploy-to-vercel
   repo: vercel-labs/agent-skills

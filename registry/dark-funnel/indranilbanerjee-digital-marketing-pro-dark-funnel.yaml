@@ -4,8 +4,15 @@ description: 'Map invisible buyer journeys. Use when: tracking unattributed disc
 authors:
 - indranilbanerjee
 is_official: false
-tags: []
-category: none
+tags:
+- dark-funnel
+- buyer-journey
+- attribution
+- reddit
+- word-of-mouth
+- untracked-traffic
+- demand-gen
+category: marketing
 source:
   path: /skills/dark-funnel
   repo: indranilbanerjee/digital-marketing-pro

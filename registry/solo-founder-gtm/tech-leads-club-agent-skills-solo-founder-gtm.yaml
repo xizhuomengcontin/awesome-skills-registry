@@ -1,5 +1,5 @@
 id: tech-leads-club-agent-skills-solo-founder-gtm
-display_name: Solo Founder Gtm
+display_name: Solo Founder GTM
 description: When the user is a solo founder building their GTM motion, wants to scale without hiring, or needs to design
   an AI agent team for go-to-market. Also use when the user mentions 'solo founder,' 'one-person startup,' 'solopreneur,'
   'bootstrapped,' 'no team,' 'AI agents as team,' 'scaling without hiring,' 'founder-led sales,' 'lean GTM,' 'one-person company,'
@@ -9,8 +9,16 @@ description: When the user is a solo founder building their GTM motion, wants to
 authors:
 - tech-leads-club
 is_official: false
-tags: []
-category: none
+tags:
+- solo-founder
+- go-to-market
+- gtm-strategy
+- solopreneur
+- founder-led-sales
+- ai-agents
+- bootstrapped-startup
+- scaling
+category: business
 source:
   path: /packages/skills-catalog/skills/(gtm)/solo-founder-gtm
   repo: tech-leads-club/agent-skills

@@ -1,5 +1,5 @@
 id: dembrandt-dembrandt-skills-data-display-and-selection
-display_name: Data Display And Selection
+display_name: Data Display and Selection
 description: Complex data deserves multiple view modes — grid, list, table — chosen by the user based on their task. Row and
   item selection should use large hit areas (the whole row or card, not just a checkbox). Selected state is communicated through
   a subtle background colour shift. Mass actions appear when items are selected. Use when designing data tables, product listings,
@@ -7,8 +7,15 @@ description: Complex data deserves multiple view modes — grid, list, table —
 authors:
 - dembrandt
 is_official: false
-tags: []
-category: none
+tags:
+- data-tables
+- ui-components
+- grid-layout
+- list-view
+- row-selection
+- ux-patterns
+- mass-actions
+category: design
 source:
   path: /skills/data-display-and-selection
   repo: dembrandt/dembrandt-skills

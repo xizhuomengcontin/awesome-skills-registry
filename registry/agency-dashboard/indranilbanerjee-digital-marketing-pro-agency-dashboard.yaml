@@ -6,8 +6,15 @@ description: Portfolio-level agency dashboard aggregating health metrics across 
 authors:
 - indranilbanerjee
 is_official: false
-tags: []
-category: none
+tags:
+- agency
+- dashboard
+- portfolio-management
+- kpi
+- budget-pacing
+- client-reporting
+- campaign-monitoring
+category: marketing
 source:
   path: /skills/agency-dashboard
   repo: indranilbanerjee/digital-marketing-pro

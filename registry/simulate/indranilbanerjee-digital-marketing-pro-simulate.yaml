@@ -1,12 +1,18 @@
 id: indranilbanerjee-digital-marketing-pro-simulate
-display_name: Simulate
+display_name: Revenue Impact Simulator
 description: 'Simulate revenue impact via Monte Carlo. Use when: testing channel mix changes, budget shifts, or new channel
   launches.'
 authors:
 - indranilbanerjee
 is_official: false
-tags: []
-category: none
+tags:
+- monte-carlo
+- revenue-simulation
+- channel-mix
+- budget-optimization
+- forecasting
+- marketing-analytics
+category: marketing
 source:
   path: /skills/simulate
   repo: indranilbanerjee/digital-marketing-pro

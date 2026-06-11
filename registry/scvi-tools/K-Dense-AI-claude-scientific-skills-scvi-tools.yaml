@@ -6,8 +6,15 @@ description: Deep generative models for single-cell omics. Use when you need pro
 authors:
 - K-Dense-AI
 is_official: false
-tags: []
-category: none
+tags:
+- single-cell-omics
+- deep-generative-models
+- batch-correction
+- differential-expression
+- multimodal-integration
+- scvi
+- totalvi
+category: science
 source:
   path: /skills/scvi-tools
   repo: K-Dense-AI/claude-scientific-skills

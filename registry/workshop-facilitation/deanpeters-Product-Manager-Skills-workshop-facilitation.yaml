@@ -5,8 +5,15 @@ description: Facilitate workshop sessions in a one-step, multi-turn flow. Use wh
 authors:
 - deanpeters
 is_official: false
-tags: []
-category: none
+tags:
+- workshop
+- facilitation
+- multi-turn
+- interactive
+- pacing
+- progress-tracking
+- session-management
+category: productivity
 source:
   path: /skills/workshop-facilitation
   repo: deanpeters/Product-Manager-Skills

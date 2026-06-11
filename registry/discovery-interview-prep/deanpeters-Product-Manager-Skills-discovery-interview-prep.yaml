@@ -5,8 +5,14 @@ description: Plan customer discovery interviews with the right goal, segment, co
 authors:
 - deanpeters
 is_official: false
-tags: []
-category: none
+tags:
+- customer-discovery
+- user-interviews
+- product-management
+- problem-validation
+- research
+- ux-research
+category: business
 source:
   path: /skills/discovery-interview-prep
   repo: deanpeters/Product-Manager-Skills

@@ -1,5 +1,5 @@
 id: tech-leads-club-agent-skills-ai-seo
-display_name: Ai Seo
+display_name: AI-Powered SEO
 description: When the user wants to build programmatic SEO with AI, create competitor alternative pages, optimize for AI Overviews,
   or scale content production. Also use when the user mentions 'SEO,' 'programmatic SEO,' 'AI content,' 'competitor alternative
   pages,' 'AI Overviews,' 'search optimization,' 'DataForSEO,' 'content at scale,' 'keyword strategy,' or 'organic traffic.'
@@ -8,8 +8,15 @@ description: When the user wants to build programmatic SEO with AI, create compe
 authors:
 - tech-leads-club
 is_official: false
-tags: []
-category: none
+tags:
+- programmatic-seo
+- ai-content
+- keyword-strategy
+- organic-traffic
+- ai-overviews
+- content-at-scale
+- competitor-pages
+category: marketing
 source:
   path: /packages/skills-catalog/skills/(gtm)/ai-seo
   repo: tech-leads-club/agent-skills

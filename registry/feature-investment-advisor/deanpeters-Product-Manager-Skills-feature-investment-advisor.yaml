@@ -5,8 +5,14 @@ description: Evaluate feature investments using revenue impact, cost structure, 
 authors:
 - deanpeters
 is_official: false
-tags: []
-category: none
+tags:
+- feature-prioritization
+- roi
+- product-strategy
+- revenue-impact
+- investment-decision
+- product-management
+category: business
 source:
   path: /skills/feature-investment-advisor
   repo: deanpeters/Product-Manager-Skills

@@ -1,13 +1,19 @@
 id: makenotion-notion-cookbook-spec-to-implementation
-display_name: Spec To Implementation
+display_name: Notion Spec to Implementation
 description: Turns product or tech specs into concrete Notion tasks that Claude code can implement. Breaks down spec pages
   into detailed implementation plans with clear tasks, acceptance criteria, and progress tracking to guide development from
   requirements to completion.
 authors:
 - makenotion
 is_official: true
-tags: []
-category: none
+tags:
+- notion
+- product-specs
+- task-breakdown
+- implementation-planning
+- project-management
+- acceptance-criteria
+category: productivity
 source:
   path: /skills/claude/spec-to-implementation
   repo: makenotion/notion-cookbook

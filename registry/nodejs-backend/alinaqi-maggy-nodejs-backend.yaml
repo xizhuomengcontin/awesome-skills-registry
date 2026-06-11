@@ -1,11 +1,18 @@
 id: alinaqi-maggy-nodejs-backend
-display_name: Nodejs Backend
+display_name: Node.js Backend
 description: Node.js backend patterns with Express/Fastify, repositories
 authors:
 - alinaqi
 is_official: false
-tags: []
-category: none
+tags:
+- nodejs
+- backend
+- express
+- fastify
+- rest-api
+- repository-pattern
+- server-side
+category: coding
 source:
   path: /skills/nodejs-backend
   repo: alinaqi/maggy

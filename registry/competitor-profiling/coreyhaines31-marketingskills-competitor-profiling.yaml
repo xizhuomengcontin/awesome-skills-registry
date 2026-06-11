@@ -8,8 +8,15 @@ description: When the user wants to research, profile, or analyze competitors fr
 authors:
 - coreyhaines31
 is_official: false
-tags: []
-category: none
+tags:
+- competitor-profiling
+- competitive-intelligence
+- competitive-audit
+- research
+- competitor-dossier
+- url-analysis
+- structured-output
+category: marketing
 source:
   path: /skills/competitor-profiling
   repo: coreyhaines31/marketingskills

@@ -6,8 +6,15 @@ description: Mobile, tablet, and desktop are different interaction paradigms —
 authors:
 - dembrandt
 is_official: false
-tags: []
-category: none
+tags:
+- responsive-design
+- mobile-ui
+- breakpoints
+- layout-adaptation
+- ux
+- navigation
+- multi-device
+category: design
 source:
   path: /skills/responsive-paradigms
   repo: dembrandt/dembrandt-skills

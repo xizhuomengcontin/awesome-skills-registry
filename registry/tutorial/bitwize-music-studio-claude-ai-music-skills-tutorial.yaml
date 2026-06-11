@@ -1,12 +1,18 @@
 id: bitwize-music-studio-claude-ai-music-skills-tutorial
-display_name: Tutorial
+display_name: Album Creation Tutorial
 description: Provides interactive guided album creation for new users. Use when the user is new to the plugin or asks for
   a walkthrough of the album creation process.
 authors:
 - bitwize-music-studio
 is_official: false
-tags: []
-category: none
+tags:
+- tutorial
+- onboarding
+- album-creation
+- music-production
+- guided-walkthrough
+- interactive
+category: creative
 source:
   path: /skills/tutorial
   repo: bitwize-music-studio/claude-ai-music-skills

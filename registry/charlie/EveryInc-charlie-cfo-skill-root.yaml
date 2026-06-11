@@ -1,5 +1,5 @@
 id: EveryInc-charlie-cfo-skill-root
-display_name: Root
+display_name: Charlie CFO
 description: Your AI CFO for bootstrapped startups, named after Charlie Munger who embodied the principle that capital discipline
   is a competitive advantage. Provides financial frameworks for cash management, runway calculations, unit economics (LTV:CAC),
   capital allocation, hiring ROI, burn rate analysis, working capital optimization, and forecasting. Use for questions like
@@ -8,8 +8,16 @@ description: Your AI CFO for bootstrapped startups, named after Charlie Munger w
 authors:
 - EveryInc
 is_official: false
-tags: []
-category: none
+tags:
+- cfo
+- financial-planning
+- bootstrapped-startup
+- runway
+- burn-rate
+- unit-economics
+- ltv-cac
+- forecasting
+category: business
 source:
   path: /
   repo: EveryInc/charlie-cfo-skill

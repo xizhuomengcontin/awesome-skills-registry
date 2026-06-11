@@ -6,8 +6,15 @@ description: Meta-skill for publication-ready figures. Use when creating journal
 authors:
 - K-Dense-AI
 is_official: false
-tags: []
-category: none
+tags:
+- publication-figures
+- matplotlib
+- seaborn
+- plotly
+- journal-formatting
+- multi-panel-layouts
+- colorblind-safe
+category: science
 source:
   path: /skills/scientific-visualization
   repo: K-Dense-AI/claude-scientific-skills

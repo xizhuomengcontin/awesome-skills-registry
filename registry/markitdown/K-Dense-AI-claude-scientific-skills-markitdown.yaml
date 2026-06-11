@@ -1,12 +1,20 @@
 id: K-Dense-AI-claude-scientific-skills-markitdown
-display_name: Markitdown
+display_name: MarkItDown
 description: Convert files and office documents to Markdown. Supports PDF, DOCX, PPTX, XLSX, images (with OCR), audio (with
   transcription), HTML, CSV, JSON, XML, ZIP, YouTube URLs, EPubs and more.
 authors:
 - K-Dense-AI
 is_official: false
-tags: []
-category: none
+tags:
+- file-conversion
+- markdown
+- ocr
+- pdf
+- docx
+- document-processing
+- transcription
+- format-conversion
+category: productivity
 source:
   path: /skills/markitdown
   repo: K-Dense-AI/claude-scientific-skills

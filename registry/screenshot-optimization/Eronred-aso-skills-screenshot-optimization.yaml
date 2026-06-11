@@ -6,8 +6,15 @@ description: When the user wants to design, optimize, or evaluate App Store scre
 authors:
 - Eronred
 is_official: false
-tags: []
-category: none
+tags:
+- app-store
+- aso
+- screenshot-design
+- app-preview
+- product-page
+- creative-assets
+- mobile-marketing
+category: marketing
 source:
   path: /skills/screenshot-optimization
   repo: Eronred/aso-skills

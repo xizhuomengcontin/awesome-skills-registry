@@ -4,8 +4,14 @@ description: 分析康复训练数据、识别康复模式、评估康复进展�
 authors:
 - huifer
 is_official: false
-tags: []
-category: none
+tags:
+- rehabilitation
+- recovery-tracking
+- exercise-analysis
+- personalized-recommendations
+- progress-assessment
+- physical-therapy
+category: health
 source:
   path: /skills/rehabilitation-analyzer
   repo: huifer/Claude-Ally-Health

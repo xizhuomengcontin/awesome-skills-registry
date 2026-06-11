@@ -1,12 +1,18 @@
 id: indranilbanerjee-digital-marketing-pro-loop-detect
-display_name: Loop Detect
+display_name: Growth Loop Detection
 description: 'Identify and model growth loops. Use when: detecting viral, content, or paid loops, modeling effectiveness,
   proposing new loops.'
 authors:
 - indranilbanerjee
 is_official: false
-tags: []
-category: none
+tags:
+- growth-loops
+- viral-loops
+- growth-strategy
+- modeling
+- paid-acquisition
+- content-loops
+category: marketing
 source:
   path: /skills/loop-detect
   repo: indranilbanerjee/digital-marketing-pro

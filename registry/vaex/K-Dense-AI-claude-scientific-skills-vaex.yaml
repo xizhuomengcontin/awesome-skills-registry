@@ -7,8 +7,16 @@ description: Use this skill for processing and analyzing large tabular datasets 
 authors:
 - K-Dense-AI
 is_official: false
-tags: []
-category: none
+tags:
+- vaex
+- big-data
+- out-of-core
+- dataframe
+- pandas-alternative
+- hdf5
+- parquet
+- large-datasets
+category: data-ai
 source:
   path: /skills/vaex
   repo: K-Dense-AI/claude-scientific-skills

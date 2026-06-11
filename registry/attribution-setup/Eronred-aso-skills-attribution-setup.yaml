@@ -9,8 +9,16 @@ description: When the user wants to set up, debug, or interpret app install attr
 authors:
 - Eronred
 is_official: false
-tags: []
-category: none
+tags:
+- mobile-attribution
+- skadnetwork
+- appsflyer
+- adjust
+- mmp
+- deep-linking
+- ios
+- app-tracking
+category: marketing
 source:
   path: /skills/attribution-setup
   repo: Eronred/aso-skills

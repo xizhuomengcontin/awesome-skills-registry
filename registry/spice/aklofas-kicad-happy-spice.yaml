@@ -1,5 +1,5 @@
 id: aklofas-kicad-happy-spice
-display_name: Spice
+display_name: SPICE Circuit Simulation
 description: Run automatic SPICE simulations on subcircuits detected from KiCad schematic analysis — validates filter frequencies,
   divider ratios, opamp gains, LC resonance, and crystal load capacitance. Supports ngspice, LTspice, and Xyce (auto-detected).
   Generates testbenches, runs batch mode, produces structured pass/warn/fail report. Use when the user asks to simulate, verify,
@@ -10,8 +10,16 @@ description: Run automatic SPICE simulations on subcircuits detected from KiCad 
 authors:
 - aklofas
 is_official: false
-tags: []
-category: none
+tags:
+- spice-simulation
+- kicad
+- circuit-analysis
+- analog-electronics
+- ngspice
+- ltspice
+- filter-design
+- schematic
+category: science
 source:
   path: /skills/spice
   repo: aklofas/kicad-happy

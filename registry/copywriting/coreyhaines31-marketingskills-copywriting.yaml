@@ -9,8 +9,15 @@ description: When the user wants to write, rewrite, or improve marketing copy fo
 authors:
 - coreyhaines31
 is_official: false
-tags: []
-category: none
+tags:
+- copywriting
+- landing-pages
+- headline-writing
+- value-proposition
+- cta-copy
+- website-copy
+- conversion-copy
+category: marketing
 source:
   path: /skills/copywriting
   repo: coreyhaines31/marketingskills

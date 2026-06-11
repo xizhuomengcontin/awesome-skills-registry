@@ -5,8 +5,14 @@ description: Designs album concepts, tracklist architecture, and thematic planni
 authors:
 - bitwize-music-studio
 is_official: false
-tags: []
-category: none
+tags:
+- album-concept
+- tracklist
+- music-planning
+- thematic-design
+- album-production
+- music-project
+category: creative
 source:
   path: /skills/album-conceptualizer
   repo: bitwize-music-studio/claude-ai-music-skills

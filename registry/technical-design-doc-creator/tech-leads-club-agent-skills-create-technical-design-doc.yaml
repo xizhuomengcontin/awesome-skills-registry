@@ -7,8 +7,15 @@ description: Creates comprehensive Technical Design Documents (TDD) with mandato
 authors:
 - tech-leads-club
 is_official: false
-tags: []
-category: none
+tags:
+- technical-design
+- documentation
+- architecture
+- rfc
+- tdd
+- design-doc
+- software-planning
+category: coding
 source:
   path: /packages/skills-catalog/skills/(creation)/create-technical-design-doc
   repo: tech-leads-club/agent-skills

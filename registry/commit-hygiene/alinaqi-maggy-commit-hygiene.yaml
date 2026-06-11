@@ -4,8 +4,14 @@ description: Atomic commits, PR size limits, commit thresholds, stacked PRs
 authors:
 - alinaqi
 is_official: false
-tags: []
-category: none
+tags:
+- git
+- atomic-commits
+- pull-request
+- stacked-prs
+- version-control
+- code-hygiene
+category: coding
 source:
   path: /skills/commit-hygiene
   repo: alinaqi/maggy

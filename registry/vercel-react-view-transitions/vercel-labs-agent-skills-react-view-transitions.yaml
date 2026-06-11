@@ -9,8 +9,15 @@ description: Guide for implementing smooth, native-feeling animations using Reac
 authors:
 - vercel-labs
 is_official: true
-tags: []
-category: none
+tags:
+- react
+- view-transitions
+- animations
+- page-transitions
+- nextjs
+- css
+- ui-motion
+category: coding
 source:
   path: /skills/react-view-transitions
   repo: vercel-labs/agent-skills

@@ -1,5 +1,5 @@
 id: Leonxlnx-taste-skill-imagegen-frontend-mobile
-display_name: Imagegen Frontend Mobile
+display_name: Mobile App Image Generation
 description: Elite mobile app image-generation skill for creating premium, app-native screen concepts and flows. Designed
   for iOS, Android, and cross-platform mobile products. Prioritizes clean hierarchy, comfortably readable text, strong multi-screen
   consistency, controlled color palettes, non-generic creative direction, textured surfaces, image-led composition, tasteful
@@ -9,8 +9,16 @@ description: Elite mobile app image-generation skill for creating premium, app-n
 authors:
 - Leonxlnx
 is_official: false
-tags: []
-category: none
+tags:
+- mobile-app-design
+- ui-mockup
+- ios-android
+- screen-concepts
+- image-generation
+- app-ui
+- phone-mockup
+- visual-direction
+category: design
 source:
   path: /skills/imagegen-frontend-mobile
   repo: Leonxlnx/taste-skill

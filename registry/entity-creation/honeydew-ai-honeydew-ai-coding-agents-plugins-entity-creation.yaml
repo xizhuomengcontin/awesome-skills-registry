@@ -1,12 +1,19 @@
 id: honeydew-ai-honeydew-ai-coding-agents-plugins-entity-creation
-display_name: Entity Creation
+display_name: Honeydew Entity Creation
 description: Guides you through defining a new Honeydew entity from a data warehouse source — covering source type, granularity
   key, and initial attribute mapping — then pushes to Honeydew via the MCP tools.
 authors:
 - honeydew-ai
 is_official: true
-tags: []
-category: none
+tags:
+- honeydew
+- entity-modeling
+- data-warehouse
+- semantic-layer
+- data-modeling
+- attribute-mapping
+- mcp
+category: data-ai
 source:
   path: /skills/entity-creation
   repo: honeydew-ai/honeydew-ai-coding-agents-plugins

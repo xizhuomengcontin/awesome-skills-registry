@@ -1,12 +1,18 @@
 id: indranilbanerjee-digital-marketing-pro-qbr-plan
-display_name: Qbr Plan
+display_name: QBR Plan
 description: 'Prepare a Quarterly Business Review. Use when: building QBR presentations, client performance reviews, or strategy
   updates.'
 authors:
 - indranilbanerjee
 is_official: false
-tags: []
-category: none
+tags:
+- qbr
+- quarterly-review
+- client-reporting
+- presentations
+- strategy
+- performance-review
+category: business
 source:
   path: /skills/qbr-plan
   repo: indranilbanerjee/digital-marketing-pro

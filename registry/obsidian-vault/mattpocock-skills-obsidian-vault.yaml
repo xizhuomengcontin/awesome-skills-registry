@@ -5,8 +5,14 @@ description: Search, create, and manage notes in the Obsidian vault with wikilin
 authors:
 - mattpocock
 is_official: false
-tags: []
-category: none
+tags:
+- obsidian
+- note-taking
+- knowledge-management
+- wikilinks
+- personal-knowledge-base
+- notes
+category: productivity
 source:
   path: /skills/personal/obsidian-vault
   repo: mattpocock/skills

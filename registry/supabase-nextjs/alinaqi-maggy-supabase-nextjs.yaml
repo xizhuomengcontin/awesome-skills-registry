@@ -1,11 +1,18 @@
 id: alinaqi-maggy-supabase-nextjs
-display_name: Supabase Nextjs
+display_name: Supabase Next.js
 description: Next.js with Supabase and Drizzle ORM
 authors:
 - alinaqi
 is_official: false
-tags: []
-category: none
+tags:
+- nextjs
+- supabase
+- drizzle-orm
+- full-stack
+- react
+- typescript
+- database
+category: coding
 source:
   path: /skills/supabase-nextjs
   repo: alinaqi/maggy

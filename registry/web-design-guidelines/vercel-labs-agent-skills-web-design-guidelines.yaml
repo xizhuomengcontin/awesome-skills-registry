@@ -5,8 +5,14 @@ description: Review UI code for Web Interface Guidelines compliance. Use when as
 authors:
 - vercel-labs
 is_official: true
-tags: []
-category: none
+tags:
+- ui-review
+- accessibility
+- ux-audit
+- web-guidelines
+- visual-design
+- interaction-patterns
+category: design
 source:
   path: /skills/web-design-guidelines
   repo: vercel-labs/agent-skills

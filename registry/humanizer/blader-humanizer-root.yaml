@@ -1,5 +1,5 @@
 id: blader-humanizer-root
-display_name: Root
+display_name: AI Text Humanizer
 description: 'Remove signs of AI-generated writing from text. Use when editing or reviewing text to make it sound more natural
   and human-written. Based on Wikipedia''s comprehensive "Signs of AI writing" guide. Detects and fixes patterns including:
   inflated symbolism, promotional language, superficial -ing analyses, vague attributions, em dash overuse, rule of three,
@@ -7,8 +7,15 @@ description: 'Remove signs of AI-generated writing from text. Use when editing o
 authors:
 - blader
 is_official: false
-tags: []
-category: none
+tags:
+- ai-humanizer
+- text-editing
+- writing-style
+- content-rewriting
+- natural-language
+- ai-detection
+- proofreading
+category: creative
 source:
   path: /
   repo: blader/humanizer

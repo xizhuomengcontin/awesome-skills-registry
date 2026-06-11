@@ -1,5 +1,5 @@
 id: Eronred-aso-skills-seasonal-aso
-display_name: Seasonal Aso
+display_name: Seasonal ASO
 description: When the user wants to optimize their App Store listing for seasonal events, holidays, or trending moments —
   including keyword opportunities, metadata updates, screenshot theming, and timing strategy. Use when the user mentions "seasonal",
   "holiday", "Christmas", "New Year", "Valentine's Day", "summer", "back to school", "seasonal keywords", "trending now",
@@ -8,8 +8,15 @@ description: When the user wants to optimize their App Store listing for seasona
 authors:
 - Eronred
 is_official: false
-tags: []
-category: none
+tags:
+- aso
+- seasonal-keywords
+- app-store
+- holiday-marketing
+- metadata-optimization
+- trending-keywords
+- mobile-marketing
+category: marketing
 source:
   path: /skills/seasonal-aso
   repo: Eronred/aso-skills

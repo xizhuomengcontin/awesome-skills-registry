@@ -8,8 +8,15 @@ description: Generate professional clinical decision support (CDS) documents for
 authors:
 - K-Dense-AI
 is_official: false
-tags: []
-category: none
+tags:
+- clinical-decision-support
+- pharmaceutical
+- biomarker-analysis
+- grade-evidence
+- survival-analysis
+- drug-development
+- latex
+category: health
 source:
   path: /skills/clinical-decision-support
   repo: K-Dense-AI/claude-scientific-skills

@@ -6,8 +6,14 @@ description: Creates Cursor-specific AI subagents with isolated context for comp
 authors:
 - tech-leads-club
 is_official: false
-tags: []
-category: none
+tags:
+- cursor
+- ai-subagent
+- multi-step-workflow
+- ide-integration
+- context-isolation
+- agent-creation
+category: coding
 source:
   path: /packages/skills-catalog/skills/(creation)/cursor-subagent-creator
   repo: tech-leads-club/agent-skills

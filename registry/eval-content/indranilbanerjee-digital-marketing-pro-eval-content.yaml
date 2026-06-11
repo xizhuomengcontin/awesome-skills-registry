@@ -1,11 +1,17 @@
 id: indranilbanerjee-digital-marketing-pro-eval-content
-display_name: Eval Content
+display_name: Content Quality Evaluator
 description: 'Evaluate content quality. Use when: scoring drafts, checking hallucinations, or assessing brand voice compliance.'
 authors:
 - indranilbanerjee
 is_official: false
-tags: []
-category: none
+tags:
+- content-quality
+- content-scoring
+- hallucination-detection
+- brand-voice
+- content-review
+- marketing-ops
+category: marketing
 source:
   path: /skills/eval-content
   repo: indranilbanerjee/digital-marketing-pro

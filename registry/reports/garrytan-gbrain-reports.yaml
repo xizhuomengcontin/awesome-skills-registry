@@ -5,8 +5,14 @@ description: Save and load timestamped reports. Keyword routing for fast lookup.
 authors:
 - garrytan
 is_official: false
-tags: []
-category: none
+tags:
+- report-management
+- timestamped-reports
+- keyword-routing
+- cron-jobs
+- knowledge-storage
+- lookup
+category: productivity
 source:
   path: /skills/reports
   repo: garrytan/gbrain

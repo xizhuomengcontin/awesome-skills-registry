@@ -1,12 +1,17 @@
 id: indranilbanerjee-digital-marketing-pro-learn
-display_name: Learn
+display_name: Marketing Learning Log
 description: 'Save a marketing learning or insight. Use when: capturing knowledge, recording campaign results, building compound
   intelligence.'
 authors:
 - indranilbanerjee
 is_official: false
-tags: []
-category: none
+tags:
+- knowledge-management
+- campaign-insights
+- marketing-intelligence
+- learning-capture
+- analytics
+category: marketing
 source:
   path: /skills/learn
   repo: indranilbanerjee/digital-marketing-pro

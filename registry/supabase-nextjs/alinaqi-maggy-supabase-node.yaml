@@ -4,8 +4,15 @@ description: Express/Hono with Supabase and Drizzle ORM
 authors:
 - alinaqi
 is_official: false
-tags: []
-category: none
+tags:
+- nodejs
+- express
+- hono
+- supabase
+- drizzle-orm
+- backend
+- api
+category: coding
 source:
   path: /skills/supabase-node
   repo: alinaqi/maggy

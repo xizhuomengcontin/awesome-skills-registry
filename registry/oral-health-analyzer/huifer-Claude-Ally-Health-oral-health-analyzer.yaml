@@ -4,8 +4,15 @@ description: 分析口腔健康数据、识别口腔问题模式、评估口腔�
 authors:
 - huifer
 is_official: false
-tags: []
-category: none
+tags:
+- oral-health
+- dental
+- health-analysis
+- personalized-recommendations
+- chronic-disease
+- nutrition
+- health-data
+category: health
 source:
   path: /skills/oral-health-analyzer
   repo: huifer/Claude-Ally-Health

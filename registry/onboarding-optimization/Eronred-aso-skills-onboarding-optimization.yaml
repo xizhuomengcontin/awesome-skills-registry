@@ -7,8 +7,16 @@ description: When the user wants to improve their app's onboarding experience, i
 authors:
 - Eronred
 is_official: false
-tags: []
-category: none
+tags:
+- app-onboarding
+- user-activation
+- day-1-retention
+- first-run-flow
+- aso
+- mobile-app
+- onboarding-funnel
+- drop-off
+category: marketing
 source:
   path: /skills/onboarding-optimization
   repo: Eronred/aso-skills

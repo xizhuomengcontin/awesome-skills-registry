@@ -5,8 +5,15 @@ description: Write an Amazon-style press release that defines customer value bef
 authors:
 - deanpeters
 is_official: false
-tags: []
-category: none
+tags:
+- press-release
+- product-management
+- stakeholder-alignment
+- amazon-style
+- product-launch
+- copywriting
+- customer-value
+category: marketing
 source:
   path: /skills/press-release
   repo: deanpeters/Product-Manager-Skills

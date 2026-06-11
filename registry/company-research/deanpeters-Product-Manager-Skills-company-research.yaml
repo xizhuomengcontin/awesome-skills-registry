@@ -5,8 +5,14 @@ description: Create a company research brief with executive quotes, product stra
 authors:
 - deanpeters
 is_official: false
-tags: []
-category: none
+tags:
+- company-research
+- competitive-analysis
+- market-entry
+- interview-prep
+- product-strategy
+- executive-insights
+category: business
 source:
   path: /skills/company-research
   repo: deanpeters/Product-Manager-Skills

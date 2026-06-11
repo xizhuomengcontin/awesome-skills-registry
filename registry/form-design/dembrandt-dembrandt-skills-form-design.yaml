@@ -6,8 +6,15 @@ description: 'Forms have three layers of guidance: helper text below the input e
 authors:
 - dembrandt
 is_official: false
-tags: []
-category: none
+tags:
+- form-design
+- ui-design
+- input-validation
+- ux
+- helper-text
+- data-entry
+- web-ui
+category: design
 source:
   path: /skills/form-design
   repo: dembrandt/dembrandt-skills

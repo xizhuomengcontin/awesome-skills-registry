@@ -6,8 +6,16 @@ description: Create professional infographics using Nano Banana Pro AI with smar
 authors:
 - K-Dense-AI
 is_official: false
-tags: []
-category: none
+tags:
+- infographics
+- data-visualization
+- ai-generated
+- research-integration
+- colorblind-safe
+- professional-design
+- gemini
+- visual-communication
+category: design
 source:
   path: /skills/infographics
   repo: K-Dense-AI/claude-scientific-skills

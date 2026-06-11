@@ -4,8 +4,16 @@ description: Android Kotlin development with Coroutines, Jetpack Compose, Hilt, 
 authors:
 - alinaqi
 is_official: false
-tags: []
-category: none
+tags:
+- android
+- kotlin
+- jetpack-compose
+- coroutines
+- hilt
+- mockk
+- mobile-development
+- testing
+category: coding
 source:
   path: /skills/android-kotlin
   repo: alinaqi/maggy

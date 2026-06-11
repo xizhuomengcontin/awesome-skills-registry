@@ -1,13 +1,19 @@
 id: bitwize-music-studio-claude-ai-music-skills-voice-checker
-display_name: Voice Checker
+display_name: Lyric Voice Checker
 description: Reviews lyrics and prose for AI-written patterns (abstract noun stacking, over-explained metaphors, cliche escalation,
   missing idiosyncrasy, prose AI tells). Advisory Warning/Info severity — flags issues, does not block or rewrite. Use when
   reviewing lyrics for authenticity or before generation to catch AI-sounding language.
 authors:
 - bitwize-music-studio
 is_official: false
-tags: []
-category: none
+tags:
+- lyrics-review
+- ai-detection
+- authenticity
+- music-writing
+- content-quality
+- voice-analysis
+category: creative
 source:
   path: /skills/voice-checker
   repo: bitwize-music-studio/claude-ai-music-skills

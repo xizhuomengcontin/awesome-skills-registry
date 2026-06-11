@@ -5,8 +5,14 @@ description: Create a Geoffrey Moore-style positioning statement. Use when clari
 authors:
 - deanpeters
 is_official: false
-tags: []
-category: none
+tags:
+- positioning
+- product-messaging
+- geoffrey-moore
+- value-proposition
+- differentiation
+- product-management
+category: marketing
 source:
   path: /skills/positioning-statement
   repo: deanpeters/Product-Manager-Skills

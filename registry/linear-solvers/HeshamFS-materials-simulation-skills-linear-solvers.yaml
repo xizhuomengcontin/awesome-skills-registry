@@ -9,8 +9,16 @@ description: Select and configure linear solvers for Ax=b systems arising in num
 authors:
 - HeshamFS
 is_official: false
-tags: []
-category: none
+tags:
+- linear-solvers
+- numerical-methods
+- fem
+- sparse-matrices
+- preconditioners
+- iterative-solvers
+- computational-simulation
+- krylov-methods
+category: science
 source:
   path: /skills/core-numerical/linear-solvers
   repo: HeshamFS/materials-simulation-skills

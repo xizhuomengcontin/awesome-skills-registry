@@ -1,12 +1,18 @@
 id: bitwize-music-studio-claude-ai-music-skills-help
-display_name: Help
+display_name: Music Studio Help
 description: Shows available skills, common workflows, and quick reference for the plugin. Use when the user asks for help,
   what skills are available, or how to do something.
 authors:
 - bitwize-music-studio
 is_official: false
-tags: []
-category: none
+tags:
+- help
+- documentation
+- onboarding
+- skill-discovery
+- quick-reference
+- workflows
+category: miscellaneous
 source:
   path: /skills/help
   repo: bitwize-music-studio/claude-ai-music-skills

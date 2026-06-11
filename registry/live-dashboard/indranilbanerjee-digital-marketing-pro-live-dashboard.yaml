@@ -4,8 +4,14 @@ description: 'Create live Looker Studio dashboards. Use when: connecting marketi
 authors:
 - indranilbanerjee
 is_official: false
-tags: []
-category: none
+tags:
+- looker-studio
+- dashboard
+- data-visualization
+- marketing-analytics
+- reporting
+- real-time
+category: marketing
 source:
   path: /skills/live-dashboard
   repo: indranilbanerjee/digital-marketing-pro

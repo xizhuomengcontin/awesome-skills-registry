@@ -1,5 +1,5 @@
 id: lawvable-awesome-legal-skills-pdf-processing-anthropic
-display_name: Pdf Processing Anthropic
+display_name: PDF Processing (Anthropic)
 description: Use this skill whenever the user wants to do anything with PDF files. This includes reading or extracting text/tables
   from PDFs, combining or merging multiple PDFs into one, splitting PDFs apart, rotating pages, adding watermarks, creating
   new PDFs, filling PDF forms, encrypting/decrypting PDFs, extracting images, and OCR on scanned PDFs to make them searchable.
@@ -7,8 +7,15 @@ description: Use this skill whenever the user wants to do anything with PDF file
 authors:
 - lawvable
 is_official: false
-tags: []
-category: none
+tags:
+- pdf
+- pdf-extraction
+- ocr
+- document-processing
+- legal-documents
+- pdf-forms
+- contract-extraction
+category: legal
 source:
   path: /skills/pdf-processing-anthropic
   repo: lawvable/awesome-legal-skills

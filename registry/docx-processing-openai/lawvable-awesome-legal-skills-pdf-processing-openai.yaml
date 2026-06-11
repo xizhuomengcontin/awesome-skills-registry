@@ -1,5 +1,5 @@
 id: lawvable-awesome-legal-skills-pdf-processing-openai
-display_name: Pdf Processing Openai
+display_name: PDF Processing (OpenAI)
 description: 'Toolkit for comprehensive PDF reading, reviwing, and creation with visual quality control. Use to work with
   PDFs (.pdf files) for: (1) Reading or extracting content from existing PDFs, (2) Creating new PDF documents with professional
   formatting, (3) Generating reports, documents, or layouts that require precise typography and design, or any other PDF reading
@@ -7,8 +7,16 @@ description: 'Toolkit for comprehensive PDF reading, reviwing, and creation with
 authors:
 - lawvable
 is_official: false
-tags: []
-category: none
+tags:
+- pdf
+- document-reading
+- document-creation
+- pdf-generation
+- formatting
+- typography
+- content-extraction
+- visual-quality-control
+category: productivity
 source:
   path: /skills/pdf-processing-openai
   repo: lawvable/awesome-legal-skills

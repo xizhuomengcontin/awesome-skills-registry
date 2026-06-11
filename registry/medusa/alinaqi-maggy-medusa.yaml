@@ -4,8 +4,15 @@ description: Medusa headless commerce - modules, workflows, API routes, admin UI
 authors:
 - alinaqi
 is_official: false
-tags: []
-category: none
+tags:
+- medusa
+- headless-commerce
+- e-commerce
+- api-routes
+- admin-ui
+- workflows
+- javascript
+category: coding
 source:
   path: /skills/medusa
   repo: alinaqi/maggy

@@ -1,5 +1,5 @@
 id: tech-leads-club-agent-skills-ai-ugc-ads
-display_name: Ai Ugc Ads
+display_name: AI UGC Ads
 description: When the user wants to create UGC ad campaigns, recruit UGC creators, generate AI UGC content, or scale with
   user-generated content. Also use when the user mentions 'UGC,' 'user-generated content,' 'creator ads,' 'Spark Ads,' 'whitelisting,'
   'AI UGC,' 'Arcads,' 'Creatify,' 'creator brief,' or 'UGC testing.' This skill covers the UGC growth framework from creator
@@ -7,8 +7,15 @@ description: When the user wants to create UGC ad campaigns, recruit UGC creator
 authors:
 - tech-leads-club
 is_official: false
-tags: []
-category: none
+tags:
+- ugc
+- user-generated-content
+- creator-ads
+- ai-ugc
+- spark-ads
+- ad-creative
+- creator-recruitment
+category: marketing
 source:
   path: /packages/skills-catalog/skills/(gtm)/ai-ugc-ads
   repo: tech-leads-club/agent-skills

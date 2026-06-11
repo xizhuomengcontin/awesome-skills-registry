@@ -1,11 +1,17 @@
 id: indranilbanerjee-digital-marketing-pro-multilingual-score
-display_name: Multilingual Score
+display_name: Multilingual Content Scorer
 description: 'Score localized content quality. Use when: checking translation accuracy, cultural adaptation, or voice preservation.'
 authors:
 - indranilbanerjee
 is_official: false
-tags: []
-category: none
+tags:
+- localization
+- translation-quality
+- content-scoring
+- cultural-adaptation
+- multilingual
+- brand-voice
+category: marketing
 source:
   path: /skills/multilingual-score
   repo: indranilbanerjee/digital-marketing-pro

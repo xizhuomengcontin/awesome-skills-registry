@@ -7,8 +7,15 @@ description: Sets up an `## Agent skills` block in AGENTS.md/CLAUDE.md and `docs
 authors:
 - mattpocock
 is_official: false
-tags: []
-category: none
+tags:
+- agent-setup
+- configuration
+- issue-tracker
+- github
+- onboarding
+- agents-md
+- workflow-automation
+category: productivity
 source:
   path: /skills/engineering/setup-matt-pocock-skills
   repo: mattpocock/skills

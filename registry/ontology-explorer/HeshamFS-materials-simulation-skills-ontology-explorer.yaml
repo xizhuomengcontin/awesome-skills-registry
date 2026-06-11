@@ -9,8 +9,16 @@ description: Parse, navigate, and query materials science ontology structures â€
 authors:
 - HeshamFS
 is_official: false
-tags: []
-category: none
+tags:
+- ontology
+- materials-science
+- cmso
+- owl
+- knowledge-graph
+- crystal-structure
+- fair-data
+- class-hierarchy
+category: science
 source:
   path: /skills/ontology/ontology-explorer
   repo: HeshamFS/materials-simulation-skills

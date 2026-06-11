@@ -6,8 +6,15 @@ description: 'The meta skill. Turn any raw feature into a properly-skilled, test
 authors:
 - garrytan
 is_official: false
-tags: []
-category: none
+tags:
+- meta-skill
+- gbrain
+- ai-agents
+- eval
+- skill-creation
+- multi-model
+- quality-gate
+category: productivity
 source:
   path: /skills/skillify
   repo: garrytan/gbrain

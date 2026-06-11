@@ -5,8 +5,14 @@ description: Run a user story mapping workshop with adaptive questions and a str
 authors:
 - deanpeters
 is_official: false
-tags: []
-category: none
+tags:
+- user-story-mapping
+- workshop
+- product-management
+- agile
+- release-planning
+- facilitation
+category: productivity
 source:
   path: /skills/user-story-mapping-workshop
   repo: deanpeters/Product-Manager-Skills

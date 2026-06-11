@@ -7,8 +7,15 @@ description: 'Look up current research information using parallel-cli search (pr
 authors:
 - K-Dense-AI
 is_official: false
-tags: []
-category: none
+tags:
+- literature-search
+- academic-papers
+- web-search
+- perplexity
+- fact-checking
+- research-data
+- scientific-sources
+category: science
 source:
   path: /skills/research-lookup
   repo: K-Dense-AI/claude-scientific-skills

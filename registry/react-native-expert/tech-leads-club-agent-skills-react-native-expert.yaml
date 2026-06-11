@@ -9,8 +9,16 @@ description: Senior React Native and Expo engineer for building production-ready
 authors:
 - tech-leads-club
 is_official: false
-tags: []
-category: none
+tags:
+- react-native
+- expo
+- mobile-app
+- ios
+- android
+- reanimated
+- expo-router
+- cross-platform
+category: coding
 source:
   path: /packages/skills-catalog/skills/(development)/react-native-expert
   repo: tech-leads-club/agent-skills

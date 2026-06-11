@@ -7,8 +7,15 @@ description: Finds duplicate business logic spread across multiple components an
 authors:
 - tech-leads-club
 is_official: false
-tags: []
-category: none
+tags:
+- refactoring
+- code-duplication
+- domain-logic
+- architecture
+- consolidation
+- code-analysis
+- technical-debt
+category: coding
 source:
   path: /packages/skills-catalog/skills/(architecture)/component-common-domain-detection
   repo: tech-leads-club/agent-skills

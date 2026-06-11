@@ -5,8 +5,14 @@ description: Pre-ingestion verification for epistemic quality in RAG systems. En
 authors:
 - frmoretto
 is_official: false
-tags: []
-category: none
+tags:
+- rag
+- knowledge-base
+- document-validation
+- epistemic-quality
+- pre-ingestion
+- source-of-truth
+category: data-ai
 source:
   path: /skills/clarity-gate
   repo: frmoretto/clarity-gate

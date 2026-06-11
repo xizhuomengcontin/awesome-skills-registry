@@ -6,8 +6,15 @@ description: Creative research ideation and exploration. Use for open-ended brai
 authors:
 - K-Dense-AI
 is_official: false
-tags: []
-category: none
+tags:
+- research-ideation
+- brainstorming
+- interdisciplinary
+- research-gaps
+- hypothesis-exploration
+- early-stage-research
+- creative-thinking
+category: science
 source:
   path: /skills/scientific-brainstorming
   repo: K-Dense-AI/claude-scientific-skills

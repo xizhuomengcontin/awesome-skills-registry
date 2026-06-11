@@ -9,8 +9,15 @@ description: Validate simulations across three stages — run pre-flight checks 
 authors:
 - HeshamFS
 is_official: false
-tags: []
-category: none
+tags:
+- simulation
+- validation
+- preflight-checks
+- convergence
+- materials-science
+- debugging
+- energy-conservation
+category: science
 source:
   path: /skills/simulation-workflow/simulation-validator
   repo: HeshamFS/materials-simulation-skills

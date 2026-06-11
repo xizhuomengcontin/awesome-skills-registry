@@ -7,8 +7,16 @@ description: Structured manuscript/grant review with checklist-based evaluation.
 authors:
 - K-Dense-AI
 is_official: false
-tags: []
-category: none
+tags:
+- peer-review
+- manuscript-review
+- grant-review
+- research-methodology
+- statistical-validity
+- reporting-standards
+- consort
+- strobe
+category: science
 source:
   path: /skills/peer-review
   repo: K-Dense-AI/claude-scientific-skills

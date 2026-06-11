@@ -1,13 +1,20 @@
 id: SHADOWPR0-security-bluebook-builder-root
-display_name: Root
+display_name: Security Blue Book Builder
 description: Create or refine a concise, normative security policy ("Blue Book") for sensitive applications. Use when users
   need a threat model, data classification rules, auth/session policy, logging and audit requirements, retention/deletion
   expectations, incident response, or security gates for apps handling PII/PHI/financial data.
 authors:
 - SHADOWPR0
 is_official: false
-tags: []
-category: none
+tags:
+- security-policy
+- threat-modeling
+- data-classification
+- authentication
+- incident-response
+- pii
+- audit-logging
+category: coding
 source:
   path: /
   repo: SHADOWPR0/security-bluebook-builder

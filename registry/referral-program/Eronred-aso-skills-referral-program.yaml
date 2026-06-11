@@ -9,8 +9,16 @@ description: When the user wants to design, launch, or optimize an in-app referr
 authors:
 - Eronred
 is_official: false
-tags: []
-category: none
+tags:
+- referral-program
+- viral-loop
+- k-factor
+- deep-links
+- in-app-invites
+- fraud-prevention
+- reward-mechanics
+- viral-growth
+category: marketing
 source:
   path: /skills/referral-program
   repo: Eronred/aso-skills

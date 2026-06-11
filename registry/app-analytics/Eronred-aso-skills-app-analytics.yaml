@@ -6,8 +6,15 @@ description: When the user wants to set up, interpret, or improve their app anal
 authors:
 - Eronred
 is_official: false
-tags: []
-category: none
+tags:
+- app-analytics
+- kpi-tracking
+- attribution
+- funnel-analysis
+- install-tracking
+- app-store-connect
+- mobile-metrics
+category: marketing
 source:
   path: /skills/app-analytics
   repo: Eronred/aso-skills

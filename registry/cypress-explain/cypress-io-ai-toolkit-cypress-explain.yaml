@@ -7,8 +7,14 @@ description: Explains Cypress tests (E2E and component tests), and answers quest
 authors:
 - cypress-io
 is_official: true
-tags: []
-category: none
+tags:
+- cypress
+- e2e-testing
+- component-testing
+- test-explanation
+- code-review
+- documentation
+category: coding
 source:
   path: /skills/cypress-explain
   repo: cypress-io/ai-toolkit

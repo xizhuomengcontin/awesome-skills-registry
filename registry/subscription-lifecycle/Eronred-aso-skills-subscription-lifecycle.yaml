@@ -7,8 +7,16 @@ description: When the user wants to optimize their subscription business end-to-
 authors:
 - Eronred
 is_official: false
-tags: []
-category: none
+tags:
+- subscription
+- churn
+- trial-conversion
+- retention
+- win-back
+- dunning
+- revenue-optimization
+- saas
+category: business
 source:
   path: /skills/subscription-lifecycle
   repo: Eronred/aso-skills

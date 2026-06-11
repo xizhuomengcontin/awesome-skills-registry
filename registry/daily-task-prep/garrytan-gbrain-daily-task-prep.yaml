@@ -5,8 +5,14 @@ description: Morning preparation. Calendar lookahead, meeting context loading, o
 authors:
 - garrytan
 is_official: false
-tags: []
-category: none
+tags:
+- morning-routine
+- calendar
+- meeting-prep
+- daily-briefing
+- task-review
+- planning
+category: productivity
 source:
   path: /skills/daily-task-prep
   repo: garrytan/gbrain

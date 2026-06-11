@@ -1,5 +1,5 @@
 id: garrytan-gbrain-gbrain-upgrade
-display_name: Gbrain Upgrade
+display_name: Gbrain Upgrade Manager
 description: 'Keep gbrain current. When a `gbrain` invocation prints an `UPGRADE_AVAILABLE <old> <new>` marker (or `gbrain
   self-upgrade --check-only` reports an update), apply it per the configured self_upgrade.mode: notify (prompt the operator
   with a 4-option question + snooze) or auto (apply silently). The action is always the hardcoded `gbrain self-upgrade` —
@@ -7,8 +7,14 @@ description: 'Keep gbrain current. When a `gbrain` invocation prints an `UPGRADE
 authors:
 - garrytan
 is_official: false
-tags: []
-category: none
+tags:
+- cli
+- self-upgrade
+- version-management
+- automation
+- agent-ops
+- gbrain
+category: productivity
 source:
   path: /skills/gbrain-upgrade
   repo: garrytan/gbrain

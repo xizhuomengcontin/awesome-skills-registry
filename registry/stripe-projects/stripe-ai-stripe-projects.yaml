@@ -11,8 +11,15 @@ description: 'Use when the user wants to provision infrastructure or third-party
 authors:
 - stripe
 is_official: true
-tags: []
-category: none
+tags:
+- stripe
+- infrastructure-provisioning
+- cloud-services
+- api-keys
+- databases
+- devops
+- third-party-integration
+category: coding
 source:
   path: /skills/stripe-projects
   repo: stripe/ai

@@ -6,8 +6,16 @@ description: Comprehensive molecular biology toolkit. Use for sequence manipulat
 authors:
 - K-Dense-AI
 is_official: false
-tags: []
-category: none
+tags:
+- biopython
+- bioinformatics
+- sequence-analysis
+- fasta
+- genbank
+- ncbi
+- blast
+- phylogenetics
+category: science
 source:
   path: /skills/biopython
   repo: K-Dense-AI/claude-scientific-skills

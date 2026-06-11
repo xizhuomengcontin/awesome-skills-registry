@@ -7,8 +7,16 @@ description: Extract text, tables, metadata, and images from 91+ document format
 authors:
 - kreuzberg-dev
 is_official: true
-tags: []
-category: none
+tags:
+- document-extraction
+- ocr
+- pdf-parsing
+- text-extraction
+- python
+- typescript
+- rust
+- file-processing
+category: coding
 source:
   path: /skills/kreuzberg
   repo: kreuzberg-dev/kreuzberg

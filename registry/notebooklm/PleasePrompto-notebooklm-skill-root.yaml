@@ -1,13 +1,20 @@
 id: PleasePrompto-notebooklm-skill-root
-display_name: Root
+display_name: NotebookLM Integration
 description: Use this skill to query your Google NotebookLM notebooks directly from Claude Code for source-grounded, citation-backed
   answers from Gemini. Browser automation, library management, persistent auth. Drastically reduced hallucinations through
   document-only responses.
 authors:
 - PleasePrompto
 is_official: false
-tags: []
-category: none
+tags:
+- notebooklm
+- google
+- rag
+- citation
+- knowledge-retrieval
+- browser-automation
+- hallucination-reduction
+category: productivity
 source:
   path: /
   repo: PleasePrompto/notebooklm-skill

@@ -7,8 +7,16 @@ description: Interact with Zotero reference management libraries using the pyzot
 authors:
 - K-Dense-AI
 is_official: false
-tags: []
-category: none
+tags:
+- reference-management
+- zotero
+- bibliography
+- citations
+- research-automation
+- python-client
+- api-integration
+- academic-research
+category: productivity
 source:
   path: /skills/pyzotero
   repo: K-Dense-AI/claude-scientific-skills

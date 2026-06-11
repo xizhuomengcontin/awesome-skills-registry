@@ -1,11 +1,17 @@
 id: mattpocock-skills-handoff
-display_name: Handoff
+display_name: Agent Handoff
 description: Compact the current conversation into a handoff document for another agent to pick up.
 authors:
 - mattpocock
 is_official: false
-tags: []
-category: none
+tags:
+- handoff
+- agent-coordination
+- conversation-summary
+- documentation
+- context-transfer
+- multi-agent
+category: productivity
 source:
   path: /skills/productivity/handoff
   repo: mattpocock/skills

@@ -1,12 +1,20 @@
 id: CloudAI-X-threejs-skills-threejs-textures
-display_name: Threejs Textures
+display_name: Three.js Textures
 description: Three.js textures - texture types, UV mapping, environment maps, texture settings. Use when working with images,
   UV coordinates, cubemaps, HDR environments, or texture optimization.
 authors:
 - CloudAI-X
 is_official: false
-tags: []
-category: none
+tags:
+- three-js
+- 3d
+- textures
+- uv-mapping
+- cubemaps
+- hdr
+- environment-maps
+- webgl
+category: coding
 source:
   path: /skills/threejs-textures
   repo: CloudAI-X/threejs-skills

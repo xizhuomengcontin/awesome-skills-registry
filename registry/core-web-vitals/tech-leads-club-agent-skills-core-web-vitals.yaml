@@ -7,8 +7,15 @@ description: Optimize Core Web Vitals (LCP, INP, CLS) for better page experience
 authors:
 - tech-leads-club
 is_official: false
-tags: []
-category: none
+tags:
+- core-web-vitals
+- lcp
+- cls
+- inp
+- page-experience
+- web-performance
+- seo-technical
+category: coding
 source:
   path: /packages/skills-catalog/skills/(performance)/core-web-vitals
   repo: tech-leads-club/agent-skills

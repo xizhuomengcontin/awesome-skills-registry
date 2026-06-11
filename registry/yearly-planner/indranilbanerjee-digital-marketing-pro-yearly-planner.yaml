@@ -5,8 +5,15 @@ description: Produce the 12-month operational Yearly Planner — the calendar co
 authors:
 - indranilbanerjee
 is_official: false
-tags: []
-category: none
+tags:
+- yearly-planning
+- content-calendar
+- marketing-strategy
+- campaign-planning
+- execution
+- monthly-schedule
+- digital-marketing
+category: marketing
 source:
   path: /skills/yearly-planner
   repo: indranilbanerjee/digital-marketing-pro

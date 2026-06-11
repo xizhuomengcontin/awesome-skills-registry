@@ -6,8 +6,15 @@ description: Manage Jira issues via Atlassian MCP — search, create, update, tr
 authors:
 - tech-leads-club
 is_official: false
-tags: []
-category: none
+tags:
+- jira
+- project-management
+- issue-tracking
+- sprint
+- atlassian
+- ticket-management
+- workflow
+category: productivity
 source:
   path: /packages/skills-catalog/skills/(development)/jira-assistant
   repo: tech-leads-club/agent-skills

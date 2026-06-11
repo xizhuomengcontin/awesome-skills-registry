@@ -1,5 +1,5 @@
 id: anthropics-skills-xlsx
-display_name: Xlsx
+display_name: XLSX Spreadsheets
 description: 'Use this skill any time a spreadsheet file is the primary input or output. This means any task where the user
   wants to: open, read, edit, or fix an existing .xlsx, .xlsm, .csv, or .tsv file (e.g., adding columns, computing formulas,
   formatting, charting, cleaning messy data); create a new spreadsheet from scratch or from other data sources; or convert
@@ -11,8 +11,16 @@ description: 'Use this skill any time a spreadsheet file is the primary input or
 authors:
 - anthropics
 is_official: true
-tags: []
-category: none
+tags:
+- excel
+- spreadsheet
+- xlsx
+- csv
+- tabular-data
+- data-cleaning
+- formulas
+- file-conversion
+category: data-ai
 source:
   path: /skills/xlsx
   repo: anthropics/skills

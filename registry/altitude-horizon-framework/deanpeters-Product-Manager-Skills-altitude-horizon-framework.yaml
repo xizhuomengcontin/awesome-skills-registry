@@ -5,8 +5,14 @@ description: Understand the PM-to-Director transition through altitude and horiz
 authors:
 - deanpeters
 is_official: false
-tags: []
-category: none
+tags:
+- product-management
+- leadership
+- pm-to-director
+- career-growth
+- strategic-thinking
+- scope-management
+category: business
 source:
   path: /skills/altitude-horizon-framework
   repo: deanpeters/Product-Manager-Skills

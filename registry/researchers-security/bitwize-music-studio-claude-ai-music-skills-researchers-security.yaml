@@ -1,12 +1,18 @@
 id: bitwize-music-studio-claude-ai-music-skills-researchers-security
-display_name: Researchers Security
+display_name: Security Researcher
 description: Researches malware analysis, CVEs, attribution reports, and hacker community sources. Use when the album subject
   involves cybersecurity incidents or threat actors.
 authors:
 - bitwize-music-studio
 is_official: false
-tags: []
-category: none
+tags:
+- cybersecurity
+- malware-analysis
+- cve
+- threat-attribution
+- music-production
+- hacker-research
+category: creative
 source:
   path: /skills/researchers-security
   repo: bitwize-music-studio/claude-ai-music-skills

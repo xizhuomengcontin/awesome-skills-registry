@@ -1,12 +1,19 @@
 id: lawvable-awesome-legal-skills-politique-confidentialite-malik-taiar
-display_name: Politique Confidentialite Malik Taiar
+display_name: Privacy Policy (GDPR)
 description: Guide for drafting privacy policies compliant with GDPR. Includes CNIL 2020 recommendations, a reference template,
   and best practices. Use when drafting or revising a privacy policy for a website or application.
 authors:
 - lawvable
 is_official: false
-tags: []
-category: none
+tags:
+- privacy-policy
+- gdpr
+- cnil
+- data-protection
+- compliance
+- french-law
+- web-legal
+category: legal
 source:
   path: /skills/politique-confidentialite-malik-taiar
   repo: lawvable/awesome-legal-skills

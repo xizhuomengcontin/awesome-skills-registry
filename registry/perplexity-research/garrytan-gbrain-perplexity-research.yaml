@@ -6,8 +6,14 @@ description: Brain-augmented web research. Sends brain context about a topic to 
 authors:
 - garrytan
 is_official: false
-tags: []
-category: none
+tags:
+- web-research
+- perplexity
+- citations
+- entity-enrichment
+- deal-monitoring
+- real-time-search
+category: productivity
 source:
   path: /skills/perplexity-research
   repo: garrytan/gbrain

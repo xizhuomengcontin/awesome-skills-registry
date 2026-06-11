@@ -4,8 +4,14 @@ description: 'Check active campaign status. Use when: cross-platform execution h
 authors:
 - indranilbanerjee
 is_official: false
-tags: []
-category: none
+tags:
+- campaign-status
+- performance-metrics
+- cross-platform
+- execution-tracking
+- approvals
+- reporting
+category: marketing
 source:
   path: /skills/campaign-status
   repo: indranilbanerjee/digital-marketing-pro

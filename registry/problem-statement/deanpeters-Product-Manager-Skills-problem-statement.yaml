@@ -5,8 +5,14 @@ description: Write a user-centered problem statement with who is blocked, what t
 authors:
 - deanpeters
 is_official: false
-tags: []
-category: none
+tags:
+- problem-statement
+- product-management
+- user-centered-design
+- discovery
+- prd
+- ux-research
+category: productivity
 source:
   path: /skills/problem-statement
   repo: deanpeters/Product-Manager-Skills

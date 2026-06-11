@@ -5,8 +5,15 @@ description: Postgres performance optimization and best practices from Supabase.
 authors:
 - supabase
 is_official: true
-tags: []
-category: none
+tags:
+- postgres
+- supabase
+- database
+- query-optimization
+- schema-design
+- performance
+- sql
+category: coding
 source:
   path: /skills/supabase-postgres-best-practices
   repo: supabase/agent-skills

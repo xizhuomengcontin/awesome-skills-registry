@@ -5,8 +5,15 @@ description: Guide the PM-to-Director transition across preparing, interviewing,
 authors:
 - deanpeters
 is_official: false
-tags: []
-category: none
+tags:
+- career-coaching
+- leadership
+- product-management
+- promotion
+- director-level
+- interview-prep
+- pm-career
+category: business
 source:
   path: /skills/director-readiness-advisor
   repo: deanpeters/Product-Manager-Skills

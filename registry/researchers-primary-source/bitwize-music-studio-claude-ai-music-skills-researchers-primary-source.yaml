@@ -1,12 +1,18 @@
 id: bitwize-music-studio-claude-ai-music-skills-researchers-primary-source
-display_name: Researchers Primary Source
+display_name: Primary Source Researcher
 description: Researches the subject's own words from tweets, blogs, forums, and chat logs. Use when research needs direct
   quotes or first-person accounts.
 authors:
 - bitwize-music-studio
 is_official: false
-tags: []
-category: none
+tags:
+- primary-sources
+- direct-quotes
+- social-media
+- first-person-accounts
+- music-production
+- content-verification
+category: creative
 source:
   path: /skills/researchers-primary-source
   repo: bitwize-music-studio/claude-ai-music-skills

@@ -4,8 +4,14 @@ description: Teach the user a new skill or concept, within this workspace.
 authors:
 - mattpocock
 is_official: false
-tags: []
-category: none
+tags:
+- teaching
+- learning
+- education
+- skill-building
+- concept-explanation
+- mentoring
+category: productivity
 source:
   path: /skills/in-progress/teach
   repo: mattpocock/skills

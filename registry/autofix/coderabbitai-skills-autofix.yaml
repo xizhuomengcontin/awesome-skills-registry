@@ -5,8 +5,14 @@ description: Safely review and apply CodeRabbit PR review-thread feedback from G
 authors:
 - coderabbitai
 is_official: true
-tags: []
-category: none
+tags:
+- code-review
+- pull-request
+- github
+- coderabbit
+- automated-fixes
+- pr-feedback
+category: coding
 source:
   path: /skills/autofix
   repo: coderabbitai/skills

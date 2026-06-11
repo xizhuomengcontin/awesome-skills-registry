@@ -6,8 +6,15 @@ description: Take a markdown file of raw material and shape it into an article t
 authors:
 - mattpocock
 is_official: false
-tags: []
-category: none
+tags:
+- writing
+- article-drafting
+- content-shaping
+- editing
+- narrative-structure
+- publishing
+- rough-draft
+category: creative
 source:
   path: /skills/in-progress/writing-shape
   repo: mattpocock/skills

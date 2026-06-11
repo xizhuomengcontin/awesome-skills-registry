@@ -1,12 +1,18 @@
 id: bitwize-music-studio-claude-ai-music-skills-researchers-journalism
-display_name: Researchers Journalism
+display_name: Journalism Researcher
 description: Researches investigative articles, interviews, and news coverage. Use when research needs journalistic sources
   for cross-referencing or additional context.
 authors:
 - bitwize-music-studio
 is_official: false
-tags: []
-category: none
+tags:
+- journalism
+- investigative-articles
+- news-coverage
+- cross-referencing
+- music-production
+- media-sources
+category: creative
 source:
   path: /skills/researchers-journalism
   repo: bitwize-music-studio/claude-ai-music-skills

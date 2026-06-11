@@ -7,8 +7,16 @@ description: Generate comprehensive market research reports (50+ pages) in the s
 authors:
 - K-Dense-AI
 is_official: false
-tags: []
-category: none
+tags:
+- market-research
+- consulting
+- strategic-analysis
+- swot
+- porter-five-forces
+- tam-sam-som
+- latex
+- mckinsey-style
+category: business
 source:
   path: /skills/market-research-reports
   repo: K-Dense-AI/claude-scientific-skills

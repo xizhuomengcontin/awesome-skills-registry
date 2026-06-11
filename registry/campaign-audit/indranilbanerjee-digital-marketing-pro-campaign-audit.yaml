@@ -6,8 +6,15 @@ description: Audit a brand's existing live campaigns across every active channel
 authors:
 - indranilbanerjee
 is_official: false
-tags: []
-category: none
+tags:
+- campaign-audit
+- channel-analysis
+- paid-media
+- seo
+- organic-social
+- agency-onboarding
+- quick-wins
+category: marketing
 source:
   path: /skills/campaign-audit
   repo: indranilbanerjee/digital-marketing-pro

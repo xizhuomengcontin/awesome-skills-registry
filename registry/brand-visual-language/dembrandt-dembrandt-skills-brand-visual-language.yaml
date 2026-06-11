@@ -6,8 +6,16 @@ description: A brand's visual tone â€” playful or serious, rounded or angular â€
 authors:
 - dembrandt
 is_official: false
-tags: []
-category: none
+tags:
+- visual-language
+- design-system
+- shape-language
+- typography
+- border-radius
+- iconography
+- brand-consistency
+- ui-tokens
+category: design
 source:
   path: /skills/brand-visual-language
   repo: dembrandt/dembrandt-skills

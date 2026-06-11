@@ -1,12 +1,19 @@
 id: honeydew-ai-honeydew-ai-coding-agents-plugins-validation
-display_name: Validation
+display_name: Honeydew Object Validation
 description: Use after creating or modifying ANY Honeydew object (metric, attribute, entity, domain). Provides type-specific
   validation logic to ensure objects work correctly and return sensible results.
 authors:
 - honeydew-ai
 is_official: true
-tags: []
-category: none
+tags:
+- data-validation
+- schema-validation
+- metrics
+- data-modeling
+- honeydew
+- object-verification
+- quality-assurance
+category: coding
 source:
   path: /skills/validation
   repo: honeydew-ai/honeydew-ai-coding-agents-plugins

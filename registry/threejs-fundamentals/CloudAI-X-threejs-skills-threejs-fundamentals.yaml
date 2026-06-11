@@ -1,12 +1,20 @@
 id: CloudAI-X-threejs-skills-threejs-fundamentals
-display_name: Threejs Fundamentals
+display_name: Three.js Fundamentals
 description: Three.js scene setup, cameras, renderer, Object3D hierarchy, coordinate systems. Use when setting up 3D scenes,
   creating cameras, configuring renderers, managing object hierarchies, or working with transforms.
 authors:
 - CloudAI-X
 is_official: false
-tags: []
-category: none
+tags:
+- three-js
+- 3d
+- scene-setup
+- cameras
+- renderer
+- webgl
+- coordinate-systems
+- object-hierarchy
+category: coding
 source:
   path: /skills/threejs-fundamentals
   repo: CloudAI-X/threejs-skills

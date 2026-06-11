@@ -1,11 +1,17 @@
 id: indranilbanerjee-digital-marketing-pro-executive-dashboard
-display_name: Executive Dashboard
+display_name: Executive Marketing Dashboard
 description: 'Design executive marketing dashboards. Use when: building CMO reports, board metrics, or leadership views.'
 authors:
 - indranilbanerjee
 is_official: false
-tags: []
-category: none
+tags:
+- executive-dashboard
+- cmo-reporting
+- marketing-metrics
+- board-reporting
+- kpi-visualization
+- leadership-reporting
+category: marketing
 source:
   path: /skills/executive-dashboard
   repo: indranilbanerjee/digital-marketing-pro

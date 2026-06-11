@@ -6,8 +6,16 @@ description: Micro-interactions are small, purposeful animations and responses t
 authors:
 - dembrandt
 is_official: false
-tags: []
-category: none
+tags:
+- micro-interactions
+- animation
+- ui-components
+- user-experience
+- interactive-design
+- motion-design
+- delight
+- frontend
+category: design
 source:
   path: /skills/micro-interactions
   repo: dembrandt/dembrandt-skills

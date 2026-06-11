@@ -10,8 +10,15 @@ description: 'Technology-agnostic guidance for modular systems: bounded contexts
 authors:
 - tech-leads-club
 is_official: false
-tags: []
-category: none
+tags:
+- software-architecture
+- modular-design
+- bounded-contexts
+- service-boundaries
+- domain-driven-design
+- coupling
+- composability
+category: coding
 source:
   path: /packages/skills-catalog/skills/(architecture)/modular-design-principles
   repo: tech-leads-club/agent-skills

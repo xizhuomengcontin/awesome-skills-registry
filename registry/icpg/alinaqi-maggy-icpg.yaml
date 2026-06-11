@@ -1,12 +1,18 @@
 id: alinaqi-maggy-icpg
-display_name: Icpg
+display_name: Intent-Augmented Code Property Graph
 description: Intent-Augmented Code Property Graph — tracks WHY code exists via ReasonNodes with formal contracts, 6-dimension
   drift detection, and 3 canonical pre-task queries for autonomous development
 authors:
 - alinaqi
 is_official: false
-tags: []
-category: none
+tags:
+- code-property-graph
+- intent-tracking
+- drift-detection
+- autonomous-development
+- static-analysis
+- code-contracts
+category: coding
 source:
   path: /skills/icpg
   repo: alinaqi/maggy

@@ -1,5 +1,5 @@
 id: tech-leads-club-agent-skills-paid-creative-ai
-display_name: Paid Creative Ai
+display_name: Paid Creative AI
 description: When the user wants to create AI-generated ad creative, test performance creative, manage creative fatigue, or
   optimize paid media with AI tools. Also use when the user mentions 'ad creative,' 'performance creative,' 'creative testing,'
   'creative fatigue,' 'Meta ads,' 'Google ads,' 'TikTok ads,' 'AI ads,' 'ad budget,' 'ROAS,' 'Advantage+,' or 'Performance
@@ -8,8 +8,16 @@ description: When the user wants to create AI-generated ad creative, test perfor
 authors:
 - tech-leads-club
 is_official: false
-tags: []
-category: none
+tags:
+- ad-creative
+- performance-creative
+- creative-testing
+- creative-fatigue
+- meta-ads
+- tiktok-ads
+- roas
+- ai-generated-ads
+category: marketing
 source:
   path: /packages/skills-catalog/skills/(gtm)/paid-creative-ai
   repo: tech-leads-club/agent-skills

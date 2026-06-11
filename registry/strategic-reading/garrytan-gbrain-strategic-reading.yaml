@@ -6,8 +6,15 @@ description: Read a book, article, transcript, or case study through the lens of
 authors:
 - garrytan
 is_official: false
-tags: []
-category: none
+tags:
+- strategic-thinking
+- reading
+- book-analysis
+- applied-learning
+- strategy
+- planning
+- recommendations
+category: productivity
 source:
   path: /skills/strategic-reading
   repo: garrytan/gbrain

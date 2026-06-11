@@ -1,5 +1,5 @@
 id: huifer-Claude-Ally-Health-wellally-tech
-display_name: Wellally Tech
+display_name: WellAlly Health Integration
 description: Integrate digital health data sources (Apple Health, Fitbit, Oura Ring) and connect to WellAlly.tech knowledge
   base. Import external health device data, standardize to local format, and recommend relevant WellAlly.tech knowledge base
   articles based on health data. Support generic CSV/JSON import, provide intelligent article recommendations, and help users
@@ -7,8 +7,16 @@ description: Integrate digital health data sources (Apple Health, Fitbit, Oura R
 authors:
 - huifer
 is_official: false
-tags: []
-category: none
+tags:
+- apple-health
+- fitbit
+- oura-ring
+- health-data-import
+- csv-json
+- wearables
+- health-recommendations
+- data-standardization
+category: health
 source:
   path: /skills/wellally-tech
   repo: huifer/Claude-Ally-Health

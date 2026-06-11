@@ -4,8 +4,14 @@ description: OWASP security patterns, secrets management, security testing
 authors:
 - alinaqi
 is_official: false
-tags: []
-category: none
+tags:
+- owasp
+- security
+- secrets-management
+- security-testing
+- application-security
+- vulnerability
+category: coding
 source:
   path: /skills/security
   repo: alinaqi/maggy

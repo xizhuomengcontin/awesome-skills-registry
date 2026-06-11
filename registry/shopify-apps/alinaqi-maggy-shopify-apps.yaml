@@ -4,8 +4,14 @@ description: Shopify app development - Remix, Admin API, checkout extensions
 authors:
 - alinaqi
 is_official: false
-tags: []
-category: none
+tags:
+- shopify
+- remix
+- admin-api
+- checkout-extensions
+- ecommerce
+- app-development
+category: coding
 source:
   path: /skills/shopify-apps
   repo: alinaqi/maggy

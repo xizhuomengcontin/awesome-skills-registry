@@ -7,8 +7,16 @@ description: Production-ready reinforcement learning algorithms (PPO, SAC, DQN, 
 authors:
 - K-Dense-AI
 is_official: false
-tags: []
-category: none
+tags:
+- reinforcement-learning
+- stable-baselines3
+- ppo
+- dqn
+- gymnasium
+- machine-learning
+- python
+- rl-algorithms
+category: science
 source:
   path: /skills/stable-baselines3
   repo: K-Dense-AI/claude-scientific-skills

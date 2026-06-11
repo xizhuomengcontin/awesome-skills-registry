@@ -5,8 +5,15 @@ description: 'Run multi-touch attribution analysis. Use when: first/last-touch, 
 authors:
 - indranilbanerjee
 is_official: false
-tags: []
-category: none
+tags:
+- attribution
+- multi-touch
+- revenue-allocation
+- first-touch
+- last-touch
+- time-decay
+- analytics
+category: marketing
 source:
   path: /skills/attribution-report
   repo: indranilbanerjee/digital-marketing-pro

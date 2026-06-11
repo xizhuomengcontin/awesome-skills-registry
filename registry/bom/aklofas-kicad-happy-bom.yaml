@@ -1,5 +1,5 @@
 id: aklofas-kicad-happy-bom
-display_name: Bom
+display_name: Electronics BOM Manager
 description: BOM (Bill of Materials) management for electronics projects — the primary orchestrator skill that coordinates
   DigiKey, Mouser, LCSC, element14, JLCPCB, PCBWay, and KiCad skills into a unified workflow. Create, update, and maintain
   BOMs with part numbers, costs, quantities stored as KiCad symbol properties. ALWAYS trigger this skill for any task involving
@@ -11,8 +11,16 @@ description: BOM (Bill of Materials) management for electronics projects — the
 authors:
 - aklofas
 is_official: false
-tags: []
-category: none
+tags:
+- bom
+- electronics
+- kicad
+- component-sourcing
+- digikey
+- mouser
+- jlcpcb
+- pcb-design
+category: coding
 source:
   path: /skills/bom
   repo: aklofas/kicad-happy

@@ -4,8 +4,14 @@ description: 'Engineer growth loops. Use when: building referral programs, viral
 authors:
 - indranilbanerjee
 is_official: false
-tags: []
-category: none
+tags:
+- growth-hacking
+- referral-programs
+- viral-loops
+- product-led-growth
+- growth-loops
+- user-acquisition
+category: marketing
 source:
   path: /skills/growth-engineering
   repo: indranilbanerjee/digital-marketing-pro

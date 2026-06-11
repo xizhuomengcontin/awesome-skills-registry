@@ -6,8 +6,15 @@ description: Create publication-quality scientific diagrams using Nano Banana 2 
 authors:
 - K-Dense-AI
 is_official: false
-tags: []
-category: none
+tags:
+- scientific-diagrams
+- neural-network-viz
+- flowcharts
+- biological-pathways
+- publication-figures
+- ai-generated-diagrams
+- system-diagrams
+category: science
 source:
   path: /skills/scientific-schematics
   repo: K-Dense-AI/claude-scientific-skills

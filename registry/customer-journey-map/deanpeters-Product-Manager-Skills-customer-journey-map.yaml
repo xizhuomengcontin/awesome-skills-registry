@@ -5,8 +5,14 @@ description: Create a customer journey map across stages, touchpoints, actions, 
 authors:
 - deanpeters
 is_official: false
-tags: []
-category: none
+tags:
+- customer-journey
+- ux
+- touchpoints
+- experience-mapping
+- product-management
+- user-emotions
+category: business
 source:
   path: /skills/customer-journey-map
   repo: deanpeters/Product-Manager-Skills

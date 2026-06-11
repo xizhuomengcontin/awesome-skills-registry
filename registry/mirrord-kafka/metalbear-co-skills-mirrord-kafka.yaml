@@ -9,8 +9,16 @@ description: Helps DevOps engineers configure mirrord Operator's Kafka queue spl
 authors:
 - metalbear-co
 is_official: true
-tags: []
-category: none
+tags:
+- mirrord
+- kafka
+- queue-splitting
+- kubernetes-crd
+- devops
+- helm
+- message-queues
+- operator
+category: coding
 source:
   path: /skills/mirrord-kafka
   repo: metalbear-co/skills

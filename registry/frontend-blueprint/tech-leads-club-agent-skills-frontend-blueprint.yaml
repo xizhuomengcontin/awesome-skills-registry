@@ -10,8 +10,16 @@ description: AI frontend specialist and design consultant that guides users thro
 authors:
 - tech-leads-club
 is_official: false
-tags: []
-category: none
+tags:
+- frontend
+- ui-design
+- design-tokens
+- landing-page
+- dashboard
+- component-design
+- brand-guidelines
+- discovery
+category: design
 source:
   path: /packages/skills-catalog/skills/(architecture)/frontend-blueprint
   repo: tech-leads-club/agent-skills

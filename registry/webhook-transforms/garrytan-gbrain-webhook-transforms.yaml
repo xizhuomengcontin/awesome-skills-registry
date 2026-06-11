@@ -5,8 +5,15 @@ description: Generic framework for converting external events (SMS, meetings, so
 authors:
 - garrytan
 is_official: false
-tags: []
-category: none
+tags:
+- webhook
+- event-processing
+- sms
+- pipeline
+- integration
+- signal-processing
+- automation
+category: productivity
 source:
   path: /skills/webhook-transforms
   repo: garrytan/gbrain

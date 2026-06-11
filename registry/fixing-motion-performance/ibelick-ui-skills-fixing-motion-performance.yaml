@@ -5,8 +5,15 @@ description: Audit and fix animation performance issues including layout thrashi
 authors:
 - ibelick
 is_official: false
-tags: []
-category: none
+tags:
+- animation-performance
+- css-animation
+- layout-thrashing
+- compositor
+- scroll-performance
+- web-performance
+- ui-optimization
+category: coding
 source:
   path: /skills/fixing-motion-performance
   repo: ibelick/ui-skills

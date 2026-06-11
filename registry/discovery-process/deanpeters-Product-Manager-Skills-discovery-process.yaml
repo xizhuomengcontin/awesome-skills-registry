@@ -5,8 +5,14 @@ description: Run a full discovery cycle from problem hypothesis to validated sol
 authors:
 - deanpeters
 is_official: false
-tags: []
-category: none
+tags:
+- product-discovery
+- product-management
+- user-research
+- hypothesis-validation
+- product-strategy
+- experiment-design
+category: business
 source:
   path: /skills/discovery-process
   repo: deanpeters/Product-Manager-Skills

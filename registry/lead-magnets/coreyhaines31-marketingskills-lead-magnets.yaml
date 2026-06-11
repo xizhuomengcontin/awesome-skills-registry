@@ -9,8 +9,16 @@ description: When the user wants to create, plan, or optimize a lead magnet for 
 authors:
 - coreyhaines31
 is_official: false
-tags: []
-category: none
+tags:
+- lead-magnets
+- email-capture
+- gated-content
+- opt-in
+- content-offers
+- lead-generation
+- ebook
+- downloadables
+category: marketing
 source:
   path: /skills/lead-magnets
   repo: coreyhaines31/marketingskills

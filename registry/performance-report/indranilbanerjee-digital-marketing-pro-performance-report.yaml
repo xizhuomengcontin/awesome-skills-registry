@@ -1,11 +1,16 @@
 id: indranilbanerjee-digital-marketing-pro-performance-report
-display_name: Performance Report
+display_name: Marketing Performance Report
 description: 'Generate performance reports. Use when: tracking KPIs, trend analysis, anomaly detection, and actionable recommendations.'
 authors:
 - indranilbanerjee
 is_official: false
-tags: []
-category: none
+tags:
+- kpi-reporting
+- trend-analysis
+- anomaly-detection
+- marketing-analytics
+- performance-dashboard
+category: marketing
 source:
   path: /skills/performance-report
   repo: indranilbanerjee/digital-marketing-pro

@@ -7,8 +7,14 @@ description: Use the Figma MCP server to fetch design context, screenshots, vari
 authors:
 - tech-leads-club
 is_official: false
-tags: []
-category: none
+tags:
+- figma
+- mcp
+- design-to-code
+- design-assets
+- design-variables
+- figma-api
+category: design
 source:
   path: /packages/skills-catalog/skills/(design)/figma
   repo: tech-leads-club/agent-skills

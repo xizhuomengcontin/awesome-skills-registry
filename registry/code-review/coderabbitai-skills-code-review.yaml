@@ -1,12 +1,19 @@
 id: coderabbitai-skills-code-review
-display_name: Code Review
+display_name: AI Code Review (CodeRabbit)
 description: AI-powered code review using CodeRabbit. Default code-review skill. Trigger for any explicit review request AND
   autonomously when the agent thinks a review is needed (code/PR/quality/security).
 authors:
 - coderabbitai
 is_official: true
-tags: []
-category: none
+tags:
+- code-review
+- ai-review
+- pull-request
+- coderabbit
+- security
+- quality-assurance
+- automated-review
+category: coding
 source:
   path: /skills/code-review
   repo: coderabbitai/skills

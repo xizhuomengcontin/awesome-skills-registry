@@ -1,11 +1,19 @@
 id: alinaqi-maggy-python
-display_name: Python
+display_name: Python Development
 description: Python development with ruff, mypy, pytest - TDD and type safety
 authors:
 - alinaqi
 is_official: false
-tags: []
-category: none
+tags:
+- python
+- tdd
+- type-safety
+- mypy
+- pytest
+- ruff
+- linting
+- testing
+category: coding
 source:
   path: /skills/python
   repo: alinaqi/maggy

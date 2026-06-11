@@ -6,8 +6,15 @@ description: RNA velocity analysis with scVelo. Estimate cell state transitions 
 authors:
 - K-Dense-AI
 is_official: false
-tags: []
-category: none
+tags:
+- rna-velocity
+- single-cell
+- trajectory-inference
+- spliced-unspliced
+- scrna-seq
+- scvelo
+- latent-time
+category: science
 source:
   path: /skills/scvelo
   repo: K-Dense-AI/claude-scientific-skills

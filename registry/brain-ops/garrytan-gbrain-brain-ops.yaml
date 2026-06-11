@@ -5,8 +5,15 @@ description: 'Brain knowledge base operations. The core read/write cycle: brain-
 authors:
 - garrytan
 is_official: false
-tags: []
-category: none
+tags:
+- knowledge-base
+- read-write
+- note-taking
+- back-linking
+- source-attribution
+- personal-kb
+- brain-management
+category: productivity
 source:
   path: /skills/brain-ops
   repo: garrytan/gbrain

@@ -4,8 +4,13 @@ description: 'Manage PR crises. Use when: reputational threat emerges, need stak
 authors:
 - indranilbanerjee
 is_official: false
-tags: []
-category: none
+tags:
+- pr-crisis
+- reputation-management
+- stakeholder-messaging
+- crisis-communication
+- brand-protection
+category: marketing
 source:
   path: /skills/crisis-response
   repo: indranilbanerjee/digital-marketing-pro

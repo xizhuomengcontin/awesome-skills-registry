@@ -1,13 +1,20 @@
 id: anthropics-skills-brand-guidelines
-display_name: Brand Guidelines
+display_name: Anthropic Brand Guidelines
 description: Applies Anthropic's official brand colors and typography to any sort of artifact that may benefit from having
   Anthropic's look-and-feel. Use it when brand colors or style guidelines, visual formatting, or company design standards
   apply.
 authors:
 - anthropics
 is_official: true
-tags: []
-category: none
+tags:
+- brand-guidelines
+- anthropic
+- color-palette
+- typography
+- visual-identity
+- style-guide
+- formatting
+category: design
 source:
   path: /skills/brand-guidelines
   repo: anthropics/skills

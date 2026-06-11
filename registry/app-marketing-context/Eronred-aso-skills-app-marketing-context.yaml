@@ -6,8 +6,14 @@ description: When the user wants to create or update their app marketing context
 authors:
 - Eronred
 is_official: false
-tags: []
-category: none
+tags:
+- app-marketing
+- marketing-brief
+- app-positioning
+- aso
+- context-document
+- mobile-marketing
+category: marketing
 source:
   path: /skills/app-marketing-context
   repo: Eronred/aso-skills

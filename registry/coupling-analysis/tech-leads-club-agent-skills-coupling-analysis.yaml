@@ -7,8 +7,14 @@ description: Analyzes coupling between modules using the three-dimensional model
 authors:
 - tech-leads-club
 is_official: false
-tags: []
-category: none
+tags:
+- coupling-analysis
+- software-architecture
+- module-dependencies
+- architectural-health
+- decoupling
+- code-quality
+category: coding
 source:
   path: /packages/skills-catalog/skills/(architecture)/coupling-analysis
   repo: tech-leads-club/agent-skills

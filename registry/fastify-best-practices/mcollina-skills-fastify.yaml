@@ -9,8 +9,16 @@ description: 'Guides development of Fastify Node.js backend servers and REST API
 authors:
 - mcollina
 is_official: false
-tags: []
-category: none
+tags:
+- fastify
+- nodejs
+- rest-api
+- typescript
+- backend
+- web-server
+- plugins
+- pino
+category: coding
 source:
   path: /skills/fastify
   repo: mcollina/skills

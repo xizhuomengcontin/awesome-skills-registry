@@ -1,11 +1,17 @@
 id: alinaqi-maggy-llm-patterns
-display_name: Llm Patterns
+display_name: LLM Patterns
 description: AI-first application patterns, LLM testing, prompt management
 authors:
 - alinaqi
 is_official: false
-tags: []
-category: none
+tags:
+- llm
+- prompt-management
+- ai-patterns
+- testing
+- application-design
+- prompt-engineering
+category: data-ai
 source:
   path: /skills/llm-patterns
   repo: alinaqi/maggy

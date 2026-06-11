@@ -5,8 +5,14 @@ description: 'Generate quality trends report. Use when: reviewing eval scores ov
 authors:
 - indranilbanerjee
 is_official: false
-tags: []
-category: none
+tags:
+- quality-report
+- eval-scores
+- content-performance
+- regression-alerts
+- analytics
+- reporting
+category: marketing
 source:
   path: /skills/quality-report
   repo: indranilbanerjee/digital-marketing-pro

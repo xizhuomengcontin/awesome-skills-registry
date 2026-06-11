@@ -1,5 +1,5 @@
 id: lawvable-awesome-legal-skills-outlook-emails-lawvable
-display_name: Outlook Emails Lawvable
+display_name: Outlook Emails (Lawvable)
 description: Read, search, and download emails and attachments from Microsoft Outlook via OAuth2. Use when the user asks to
   (1) check, read, or fetch emails or messages from Outlook, (2) search emails by keyword, sender, or subject, (3) download
   email attachments such as contracts, NDAs, or documents, (4) chain email content into other skills (e.g. "read the latest
@@ -7,8 +7,16 @@ description: Read, search, and download emails and attachments from Microsoft Ou
 authors:
 - lawvable
 is_official: false
-tags: []
-category: none
+tags:
+- email
+- microsoft-outlook
+- office-365
+- oauth2
+- email-search
+- attachment-download
+- exchange
+- document-retrieval
+category: productivity
 source:
   path: /skills/outlook-emails-lawvable
   repo: lawvable/awesome-legal-skills

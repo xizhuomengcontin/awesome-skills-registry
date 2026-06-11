@@ -8,8 +8,16 @@ description: Complete Shopify development reference covering Liquid templating, 
 authors:
 - tech-leads-club
 is_official: false
-tags: []
-category: none
+tags:
+- shopify
+- liquid
+- hydrogen
+- graphql
+- theme-development
+- storefront-api
+- shopify-functions
+- ecommerce
+category: coding
 source:
   path: /packages/skills-catalog/skills/(development)/shopify-developer
   repo: tech-leads-club/agent-skills

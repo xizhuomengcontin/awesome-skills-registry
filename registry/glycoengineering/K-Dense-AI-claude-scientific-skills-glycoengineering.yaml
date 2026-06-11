@@ -6,8 +6,15 @@ description: Analyze and engineer protein glycosylation. Scan sequences for N-gl
 authors:
 - K-Dense-AI
 is_official: false
-tags: []
-category: none
+tags:
+- glycosylation
+- protein-engineering
+- n-glycosylation
+- o-glycosylation
+- bioinformatics
+- therapeutic-antibodies
+- vaccine-design
+category: science
 source:
   path: /skills/glycoengineering
   repo: K-Dense-AI/claude-scientific-skills

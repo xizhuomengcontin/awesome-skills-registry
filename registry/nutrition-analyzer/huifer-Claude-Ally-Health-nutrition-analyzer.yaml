@@ -4,8 +4,15 @@ description: 分析营养数据、识别营养模式、评估营养状况，并�
 authors:
 - huifer
 is_official: false
-tags: []
-category: none
+tags:
+- nutrition
+- dietary-analysis
+- health-tracking
+- personalized-recommendations
+- chronic-disease
+- exercise-correlation
+- wellness
+category: health
 source:
   path: /skills/nutrition-analyzer
   repo: huifer/Claude-Ally-Health

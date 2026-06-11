@@ -6,8 +6,15 @@ description: When the user wants to design or optimize their app's monetization 
 authors:
 - Eronred
 is_official: false
-tags: []
-category: none
+tags:
+- monetization
+- pricing-strategy
+- paywalls
+- subscriptions
+- in-app-purchases
+- revenue-optimization
+- app-business
+category: business
 source:
   path: /skills/monetization-strategy
   repo: Eronred/aso-skills

@@ -1,5 +1,5 @@
 id: lawvable-awesome-legal-skills-mediation-dispute-analysis-jinzhe-tan
-display_name: Mediation Dispute Analysis Jinzhe Tan
+display_name: Mediation Dispute Analysis
 description: 'Use this skill whenever a lawyer or mediator needs help analyzing a dispute for mediation purposes. This includes:
   reviewing case materials (pleadings, contracts, correspondence, evidence) to identify issues in dispute, summarizing each
   party''s position and interests, conducting legal analysis of the key issues, proposing mediation strategies or settlement
@@ -13,8 +13,16 @@ description: 'Use this skill whenever a lawyer or mediator needs help analyzing 
 authors:
 - lawvable
 is_official: false
-tags: []
-category: none
+tags:
+- mediation
+- dispute-resolution
+- adr
+- settlement-strategy
+- case-analysis
+- party-positions
+- conflict-resolution
+- legal-brief
+category: legal
 source:
   path: /skills/mediation-dispute-analysis-jinzhe-tan
   repo: lawvable/awesome-legal-skills

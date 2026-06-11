@@ -6,8 +6,14 @@ description: 'Compress an agent''s routing file (RESOLVER.md or AGENTS.md) by co
 authors:
 - garrytan
 is_official: false
-tags: []
-category: none
+tags:
+- routing
+- agent-orchestration
+- skill-dispatch
+- compression
+- resolver
+- llm-ops
+category: productivity
 source:
   path: /skills/functional-area-resolver
   repo: garrytan/gbrain

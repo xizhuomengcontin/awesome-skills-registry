@@ -1,13 +1,21 @@
 id: K-Dense-AI-claude-scientific-skills-histolab
-display_name: Histolab
+display_name: Histolab WSI Processing
 description: Lightweight WSI tile extraction and preprocessing. Use for basic slide processing, tissue detection, tile extraction,
   and stain normalization for H&E images. Best for simple pipelines, dataset preparation, and quick tile-based analysis. For
   advanced spatial proteomics, multiplexed imaging, or deep learning pipelines use pathml.
 authors:
 - K-Dense-AI
 is_official: false
-tags: []
-category: none
+tags:
+- whole-slide-imaging
+- histology
+- tile-extraction
+- stain-normalization
+- h-and-e
+- pathology
+- image-preprocessing
+- bioinformatics
+category: science
 source:
   path: /skills/histolab
   repo: K-Dense-AI/claude-scientific-skills

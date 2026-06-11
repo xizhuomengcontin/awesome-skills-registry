@@ -1,11 +1,18 @@
 id: alinaqi-maggy-reddit-api
-display_name: Reddit Api
+display_name: Reddit API
 description: Reddit API with PRAW (Python) and Snoowrap (Node.js)
 authors:
 - alinaqi
 is_official: false
-tags: []
-category: none
+tags:
+- reddit-api
+- praw
+- snoowrap
+- python
+- nodejs
+- social-media-api
+- web-scraping
+category: coding
 source:
   path: /skills/reddit-api
   repo: alinaqi/maggy

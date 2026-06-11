@@ -5,8 +5,15 @@ description: 'Generate platform-specific ad copy. Use when: Google RSA, Meta, Li
 authors:
 - indranilbanerjee
 is_official: false
-tags: []
-category: none
+tags:
+- ad-copy
+- google-ads
+- meta-ads
+- linkedin-ads
+- tiktok-ads
+- creative-generation
+- platform-specific
+category: marketing
 source:
   path: /skills/ad-creative
   repo: indranilbanerjee/digital-marketing-pro

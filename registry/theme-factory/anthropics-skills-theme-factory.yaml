@@ -6,8 +6,16 @@ description: Toolkit for styling artifacts with a theme. These artifacts can be 
 authors:
 - anthropics
 is_official: true
-tags: []
-category: none
+tags:
+- theming
+- styling
+- color-palette
+- typography
+- slides
+- landing-page
+- html
+- artifacts
+category: design
 source:
   path: /skills/theme-factory
   repo: anthropics/skills

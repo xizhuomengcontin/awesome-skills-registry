@@ -1,5 +1,5 @@
 id: anthropics-skills-claude-api
-display_name: Claude Api
+display_name: Claude API
 description: 'Build, debug, and optimize Claude API / Anthropic SDK apps. Apps built with this skill should include prompt
   caching. Also handles migrating existing Claude API code between Claude model versions (4.5 → 4.6, 4.6 → 4.7, retired-model
   replacements). TRIGGER when: code imports `anthropic`/`@anthropic-ai/sdk`; user asks for the Claude API, Anthropic SDK,
@@ -10,8 +10,15 @@ description: 'Build, debug, and optimize Claude API / Anthropic SDK apps. Apps b
 authors:
 - anthropics
 is_official: true
-tags: []
-category: none
+tags:
+- claude-api
+- anthropic-sdk
+- prompt-caching
+- llm-integration
+- tool-use
+- model-migration
+- ai-development
+category: coding
 source:
   path: /skills/claude-api
   repo: anthropics/skills

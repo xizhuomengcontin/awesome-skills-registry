@@ -1,11 +1,18 @@
 id: indranilbanerjee-digital-marketing-pro-content-brief
-display_name: Content Brief
+display_name: Content Brief Creator
 description: 'Create detailed content briefs. Use when: keyword targets, outline, structure, voice guidelines, SEO requirements.'
 authors:
 - indranilbanerjee
 is_official: false
-tags: []
-category: none
+tags:
+- content-brief
+- seo
+- keyword-targeting
+- content-strategy
+- copywriting
+- editorial-guidelines
+- content-planning
+category: marketing
 source:
   path: /skills/content-brief
   repo: indranilbanerjee/digital-marketing-pro

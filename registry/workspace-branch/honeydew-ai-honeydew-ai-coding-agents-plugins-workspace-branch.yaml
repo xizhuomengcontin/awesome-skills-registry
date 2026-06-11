@@ -7,8 +7,15 @@ description: Use when setting up workspace and branch context, switching workspa
 authors:
 - honeydew-ai
 is_official: true
-tags: []
-category: none
+tags:
+- git
+- branch-management
+- pull-request
+- workspace
+- version-control
+- honeydew
+- devops
+category: coding
 source:
   path: /skills/workspace-branch
   repo: honeydew-ai/honeydew-ai-coding-agents-plugins

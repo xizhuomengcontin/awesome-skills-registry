@@ -1,5 +1,5 @@
 id: coreyhaines31-marketingskills-video
-display_name: Video
+display_name: AI Video Production
 description: When the user wants to create, generate, or produce video content using AI tools or programmatic frameworks.
   Also use when the user mentions 'video production,' 'AI video,' 'Remotion,' 'Hyperframes,' 'HeyGen,' 'Synthesia,' 'Veo,'
   'Sora,' 'Runway,' 'Kling,' 'Seedance,' 'Hailuo,' 'MiniMax,' 'Pika,' 'Hunyuan,' 'Wan,' 'video generation,' 'AI avatar,' 'talking
@@ -9,8 +9,16 @@ description: When the user wants to create, generate, or produce video content u
 authors:
 - coreyhaines31
 is_official: false
-tags: []
-category: none
+tags:
+- video-generation
+- ai-video
+- video-production
+- remotion
+- heygen
+- sora
+- runway
+- programmatic-video
+category: creative
 source:
   path: /skills/video
   repo: coreyhaines31/marketingskills

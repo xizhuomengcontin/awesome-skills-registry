@@ -6,8 +6,16 @@ description: Audit and improve web accessibility following WCAG 2.1 guidelines. 
 authors:
 - tech-leads-club
 is_official: false
-tags: []
-category: none
+tags:
+- accessibility
+- wcag
+- a11y
+- screen-reader
+- keyboard-navigation
+- web-audit
+- compliance
+- front-end
+category: coding
 source:
   path: /packages/skills-catalog/skills/(quality)/web-accessibility
   repo: tech-leads-club/agent-skills

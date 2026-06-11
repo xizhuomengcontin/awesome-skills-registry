@@ -6,8 +6,16 @@ description: Map computational materials tasks onto workflow engines such as ato
 authors:
 - HeshamFS
 is_official: false
-tags: []
-category: none
+tags:
+- materials-science
+- workflow-automation
+- atomate2
+- aiida
+- computational-chemistry
+- dag
+- provenance
+- reproducibility
+category: science
 source:
   path: /skills/simulation-workflow/workflow-engine-mapper
   repo: HeshamFS/materials-simulation-skills

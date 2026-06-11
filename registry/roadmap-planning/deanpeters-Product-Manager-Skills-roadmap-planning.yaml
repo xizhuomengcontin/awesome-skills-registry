@@ -5,8 +5,15 @@ description: Plan a strategic roadmap across prioritization, epic definition, st
 authors:
 - deanpeters
 is_official: false
-tags: []
-category: none
+tags:
+- roadmap
+- product-management
+- prioritization
+- epic-definition
+- stakeholder-alignment
+- release-planning
+- strategy
+category: productivity
 source:
   path: /skills/roadmap-planning
   repo: deanpeters/Product-Manager-Skills

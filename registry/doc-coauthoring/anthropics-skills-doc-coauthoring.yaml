@@ -7,8 +7,15 @@ description: Guide users through a structured workflow for co-authoring document
 authors:
 - anthropics
 is_official: true
-tags: []
-category: none
+tags:
+- documentation
+- technical-writing
+- coauthoring
+- proposals
+- specs
+- structured-content
+- collaboration
+category: productivity
 source:
   path: /skills/doc-coauthoring
   repo: anthropics/skills

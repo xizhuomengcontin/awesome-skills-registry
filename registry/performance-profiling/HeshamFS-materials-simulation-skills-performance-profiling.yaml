@@ -1,5 +1,5 @@
 id: HeshamFS-materials-simulation-skills-performance-profiling
-display_name: Performance Profiling
+display_name: Simulation Performance Profiling
 description: Identify computational bottlenecks, analyze parallel scaling, estimate memory requirements, and generate optimization
   recommendations for materials simulations — parse timing logs to find dominant phases (solver, assembly, I/O), evaluate
   strong and weak scaling efficiency, profile memory from mesh and field parameters, and detect bottlenecks with actionable
@@ -9,8 +9,16 @@ description: Identify computational bottlenecks, analyze parallel scaling, estim
 authors:
 - HeshamFS
 is_official: false
-tags: []
-category: none
+tags:
+- hpc
+- performance-profiling
+- parallel-scaling
+- mpi
+- memory-profiling
+- materials-simulation
+- bottleneck-analysis
+- optimization
+category: science
 source:
   path: /skills/simulation-workflow/performance-profiling
   repo: HeshamFS/materials-simulation-skills

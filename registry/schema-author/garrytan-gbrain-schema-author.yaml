@@ -6,8 +6,15 @@ description: Evolve your brain's schema pack. Add page types, propose new ones f
 authors:
 - garrytan
 is_official: false
-tags: []
-category: none
+tags:
+- knowledge-graph
+- schema-design
+- page-types
+- taxonomy
+- entity-typing
+- knowledge-base
+- ontology
+category: data-ai
 source:
   path: /skills/schema-author
   repo: garrytan/gbrain

@@ -1,12 +1,18 @@
 id: bitwize-music-studio-claude-ai-music-skills-researchers-tech
-display_name: Researchers Tech
+display_name: Tech Researcher
 description: Researches project histories, changelogs, developer interviews, and open source documentation. Use when the album
   subject involves technology projects or developer stories.
 authors:
 - bitwize-music-studio
 is_official: false
-tags: []
-category: none
+tags:
+- tech-research
+- open-source
+- developer-stories
+- changelogs
+- music-production
+- technology-history
+category: creative
 source:
   path: /skills/researchers-tech
   repo: bitwize-music-studio/claude-ai-music-skills

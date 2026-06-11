@@ -1,5 +1,5 @@
 id: K-Dense-AI-claude-scientific-skills-optimize-for-gpu
-display_name: Optimize For Gpu
+display_name: Optimize for GPU
 description: GPU-accelerate Python code using CuPy, Numba CUDA, Warp, cuDF, cuML, cuGraph, KvikIO, cuCIM, cuxfilter, cuVS,
   cuSpatial, and RAFT. Use whenever the user mentions GPU/CUDA/NVIDIA acceleration, or wants to speed up NumPy, pandas, scikit-learn,
   scikit-image, NetworkX, GeoPandas, or Faiss workloads. Covers physics simulation, differentiable rendering, mesh ray casting,
@@ -9,8 +9,16 @@ description: GPU-accelerate Python code using CuPy, Numba CUDA, Warp, cuDF, cuML
 authors:
 - K-Dense-AI
 is_official: false
-tags: []
-category: none
+tags:
+- gpu
+- cuda
+- python
+- cupy
+- numba
+- performance-optimization
+- parallel-computing
+- nvidia
+category: coding
 source:
   path: /skills/optimize-for-gpu
   repo: K-Dense-AI/claude-scientific-skills

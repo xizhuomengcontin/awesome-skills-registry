@@ -4,8 +4,14 @@ description: 'Set up or update a brand profile. Use when: new brand onboarding, 
 authors:
 - indranilbanerjee
 is_official: false
-tags: []
-category: none
+tags:
+- brand-profile
+- onboarding
+- client-setup
+- brand-management
+- context
+- digital-marketing
+category: marketing
 source:
   path: /skills/brand-setup
   repo: indranilbanerjee/digital-marketing-pro

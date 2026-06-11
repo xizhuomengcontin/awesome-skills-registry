@@ -5,8 +5,16 @@ description: High-performance genomic interval operations and bioinformatics fil
 authors:
 - K-Dense-AI
 is_official: false
-tags: []
-category: none
+tags:
+- bioinformatics
+- genomics
+- polars
+- bed-vcf-bam
+- interval-operations
+- cloud-native
+- streaming
+- high-performance
+category: science
 source:
   path: /skills/polars-bio
   repo: K-Dense-AI/claude-scientific-skills

@@ -4,8 +4,14 @@ description: User experience flows - journey mapping, UX validation, error recov
 authors:
 - alinaqi
 is_official: false
-tags: []
-category: none
+tags:
+- user-journey
+- ux-design
+- journey-mapping
+- error-recovery
+- ux-validation
+- experience-design
+category: design
 source:
   path: /skills/user-journeys
   repo: alinaqi/maggy

@@ -1,11 +1,17 @@
 id: indranilbanerjee-digital-marketing-pro-import-sop
-display_name: Import Sop
+display_name: Import Agency SOPs
 description: 'Import agency SOPs. Use when: adding workflow definitions, approval processes, or launch checklists.'
 authors:
 - indranilbanerjee
 is_official: false
-tags: []
-category: none
+tags:
+- sop
+- workflow
+- approval-process
+- agency-operations
+- launch-checklist
+- process-management
+category: marketing
 source:
   path: /skills/import-sop
   repo: indranilbanerjee/digital-marketing-pro

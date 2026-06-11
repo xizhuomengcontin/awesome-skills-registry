@@ -6,8 +6,16 @@ description: UI patterns borrowed from the physical world feel immediately intui
 authors:
 - dembrandt
 is_official: false
-tags: []
-category: none
+tags:
+- ui-patterns
+- ux-design
+- interaction-design
+- navigation
+- gestures
+- layout
+- affordance
+- design-principles
+category: design
 source:
   path: /skills/real-world-metaphors
   repo: dembrandt/dembrandt-skills

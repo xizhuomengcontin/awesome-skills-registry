@@ -8,8 +8,15 @@ description: 'Strip AI-slop patterns from reasoning traces (chain-of-thought, ex
 authors:
 - MohamedAbdallah-14
 is_official: false
-tags: []
-category: none
+tags:
+- chain-of-thought
+- reasoning
+- text-editing
+- ai-writing
+- humanize-text
+- llm-output
+- thinking-traces
+category: creative
 source:
   path: /skills/unslop-reasoning
   repo: MohamedAbdallah-14/unslop

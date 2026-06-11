@@ -4,8 +4,15 @@ description: Reddit Ads API - campaigns, targeting, conversions, agentic optimiz
 authors:
 - alinaqi
 is_official: false
-tags: []
-category: none
+tags:
+- reddit-ads
+- paid-social
+- campaign-management
+- targeting
+- conversions
+- api-integration
+- ad-optimization
+category: marketing
 source:
   path: /skills/reddit-ads
   repo: alinaqi/maggy

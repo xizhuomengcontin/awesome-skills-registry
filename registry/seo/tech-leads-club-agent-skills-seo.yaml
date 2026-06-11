@@ -1,13 +1,19 @@
 id: tech-leads-club-agent-skills-seo
-display_name: Seo
+display_name: SEO
 description: Optimize for search engine visibility and ranking. Use when asked to "improve SEO", "optimize for search", "fix
   meta tags", "add structured data", "sitemap optimization", or "search engine optimization". Do NOT use for accessibility
   (use web-accessibility), performance (use core-web-vitals), or comprehensive site audits covering multiple areas (use web-quality-audit).
 authors:
 - tech-leads-club
 is_official: false
-tags: []
-category: none
+tags:
+- seo
+- meta-tags
+- structured-data
+- sitemap
+- search-optimization
+- ranking
+category: marketing
 source:
   path: /packages/skills-catalog/skills/(quality)/seo
   repo: tech-leads-club/agent-skills

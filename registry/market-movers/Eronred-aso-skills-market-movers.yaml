@@ -1,5 +1,5 @@
 id: Eronred-aso-skills-market-movers
-display_name: Market Movers
+display_name: App Store Market Movers
 description: When the user wants to track App Store chart rank changes, find top gainers and losers, detect breakout apps
   entering the top 100, or identify apps dropping out of charts. Also use when the user mentions "chart movers", "rank changes",
   "who's rising", "who's falling", "new chart entries", "top gainers", or "market shifts". For broader market overview, see
@@ -7,8 +7,14 @@ description: When the user wants to track App Store chart rank changes, find top
 authors:
 - Eronred
 is_official: false
-tags: []
-category: none
+tags:
+- app-store
+- aso
+- chart-rankings
+- market-intelligence
+- competitor-tracking
+- trending-apps
+category: marketing
 source:
   path: /skills/market-movers
   repo: Eronred/aso-skills
