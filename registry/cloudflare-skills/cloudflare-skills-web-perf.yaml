@@ -1,0 +1,25 @@
+id: cloudflare-skills-web-perf
+display_name: Web Performance Analyzer
+description: Analyzes web performance using Chrome DevTools MCP. Measures Core Web Vitals (LCP, INP, CLS) and supplementary
+  metrics (FCP, TBT, Speed Index), identifies render-blocking resources, network dependency chains, layout shifts, caching
+  issues, and accessibility gaps. Use when asked to audit, profile, debug, or optimize page load performance, Lighthouse scores,
+  or site speed. Biases towards retrieval from current documentation over pre-trained knowledge.
+authors:
+- cloudflare
+is_official: true
+tags:
+- web-performance
+- core-web-vitals
+- lighthouse
+- lcp
+- cls
+- inp
+- chrome-devtools
+- page-speed
+category: coding
+source:
+  path: /skills/web-perf
+  repo: cloudflare/skills
+metadata:
+  stars: 1759
+added_at: '2026-06-05'

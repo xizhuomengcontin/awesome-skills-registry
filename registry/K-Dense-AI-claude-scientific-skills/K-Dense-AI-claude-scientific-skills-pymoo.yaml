@@ -1,0 +1,21 @@
+id: K-Dense-AI-claude-scientific-skills-pymoo
+display_name: Pymoo Multi-Objective Optimization
+description: Multi-objective optimization framework. NSGA-II, NSGA-III, MOEA/D, Pareto fronts, constraint handling, benchmarks
+  (ZDT, DTLZ), for engineering design and optimization problems.
+authors:
+- K-Dense-AI
+is_official: false
+tags:
+- multi-objective-optimization
+- nsga-ii
+- pareto-front
+- evolutionary-algorithms
+- engineering-design
+- constraint-handling
+category: science
+source:
+  path: /skills/pymoo
+  repo: K-Dense-AI/claude-scientific-skills
+metadata:
+  stars: 28042
+added_at: '2026-06-05'

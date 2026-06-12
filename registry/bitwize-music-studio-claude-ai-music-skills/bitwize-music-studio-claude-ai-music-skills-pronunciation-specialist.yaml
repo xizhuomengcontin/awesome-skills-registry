@@ -1,0 +1,22 @@
+id: bitwize-music-studio-claude-ai-music-skills-pronunciation-specialist
+display_name: Lyrics Pronunciation Specialist
+description: Scans lyrics for pronunciation risks and prevents Suno mispronunciations. Use when writing lyrics with proper
+  nouns, technical terms, homographs, or non-English words.
+authors:
+- bitwize-music-studio
+is_official: false
+tags:
+- lyrics
+- pronunciation
+- suno
+- music-ai
+- text-to-speech
+- homographs
+- multilingual
+category: creative
+source:
+  path: /skills/pronunciation-specialist
+  repo: bitwize-music-studio/claude-ai-music-skills
+metadata:
+  stars: 251
+added_at: '2026-06-05'

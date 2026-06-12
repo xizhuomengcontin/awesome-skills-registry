@@ -1,0 +1,24 @@
+id: K-Dense-AI-claude-scientific-skills-research-grants
+display_name: Research Grants
+description: Write competitive research proposals for NSF, NIH, DOE, DARPA, and Taiwan NSTC. Agency-specific formatting, review
+  criteria, budget preparation, broader impacts, significance statements, innovation narratives, and compliance with submission
+  requirements.
+authors:
+- K-Dense-AI
+is_official: false
+tags:
+- grant-writing
+- nsf
+- nih
+- darpa
+- research-proposal
+- funding
+- scientific-writing
+- compliance
+category: science
+source:
+  path: /skills/research-grants
+  repo: K-Dense-AI/claude-scientific-skills
+metadata:
+  stars: 28042
+added_at: '2026-06-05'

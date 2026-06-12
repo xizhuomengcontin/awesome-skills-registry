@@ -1,0 +1,26 @@
+id: more-io-claude-apple-bridges-apple-bridges
+display_name: Apple Bridges
+description: Use this skill whenever the user asks about Apple apps — Reminders, Calendar, Contacts, Notes, Mail, or tmux
+  sessions. This includes creating/completing reminders, checking/adding calendar events, looking up contacts, reading/writing
+  notes, sending/reading email, and capturing tmux session content. Also use this skill when the user mentions tasks, todos,
+  scheduling, birthdays, free time slots, or end-of-day summaries. The bridges are CLI tools installed at ~/.claude/ that
+  give Claude Code native access to these Apple apps on macOS.
+authors:
+- more-io
+is_official: false
+tags:
+- apple-apps
+- reminders
+- calendar
+- contacts
+- notes
+- mail
+- macos
+- automation
+category: productivity
+source:
+  path: /skills/apple-bridges
+  repo: more-io/claude-apple-bridges
+metadata:
+  stars: 24
+added_at: '2026-06-05'

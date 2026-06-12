@@ -1,0 +1,22 @@
+id: bitwize-music-studio-claude-ai-music-skills-document-hunter
+display_name: Document Hunter
+description: Searches and retrieves documents from free public sources using automated browser navigation. Use when research
+  needs primary source documents like court filings, government reports, or public records.
+authors:
+- bitwize-music-studio
+is_official: false
+tags:
+- document-retrieval
+- public-records
+- research
+- web-scraping
+- court-filings
+- government-reports
+- browser-automation
+category: productivity
+source:
+  path: /skills/document-hunter
+  repo: bitwize-music-studio/claude-ai-music-skills
+metadata:
+  stars: 251
+added_at: '2026-06-05'

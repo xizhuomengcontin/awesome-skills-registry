@@ -1,0 +1,20 @@
+id: alinaqi-maggy-security
+display_name: Security
+description: OWASP security patterns, secrets management, security testing
+authors:
+- alinaqi
+is_official: false
+tags:
+- owasp
+- security
+- secrets-management
+- security-testing
+- application-security
+- vulnerability
+category: coding
+source:
+  path: /skills/security
+  repo: alinaqi/maggy
+metadata:
+  stars: 694
+added_at: '2026-06-05'

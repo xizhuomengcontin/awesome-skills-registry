@@ -1,0 +1,23 @@
+id: dembrandt-dembrandt-skills-ui-context-and-scope
+display_name: UI Context & Scope
+description: UI should make it immediately clear where the user is, what context they are operating in, and what their actions
+  will affect. Use lines, regions, colour areas, breadcrumbs, and scope labels to communicate hierarchy and context — especially
+  in deep navigation structures or multi-section layouts.
+authors:
+- dembrandt
+is_official: false
+tags:
+- ui-design
+- navigation
+- breadcrumbs
+- information-hierarchy
+- ux
+- layout
+- visual-design
+category: design
+source:
+  path: /skills/ui-context-and-scope
+  repo: dembrandt/dembrandt-skills
+metadata:
+  stars: 14
+added_at: '2026-06-05'

@@ -1,0 +1,26 @@
+id: aklofas-kicad-happy-jlcpcb
+display_name: JLCPCB
+description: JLCPCB PCB fabrication and assembly — BOM/CPL generation, basic vs extended parts, assembly constraints, design
+  rules, ordering workflow. Use with KiCad for JLCPCB manufacturing. Use this skill when the user mentions JLCPCB, wants to
+  order PCBs or assembled boards, needs prototype bare PCBs and stencils, wants to know JLCPCB design rules and capabilities,
+  or is asking about PCB manufacturing costs or turnaround times. For gerber/CPL export, stencil ordering, and BOM management,
+  see the `bom` skill.
+authors:
+- aklofas
+is_official: false
+tags:
+- jlcpcb
+- pcb-fabrication
+- pcb-assembly
+- bom
+- kicad
+- hardware
+- manufacturing
+- design-rules
+category: science
+source:
+  path: /skills/jlcpcb
+  repo: aklofas/kicad-happy
+metadata:
+  stars: 530
+added_at: '2026-06-05'

@@ -1,0 +1,23 @@
+id: HeshamFS-materials-simulation-skills-simulation-failure-triage
+display_name: Simulation Failure Triage
+description: Triage cross-code simulation failures and propose safe retry ladders for nonconvergence, NaN/Inf, exploding energies,
+  unstable timesteps, pressure blow-up, missing potentials, bad pseudopotentials, corrupted output, and incomplete runs. Use
+  when an agent sees a failed or suspicious materials simulation and needs a defensible first response.
+authors:
+- HeshamFS
+is_official: false
+tags:
+- simulation
+- failure-triage
+- materials-science
+- convergence
+- debugging
+- hpc
+- numerical-stability
+category: science
+source:
+  path: /skills/robustness/simulation-failure-triage
+  repo: HeshamFS/materials-simulation-skills
+metadata:
+  stars: 41
+added_at: '2026-06-05'

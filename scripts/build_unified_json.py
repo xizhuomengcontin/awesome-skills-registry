@@ -31,9 +31,21 @@ def collect_skills() -> list[dict]:
     return skills
 
 
+def _stars(skill: dict) -> int:
+    metadata = skill.get("metadata") or {}
+    if isinstance(metadata, dict):
+        try:
+            return int(metadata.get("stars", 0) or 0)
+        except (TypeError, ValueError):
+            return 0
+    return 0
+
+
 def main() -> None:
     skills = collect_skills()
-    skills.sort(key=lambda s: s.get("id", ""))
+    # Most popular source first (by GitHub stars), then stable by id so a
+    # source's skills stay grouped together.
+    skills.sort(key=lambda s: (-_stars(s), s.get("id", "")))
 
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
     json_text = json.dumps(skills, indent=2, ensure_ascii=False)

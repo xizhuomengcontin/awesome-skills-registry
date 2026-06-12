@@ -1,0 +1,21 @@
+id: garrytan-gbrain-voice-note-ingest
+display_name: Voice Note Ingest
+description: Ingest a voice note with exact-phrasing preservation (never paraphrased). Routes content to originals/, concepts/,
+  people/, companies/, ideas/, personal/, or voice-notes/ based on a decision tree. The user's exact words are the signal.
+authors:
+- garrytan
+is_official: false
+tags:
+- voice-notes
+- note-taking
+- content-routing
+- knowledge-management
+- transcription
+- personal-capture
+category: productivity
+source:
+  path: /skills/voice-note-ingest
+  repo: garrytan/gbrain
+metadata:
+  stars: 22403
+added_at: '2026-06-05'

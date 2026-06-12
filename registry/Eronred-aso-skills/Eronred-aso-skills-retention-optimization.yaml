@@ -1,0 +1,23 @@
+id: Eronred-aso-skills-retention-optimization
+display_name: Retention Optimization
+description: When the user wants to reduce churn, improve user engagement, or increase lifetime value. Also use when the user
+  mentions "retention", "churn", "users leaving", "engagement", "DAU/MAU", "user activation", or "why are users uninstalling".
+  For onboarding-specific issues, see app-launch. For monetization, see monetization-strategy.
+authors:
+- Eronred
+is_official: false
+tags:
+- user-retention
+- churn-reduction
+- engagement
+- dau-mau
+- lifetime-value
+- onboarding
+- mobile-app
+category: marketing
+source:
+  path: /skills/retention-optimization
+  repo: Eronred/aso-skills
+metadata:
+  stars: 1482
+added_at: '2026-06-05'

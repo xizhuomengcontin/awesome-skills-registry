@@ -1,0 +1,24 @@
+id: anthropics-skills-doc-coauthoring
+display_name: Doc Coauthoring
+description: Guide users through a structured workflow for co-authoring documentation. Use when user wants to write documentation,
+  proposals, technical specs, decision docs, or similar structured content. This workflow helps users efficiently transfer
+  context, refine content through iteration, and verify the doc works for readers. Trigger when user mentions writing docs,
+  creating proposals, drafting specs, or similar documentation tasks.
+authors:
+- anthropics
+is_official: true
+tags:
+- documentation
+- technical-writing
+- coauthoring
+- proposals
+- specs
+- structured-content
+- collaboration
+category: productivity
+source:
+  path: /skills/doc-coauthoring
+  repo: anthropics/skills
+metadata:
+  stars: 149805
+added_at: '2026-06-05'

@@ -1,0 +1,24 @@
+id: dembrandt-dembrandt-skills-status-colors-and-errors
+display_name: Status Colors and Errors
+description: Keep status and error colours minimal and consistent — too many semantic colours confuse users. Each colour must
+  mean exactly one thing. Errors should be recoverable, large failures must be prevented, and the UI should always give the
+  user a path forward. Use when designing status indicators, error states, form validation, alerts, or any feedback system.
+authors:
+- dembrandt
+is_official: false
+tags:
+- ui-design
+- error-states
+- color-system
+- status-indicators
+- form-validation
+- alerts
+- accessibility
+- feedback-ux
+category: design
+source:
+  path: /skills/status-colors-and-errors
+  repo: dembrandt/dembrandt-skills
+metadata:
+  stars: 14
+added_at: '2026-06-05'

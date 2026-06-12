@@ -1,0 +1,22 @@
+id: mattpocock-skills-diagnose
+display_name: Diagnose
+description: Disciplined diagnosis loop for hard bugs and performance regressions. Reproduce → minimise → hypothesise → instrument
+  → fix → regression-test. Use when user says "diagnose this" / "debug this", reports a bug, says something is broken/throwing/failing,
+  or describes a performance regression.
+authors:
+- mattpocock
+is_official: false
+tags:
+- debugging
+- bug-diagnosis
+- performance-regression
+- troubleshooting
+- code-fix
+- root-cause-analysis
+category: coding
+source:
+  path: /skills/engineering/diagnose
+  repo: mattpocock/skills
+metadata:
+  stars: 126573
+added_at: '2026-06-05'

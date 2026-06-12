@@ -1,0 +1,23 @@
+id: degausai-wonda-wonda-cli
+display_name: Wonda CLI
+description: Using the Wonda CLI to generate images, videos, music, and audio from the terminal — plus LinkedIn, Reddit, and
+  X/Twitter research and automation
+authors:
+- degausai
+is_official: false
+tags:
+- image-generation
+- video-generation
+- music-generation
+- cli
+- linkedin-automation
+- twitter-automation
+- reddit-research
+- media-creation
+category: creative
+source:
+  path: /skills/wonda-cli
+  repo: degausai/wonda
+metadata:
+  stars: 124
+added_at: '2026-06-05'

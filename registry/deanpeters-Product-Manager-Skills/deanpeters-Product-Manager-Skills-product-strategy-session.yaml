@@ -1,0 +1,22 @@
+id: deanpeters-Product-Manager-Skills-product-strategy-session
+display_name: Product Strategy Session
+description: Run an end-to-end product strategy session across positioning, discovery, and roadmap planning. Use when a team
+  needs validated direction before committing to execution.
+authors:
+- deanpeters
+is_official: false
+tags:
+- product-strategy
+- roadmap
+- positioning
+- discovery
+- product-management
+- workshop
+- planning
+category: business
+source:
+  path: /skills/product-strategy-session
+  repo: deanpeters/Product-Manager-Skills
+metadata:
+  stars: 5080
+added_at: '2026-06-05'

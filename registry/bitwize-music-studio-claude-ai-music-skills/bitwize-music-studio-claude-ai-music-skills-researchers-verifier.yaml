@@ -1,0 +1,21 @@
+id: bitwize-music-studio-claude-ai-music-skills-researchers-verifier
+display_name: Research Verifier
+description: Performs quality control, citation validation, and fact-checking before human review. Use after research is complete
+  to verify all sources and claims before production.
+authors:
+- bitwize-music-studio
+is_official: false
+tags:
+- fact-checking
+- citation-validation
+- quality-control
+- source-verification
+- music-production
+- editorial-review
+category: creative
+source:
+  path: /skills/researchers-verifier
+  repo: bitwize-music-studio/claude-ai-music-skills
+metadata:
+  stars: 251
+added_at: '2026-06-05'

@@ -1,0 +1,22 @@
+id: vercel-labs-agent-skills-writing-guidelines
+display_name: Writing Guidelines
+description: Review docs/prose for Writing Guidelines compliance. Use when asked to "review my docs", "check writing style",
+  "audit prose", "review docs voice and tone", or "check this page against the writing handbook".
+authors:
+- vercel-labs
+is_official: true
+tags:
+- writing
+- style-guide
+- documentation
+- voice-and-tone
+- prose-review
+- content-audit
+- technical-writing
+category: creative
+source:
+  path: /skills/writing-guidelines
+  repo: vercel-labs/agent-skills
+metadata:
+  stars: 27842
+added_at: '2026-06-05'

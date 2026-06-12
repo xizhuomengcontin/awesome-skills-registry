@@ -1,0 +1,28 @@
+id: tech-leads-club-agent-skills-frontend-blueprint
+display_name: Frontend Blueprint
+description: AI frontend specialist and design consultant that guides users through a structured discovery process before
+  generating any code. Collects visual references, design tokens, typography, icons, layout preferences, and brand guidelines
+  to ensure the final output matches the user's vision with high fidelity. Use when the user asks to build, design, create,
+  or improve any frontend interface — websites, landing pages, dashboards, components, apps, emails, forms, modals, or any
+  UI element. Also triggers on "build me a UI", "design a page", "create a component", "improve this layout", "make this look
+  better", "frontend", "interface", "redesign", or when the user provides mockups, screenshots, or design references. Do NOT
+  use for backend logic, API design, database schemas, or non-visual code tasks.
+authors:
+- tech-leads-club
+is_official: false
+tags:
+- frontend
+- ui-design
+- design-tokens
+- landing-page
+- dashboard
+- component-design
+- brand-guidelines
+- discovery
+category: design
+source:
+  path: /packages/skills-catalog/skills/(architecture)/frontend-blueprint
+  repo: tech-leads-club/agent-skills
+metadata:
+  stars: 4578
+added_at: '2026-06-05'

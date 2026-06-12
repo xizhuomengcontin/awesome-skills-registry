@@ -1,0 +1,25 @@
+id: takechanman1228-claude-ecom-ecom
+display_name: Ecommerce Store Review
+description: 'Claude-powered ecommerce business review toolkit for D2C stores. Single command: review. Analyzes order transaction
+  data across multiple time periods (30d/90d/365d), produces KPI trees with health signals, structured findings, and concrete
+  action plans. Triggers on: "ecommerce review", "store review", "store health", "revenue analysis", "customer analysis",
+  "product analysis", "business review".'
+authors:
+- takechanman1228
+is_official: false
+tags:
+- ecommerce
+- d2c
+- kpi-analysis
+- revenue-analysis
+- customer-analysis
+- store-health
+- business-review
+- shopify
+category: business
+source:
+  path: /skills/ecom
+  repo: takechanman1228/claude-ecom
+metadata:
+  stars: 36
+added_at: '2026-06-05'

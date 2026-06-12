@@ -1,0 +1,22 @@
+id: honeydew-ai-honeydew-ai-coding-agents-plugins-domain-creation
+display_name: Honeydew Domain Creation
+description: Guides you through creating a Honeydew domain — a governance object that scopes entity/field visibility and applies
+  mandatory filters — ideal for setting up contexts for deep analysis.
+authors:
+- honeydew-ai
+is_official: true
+tags:
+- honeydew
+- domain-governance
+- data-visibility
+- entity-management
+- data-filters
+- semantic-layer
+- data-modeling
+category: data-ai
+source:
+  path: /skills/domain-creation
+  repo: honeydew-ai/honeydew-ai-coding-agents-plugins
+metadata:
+  stars: 35
+added_at: '2026-06-05'

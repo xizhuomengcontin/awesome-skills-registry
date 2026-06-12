@@ -1,0 +1,22 @@
+id: anthropics-skills-webapp-testing
+display_name: Web App Testing
+description: Toolkit for interacting with and testing local web applications using Playwright. Supports verifying frontend
+  functionality, debugging UI behavior, capturing browser screenshots, and viewing browser logs.
+authors:
+- anthropics
+is_official: true
+tags:
+- playwright
+- browser-testing
+- ui-testing
+- frontend-debugging
+- screenshot
+- browser-logs
+- web-automation
+category: coding
+source:
+  path: /skills/webapp-testing
+  repo: anthropics/skills
+metadata:
+  stars: 149805
+added_at: '2026-06-05'

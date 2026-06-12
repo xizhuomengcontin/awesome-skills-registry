@@ -1,0 +1,24 @@
+id: dembrandt-dembrandt-skills-micro-interactions
+display_name: Micro Interactions
+description: Micro-interactions are small, purposeful animations and responses that reward the user and make the interface
+  feel alive — an animated icon, a satisfying toggle, a subtle reveal. Borrowed from the natural world, they add delight without
+  distraction. Use when designing interactive components, success states, toggles, loaders, or any moment worth celebrating.
+authors:
+- dembrandt
+is_official: false
+tags:
+- micro-interactions
+- animation
+- ui-components
+- user-experience
+- interactive-design
+- motion-design
+- delight
+- frontend
+category: design
+source:
+  path: /skills/micro-interactions
+  repo: dembrandt/dembrandt-skills
+metadata:
+  stars: 14
+added_at: '2026-06-05'

@@ -1,0 +1,21 @@
+id: foryourhealth111-pixel-Vibe-Skills-root
+display_name: Vibe Code Orchestrator
+description: Vibe Code Orchestrator (VCO) is a governed runtime entry that freezes requirements, plans XL-first execution,
+  and enforces verification and phase cleanup.
+authors:
+- foryourhealth111-pixel
+is_official: false
+tags:
+- vibe-coding
+- orchestration
+- requirements-planning
+- execution-governance
+- verification
+- workflow
+category: coding
+source:
+  path: /
+  repo: foryourhealth111-pixel/Vibe-Skills
+metadata:
+  stars: 2279
+added_at: '2026-06-05'

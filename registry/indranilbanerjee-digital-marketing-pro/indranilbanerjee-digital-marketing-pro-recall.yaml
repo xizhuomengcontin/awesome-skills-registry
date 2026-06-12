@@ -1,0 +1,20 @@
+id: indranilbanerjee-digital-marketing-pro-recall
+display_name: Marketing Recall
+description: 'Recall marketing learnings. Use when: querying what we know about a channel, audience, objective, or past campaign.'
+authors:
+- indranilbanerjee
+is_official: false
+tags:
+- knowledge-recall
+- campaign-history
+- channel-insights
+- audience-data
+- marketing-memory
+- query
+category: marketing
+source:
+  path: /skills/recall
+  repo: indranilbanerjee/digital-marketing-pro
+metadata:
+  stars: 136
+added_at: '2026-06-05'

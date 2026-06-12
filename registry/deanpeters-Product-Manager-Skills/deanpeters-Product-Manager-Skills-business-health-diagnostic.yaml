@@ -1,0 +1,22 @@
+id: deanpeters-Product-Manager-Skills-business-health-diagnostic
+display_name: Business Health Diagnostic
+description: Diagnose SaaS business health across growth, retention, efficiency, and capital. Use when preparing a business
+  review or prioritizing urgent fixes.
+authors:
+- deanpeters
+is_official: false
+tags:
+- saas-metrics
+- business-review
+- retention
+- growth-analysis
+- unit-economics
+- diagnostics
+- kpi-tracking
+category: business
+source:
+  path: /skills/business-health-diagnostic
+  repo: deanpeters/Product-Manager-Skills
+metadata:
+  stars: 5080
+added_at: '2026-06-05'

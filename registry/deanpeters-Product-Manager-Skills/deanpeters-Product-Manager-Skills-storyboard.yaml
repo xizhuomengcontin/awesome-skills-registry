@@ -1,0 +1,22 @@
+id: deanpeters-Product-Manager-Skills-storyboard
+display_name: Storyboard
+description: Create a six-frame storyboard that shows a user's journey from problem to solution. Use when you need a fast
+  narrative for alignment, concept reviews, or demos.
+authors:
+- deanpeters
+is_official: false
+tags:
+- storyboard
+- user-journey
+- product-management
+- narrative
+- ux
+- concept-design
+- alignment
+category: design
+source:
+  path: /skills/storyboard
+  repo: deanpeters/Product-Manager-Skills
+metadata:
+  stars: 5080
+added_at: '2026-06-05'

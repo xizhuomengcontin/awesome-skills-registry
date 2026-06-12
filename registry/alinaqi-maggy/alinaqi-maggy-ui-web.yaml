@@ -1,0 +1,21 @@
+id: alinaqi-maggy-ui-web
+display_name: UI Web
+description: Web UI - glassmorphism, Tailwind, dark mode, accessibility
+authors:
+- alinaqi
+is_official: false
+tags:
+- web-ui
+- glassmorphism
+- tailwind-css
+- dark-mode
+- accessibility
+- frontend
+- css
+category: design
+source:
+  path: /skills/ui-web
+  repo: alinaqi/maggy
+metadata:
+  stars: 694
+added_at: '2026-06-05'

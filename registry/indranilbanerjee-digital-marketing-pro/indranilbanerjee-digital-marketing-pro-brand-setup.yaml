@@ -1,0 +1,20 @@
+id: indranilbanerjee-digital-marketing-pro-brand-setup
+display_name: Brand Setup
+description: 'Set up or update a brand profile. Use when: new brand onboarding, client setup, brand switching, context update.'
+authors:
+- indranilbanerjee
+is_official: false
+tags:
+- brand-profile
+- onboarding
+- client-setup
+- brand-management
+- context
+- digital-marketing
+category: marketing
+source:
+  path: /skills/brand-setup
+  repo: indranilbanerjee/digital-marketing-pro
+metadata:
+  stars: 136
+added_at: '2026-06-05'

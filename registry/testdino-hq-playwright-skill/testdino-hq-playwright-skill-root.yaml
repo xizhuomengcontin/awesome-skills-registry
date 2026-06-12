@@ -1,0 +1,24 @@
+id: testdino-hq-playwright-skill-root
+display_name: Playwright Test Patterns
+description: Battle-tested Playwright patterns for writing, debugging, and scaling reliable test suites. Use when you need
+  guidance for E2E, API, component, visual, accessibility, or security testing, plus CI/CD, CLI automation, page objects,
+  and migration from Cypress or Selenium. TypeScript and JavaScript.
+authors:
+- testdino-hq
+is_official: true
+tags:
+- playwright
+- e2e-testing
+- test-patterns
+- typescript
+- ci-cd
+- accessibility-testing
+- visual-testing
+- cypress-migration
+category: coding
+source:
+  path: /
+  repo: testdino-hq/playwright-skill
+metadata:
+  stars: 276
+added_at: '2026-06-05'

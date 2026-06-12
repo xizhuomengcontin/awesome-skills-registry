@@ -1,0 +1,21 @@
+id: alinaqi-maggy-web-content
+display_name: Web Content & SEO
+description: SEO and AI discovery (GEO) - schema, ChatGPT/Perplexity optimization
+authors:
+- alinaqi
+is_official: false
+tags:
+- seo
+- geo
+- schema-markup
+- chatgpt-optimization
+- perplexity-optimization
+- ai-discovery
+- content-strategy
+category: marketing
+source:
+  path: /skills/web-content
+  repo: alinaqi/maggy
+metadata:
+  stars: 694
+added_at: '2026-06-05'

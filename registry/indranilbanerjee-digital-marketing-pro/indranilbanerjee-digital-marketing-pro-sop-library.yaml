@@ -1,0 +1,21 @@
+id: indranilbanerjee-digital-marketing-pro-sop-library
+display_name: SOP Library
+description: 'Manage agency SOPs. Use when: creating, assigning, versioning, or auditing standard operating procedures.'
+authors:
+- indranilbanerjee
+is_official: false
+tags:
+- sop
+- standard-operating-procedures
+- agency-management
+- versioning
+- workflow
+- compliance
+- documentation
+category: business
+source:
+  path: /skills/sop-library
+  repo: indranilbanerjee/digital-marketing-pro
+metadata:
+  stars: 136
+added_at: '2026-06-05'

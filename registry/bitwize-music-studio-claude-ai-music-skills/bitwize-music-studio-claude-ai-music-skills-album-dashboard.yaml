@@ -1,0 +1,20 @@
+id: bitwize-music-studio-claude-ai-music-skills-album-dashboard
+display_name: Album Dashboard
+description: Shows a structured progress dashboard for an album with percentage complete per phase, blocking items, and status
+  breakdown. Use for a quick visual overview of album progress.
+authors:
+- bitwize-music-studio
+is_official: false
+tags:
+- album-progress
+- project-dashboard
+- music-production
+- status-tracking
+- phase-management
+category: creative
+source:
+  path: /skills/album-dashboard
+  repo: bitwize-music-studio/claude-ai-music-skills
+metadata:
+  stars: 251
+added_at: '2026-06-05'

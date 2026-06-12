@@ -1,0 +1,21 @@
+id: alinaqi-maggy-aws-aurora
+display_name: AWS Aurora
+description: AWS Aurora Serverless v2, RDS Proxy, Data API, connection pooling
+authors:
+- alinaqi
+is_official: false
+tags:
+- aws
+- aurora
+- serverless
+- rds
+- database
+- connection-pooling
+- sql
+category: coding
+source:
+  path: /skills/aws-aurora
+  repo: alinaqi/maggy
+metadata:
+  stars: 694
+added_at: '2026-06-05'

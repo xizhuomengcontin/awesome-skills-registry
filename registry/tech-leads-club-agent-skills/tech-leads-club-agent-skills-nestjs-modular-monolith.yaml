@@ -1,0 +1,25 @@
+id: tech-leads-club-agent-skills-nestjs-modular-monolith
+display_name: NestJS Modular Monolith
+description: Specialist in designing and implementing scalable modular monolith architectures using NestJS with DDD, Clean
+  Architecture, and CQRS patterns. Use when building modular monolith backends, designing bounded contexts, creating domain
+  modules, implementing event-driven module communication, or when user mentions "modular monolith", "bounded contexts", "module
+  boundaries", "DDD", "CQRS", "clean architecture NestJS", or "monolith to microservices". Do NOT use for simple CRUD APIs,
+  frontend work, or general NestJS questions without architectural context.
+authors:
+- tech-leads-club
+is_official: false
+tags:
+- nestjs
+- modular-monolith
+- ddd
+- clean-architecture
+- cqrs
+- bounded-contexts
+- backend
+category: coding
+source:
+  path: /packages/skills-catalog/skills/(development)/nestjs-modular-monolith
+  repo: tech-leads-club/agent-skills
+metadata:
+  stars: 4578
+added_at: '2026-06-05'

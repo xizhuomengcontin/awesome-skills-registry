@@ -1,0 +1,21 @@
+id: deanpeters-Product-Manager-Skills-problem-framing-canvas
+display_name: Problem Framing Canvas
+description: Guide teams through MITRE's Problem Framing Canvas. Use when you need a clearer problem statement before jumping
+  to solutions.
+authors:
+- deanpeters
+is_official: false
+tags:
+- problem-framing
+- product-management
+- mitre-canvas
+- discovery
+- workshop-facilitation
+- problem-statement
+category: productivity
+source:
+  path: /skills/problem-framing-canvas
+  repo: deanpeters/Product-Manager-Skills
+metadata:
+  stars: 5080
+added_at: '2026-06-05'

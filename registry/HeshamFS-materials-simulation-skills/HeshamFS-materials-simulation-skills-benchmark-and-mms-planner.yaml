@@ -1,0 +1,24 @@
+id: HeshamFS-materials-simulation-skills-benchmark-and-mms-planner
+display_name: Benchmark & MMS Planner
+description: Plan verification and validation campaigns for simulation codes using manufactured solutions, canonical benchmark
+  problems, grid/time refinement, uncertainty propagation, and pass/fail acceptance criteria. Use when an agent needs to prove
+  a solver, model, or result is trustworthy rather than only plausible.
+authors:
+- HeshamFS
+is_official: false
+tags:
+- simulation
+- verification-validation
+- benchmarking
+- manufactured-solutions
+- uncertainty-propagation
+- grid-refinement
+- solver-testing
+- materials-science
+category: science
+source:
+  path: /skills/verification-validation/benchmark-and-mms-planner
+  repo: HeshamFS/materials-simulation-skills
+metadata:
+  stars: 41
+added_at: '2026-06-05'

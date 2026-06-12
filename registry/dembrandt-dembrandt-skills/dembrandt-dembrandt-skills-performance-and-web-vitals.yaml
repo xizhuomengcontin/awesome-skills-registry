@@ -1,0 +1,24 @@
+id: dembrandt-dembrandt-skills-performance-and-web-vitals
+display_name: Performance & Web Vitals
+description: Audit UI performance with Lighthouse and fix Core Web Vitals — LCP, CLS, INP. Fast UI is good UX. Use when optimising
+  page load, fixing layout shift, reducing input delay, improving Lighthouse scores, or reviewing images, fonts, and render-blocking
+  resources.
+authors:
+- dembrandt
+is_official: false
+tags:
+- core-web-vitals
+- lighthouse
+- lcp
+- cls
+- inp
+- web-performance
+- ux
+- render-blocking
+category: coding
+source:
+  path: /skills/performance-and-web-vitals
+  repo: dembrandt/dembrandt-skills
+metadata:
+  stars: 14
+added_at: '2026-06-05'

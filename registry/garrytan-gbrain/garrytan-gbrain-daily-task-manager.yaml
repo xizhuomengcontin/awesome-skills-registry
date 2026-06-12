@@ -1,0 +1,21 @@
+id: garrytan-gbrain-daily-task-manager
+display_name: Daily Task Manager
+description: Task lifecycle management. Add, complete, defer, remove, and review tasks. Maintains a running task list as a
+  brain page.
+authors:
+- garrytan
+is_official: false
+tags:
+- task-management
+- to-do-list
+- task-lifecycle
+- notes
+- brain-page
+- organization
+category: productivity
+source:
+  path: /skills/daily-task-manager
+  repo: garrytan/gbrain
+metadata:
+  stars: 22403
+added_at: '2026-06-05'

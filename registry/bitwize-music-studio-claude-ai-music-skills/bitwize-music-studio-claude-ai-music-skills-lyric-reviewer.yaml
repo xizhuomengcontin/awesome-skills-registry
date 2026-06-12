@@ -1,0 +1,22 @@
+id: bitwize-music-studio-claude-ai-music-skills-lyric-reviewer
+display_name: Lyric Reviewer
+description: Reviews lyrics against a quality checklist before Suno generation. Use before generating tracks to catch rhyme,
+  prosody, pronunciation, and structural issues.
+authors:
+- bitwize-music-studio
+is_official: false
+tags:
+- lyrics
+- quality-review
+- rhyme
+- prosody
+- suno
+- music-production
+- pre-generation
+category: creative
+source:
+  path: /skills/lyric-reviewer
+  repo: bitwize-music-studio/claude-ai-music-skills
+metadata:
+  stars: 251
+added_at: '2026-06-05'

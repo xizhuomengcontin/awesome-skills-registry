@@ -1,0 +1,22 @@
+id: alinaqi-maggy-project-tooling
+display_name: Project Tooling & Deployment
+description: gh, vercel, supabase, render CLI and deployment platform setup
+authors:
+- alinaqi
+is_official: false
+tags:
+- devops
+- cli
+- github
+- vercel
+- supabase
+- render
+- deployment
+- project-setup
+category: coding
+source:
+  path: /skills/project-tooling
+  repo: alinaqi/maggy
+metadata:
+  stars: 694
+added_at: '2026-06-05'

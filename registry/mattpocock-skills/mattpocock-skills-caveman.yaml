@@ -1,0 +1,22 @@
+id: mattpocock-skills-caveman
+display_name: Caveman Mode
+description: Ultra-compressed communication mode. Cuts token usage ~75% by dropping filler, articles, and pleasantries while
+  keeping full technical accuracy. Use when user says "caveman mode", "talk like caveman", "use caveman", "less tokens", "be
+  brief", or invokes /caveman.
+authors:
+- mattpocock
+is_official: false
+tags:
+- token-efficiency
+- concise-communication
+- brevity
+- prompt-mode
+- compressed-output
+- communication-style
+category: productivity
+source:
+  path: /skills/productivity/caveman
+  repo: mattpocock/skills
+metadata:
+  stars: 126573
+added_at: '2026-06-05'

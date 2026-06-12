@@ -1,0 +1,23 @@
+id: K-Dense-AI-claude-scientific-skills-deeptools
+display_name: DeepTools
+description: NGS analysis toolkit. BAM to bigWig conversion, QC (correlation, PCA, fingerprints), heatmaps/profiles (TSS,
+  peaks), for ChIP-seq, RNA-seq, ATAC-seq visualization.
+authors:
+- K-Dense-AI
+is_official: false
+tags:
+- ngs
+- bioinformatics
+- chip-seq
+- rna-seq
+- atac-seq
+- bam
+- visualization
+- genomics
+category: science
+source:
+  path: /skills/deeptools
+  repo: K-Dense-AI/claude-scientific-skills
+metadata:
+  stars: 28042
+added_at: '2026-06-05'

@@ -1,0 +1,24 @@
+id: tech-leads-club-agent-skills-security-best-practices
+display_name: Security Best Practices
+description: Perform language and framework specific security best-practice reviews and suggest improvements. Use when the
+  user explicitly requests security best practices guidance, a security review or report, or secure-by-default coding help.
+  Supports Python, JavaScript/TypeScript, and Go. Do NOT use for general code review, debugging, threat modeling (use security-threat-model),
+  or non-security tasks.
+authors:
+- tech-leads-club
+is_official: false
+tags:
+- security-review
+- owasp
+- python
+- javascript
+- golang
+- secure-coding
+- code-review
+category: coding
+source:
+  path: /packages/skills-catalog/skills/(security)/security-best-practices
+  repo: tech-leads-club/agent-skills
+metadata:
+  stars: 4578
+added_at: '2026-06-05'

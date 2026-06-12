@@ -1,0 +1,21 @@
+id: bitwize-music-studio-claude-ai-music-skills-cloud-uploader
+display_name: Music Cloud Uploader
+description: Uploads promo videos and content to Cloudflare R2 or AWS S3. Use when the user wants to host promo content for
+  social media or distribution.
+authors:
+- bitwize-music-studio
+is_official: false
+tags:
+- cloud-upload
+- cloudflare-r2
+- aws-s3
+- promo-video
+- music-distribution
+- social-media
+category: creative
+source:
+  path: /skills/cloud-uploader
+  repo: bitwize-music-studio/claude-ai-music-skills
+metadata:
+  stars: 251
+added_at: '2026-06-05'

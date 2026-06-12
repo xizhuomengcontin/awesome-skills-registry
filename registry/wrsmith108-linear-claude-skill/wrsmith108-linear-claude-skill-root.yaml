@@ -1,0 +1,21 @@
+id: wrsmith108-linear-claude-skill-root
+display_name: Linear Issue Management
+description: Managing Linear issues, projects, and teams. Use when working with Linear tasks, creating issues, updating status,
+  querying projects, or managing team workflows.
+authors:
+- wrsmith108
+is_official: false
+tags:
+- linear
+- issue-tracking
+- project-management
+- task-management
+- team-workflows
+- agile
+category: productivity
+source:
+  path: /
+  repo: wrsmith108/linear-claude-skill
+metadata:
+  stars: 110
+added_at: '2026-06-05'

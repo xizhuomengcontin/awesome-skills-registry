@@ -1,0 +1,17 @@
+id: Eronred-aso-skills-aso-router
+display_name: ASO Router
+description: '---'
+authors:
+- Eronred
+is_official: false
+tags:
+- router
+- skill-routing
+- aso
+category: miscellaneous
+source:
+  path: /skills/aso-router
+  repo: Eronred/aso-skills
+metadata:
+  stars: 1482
+added_at: '2026-06-05'

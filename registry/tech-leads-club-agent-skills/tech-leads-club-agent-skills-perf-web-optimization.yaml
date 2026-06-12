@@ -1,0 +1,24 @@
+id: tech-leads-club-agent-skills-perf-web-optimization
+display_name: Web Performance Optimization
+description: 'Optimize web performance: bundle size, images, caching, lazy loading, and overall page speed. Use when site
+  is slow, reducing bundle size, fixing layout shifts, improving Time to Interactive, or optimizing for Lighthouse scores.
+  Triggers on: web performance, bundle size, page speed, slow site, lazy loading. Do NOT use for Core Web Vitals-specific
+  fixes (use core-web-vitals), running Lighthouse audits (use perf-lighthouse), or Astro-specific optimization (use perf-astro).'
+authors:
+- tech-leads-club
+is_official: false
+tags:
+- web-performance
+- bundle-size
+- lazy-loading
+- page-speed
+- caching
+- image-optimization
+- time-to-interactive
+category: coding
+source:
+  path: /packages/skills-catalog/skills/(performance)/perf-web-optimization
+  repo: tech-leads-club/agent-skills
+metadata:
+  stars: 4578
+added_at: '2026-06-05'

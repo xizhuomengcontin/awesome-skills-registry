@@ -1,0 +1,22 @@
+id: deanpeters-Product-Manager-Skills-jobs-to-be-done
+display_name: Jobs to Be Done
+description: Uncover customer jobs, pains, and gains in a structured JTBD format. Use when clarifying unmet needs, repositioning
+  a product, or improving discovery and messaging.
+authors:
+- deanpeters
+is_official: false
+tags:
+- jtbd
+- customer-research
+- product-discovery
+- user-needs
+- product-management
+- messaging
+- positioning
+category: business
+source:
+  path: /skills/jobs-to-be-done
+  repo: deanpeters/Product-Manager-Skills
+metadata:
+  stars: 5080
+added_at: '2026-06-05'

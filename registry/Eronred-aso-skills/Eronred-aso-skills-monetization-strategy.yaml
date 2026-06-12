@@ -1,0 +1,23 @@
+id: Eronred-aso-skills-monetization-strategy
+display_name: Monetization Strategy
+description: When the user wants to design or optimize their app's monetization — pricing, paywalls, subscriptions, or in-app
+  purchases. Also use when the user mentions "pricing", "paywall", "subscription", "IAP", "how to monetize", "revenue optimization",
+  "free trial", or "conversion to paid". For retention impact, see retention-optimization. For competitive pricing, see competitor-analysis.
+authors:
+- Eronred
+is_official: false
+tags:
+- monetization
+- pricing-strategy
+- paywalls
+- subscriptions
+- in-app-purchases
+- revenue-optimization
+- app-business
+category: business
+source:
+  path: /skills/monetization-strategy
+  repo: Eronred/aso-skills
+metadata:
+  stars: 1482
+added_at: '2026-06-05'

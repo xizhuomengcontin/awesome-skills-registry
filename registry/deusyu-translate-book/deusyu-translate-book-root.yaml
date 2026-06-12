@@ -1,0 +1,23 @@
+id: deusyu-translate-book-root
+display_name: Book Translator
+description: Translate books (PDF/DOCX/EPUB) into any language using parallel sub-agents. Converts input -> Markdown chunks
+  -> translated chunks -> HTML/DOCX/EPUB/PDF.
+authors:
+- deusyu
+is_official: false
+tags:
+- translation
+- book-translation
+- pdf
+- epub
+- docx
+- multi-language
+- parallel-processing
+- document-conversion
+category: productivity
+source:
+  path: /
+  repo: deusyu/translate-book
+metadata:
+  stars: 766
+added_at: '2026-06-05'

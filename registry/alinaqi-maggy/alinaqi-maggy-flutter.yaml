@@ -1,0 +1,22 @@
+id: alinaqi-maggy-flutter
+display_name: Flutter Development
+description: Flutter development with Riverpod state management, Freezed, go_router, and mocktail testing
+authors:
+- alinaqi
+is_official: false
+tags:
+- flutter
+- dart
+- riverpod
+- state-management
+- go-router
+- freezed
+- mobile-development
+- testing
+category: coding
+source:
+  path: /skills/flutter
+  repo: alinaqi/maggy
+metadata:
+  stars: 694
+added_at: '2026-06-05'

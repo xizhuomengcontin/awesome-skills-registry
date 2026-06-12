@@ -1,0 +1,27 @@
+id: HeshamFS-materials-simulation-skills-performance-profiling
+display_name: Simulation Performance Profiling
+description: Identify computational bottlenecks, analyze parallel scaling, estimate memory requirements, and generate optimization
+  recommendations for materials simulations — parse timing logs to find dominant phases (solver, assembly, I/O), evaluate
+  strong and weak scaling efficiency, profile memory from mesh and field parameters, and detect bottlenecks with actionable
+  fix suggestions. Use when a simulation is running slower than expected, investigating MPI scaling efficiency, planning HPC
+  resource allocation, deciding whether to tune the preconditioner or reduce I/O frequency, or estimating if a problem fits
+  in available RAM, even if the user only says "my simulation is too slow" or "how many nodes do I need."
+authors:
+- HeshamFS
+is_official: false
+tags:
+- hpc
+- performance-profiling
+- parallel-scaling
+- mpi
+- memory-profiling
+- materials-simulation
+- bottleneck-analysis
+- optimization
+category: science
+source:
+  path: /skills/simulation-workflow/performance-profiling
+  repo: HeshamFS/materials-simulation-skills
+metadata:
+  stars: 41
+added_at: '2026-06-05'

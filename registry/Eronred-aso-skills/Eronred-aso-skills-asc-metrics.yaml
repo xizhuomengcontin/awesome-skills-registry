@@ -1,0 +1,25 @@
+id: Eronred-aso-skills-asc-metrics
+display_name: App Store Connect Metrics
+description: When the user wants to analyze their own app's actual performance data from App Store Connect — real downloads,
+  revenue, IAP, subscriptions, trials, or country breakdowns synced via Appeeky Connect. Use when the user asks about "my
+  downloads", "my revenue", "how is my app performing", "ASC data", "sales and trends", "my subscription numbers", "App Store
+  Connect metrics", or wants to compare periods or top markets. For third-party app estimates, see app-analytics. For subscription
+  analytics depth, see monetization-strategy.
+authors:
+- Eronred
+is_official: false
+tags:
+- app-store-connect
+- downloads
+- revenue-analytics
+- subscription-metrics
+- app-performance
+- mobile-kpis
+- data-analysis
+category: marketing
+source:
+  path: /skills/asc-metrics
+  repo: Eronred/aso-skills
+metadata:
+  stars: 1482
+added_at: '2026-06-05'

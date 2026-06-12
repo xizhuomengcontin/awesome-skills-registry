@@ -1,0 +1,25 @@
+id: coreyhaines31-marketingskills-referrals
+display_name: Referrals
+description: When the user wants to create, optimize, or analyze a referral program, affiliate program, or word-of-mouth strategy.
+  Also use when the user mentions 'referral,' 'affiliate,' 'ambassador,' 'word of mouth,' 'viral loop,' 'refer a friend,'
+  'partner program,' 'referral incentive,' 'how to get referrals,' 'customers referring customers,' or 'affiliate payout.'
+  Use this whenever someone wants existing users or partners to bring in new customers. For launch-specific virality, see
+  launch.
+authors:
+- coreyhaines31
+is_official: false
+tags:
+- referral-marketing
+- affiliate-program
+- word-of-mouth
+- viral-loop
+- ambassador-program
+- customer-acquisition
+- referral-incentives
+category: marketing
+source:
+  path: /skills/referrals
+  repo: coreyhaines31/marketingskills
+metadata:
+  stars: 33005
+added_at: '2026-06-05'

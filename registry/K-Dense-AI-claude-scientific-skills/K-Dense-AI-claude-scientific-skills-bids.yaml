@@ -1,0 +1,24 @@
+id: K-Dense-AI-claude-scientific-skills-bids
+display_name: BIDS Neuroimaging
+description: 'Use this skill when working with Brain Imaging Data Structure (BIDS) datasets: organizing neuroscience and biomedical
+  data (MRI, EEG, MEG, iEEG, PET, microscopy, NIRS, motion capture, EMG, MR spectroscopy, behavioral), querying BIDS layouts,
+  validating compliance, converting DICOM to BIDS, writing metadata sidecars, or creating BIDS derivatives.'
+authors:
+- K-Dense-AI
+is_official: false
+tags:
+- bids
+- neuroimaging
+- mri
+- eeg
+- neuroscience
+- dicom
+- data-organization
+- metadata
+category: science
+source:
+  path: /skills/bids
+  repo: K-Dense-AI/claude-scientific-skills
+metadata:
+  stars: 28042
+added_at: '2026-06-05'

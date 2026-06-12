@@ -2,7 +2,7 @@
 
 ## Project Structure & Module Organization
 
-This repository maintains an agent-agnostic skills registry. Core files live at the repo root: `sources.yaml` lists GitHub repositories to scan, `pyproject.toml` and `uv.lock` define the Python 3.12 environment, and `README.md` documents registry behavior. Generated skill metadata lives under `registry/{task-folder}/{owner}-{repo}-{skill-dir}.yaml`. Automation lives in `scripts/`: `update.py` scans configured sources and writes registry entries, while `lint_registry.py` validates and optionally fixes registry YAML. GitHub Actions are in `.github/workflows/`; the local pre-commit hook is `.githooks/pre-commit`.
+This repository maintains an agent-agnostic skills registry. Core files live at the repo root: `sources.yaml` lists GitHub repositories to scan, `pyproject.toml` and `uv.lock` define the Python 3.12 environment, and `README.md` documents registry behavior. Generated skill metadata lives under `registry/{owner}-{repo}/{owner}-{repo}-{skill-dir}.yaml` (one folder per source repo). Automation lives in `scripts/`: `update.py` scans configured sources and writes registry entries, while `lint_registry.py` validates and optionally fixes registry YAML. GitHub Actions are in `.github/workflows/`; the local pre-commit hook is `.githooks/pre-commit`.
 
 ## Build, Test, and Development Commands
 
@@ -14,7 +14,7 @@ This repository maintains an agent-agnostic skills registry. Core files live at 
 
 ## Coding Style & Naming Conventions
 
-Use Python 3.12 with type hints and simple dataclasses where appropriate. Keep scripts small, procedural, and explicit; prefer standard-library utilities and existing dependencies (`PyGithub`, `PyYAML`, `rapidfuzz`) over new custom machinery. Registry filenames must follow `{owner}-{repo}-{skill_dir}.yaml`; IDs use the same stem. Task folders should be lowercase, dash-separated, and derived from the skill name or similarity grouping.
+Use Python 3.12 with type hints and simple dataclasses where appropriate. Keep scripts small, procedural, and explicit; prefer standard-library utilities and existing dependencies (`PyGithub`, `PyYAML`) over new custom machinery. Registry filenames must follow `{owner}-{repo}-{skill_dir}.yaml`; IDs use the same stem. Each skill lives in a per-source folder named `{owner}-{repo}`.
 
 ## Testing Guidelines
 

@@ -1,0 +1,23 @@
+id: dembrandt-dembrandt-skills-component-family-consistency
+display_name: Component Family Consistency
+description: Buttons, inputs, pills, badges, calendars, and other interactive components form a visual family — they share
+  the same border-radius, colour logic, shadow scale, border style, and spacing rhythm. Inconsistency between them breaks
+  the sense of a coherent product. Use when building or reviewing a component library, design system, or any set of UI components.
+authors:
+- dembrandt
+is_official: false
+tags:
+- design-system
+- component-library
+- ui-consistency
+- visual-design
+- border-radius
+- spacing
+- interactive-components
+category: design
+source:
+  path: /skills/component-family-consistency
+  repo: dembrandt/dembrandt-skills
+metadata:
+  stars: 14
+added_at: '2026-06-05'

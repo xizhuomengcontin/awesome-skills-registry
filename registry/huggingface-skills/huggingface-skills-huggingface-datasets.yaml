@@ -1,0 +1,22 @@
+id: huggingface-skills-huggingface-datasets
+display_name: HuggingFace Datasets
+description: Use this skill for Hugging Face Dataset Viewer API workflows that fetch subset/split metadata, paginate rows,
+  search text, apply filters, download parquet URLs, and read size or statistics.
+authors:
+- huggingface
+is_official: true
+tags:
+- huggingface
+- datasets
+- dataset-viewer
+- parquet
+- api
+- data-fetching
+- split-metadata
+category: data-ai
+source:
+  path: /skills/huggingface-datasets
+  repo: huggingface/skills
+metadata:
+  stars: 10656
+added_at: '2026-06-05'

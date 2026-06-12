@@ -1,0 +1,24 @@
+id: awrshift-claude-memory-kit-root
+display_name: Persistent Memory Root
+description: Persistent memory for Claude Code agents with an agent-audit-ritual architecture. User only talks; the agent
+  captures, audits, proposes promotions, and writes. Memory lives in layers — daily logs, hot cache (MEMORY.md), topical knowledge
+  articles (knowledge/concepts/), and canonical rules (.claude/rules/) — plus multi-project isolation via projects/<name>/
+  and an experiments/ sandbox. /close-day runs the end-of-day audit ritual. Zero external dependencies.
+authors:
+- awrshift
+is_official: false
+tags:
+- persistent-memory
+- agent-memory
+- knowledge-management
+- claude-code
+- memory-layers
+- multi-project
+- audit-ritual
+category: productivity
+source:
+  path: /
+  repo: awrshift/claude-memory-kit
+metadata:
+  stars: 21
+added_at: '2026-06-05'

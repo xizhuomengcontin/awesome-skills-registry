@@ -1,0 +1,23 @@
+id: K-Dense-AI-claude-scientific-skills-tiledbvcf
+display_name: TileDB-VCF Genomics
+description: Efficient storage and retrieval of genomic variant data using TileDB. Scalable VCF/BCF ingestion, incremental
+  sample addition, compressed storage, parallel queries, and export capabilities for population genomics.
+authors:
+- K-Dense-AI
+is_official: false
+tags:
+- genomics
+- vcf
+- tiledb
+- variant-data
+- population-genomics
+- bioinformatics
+- scalable-storage
+- parallel-queries
+category: science
+source:
+  path: /skills/tiledbvcf
+  repo: K-Dense-AI/claude-scientific-skills
+metadata:
+  stars: 28042
+added_at: '2026-06-05'

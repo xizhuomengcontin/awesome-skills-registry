@@ -1,0 +1,22 @@
+id: K-Dense-AI-claude-scientific-skills-flowio
+display_name: Flow Cytometry (FCS) Parser
+description: Parse FCS (Flow Cytometry Standard) files v2.0-3.1. Extract events as NumPy arrays, read metadata/channels, convert
+  to CSV/DataFrame, for flow cytometry data preprocessing.
+authors:
+- K-Dense-AI
+is_official: false
+tags:
+- flow-cytometry
+- fcs-files
+- numpy
+- bioinformatics
+- data-preprocessing
+- csv-export
+- dataframe
+category: science
+source:
+  path: /skills/flowio
+  repo: K-Dense-AI/claude-scientific-skills
+metadata:
+  stars: 28042
+added_at: '2026-06-05'

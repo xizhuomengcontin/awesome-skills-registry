@@ -1,0 +1,25 @@
+id: MohamedAbdallah-14-unslop-unslop-commit
+display_name: Unslop Commit
+description: Rewrites commit messages so they sound like a careful human engineer wrote them. Strips AI/marketing slop ("comprehensive
+  solution", "robust implementation", "leverage", "enhance", "seamlessly", "This commit..."). Keeps Conventional Commits format.
+  Subject ≤72 chars (aim ≤50), imperative mood. Body only when "why" isn't obvious from the subject. Use when user says "humanize
+  commit", "de-slop commit message", "make this commit sound human", "/unslop-commit", "/commit", "write a commit", or pastes
+  a draft commit to clean up. Auto-triggers when staging changes.
+authors:
+- MohamedAbdallah-14
+is_official: false
+tags:
+- git
+- commit-messages
+- conventional-commits
+- text-editing
+- humanize-text
+- version-control
+- code-review
+category: coding
+source:
+  path: /skills/unslop-commit
+  repo: MohamedAbdallah-14/unslop
+metadata:
+  stars: 57
+added_at: '2026-06-05'

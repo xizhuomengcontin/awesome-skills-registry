@@ -1,0 +1,22 @@
+id: huggingface-skills-huggingface-paper-publisher
+display_name: HuggingFace Paper Publisher
+description: Publish and manage research papers on Hugging Face Hub. Supports creating paper pages, linking papers to models/datasets,
+  claiming authorship, and generating professional markdown-based research articles.
+authors:
+- huggingface
+is_official: true
+tags:
+- research-papers
+- huggingface
+- publishing
+- arxiv
+- authorship
+- markdown
+- model-linking
+category: science
+source:
+  path: /skills/huggingface-paper-publisher
+  repo: huggingface/skills
+metadata:
+  stars: 10656
+added_at: '2026-06-05'

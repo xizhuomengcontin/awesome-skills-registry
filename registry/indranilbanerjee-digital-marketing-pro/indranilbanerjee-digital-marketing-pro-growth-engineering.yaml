@@ -1,0 +1,20 @@
+id: indranilbanerjee-digital-marketing-pro-growth-engineering
+display_name: Growth Engineering
+description: 'Engineer growth loops. Use when: building referral programs, viral loops, or product-led growth strategy.'
+authors:
+- indranilbanerjee
+is_official: false
+tags:
+- growth-hacking
+- referral-programs
+- viral-loops
+- product-led-growth
+- growth-loops
+- user-acquisition
+category: marketing
+source:
+  path: /skills/growth-engineering
+  repo: indranilbanerjee/digital-marketing-pro
+metadata:
+  stars: 136
+added_at: '2026-06-05'

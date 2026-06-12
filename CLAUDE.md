@@ -22,13 +22,13 @@ git config core.hooksPath .githooks                       # enable the staged-re
 
 A **generator and its generated output**, not a runtime service. The scripts under `scripts/` hold all the real logic; everything under `registry/` (700+ YAML files) is data the pipeline produces. When making changes, distinguish between editing the generator (`scripts/`) and editing generated entries (`registry/`) — they have different review implications.
 
-The pipeline scans configured GitHub repos for `SKILL.md` files, extracts metadata, **classifies each skill into a `category` + `tags` via an LLM** (`classify.py`), groups each new skill into a task folder, and opens a PR. It is agent-agnostic: any repo using `SKILL.md` files works (Claude, Cursor, custom agents).
+The pipeline scans configured GitHub repos for `SKILL.md` files, extracts metadata, **classifies each skill into a `category` + `tags` via an LLM** (`classify.py`), writes each skill into a per-source folder (`registry/{owner}-{repo}/`), and opens a PR. It is agent-agnostic: any repo using `SKILL.md` files works (Claude, Cursor, custom agents).
 
 The scripts: `update.py` (scan → write → PR), `lint_registry.py` (field-level validation), `classify.py` (LLM category/tag assignment), `backfill_categories.py` (retro-classify existing entries), `build_unified_json.py` (registry → `dist/ai-skills.json`), and `validate.sh` (CUE schema validation).
 
 ## Data flow (one pass of `scripts/update.py`)
 
-`load_sources()` → for each source, `find_skill_files()` walks the repo via the GitHub API → `already_registered()` skips known skills → `_fetch_skill_content()` + `extract_metadata()` → `classify()` assigns `category`/`tags`/refined `display_name` → `find_matching_folder()` picks the destination → `write_skill_yaml()` writes the entry → `create_pr()` branches, commits, pushes, and opens a PR with `gh`.
+`load_sources()` → for each source, `find_skill_files()` walks the repo via the GitHub API (and reads `repo.stargazers_count`) → `already_registered()` skips known skills → `_fetch_skill_content()` + `extract_metadata()` → `classify()` assigns `category`/`tags`/refined `display_name` → `source_folder_name()` returns the `{owner}-{repo}` destination → `write_skill_yaml()` writes the entry (with `metadata.stars`) → `create_pr()` branches, commits, pushes, and opens a PR with `gh`.
 
 `classify()` (`classify.py`) calls the TrueFoundry AI Gateway (`bedrock/global.anthropic.claude-sonnet-4-6`, needs `TFY_API_KEY` in `.env`); the category is constrained to `lint_registry.VALID_CATEGORIES`. If the call fails or the key is missing, the entry is written with `category: none` and empty `tags` — `backfill_categories.py` later fills those in idempotently (only touches `category: none` entries, writing each chunk back as it goes).
 
@@ -36,9 +36,9 @@ The in-memory `index` (list of `RegistryEntry`) is built once from disk at start
 
 ## Non-obvious behaviors (the things that bite)
 
-- **Dedupe key is the filename stem, not the folder.** `already_registered()` globs `registry/**/{owner}-{repo}-{skill_dir}.yaml` recursively. A skill is "known" if that stem exists in *any* folder. Filenames are globally unique across the registry — folders are just grouping.
+- **Dedupe key is the filename stem, not the folder.** `already_registered()` globs `registry/**/{owner}-{repo}-{skill_dir}.yaml` recursively. A skill is "known" if that stem exists in *any* folder. Filenames are globally unique across the registry — folders just mirror the source repo.
 
-- **Similarity grouping** (`find_matching_folder`): compares `"{name} {description}"` against every existing entry via `rapidfuzz.token_sort_ratio`. Score `>= SIMILARITY_THRESHOLD` (75) → reuse that entry's folder; otherwise `to_folder_name()` creates a new lowercase-dashed folder from the skill name. Changing the threshold reshapes how future skills cluster.
+- **One folder per source repo** (`source_folder_name`): every skill is written to `registry/{owner}-{repo}/`, so all skills from a given source share a folder. `metadata.stars` carries the source repo's GitHub star count; `build_unified_json.py` sorts `dist/ai-skills.json` by `(-stars, id)` so the most popular sources lead and each source's skills stay contiguous.
 
 - **Metadata extraction is a 3-tier fallback** (`extract_metadata`): YAML frontmatter `name`/`description` first; then a `# Skill: ...` heading for the name; then the first non-heading line as the description. Many `SKILL.md` files in the wild only have a heading, so the fallbacks matter.
 

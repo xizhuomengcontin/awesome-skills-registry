@@ -1,0 +1,22 @@
+id: alinaqi-maggy-cpg-analysis
+display_name: CPG Analysis
+description: Deep code property graph analysis with Joern CPG (AST+CFG+PDG) and CodeQL for control flow, data flow, taint
+  analysis, and security auditing
+authors:
+- alinaqi
+is_official: false
+tags:
+- code-property-graph
+- static-analysis
+- taint-analysis
+- security-auditing
+- codeql
+- joern
+- data-flow-analysis
+category: coding
+source:
+  path: /skills/cpg-analysis
+  repo: alinaqi/maggy
+metadata:
+  stars: 694
+added_at: '2026-06-05'

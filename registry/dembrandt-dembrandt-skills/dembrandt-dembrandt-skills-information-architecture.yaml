@@ -1,0 +1,24 @@
+id: dembrandt-dembrandt-skills-information-architecture
+display_name: Information Architecture
+description: In large applications, information architecture determines whether users can find, understand, and act on data.
+  Naming matters. The UI should mirror the data model and signal how data can be transformed. Dangerous or irreversible changes
+  always require a confirm dialog. Use when designing navigation, naming entities, structuring large feature sets, or modelling
+  data-driven UI.
+authors:
+- dembrandt
+is_official: false
+tags:
+- information-architecture
+- ux-design
+- navigation
+- data-modeling
+- ui-structure
+- entity-naming
+- feature-design
+category: design
+source:
+  path: /skills/information-architecture
+  repo: dembrandt/dembrandt-skills
+metadata:
+  stars: 14
+added_at: '2026-06-05'

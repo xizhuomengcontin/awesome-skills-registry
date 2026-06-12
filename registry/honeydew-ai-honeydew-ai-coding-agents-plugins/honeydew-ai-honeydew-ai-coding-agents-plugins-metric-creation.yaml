@@ -1,0 +1,22 @@
+id: honeydew-ai-honeydew-ai-coding-agents-plugins-metric-creation
+display_name: Metric Creation
+description: Guides you step-by-step through defining a business metric (aggregation) on a Honeydew entity. Covers SQL expression
+  building and pushes to Honeydew via the MCP tools.
+authors:
+- honeydew-ai
+is_official: true
+tags:
+- honeydew
+- sql
+- metrics
+- aggregation
+- data-modeling
+- business-intelligence
+- mcp
+category: data-ai
+source:
+  path: /skills/metric-creation
+  repo: honeydew-ai/honeydew-ai-coding-agents-plugins
+metadata:
+  stars: 35
+added_at: '2026-06-05'

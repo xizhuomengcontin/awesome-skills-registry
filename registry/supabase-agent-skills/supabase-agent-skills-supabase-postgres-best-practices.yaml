@@ -1,0 +1,22 @@
+id: supabase-agent-skills-supabase-postgres-best-practices
+display_name: Supabase Postgres Best Practices
+description: Postgres performance optimization and best practices from Supabase. Use this skill when writing, reviewing, or
+  optimizing Postgres queries, schema designs, or database configurations.
+authors:
+- supabase
+is_official: true
+tags:
+- postgres
+- supabase
+- database
+- query-optimization
+- schema-design
+- performance
+- sql
+category: coding
+source:
+  path: /skills/supabase-postgres-best-practices
+  repo: supabase/agent-skills
+metadata:
+  stars: 2231
+added_at: '2026-06-05'

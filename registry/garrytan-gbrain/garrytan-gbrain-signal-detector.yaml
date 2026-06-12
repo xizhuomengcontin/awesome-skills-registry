@@ -1,0 +1,21 @@
+id: garrytan-gbrain-signal-detector
+display_name: Signal Detector
+description: Always-on ambient signal capture. Fires on every inbound message to detect original thinking and entity mentions.
+  Spawn as a cheap sub-agent in parallel, never block the main response.
+authors:
+- garrytan
+is_official: false
+tags:
+- signal-detection
+- ambient-capture
+- entity-recognition
+- subagent
+- real-time-analysis
+- mention-tracking
+category: data-ai
+source:
+  path: /skills/signal-detector
+  repo: garrytan/gbrain
+metadata:
+  stars: 22403
+added_at: '2026-06-05'

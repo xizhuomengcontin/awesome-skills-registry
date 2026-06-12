@@ -1,0 +1,23 @@
+id: Leonxlnx-taste-skill-minimalist-skill
+display_name: Minimalist Design
+description: Clean editorial-style interfaces. Warm monochrome palette, typographic contrast, flat bento grids, muted pastels.
+  No gradients, no heavy shadows.
+authors:
+- Leonxlnx
+is_official: false
+tags:
+- minimalist-design
+- editorial-ui
+- typography
+- bento-grid
+- monochrome
+- clean-interface
+- flat-design
+- ui-style
+category: design
+source:
+  path: /skills/minimalist-skill
+  repo: Leonxlnx/taste-skill
+metadata:
+  stars: 42062
+added_at: '2026-06-05'

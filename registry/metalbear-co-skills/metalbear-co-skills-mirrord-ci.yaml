@@ -1,0 +1,23 @@
+id: metalbear-co-skills-mirrord-ci
+display_name: Mirrord CI
+description: Help users set up mirrord in CI pipelines for testing against real Kubernetes environments. Use when users want
+  to run end-to-end tests, integration tests, or automated tests in CI using mirrord to connect to staging/shared clusters.
+authors:
+- metalbear-co
+is_official: true
+tags:
+- mirrord
+- ci-cd
+- kubernetes
+- integration-testing
+- e2e-testing
+- devops
+- staging-environment
+- test-automation
+category: coding
+source:
+  path: /skills/mirrord-ci
+  repo: metalbear-co/skills
+metadata:
+  stars: 20
+added_at: '2026-06-05'

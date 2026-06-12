@@ -1,0 +1,20 @@
+id: indranilbanerjee-digital-marketing-pro-import-template
+display_name: Import Deliverable Templates
+description: 'Import deliverable templates. Use when: adding proposal formats, report structures, or brief templates.'
+authors:
+- indranilbanerjee
+is_official: false
+tags:
+- templates
+- proposal-format
+- report-structure
+- creative-brief
+- deliverables
+- agency-workflow
+category: marketing
+source:
+  path: /skills/import-template
+  repo: indranilbanerjee/digital-marketing-pro
+metadata:
+  stars: 136
+added_at: '2026-06-05'

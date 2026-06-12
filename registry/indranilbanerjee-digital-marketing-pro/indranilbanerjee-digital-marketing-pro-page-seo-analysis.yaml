@@ -1,0 +1,22 @@
+id: indranilbanerjee-digital-marketing-pro-page-seo-analysis
+display_name: Page SEO Analysis
+description: 'Analyze SEO for a single page. Use when: auditing on-page signals, schema, content quality, E-E-A-T, or AI search
+  readiness.'
+authors:
+- indranilbanerjee
+is_official: false
+tags:
+- seo
+- on-page-seo
+- schema-markup
+- e-e-a-t
+- content-quality
+- ai-search
+- seo-audit
+category: marketing
+source:
+  path: /skills/page-seo-analysis
+  repo: indranilbanerjee/digital-marketing-pro
+metadata:
+  stars: 136
+added_at: '2026-06-05'

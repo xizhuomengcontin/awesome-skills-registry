@@ -1,0 +1,24 @@
+id: cypress-io-ai-toolkit-cypress-author
+display_name: Cypress Author
+description: Creates, updates, and fixes Cypress tests (E2E/end-to-end and component tests). Use when the user asks to create
+  tests, add tests, write tests, update tests, test this file/component, new spec, or fix a failing or flaky test. Apply even
+  when the user does not say 'Cypress' (e.g. 'create tests for this file'). Prefer cypress-explain when the user only wants
+  to explain or review tests without changing code.
+authors:
+- cypress-io
+is_official: true
+tags:
+- cypress
+- e2e-testing
+- component-testing
+- test-automation
+- javascript
+- spec-writing
+- flaky-tests
+category: coding
+source:
+  path: /skills/cypress-author
+  repo: cypress-io/ai-toolkit
+metadata:
+  stars: 27
+added_at: '2026-06-05'

@@ -1,0 +1,24 @@
+id: tech-leads-club-agent-skills-legacy-migration-planner
+display_name: Legacy Migration Planner
+description: Use when planning legacy system migrations, codebase modernization, monolith decomposition, microservices consolidation,
+  cross-language rewrites, or framework upgrades. Invoke for strangler fig pattern, incremental migration strategy, or refactoring
+  roadmaps. Do NOT use for domain analysis (use domain-analysis), component sizing (use component-identification-sizing),
+  or step-by-step decomposition plans (use decomposition-planning-roadmap).
+authors:
+- tech-leads-club
+is_official: false
+tags:
+- legacy-migration
+- codebase-modernization
+- monolith-decomposition
+- microservices
+- strangler-fig
+- refactoring
+- framework-upgrades
+category: coding
+source:
+  path: /packages/skills-catalog/skills/(architecture)/legacy-migration-planner
+  repo: tech-leads-club/agent-skills
+metadata:
+  stars: 4578
+added_at: '2026-06-05'

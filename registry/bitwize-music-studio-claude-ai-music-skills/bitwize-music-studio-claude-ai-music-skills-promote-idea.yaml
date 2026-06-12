@@ -1,0 +1,21 @@
+id: bitwize-music-studio-claude-ai-music-skills-promote-idea
+display_name: Promote Music Idea to Album
+description: Converts an album idea from IDEAS.md into an actual album project in one step. Use when the user says "promote
+  [idea title]", "turn idea into album", or "start working on [idea]".
+authors:
+- bitwize-music-studio
+is_official: false
+tags:
+- music-production
+- album-creation
+- idea-to-project
+- music-workflow
+- project-management
+- music-studio
+category: creative
+source:
+  path: /skills/promote-idea
+  repo: bitwize-music-studio/claude-ai-music-skills
+metadata:
+  stars: 251
+added_at: '2026-06-05'

@@ -1,0 +1,23 @@
+id: K-Dense-AI-claude-scientific-skills-opentrons-integration
+display_name: Opentrons Integration
+description: Official Opentrons Protocol API for OT-2 and Flex robots. Use when writing protocols specifically for Opentrons
+  hardware with full access to Protocol API v2 features. Best for production Opentrons protocols, official API compatibility.
+  For multi-vendor automation or broader equipment control use pylabrobot.
+authors:
+- K-Dense-AI
+is_official: false
+tags:
+- opentrons
+- lab-automation
+- liquid-handling
+- protocol-api
+- ot-2
+- flex-robot
+- laboratory
+category: science
+source:
+  path: /skills/opentrons-integration
+  repo: K-Dense-AI/claude-scientific-skills
+metadata:
+  stars: 28042
+added_at: '2026-06-05'

@@ -1,0 +1,27 @@
+id: coreyhaines31-marketingskills-revops
+display_name: Revenue Operations
+description: When the user wants help with revenue operations, lead lifecycle management, or marketing-to-sales handoff processes.
+  Also use when the user mentions 'RevOps,' 'revenue operations,' 'lead scoring,' 'lead routing,' 'MQL,' 'SQL,' 'pipeline
+  stages,' 'deal desk,' 'CRM automation,' 'marketing-to-sales handoff,' 'data hygiene,' 'leads aren't getting to sales,' 'pipeline
+  management,' 'lead qualification,' or 'when should marketing hand off to sales.' Use this for anything involving the systems
+  and processes that connect marketing to revenue. For cold outreach emails, see cold-email. For email drip campaigns, see
+  emails. For pricing decisions, see pricing.
+authors:
+- coreyhaines31
+is_official: false
+tags:
+- revenue-operations
+- lead-lifecycle
+- crm-automation
+- lead-scoring
+- sales-handoff
+- pipeline-management
+- mql-sql
+- data-hygiene
+category: business
+source:
+  path: /skills/revops
+  repo: coreyhaines31/marketingskills
+metadata:
+  stars: 33005
+added_at: '2026-06-05'

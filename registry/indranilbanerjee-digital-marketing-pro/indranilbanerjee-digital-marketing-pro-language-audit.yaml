@@ -1,0 +1,21 @@
+id: indranilbanerjee-digital-marketing-pro-language-audit
+display_name: Language Audit
+description: 'Audit multilingual content consistency. Use when: checking language parity, regional compliance, or translation
+  quality.'
+authors:
+- indranilbanerjee
+is_official: false
+tags:
+- multilingual
+- localization
+- content-audit
+- translation-quality
+- regional-compliance
+- language-parity
+category: marketing
+source:
+  path: /skills/language-audit
+  repo: indranilbanerjee/digital-marketing-pro
+metadata:
+  stars: 136
+added_at: '2026-06-05'

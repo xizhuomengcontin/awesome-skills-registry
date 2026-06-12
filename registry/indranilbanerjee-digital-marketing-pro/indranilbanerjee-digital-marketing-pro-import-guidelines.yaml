@@ -1,0 +1,20 @@
+id: indranilbanerjee-digital-marketing-pro-import-guidelines
+display_name: Import Brand Guidelines
+description: 'Import brand guidelines. Use when: adding voice guides, style restrictions, or messaging frameworks.'
+authors:
+- indranilbanerjee
+is_official: false
+tags:
+- brand-guidelines
+- style-guide
+- voice-guide
+- messaging-framework
+- brand-management
+- content-strategy
+category: marketing
+source:
+  path: /skills/import-guidelines
+  repo: indranilbanerjee/digital-marketing-pro
+metadata:
+  stars: 136
+added_at: '2026-06-05'

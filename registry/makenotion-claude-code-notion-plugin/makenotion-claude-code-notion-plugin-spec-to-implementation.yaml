@@ -1,0 +1,22 @@
+id: makenotion-claude-code-notion-plugin-spec-to-implementation
+display_name: Notion Spec to Implementation
+description: Turns product or tech specs into concrete Notion tasks that Claude code can implement. Breaks down spec pages
+  into detailed implementation plans with clear tasks, acceptance criteria, and progress tracking to guide development from
+  requirements to completion.
+authors:
+- makenotion
+is_official: true
+tags:
+- notion
+- product-specs
+- task-breakdown
+- implementation-planning
+- project-management
+- acceptance-criteria
+category: productivity
+source:
+  path: /skills/notion/spec-to-implementation
+  repo: makenotion/claude-code-notion-plugin
+metadata:
+  stars: 412
+added_at: '2026-06-05'

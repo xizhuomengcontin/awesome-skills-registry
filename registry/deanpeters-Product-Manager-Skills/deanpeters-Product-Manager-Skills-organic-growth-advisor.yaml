@@ -1,0 +1,22 @@
+id: deanpeters-Product-Manager-Skills-organic-growth-advisor
+display_name: Organic Growth Advisor
+description: Identify which organic growth path to pursue — new segments, geographies, channels, or products. Use when diagnosing
+  where a growth constraint lives and which McKinsey growth level to act on next.
+authors:
+- deanpeters
+is_official: false
+tags:
+- growth-strategy
+- market-segmentation
+- product-led-growth
+- channel-strategy
+- mckinsey-framework
+- geographic-expansion
+- growth-diagnosis
+category: business
+source:
+  path: /skills/organic-growth-advisor
+  repo: deanpeters/Product-Manager-Skills
+metadata:
+  stars: 5080
+added_at: '2026-06-05'

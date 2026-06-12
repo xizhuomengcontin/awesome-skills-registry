@@ -1,0 +1,23 @@
+id: K-Dense-AI-claude-scientific-skills-scientific-critical-thinking
+display_name: Scientific Critical Thinking
+description: Evaluate scientific claims and evidence quality. Use for assessing experimental design validity, identifying
+  biases and confounders, applying evidence grading frameworks (GRADE, Cochrane Risk of Bias), or teaching critical analysis.
+  Best for understanding evidence quality, identifying flaws. For formal peer review writing use peer-review.
+authors:
+- K-Dense-AI
+is_official: false
+tags:
+- critical-analysis
+- evidence-evaluation
+- experimental-design
+- bias-detection
+- grade-framework
+- cochrane
+- evidence-grading
+category: science
+source:
+  path: /skills/scientific-critical-thinking
+  repo: K-Dense-AI/claude-scientific-skills
+metadata:
+  stars: 28042
+added_at: '2026-06-05'

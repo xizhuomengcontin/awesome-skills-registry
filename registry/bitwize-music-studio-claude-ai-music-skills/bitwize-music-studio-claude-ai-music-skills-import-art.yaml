@@ -1,0 +1,21 @@
+id: bitwize-music-studio-claude-ai-music-skills-import-art
+display_name: Import Album Art
+description: Places album art files in the correct audio and content directory locations. Use when the user has generated
+  or downloaded album artwork that needs to be saved.
+authors:
+- bitwize-music-studio
+is_official: false
+tags:
+- album-art
+- music-production
+- file-management
+- audio-workflow
+- artwork-import
+- content-organization
+category: miscellaneous
+source:
+  path: /skills/import-art
+  repo: bitwize-music-studio/claude-ai-music-skills
+metadata:
+  stars: 251
+added_at: '2026-06-05'

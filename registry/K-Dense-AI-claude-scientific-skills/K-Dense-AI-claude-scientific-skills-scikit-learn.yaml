@@ -1,0 +1,25 @@
+id: K-Dense-AI-claude-scientific-skills-scikit-learn
+display_name: Scikit Learn
+description: Machine learning in Python with scikit-learn. Use when working with supervised learning (classification, regression),
+  unsupervised learning (clustering, dimensionality reduction), model evaluation, hyperparameter tuning, preprocessing, or
+  building ML pipelines. Provides comprehensive reference documentation for algorithms, preprocessing techniques, pipelines,
+  and best practices.
+authors:
+- K-Dense-AI
+is_official: false
+tags:
+- machine-learning
+- python
+- classification
+- regression
+- clustering
+- model-evaluation
+- ml-pipelines
+- scikit-learn
+category: data-ai
+source:
+  path: /skills/scikit-learn
+  repo: K-Dense-AI/claude-scientific-skills
+metadata:
+  stars: 28042
+added_at: '2026-06-05'

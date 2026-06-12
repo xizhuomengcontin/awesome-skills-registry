@@ -1,0 +1,24 @@
+id: tech-leads-club-agent-skills-core-web-vitals
+display_name: Core Web Vitals
+description: Optimize Core Web Vitals (LCP, INP, CLS) for better page experience and search ranking. Use when asked to "improve
+  Core Web Vitals", "fix LCP", "reduce CLS", "optimize INP", "page experience optimization", or "fix layout shifts". Focuses
+  specifically on the three Core Web Vitals metrics. Do NOT use for general web performance (use perf-web-optimization), Lighthouse
+  audits (use perf-lighthouse), or Astro-specific optimization (use perf-astro).
+authors:
+- tech-leads-club
+is_official: false
+tags:
+- core-web-vitals
+- lcp
+- cls
+- inp
+- page-experience
+- web-performance
+- seo-technical
+category: coding
+source:
+  path: /packages/skills-catalog/skills/(performance)/core-web-vitals
+  repo: tech-leads-club/agent-skills
+metadata:
+  stars: 4578
+added_at: '2026-06-05'

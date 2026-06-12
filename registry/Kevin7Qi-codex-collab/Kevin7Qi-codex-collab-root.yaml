@@ -1,0 +1,23 @@
+id: Kevin7Qi-codex-collab-root
+display_name: Codex Collaboration
+description: Use when the user asks to invoke, delegate to, or collaborate with Codex on any task. Also use PROACTIVELY when
+  an independent, non-Claude perspective from Codex would add value — second opinions on code, plans, architecture, or design
+  decisions.
+authors:
+- Kevin7Qi
+is_official: false
+tags:
+- codex
+- collaboration
+- second-opinion
+- code-review
+- architecture
+- multi-agent
+- design-decisions
+category: coding
+source:
+  path: /
+  repo: Kevin7Qi/codex-collab
+metadata:
+  stars: 84
+added_at: '2026-06-05'

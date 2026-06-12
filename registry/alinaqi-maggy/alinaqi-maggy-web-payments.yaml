@@ -1,0 +1,21 @@
+id: alinaqi-maggy-web-payments
+display_name: Web Payments
+description: Stripe Checkout, subscriptions, webhooks, customer portal
+authors:
+- alinaqi
+is_official: false
+tags:
+- stripe
+- checkout
+- subscriptions
+- webhooks
+- customer-portal
+- payments
+- billing
+category: business
+source:
+  path: /skills/web-payments
+  repo: alinaqi/maggy
+metadata:
+  stars: 694
+added_at: '2026-06-05'

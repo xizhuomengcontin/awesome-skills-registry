@@ -1,0 +1,22 @@
+id: indranilbanerjee-digital-marketing-pro-paid-advertising
+display_name: Paid Advertising
+description: 'Plan paid advertising campaigns. Use when: managing Google Ads, Meta Ads, LinkedIn Ads, bid strategy, or budget
+  optimization.'
+authors:
+- indranilbanerjee
+is_official: false
+tags:
+- paid-advertising
+- google-ads
+- meta-ads
+- linkedin-ads
+- bid-strategy
+- budget-optimization
+- ppc
+category: marketing
+source:
+  path: /skills/paid-advertising
+  repo: indranilbanerjee/digital-marketing-pro
+metadata:
+  stars: 136
+added_at: '2026-06-05'

@@ -1,0 +1,19 @@
+id: alinaqi-maggy-code-review
+display_name: Code Review (Commit Gate)
+description: Mandatory code reviews via /code-review before commits and deploys
+authors:
+- alinaqi
+is_official: false
+tags:
+- code-review
+- git
+- pre-commit
+- deployment-gates
+- quality-assurance
+category: coding
+source:
+  path: /skills/code-review
+  repo: alinaqi/maggy
+metadata:
+  stars: 694
+added_at: '2026-06-05'

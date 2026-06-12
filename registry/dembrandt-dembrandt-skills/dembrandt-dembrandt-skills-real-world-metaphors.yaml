@@ -1,0 +1,24 @@
+id: dembrandt-dembrandt-skills-real-world-metaphors
+display_name: Real World Metaphors
+description: UI patterns borrowed from the physical world feel immediately intuitive — cards feel graspable, carousels feel
+  scrollable, drawers feel pullable. Use real-world metaphors deliberately to reduce the learning curve and make interactions
+  feel natural. Use when designing layout patterns, gestures, or navigation paradigms.
+authors:
+- dembrandt
+is_official: false
+tags:
+- ui-patterns
+- ux-design
+- interaction-design
+- navigation
+- gestures
+- layout
+- affordance
+- design-principles
+category: design
+source:
+  path: /skills/real-world-metaphors
+  repo: dembrandt/dembrandt-skills
+metadata:
+  stars: 14
+added_at: '2026-06-05'

@@ -1,0 +1,22 @@
+id: bitwize-music-studio-claude-ai-music-skills-explicit-checker
+display_name: Explicit Content Checker
+description: Scans lyrics for explicit content and verifies that explicit flags match actual content. Use before Suno generation
+  or release to ensure accurate content ratings.
+authors:
+- bitwize-music-studio
+is_official: false
+tags:
+- lyrics-analysis
+- explicit-content
+- content-rating
+- music
+- suno
+- moderation
+- content-flagging
+category: creative
+source:
+  path: /skills/explicit-checker
+  repo: bitwize-music-studio/claude-ai-music-skills
+metadata:
+  stars: 251
+added_at: '2026-06-05'

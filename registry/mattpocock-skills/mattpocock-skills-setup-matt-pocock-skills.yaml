@@ -1,0 +1,24 @@
+id: mattpocock-skills-setup-matt-pocock-skills
+display_name: Setup Matt Pocock Skills
+description: Sets up an `## Agent skills` block in AGENTS.md/CLAUDE.md and `docs/agents/` so the engineering skills know this
+  repo's issue tracker (GitHub or local markdown), triage label vocabulary, and domain doc layout. Run before first use of
+  `to-issues`, `to-prd`, `triage`, `diagnose`, `tdd`, `improve-codebase-architecture`, or `zoom-out` — or if those skills
+  appear to be missing context about the issue tracker, triage labels, or domain docs.
+authors:
+- mattpocock
+is_official: false
+tags:
+- agent-setup
+- configuration
+- issue-tracker
+- github
+- onboarding
+- agents-md
+- workflow-automation
+category: productivity
+source:
+  path: /skills/engineering/setup-matt-pocock-skills
+  repo: mattpocock/skills
+metadata:
+  stars: 126573
+added_at: '2026-06-05'

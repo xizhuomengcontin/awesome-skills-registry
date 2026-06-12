@@ -1,0 +1,23 @@
+id: lawvable-awesome-legal-skills-compliance-anthropic
+display_name: Privacy & Data Compliance
+description: Navigate privacy regulations (GDPR, CCPA), review DPAs, and handle data subject requests. Use when reviewing
+  data processing agreements, responding to data subject access or deletion requests, assessing cross-border data transfer
+  requirements, or evaluating privacy compliance.
+authors:
+- lawvable
+is_official: false
+tags:
+- gdpr
+- ccpa
+- privacy-compliance
+- data-processing-agreements
+- data-subject-requests
+- cross-border-data-transfer
+- dpa-review
+category: legal
+source:
+  path: /skills/compliance-anthropic
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 415
+added_at: '2026-06-05'

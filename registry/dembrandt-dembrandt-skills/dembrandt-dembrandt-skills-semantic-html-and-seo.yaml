@@ -1,0 +1,24 @@
+id: dembrandt-dembrandt-skills-semantic-html-and-seo
+display_name: Semantic HTML & SEO
+description: Semantic HTML5, SEO fundamentals, alt texts, progressive enhancement, SPA considerations, device capability detection,
+  and user context awareness. Good HTML is the foundation of accessibility, SEO, and resilient UI. Use when building any web
+  UI, reviewing markup quality, or optimising for search and accessibility.
+authors:
+- dembrandt
+is_official: false
+tags:
+- semantic-html
+- seo
+- accessibility
+- progressive-enhancement
+- spa
+- web-ui
+- markup-review
+- alt-text
+category: design
+source:
+  path: /skills/semantic-html-and-seo
+  repo: dembrandt/dembrandt-skills
+metadata:
+  stars: 14
+added_at: '2026-06-05'

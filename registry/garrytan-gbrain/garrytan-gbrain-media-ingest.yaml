@@ -1,0 +1,23 @@
+id: garrytan-gbrain-media-ingest
+display_name: Media Ingest
+description: Ingest video, audio, PDF, book, screenshot, and GitHub repo content into the brain. Multi-format handling with
+  entity extraction and backlink propagation. Covers video-ingest, youtube-ingest, and book-ingest subtypes.
+authors:
+- garrytan
+is_official: false
+tags:
+- media-ingestion
+- video-ingest
+- pdf-processing
+- entity-extraction
+- knowledge-graph
+- content-indexing
+- github-ingest
+- audio-ingest
+category: productivity
+source:
+  path: /skills/media-ingest
+  repo: garrytan/gbrain
+metadata:
+  stars: 22403
+added_at: '2026-06-05'

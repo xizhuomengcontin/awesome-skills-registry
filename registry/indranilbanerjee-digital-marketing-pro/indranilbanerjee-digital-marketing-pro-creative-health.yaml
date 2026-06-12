@@ -1,0 +1,20 @@
+id: indranilbanerjee-digital-marketing-pro-creative-health
+display_name: Creative Health
+description: 'Assess ad creative fatigue. Use when: ads underperform, need refresh timing, or creative lifecycle review.'
+authors:
+- indranilbanerjee
+is_official: false
+tags:
+- ad-creative
+- creative-fatigue
+- ad-performance
+- creative-lifecycle
+- refresh-timing
+- paid-advertising
+category: marketing
+source:
+  path: /skills/creative-health
+  repo: indranilbanerjee/digital-marketing-pro
+metadata:
+  stars: 136
+added_at: '2026-06-05'

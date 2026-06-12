@@ -1,0 +1,21 @@
+id: deanpeters-Product-Manager-Skills-opportunity-solution-tree
+display_name: Opportunity Solution Tree
+description: Build an Opportunity Solution Tree from outcomes to opportunities, solutions, and tests. Use when a stakeholder
+  request needs problem framing before you decide what to build.
+authors:
+- deanpeters
+is_official: false
+tags:
+- product-management
+- opportunity-solution-tree
+- problem-framing
+- product-strategy
+- continuous-discovery
+- outcomes
+category: business
+source:
+  path: /skills/opportunity-solution-tree
+  repo: deanpeters/Product-Manager-Skills
+metadata:
+  stars: 5080
+added_at: '2026-06-05'

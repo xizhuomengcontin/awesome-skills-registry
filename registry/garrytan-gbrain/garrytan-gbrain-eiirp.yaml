@@ -1,0 +1,25 @@
+id: garrytan-gbrain-eiirp
+display_name: EIIRP Knowledge Organizer
+description: 'Everything In Its Right Place. The universal post-work organizer. After any significant work session, EIIRP
+  runs a 7-phase audit: (1) inventory every output, (2) walk taxonomy to decide where each lands, (3) check schema-pack consistency
+  against the brain''s actual shape, (4) file enriched brain pages, (5) audit the skill graph for DRY+MECE, (6) verify resolvability,
+  (7) report. Named after the Radiohead song. Nothing produced during significant work lives only in chat — knowledge becomes
+  permanent, patterns become reusable.'
+authors:
+- garrytan
+is_official: false
+tags:
+- knowledge-management
+- organization
+- taxonomy
+- second-brain
+- workflow
+- audit
+- information-architecture
+category: productivity
+source:
+  path: /skills/eiirp
+  repo: garrytan/gbrain
+metadata:
+  stars: 22403
+added_at: '2026-06-05'

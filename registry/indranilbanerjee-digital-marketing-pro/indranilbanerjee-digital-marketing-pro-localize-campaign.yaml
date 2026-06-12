@@ -1,0 +1,20 @@
+id: indranilbanerjee-digital-marketing-pro-localize-campaign
+display_name: Localize Campaign
+description: 'Localize campaigns for multiple markets. Use when: translating assets, adapting references, adjusting compliance.'
+authors:
+- indranilbanerjee
+is_official: false
+tags:
+- localization
+- campaign-management
+- translation
+- international-marketing
+- compliance
+- market-adaptation
+category: marketing
+source:
+  path: /skills/localize-campaign
+  repo: indranilbanerjee/digital-marketing-pro
+metadata:
+  stars: 136
+added_at: '2026-06-05'

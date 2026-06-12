@@ -1,0 +1,21 @@
+id: alinaqi-maggy-reddit-ads
+display_name: Reddit Ads
+description: Reddit Ads API - campaigns, targeting, conversions, agentic optimization
+authors:
+- alinaqi
+is_official: false
+tags:
+- reddit-ads
+- paid-social
+- campaign-management
+- targeting
+- conversions
+- api-integration
+- ad-optimization
+category: marketing
+source:
+  path: /skills/reddit-ads
+  repo: alinaqi/maggy
+metadata:
+  stars: 694
+added_at: '2026-06-05'

@@ -1,0 +1,25 @@
+id: Eronred-aso-skills-competitor-tracking
+display_name: ASO Competitor Tracking
+description: When the user wants to monitor competitor apps on an ongoing basis — tracking metadata changes, keyword shifts,
+  screenshot updates, rating trends, or new features. Use when the user mentions "competitor monitoring", "track competitors",
+  "competitor alert", "competitor changed their title", "watch a competitor app", "competitor weekly report", "competitive
+  intelligence", or "what changed in competitor's listing". For a one-time deep competitive analysis, see competitor-analysis.
+  For market-wide chart movements, see market-movers.
+authors:
+- Eronred
+is_official: false
+tags:
+- aso
+- competitor-tracking
+- app-store
+- metadata-monitoring
+- competitive-intelligence
+- mobile-apps
+- alerts
+category: marketing
+source:
+  path: /skills/competitor-tracking
+  repo: Eronred/aso-skills
+metadata:
+  stars: 1482
+added_at: '2026-06-05'

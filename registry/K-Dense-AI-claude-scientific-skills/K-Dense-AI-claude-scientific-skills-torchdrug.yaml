@@ -1,0 +1,23 @@
+id: K-Dense-AI-claude-scientific-skills-torchdrug
+display_name: TorchDrug
+description: PyTorch-native graph neural networks for molecules and proteins. Use when building custom GNN architectures for
+  drug discovery, protein modeling, or knowledge graph reasoning. Best for custom model development, protein property prediction,
+  retrosynthesis. For pre-trained models and diverse featurizers use deepchem; for benchmark datasets use pytdc.
+authors:
+- K-Dense-AI
+is_official: false
+tags:
+- drug-discovery
+- graph-neural-networks
+- molecular-modeling
+- protein-prediction
+- retrosynthesis
+- pytorch
+- cheminformatics
+category: science
+source:
+  path: /skills/torchdrug
+  repo: K-Dense-AI/claude-scientific-skills
+metadata:
+  stars: 28042
+added_at: '2026-06-05'

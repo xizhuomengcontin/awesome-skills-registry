@@ -1,0 +1,21 @@
+id: alinaqi-maggy-react-web
+display_name: React Web Development
+description: React web development with hooks, React Query, Zustand
+authors:
+- alinaqi
+is_official: false
+tags:
+- react
+- web-development
+- hooks
+- react-query
+- zustand
+- frontend
+- javascript
+category: coding
+source:
+  path: /skills/react-web
+  repo: alinaqi/maggy
+metadata:
+  stars: 694
+added_at: '2026-06-05'

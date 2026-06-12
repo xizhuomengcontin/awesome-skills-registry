@@ -1,0 +1,25 @@
+id: lawvable-awesome-legal-skills-docx-processing-openai
+display_name: DOCX Processing (OpenAI)
+description: 'Toolkit for comprehensive document reading, editing, and creation with visual quality control. Use to work with
+  Word documents (.docx files) for: (1) Reading or extracting content from existing DOCX files, (2) Creating new Word documents
+  with professional formatting, (3) Editing documents requiring precise typography and layout, or any other DOCX reading or
+  generation tasks.'
+authors:
+- lawvable
+is_official: false
+tags:
+- word-document
+- docx
+- document-editing
+- document-creation
+- formatting
+- typography
+- visual-quality-control
+- microsoft-word
+category: productivity
+source:
+  path: /skills/docx-processing-openai
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 415
+added_at: '2026-06-05'

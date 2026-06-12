@@ -1,0 +1,22 @@
+id: gokapso-agent-skills-automate-whatsapp
+display_name: Automate WhatsApp
+description: 'Build WhatsApp automations with Kapso workflows: configure WhatsApp triggers, edit workflow graphs, manage executions,
+  deploy functions, and debug automation behavior. Use when automating WhatsApp conversations and event handling.'
+authors:
+- gokapso
+is_official: false
+tags:
+- whatsapp
+- automation
+- workflow
+- messaging
+- chatbot
+- kapso
+- triggers
+category: productivity
+source:
+  path: /skills/automate-whatsapp
+  repo: gokapso/agent-skills
+metadata:
+  stars: 129
+added_at: '2026-06-05'

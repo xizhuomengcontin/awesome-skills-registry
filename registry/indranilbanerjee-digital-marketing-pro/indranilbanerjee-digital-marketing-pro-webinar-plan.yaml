@@ -1,0 +1,21 @@
+id: indranilbanerjee-digital-marketing-pro-webinar-plan
+display_name: Webinar Planner
+description: 'Plan webinars and virtual events. Use when: designing promotion, content, registration, and post-event follow-up.'
+authors:
+- indranilbanerjee
+is_official: false
+tags:
+- webinar
+- virtual-events
+- event-planning
+- lead-generation
+- promotion
+- follow-up
+- registration
+category: marketing
+source:
+  path: /skills/webinar-plan
+  repo: indranilbanerjee/digital-marketing-pro
+metadata:
+  stars: 136
+added_at: '2026-06-05'

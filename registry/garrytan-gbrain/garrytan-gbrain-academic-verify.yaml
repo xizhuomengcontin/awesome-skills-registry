@@ -1,0 +1,24 @@
+id: garrytan-gbrain-academic-verify
+display_name: Academic Verify
+description: Verify a research claim or academic citation by tracing it through publication → methodology → raw data → independent
+  replication. Routes through perplexity-research for the actual web lookup, then formats results as a citation-checked brain
+  page. Use when a book/article/conversation cites a study and you want to confirm the claim is real, replicated, and accurately
+  characterized.
+authors:
+- garrytan
+is_official: false
+tags:
+- fact-checking
+- citation-verification
+- academic-research
+- replication
+- methodology
+- research-integrity
+- perplexity
+category: science
+source:
+  path: /skills/academic-verify
+  repo: garrytan/gbrain
+metadata:
+  stars: 22403
+added_at: '2026-06-05'
