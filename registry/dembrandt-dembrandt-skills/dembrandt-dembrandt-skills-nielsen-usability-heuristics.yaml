@@ -1,0 +1,23 @@
+id: dembrandt-dembrandt-skills-nielsen-usability-heuristics
+display_name: Nielsen Usability Heuristics
+description: UI design and review should apply Nielsen's 10 Usability Heuristics — the foundational principles for evaluating
+  and improving usability. Use when auditing an interface, designing interaction flows, writing error messages, or reviewing
+  any UI for usability issues.
+authors:
+- dembrandt
+is_official: false
+tags:
+- ux-design
+- usability
+- ui-review
+- heuristic-evaluation
+- interaction-design
+- accessibility
+- error-handling
+category: design
+source:
+  path: /skills/nielsen-usability-heuristics
+  repo: dembrandt/dembrandt-skills
+metadata:
+  stars: 14
+added_at: '2026-06-05'

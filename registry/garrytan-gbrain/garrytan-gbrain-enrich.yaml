@@ -1,0 +1,22 @@
+id: garrytan-gbrain-enrich
+display_name: Brain Page Enrichment
+description: Enrich brain pages with tiered enrichment protocol. Creates and updates person/company pages with compiled truth,
+  timeline, and cross-links. Use when a new entity is mentioned or an existing page needs updating.
+authors:
+- garrytan
+is_official: false
+tags:
+- knowledge-graph
+- entity-enrichment
+- person-profiles
+- company-profiles
+- note-taking
+- cross-linking
+- knowledge-base
+category: productivity
+source:
+  path: /skills/enrich
+  repo: garrytan/gbrain
+metadata:
+  stars: 22403
+added_at: '2026-06-05'

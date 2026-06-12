@@ -1,0 +1,21 @@
+id: bitwize-music-studio-claude-ai-music-skills-test
+display_name: Test
+description: Runs automated tests to validate plugin integrity across 14 categories. Use before creating PRs, after making
+  changes to skills or templates, or to verify plugin health.
+authors:
+- bitwize-music-studio
+is_official: false
+tags:
+- automated-testing
+- plugin-validation
+- qa
+- integrity-check
+- ci-cd
+- health-check
+category: coding
+source:
+  path: /skills/test
+  repo: bitwize-music-studio/claude-ai-music-skills
+metadata:
+  stars: 251
+added_at: '2026-06-05'

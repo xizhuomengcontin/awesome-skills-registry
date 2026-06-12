@@ -1,0 +1,25 @@
+id: mcollina-skills-linting-neostandard-eslint9
+display_name: Linting with Neostandard & ESLint 9
+description: Configures ESLint v9 flat config and neostandard for JavaScript and TypeScript projects, including migrating
+  from legacy `.eslintrc*` files or the `standard` package. Use when you need to set up or fix linting with `eslint.config.js`
+  or `eslint.config.mjs`, troubleshoot lint errors, configure neostandard rules, migrate from `.eslintrc` to flat config,
+  or integrate linting into CI pipelines and pre-commit hooks.
+authors:
+- mcollina
+is_official: false
+tags:
+- eslint
+- linting
+- javascript
+- typescript
+- flat-config
+- neostandard
+- ci-integration
+- code-quality
+category: coding
+source:
+  path: /skills/linting-neostandard-eslint9
+  repo: mcollina/skills
+metadata:
+  stars: 1835
+added_at: '2026-06-05'

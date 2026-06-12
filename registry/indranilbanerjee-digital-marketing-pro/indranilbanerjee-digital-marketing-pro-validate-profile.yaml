@@ -1,0 +1,22 @@
+id: indranilbanerjee-digital-marketing-pro-validate-profile
+display_name: Validate Profile
+description: Validate a brand profile end-to-end — required fields, voice/audience completeness, connector reachability, credentials
+  health, and compliance prerequisites — without exposing credential values. Run after any credential change or brand-profile
+  edit.
+authors:
+- indranilbanerjee
+is_official: false
+tags:
+- brand-profile
+- validation
+- credentials
+- compliance
+- brand-management
+- digital-marketing
+category: marketing
+source:
+  path: /skills/validate-profile
+  repo: indranilbanerjee/digital-marketing-pro
+metadata:
+  stars: 136
+added_at: '2026-06-05'

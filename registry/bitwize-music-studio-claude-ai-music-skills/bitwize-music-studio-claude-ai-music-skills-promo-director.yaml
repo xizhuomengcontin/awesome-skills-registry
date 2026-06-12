@@ -1,0 +1,21 @@
+id: bitwize-music-studio-claude-ai-music-skills-promo-director
+display_name: Promo Video Director
+description: Generates 15-second vertical promo videos for social media from mastered audio. Use after mastering is complete
+  and before release, when the user wants social media content.
+authors:
+- bitwize-music-studio
+is_official: false
+tags:
+- music-promotion
+- social-media-video
+- vertical-video
+- short-form-content
+- music-release
+- audio-visual
+category: creative
+source:
+  path: /skills/promo-director
+  repo: bitwize-music-studio/claude-ai-music-skills
+metadata:
+  stars: 251
+added_at: '2026-06-05'

@@ -1,0 +1,21 @@
+id: indranilbanerjee-digital-marketing-pro-search-knowledge
+display_name: Search Knowledge
+description: 'Search stored brand knowledge. Use when: recalling past learnings, voice guidelines, or competitor insights
+  via semantic search.'
+authors:
+- indranilbanerjee
+is_official: false
+tags:
+- brand-knowledge
+- semantic-search
+- knowledge-retrieval
+- brand-guidelines
+- competitor-insights
+- voice-guidelines
+category: marketing
+source:
+  path: /skills/search-knowledge
+  repo: indranilbanerjee/digital-marketing-pro
+metadata:
+  stars: 136
+added_at: '2026-06-05'

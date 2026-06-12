@@ -1,0 +1,25 @@
+id: mcollina-skills-typescript-magician
+display_name: TypeScript Magician
+description: Designs complex generic types, refactors `any` types to strict alternatives, creates type guards and utility
+  types, and resolves TypeScript compiler errors. Use when the user asks about TypeScript (TS) types, generics, type inference,
+  type guards, removing `any` types, strict typing, type errors, `infer`, `extends`, conditional types, mapped types, template
+  literal types, branded/opaque types, or utility types like `Partial`, `Record`, `ReturnType`, and `Awaited`.
+authors:
+- mcollina
+is_official: false
+tags:
+- typescript
+- generics
+- type-guards
+- utility-types
+- conditional-types
+- strict-typing
+- type-inference
+- compiler-errors
+category: coding
+source:
+  path: /skills/typescript-magician
+  repo: mcollina/skills
+metadata:
+  stars: 1835
+added_at: '2026-06-05'

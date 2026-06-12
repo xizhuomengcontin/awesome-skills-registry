@@ -1,0 +1,25 @@
+id: Eronred-aso-skills-rating-prompt-strategy
+display_name: Rating Prompt Strategy
+description: When the user wants to improve their app's star rating, increase ratings volume, optimize when and how they prompt
+  users for a review, or recover from a bad rating period. Use when the user mentions "app rating", "star rating", "review
+  prompt", "SKStoreReviewRequest", "In-App Review API", "ask for review", "low rating", "rating drop", "get more reviews",
+  or "recover from 1-star". For responding to reviews, see review-management. For overall ASO health, see aso-audit.
+authors:
+- Eronred
+is_official: false
+tags:
+- app-store-optimization
+- app-rating
+- review-prompt
+- aso
+- mobile-app
+- ios
+- android
+- user-reviews
+category: marketing
+source:
+  path: /skills/rating-prompt-strategy
+  repo: Eronred/aso-skills
+metadata:
+  stars: 1482
+added_at: '2026-06-05'

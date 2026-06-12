@@ -1,0 +1,27 @@
+id: tech-leads-club-agent-skills-excalidraw-studio
+display_name: Excalidraw Diagram Studio
+description: Generate Excalidraw diagrams from natural language descriptions. Outputs .excalidraw JSON files openable in Excalidraw.
+  Use when asked to "create a diagram", "make a flowchart", "visualize a process", "draw a system architecture", "create a
+  mind map", "generate an Excalidraw file", "draw an ER diagram", "create a sequence diagram", or "make a class diagram".
+  Supports flowcharts, relationship diagrams, mind maps, architecture, DFD, swimlane, class, sequence, and ER diagrams. Can
+  use icon libraries (AWS, GCP, etc.) when set up. Do NOT use for code architecture analysis (use the architecture skills),
+  Mermaid diagram rendering (use mermaid-studio), or non-visual documentation (use docs-writer).
+authors:
+- tech-leads-club
+is_official: false
+tags:
+- excalidraw
+- diagram-generation
+- flowchart
+- system-architecture
+- mind-map
+- er-diagram
+- sequence-diagram
+- visualization
+category: design
+source:
+  path: /packages/skills-catalog/skills/(tooling)/excalidraw-studio
+  repo: tech-leads-club/agent-skills
+metadata:
+  stars: 4578
+added_at: '2026-06-05'

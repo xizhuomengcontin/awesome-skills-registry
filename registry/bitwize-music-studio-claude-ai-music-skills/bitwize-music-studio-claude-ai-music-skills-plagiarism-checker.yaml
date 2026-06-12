@@ -1,0 +1,21 @@
+id: bitwize-music-studio-claude-ai-music-skills-plagiarism-checker
+display_name: Music Plagiarism Checker
+description: Scans lyrics for phrases that may match existing songs using web search and LLM knowledge. Use before release
+  to check for unintentional borrowing.
+authors:
+- bitwize-music-studio
+is_official: false
+tags:
+- plagiarism-detection
+- lyrics
+- music
+- copyright
+- originality-check
+- songwriting
+category: creative
+source:
+  path: /skills/plagiarism-checker
+  repo: bitwize-music-studio/claude-ai-music-skills
+metadata:
+  stars: 251
+added_at: '2026-06-05'

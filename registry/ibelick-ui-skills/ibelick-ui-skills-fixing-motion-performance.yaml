@@ -1,0 +1,22 @@
+id: ibelick-ui-skills-fixing-motion-performance
+display_name: Fixing Motion Performance
+description: Audit and fix animation performance issues including layout thrashing, compositor properties, scroll-linked motion,
+  and blur effects. Use when animations stutter, transitions jank, or reviewing CSS/JS animation performance.
+authors:
+- ibelick
+is_official: false
+tags:
+- animation-performance
+- css-animation
+- layout-thrashing
+- compositor
+- scroll-performance
+- web-performance
+- ui-optimization
+category: coding
+source:
+  path: /skills/fixing-motion-performance
+  repo: ibelick/ui-skills
+metadata:
+  stars: 2696
+added_at: '2026-06-05'

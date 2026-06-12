@@ -1,0 +1,23 @@
+id: K-Dense-AI-claude-scientific-skills-scikit-bio
+display_name: Scikit Bio
+description: Biological data toolkit. Sequence analysis, alignments, phylogenetic trees, diversity metrics (alpha/beta, UniFrac),
+  ordination (PCoA), PERMANOVA, FASTA/Newick I/O, for microbiome analysis.
+authors:
+- K-Dense-AI
+is_official: false
+tags:
+- bioinformatics
+- sequence-analysis
+- phylogenetics
+- microbiome
+- diversity-metrics
+- unifrac
+- pcoa
+- permanova
+category: science
+source:
+  path: /skills/scikit-bio
+  repo: K-Dense-AI/claude-scientific-skills
+metadata:
+  stars: 28042
+added_at: '2026-06-05'

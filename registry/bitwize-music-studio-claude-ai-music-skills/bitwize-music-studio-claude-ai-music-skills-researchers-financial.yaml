@@ -1,0 +1,21 @@
+id: bitwize-music-studio-claude-ai-music-skills-researchers-financial
+display_name: Financial Researcher
+description: Researches SEC filings, earnings calls, analyst reports, and market data. Use when the album subject involves
+  financial crimes, corporate stories, or market events.
+authors:
+- bitwize-music-studio
+is_official: false
+tags:
+- financial-research
+- sec-filings
+- earnings-calls
+- market-data
+- corporate-stories
+- music-production
+category: creative
+source:
+  path: /skills/researchers-financial
+  repo: bitwize-music-studio/claude-ai-music-skills
+metadata:
+  stars: 251
+added_at: '2026-06-05'

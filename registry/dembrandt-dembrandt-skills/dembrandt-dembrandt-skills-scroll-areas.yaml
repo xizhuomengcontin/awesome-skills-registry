@@ -1,0 +1,23 @@
+id: dembrandt-dembrandt-skills-scroll-areas
+display_name: Scroll Areas
+description: Scroll areas inside a layout should be avoided wherever possible. When unavoidable, allow only one scroll axis
+  at a time and always keep the user in control. Use when designing layouts, data tables, panels, or any component that might
+  introduce an inner scroll container.
+authors:
+- dembrandt
+is_official: false
+tags:
+- ui-design
+- scroll-behavior
+- layout
+- ux-patterns
+- data-tables
+- inner-scroll
+- component-design
+category: design
+source:
+  path: /skills/scroll-areas
+  repo: dembrandt/dembrandt-skills
+metadata:
+  stars: 14
+added_at: '2026-06-05'

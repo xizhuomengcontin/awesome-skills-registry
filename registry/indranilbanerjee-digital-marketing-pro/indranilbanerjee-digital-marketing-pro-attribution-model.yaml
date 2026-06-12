@@ -1,0 +1,21 @@
+id: indranilbanerjee-digital-marketing-pro-attribution-model
+display_name: Attribution Model
+description: 'Set up attribution models. Use when: multi-touch attribution, credit distribution rules, GA4 config, channel
+  contribution.'
+authors:
+- indranilbanerjee
+is_official: false
+tags:
+- attribution
+- multi-touch
+- ga4
+- channel-analysis
+- digital-marketing
+- analytics
+category: marketing
+source:
+  path: /skills/attribution-model
+  repo: indranilbanerjee/digital-marketing-pro
+metadata:
+  stars: 136
+added_at: '2026-06-05'

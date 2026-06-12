@@ -1,0 +1,26 @@
+id: vercel-labs-agent-skills-react-view-transitions
+display_name: React View Transitions
+description: Guide for implementing smooth, native-feeling animations using React's View Transition API (`<ViewTransition>`
+  component, `addTransitionType`, and CSS view transition pseudo-elements). Use this skill whenever the user wants to add
+  page transitions, animate route changes, create shared element animations, animate enter/exit of components, animate list
+  reorder, implement directional (forward/back) navigation animations, or integrate view transitions in Next.js. Also use
+  when the user mentions view transitions, `startViewTransition`, `ViewTransition`, transition types, or asks about animating
+  between UI states in React without third-party animation libraries.
+authors:
+- vercel-labs
+is_official: true
+tags:
+- react
+- view-transitions
+- animations
+- page-transitions
+- nextjs
+- css
+- ui-motion
+category: coding
+source:
+  path: /skills/react-view-transitions
+  repo: vercel-labs/agent-skills
+metadata:
+  stars: 27842
+added_at: '2026-06-05'

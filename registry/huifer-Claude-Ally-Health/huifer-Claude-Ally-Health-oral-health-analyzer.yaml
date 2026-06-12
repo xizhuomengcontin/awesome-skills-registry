@@ -1,0 +1,21 @@
+id: huifer-Claude-Ally-Health-oral-health-analyzer
+display_name: Oral Health Analyzer
+description: 分析口腔健康数据、识别口腔问题模式、评估口腔健康状况、提供个性化口腔健康建议。支持与营养、慢性病、用药等其他健康数据的关联分析。
+authors:
+- huifer
+is_official: false
+tags:
+- oral-health
+- dental
+- health-analysis
+- personalized-recommendations
+- chronic-disease
+- nutrition
+- health-data
+category: health
+source:
+  path: /skills/oral-health-analyzer
+  repo: huifer/Claude-Ally-Health
+metadata:
+  stars: 876
+added_at: '2026-06-05'

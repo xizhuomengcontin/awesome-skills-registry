@@ -1,0 +1,23 @@
+id: dembrandt-dembrandt-skills-button-states
+display_name: Button States
+description: Every interactive element needs a complete set of visual states — rest, hover, active/pressed, focus, disabled,
+  and loading. States should be derived algorithmically from the base colour, not chosen arbitrarily. Use when designing buttons,
+  links, inputs, or any clickable component.
+authors:
+- dembrandt
+is_official: false
+tags:
+- ui-components
+- interactive-states
+- hover-states
+- accessibility
+- design-system
+- buttons
+- visual-design
+category: design
+source:
+  path: /skills/button-states
+  repo: dembrandt/dembrandt-skills
+metadata:
+  stars: 14
+added_at: '2026-06-05'

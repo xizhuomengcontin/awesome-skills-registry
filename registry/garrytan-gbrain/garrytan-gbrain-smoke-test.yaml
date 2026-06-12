@@ -1,0 +1,21 @@
+id: garrytan-gbrain-smoke-test
+display_name: Smoke Test
+description: Post-restart smoke tests + auto-fix for gbrain and OpenClaw environments. Tests critical services, auto-fixes
+  known issues, extensible via user-defined test scripts in ~/.gbrain/smoke-tests.d/*.sh.
+authors:
+- garrytan
+is_official: false
+tags:
+- smoke-testing
+- gbrain
+- diagnostics
+- auto-fix
+- devops
+- environment-health
+category: productivity
+source:
+  path: /skills/smoke-test
+  repo: garrytan/gbrain
+metadata:
+  stars: 22403
+added_at: '2026-06-05'

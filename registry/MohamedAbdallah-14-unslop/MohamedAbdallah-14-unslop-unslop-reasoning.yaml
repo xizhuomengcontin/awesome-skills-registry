@@ -1,0 +1,25 @@
+id: MohamedAbdallah-14-unslop-unslop-reasoning
+display_name: Unslop Reasoning
+description: 'Strip AI-slop patterns from reasoning traces (chain-of-thought, extended thinking, agent decomposition) — not
+  final prose. Reasoning text has its own slop catalog that regular unslop doesn''t target: over-explaining the question,
+  over-hedging, over-decomposing trivial problems into 6-bullet substeps, infinite-loop rationalization. Trigger: /unslop-reasoning,
+  "clean up my reasoning", "fix this chain of thought", "this CoT sounds robotic". Applies to reasoning output; does not override
+  regular /unslop mode.'
+authors:
+- MohamedAbdallah-14
+is_official: false
+tags:
+- chain-of-thought
+- reasoning
+- text-editing
+- ai-writing
+- humanize-text
+- llm-output
+- thinking-traces
+category: creative
+source:
+  path: /skills/unslop-reasoning
+  repo: MohamedAbdallah-14/unslop
+metadata:
+  stars: 57
+added_at: '2026-06-05'

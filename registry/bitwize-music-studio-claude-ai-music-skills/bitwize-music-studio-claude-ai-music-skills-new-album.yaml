@@ -1,0 +1,20 @@
+id: bitwize-music-studio-claude-ai-music-skills-new-album
+display_name: New Album Creator
+description: Creates a new album with the correct directory structure and templates. Use IMMEDIATELY when the user says 'make
+  a new album' or similar, before any discussion.
+authors:
+- bitwize-music-studio
+is_official: false
+tags:
+- music-production
+- album-creation
+- project-setup
+- directory-structure
+- music-studio
+category: creative
+source:
+  path: /skills/new-album
+  repo: bitwize-music-studio/claude-ai-music-skills
+metadata:
+  stars: 251
+added_at: '2026-06-05'

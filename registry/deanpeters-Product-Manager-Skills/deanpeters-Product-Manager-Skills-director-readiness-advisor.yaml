@@ -1,0 +1,22 @@
+id: deanpeters-Product-Manager-Skills-director-readiness-advisor
+display_name: Director Readiness Advisor
+description: Guide the PM-to-Director transition across preparing, interviewing, landing, and recalibrating. Use when leadership
+  scope is changing and you need practical coaching.
+authors:
+- deanpeters
+is_official: false
+tags:
+- career-coaching
+- leadership
+- product-management
+- promotion
+- director-level
+- interview-prep
+- pm-career
+category: business
+source:
+  path: /skills/director-readiness-advisor
+  repo: deanpeters/Product-Manager-Skills
+metadata:
+  stars: 5080
+added_at: '2026-06-05'

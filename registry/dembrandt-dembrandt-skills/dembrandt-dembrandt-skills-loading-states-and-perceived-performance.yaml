@@ -1,0 +1,23 @@
+id: dembrandt-dembrandt-skills-loading-states-and-perceived-performance
+display_name: Loading States & Perceived Performance
+description: Manage user expectations during wait times with appropriate loading states — from simple spinners to complex
+  skeleton screens and staggered animations. Perceived performance is often more important than actual load time. Use when
+  designing data-heavy components, handling API calls, building hero sections, or improving the feel of a slow interface.
+authors:
+- dembrandt
+is_official: false
+tags:
+- ux
+- loading-states
+- skeleton-screens
+- animations
+- perceived-performance
+- ui-components
+- web-design
+category: design
+source:
+  path: /skills/loading-states-and-perceived-performance
+  repo: dembrandt/dembrandt-skills
+metadata:
+  stars: 14
+added_at: '2026-06-05'

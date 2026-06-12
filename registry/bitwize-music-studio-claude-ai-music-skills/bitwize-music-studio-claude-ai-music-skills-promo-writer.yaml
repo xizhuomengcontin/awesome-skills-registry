@@ -1,0 +1,21 @@
+id: bitwize-music-studio-claude-ai-music-skills-promo-writer
+display_name: Promo Copy Writer
+description: Generates platform-specific social media copy from album themes, track concepts, and lyrics. Use when promo/
+  templates need to be populated before release.
+authors:
+- bitwize-music-studio
+is_official: false
+tags:
+- social-media-copy
+- music-promotion
+- copywriting
+- music-release
+- content-creation
+- platform-specific
+category: creative
+source:
+  path: /skills/promo-writer
+  repo: bitwize-music-studio/claude-ai-music-skills
+metadata:
+  stars: 251
+added_at: '2026-06-05'

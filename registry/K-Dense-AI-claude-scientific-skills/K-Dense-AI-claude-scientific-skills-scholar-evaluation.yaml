@@ -1,0 +1,23 @@
+id: K-Dense-AI-claude-scientific-skills-scholar-evaluation
+display_name: Scholar Evaluation
+description: Systematically evaluate scholarly work using the ScholarEval framework, providing structured assessment across
+  research quality dimensions including problem formulation, methodology, analysis, and writing with quantitative scoring
+  and actionable feedback.
+authors:
+- K-Dense-AI
+is_official: false
+tags:
+- peer-review
+- research-evaluation
+- academic-writing
+- scholarly-assessment
+- scoring-framework
+- methodology-review
+- feedback
+category: science
+source:
+  path: /skills/scholar-evaluation
+  repo: K-Dense-AI/claude-scientific-skills
+metadata:
+  stars: 28042
+added_at: '2026-06-05'

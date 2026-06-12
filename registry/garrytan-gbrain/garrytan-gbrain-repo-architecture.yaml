@@ -1,0 +1,20 @@
+id: garrytan-gbrain-repo-architecture
+display_name: Repo Architecture
+description: Where new brain files go. Decision protocol for filing brain pages by primary subject, not by format or source.
+  Reference for all brain-writing skills.
+authors:
+- garrytan
+is_official: false
+tags:
+- knowledge-base
+- file-organization
+- information-architecture
+- brain-management
+- documentation-structure
+category: productivity
+source:
+  path: /skills/repo-architecture
+  repo: garrytan/gbrain
+metadata:
+  stars: 22403
+added_at: '2026-06-05'

@@ -1,0 +1,21 @@
+id: K-Dense-AI-claude-scientific-skills-pymatgen
+display_name: Pymatgen Materials Science
+description: Materials science toolkit. Crystal structures (CIF, POSCAR), phase diagrams, band structure, DOS, Materials Project
+  integration, format conversion, for computational materials science.
+authors:
+- K-Dense-AI
+is_official: false
+tags:
+- materials-science
+- crystal-structures
+- phase-diagrams
+- band-structure
+- materials-project
+- computational-chemistry
+category: science
+source:
+  path: /skills/pymatgen
+  repo: K-Dense-AI/claude-scientific-skills
+metadata:
+  stars: 28042
+added_at: '2026-06-05'

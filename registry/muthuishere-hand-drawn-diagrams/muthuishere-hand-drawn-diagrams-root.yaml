@@ -1,0 +1,23 @@
+id: muthuishere-hand-drawn-diagrams-root
+display_name: Hand-Drawn Diagrams
+description: Create hand-drawn Excalidraw diagrams, flows, explainers, wireframes, and page mockups. Default to monochrome
+  sketch output; allow restrained color only for page mockups when the user explicitly wants webpage-like fidelity.
+authors:
+- muthuishere
+is_official: false
+tags:
+- excalidraw
+- hand-drawn
+- wireframes
+- diagrams
+- flowcharts
+- sketching
+- mockups
+- visual-explainers
+category: design
+source:
+  path: /
+  repo: muthuishere/hand-drawn-diagrams
+metadata:
+  stars: 39
+added_at: '2026-06-05'

@@ -19,7 +19,6 @@ from urllib.parse import urlparse
 
 import yaml
 from github import Github, GithubException
-from rapidfuzz import fuzz
 
 MAX_SCAN_WORKERS = 10
 MAX_FETCH_WORKERS = 15
@@ -30,7 +29,6 @@ logger = logging.getLogger(__name__)
 REPO_ROOT = Path(__file__).resolve().parent.parent
 REGISTRY_DIR = REPO_ROOT / "registry"
 SOURCES_PATH = REPO_ROOT / "sources.yaml"
-SIMILARITY_THRESHOLD = 75
 
 
 def retry(max_attempts: int = 3, base_delay: float = 1.0):
@@ -85,15 +83,7 @@ class SkillFile:
     folder_url: str = ""
     authors: list[str] = field(default_factory=list)
     is_official: bool = False
-
-
-@dataclass
-class RegistryEntry:
-    folder: str
-    filename: str
-    name: str
-    description: str
-    comparison_text: str
+    stars: int = 0
 
 
 def load_sources(path: Path = SOURCES_PATH) -> list[Source]:
@@ -173,6 +163,7 @@ def _walk_contents(
     skill_filename: str = "SKILL.md",
     authors: list[str] | None = None,
     is_official: bool = False,
+    stars: int = 0,
 ) -> list[SkillFile]:
     """Recursively walk a directory and collect SKILL.md files."""
     results: list[SkillFile] = []
@@ -193,7 +184,7 @@ def _walk_contents(
             results.extend(
                 _walk_contents(
                     repo, item.path, owner, repo_name, default_branch,
-                    skill_filename, authors, is_official,
+                    skill_filename, authors, is_official, stars,
                 )
             )
         elif item.name == skill_filename:
@@ -212,6 +203,7 @@ def _walk_contents(
                     skill_filename=skill_filename,
                     authors=list(authors),
                     is_official=is_official,
+                    stars=stars,
                 )
             )
 
@@ -222,6 +214,7 @@ def find_skill_files(source: Source, github: Github) -> list[SkillFile]:
     """Find all skill files in a source repo based on its skills_paths and skill_filename."""
     repo = github.get_repo(f"{source.owner}/{source.repo}")
     default_branch = repo.default_branch
+    stars = repo.stargazers_count or 0
     results: list[SkillFile] = []
 
     for path in source.skills_paths:
@@ -251,12 +244,13 @@ def find_skill_files(source: Source, github: Github) -> list[SkillFile]:
                     skill_filename=source.skill_filename,
                     authors=list(source.authors),
                     is_official=source.is_official,
+                    stars=stars,
                 )
             )
         else:
             results.extend(_walk_contents(
                 repo, path.rstrip("/"), source.owner, source.repo, default_branch,
-                source.skill_filename, source.authors, source.is_official,
+                source.skill_filename, source.authors, source.is_official, stars,
             ))
 
     return results
@@ -298,66 +292,9 @@ def extract_metadata(content: str) -> dict[str, str]:
     return {"name": name, "description": description}
 
 
-def build_comparison_text(name: str, description: str) -> str:
-    return f"{name} {description}".strip()
-
-
-def build_registry_index() -> list[RegistryEntry]:
-    """Build an index of all existing registry entries."""
-    entries: list[RegistryEntry] = []
-
-    for filepath in glob.glob(str(REGISTRY_DIR / "**" / "*.yaml"), recursive=True):
-        with open(filepath) as f:
-            data = yaml.safe_load(f)
-
-        if not isinstance(data, dict):
-            continue
-
-        name = str(data.get("id", "") or "")
-        description = str(data.get("description", "") or "")
-        folder = Path(filepath).parent.name
-        filename = Path(filepath).name
-
-        entries.append(
-            RegistryEntry(
-                folder=folder,
-                filename=filename,
-                name=name,
-                description=description,
-                comparison_text=build_comparison_text(name, description),
-            )
-        )
-
-    return entries
-
-
-def find_matching_folder(text: str, index: list[RegistryEntry]) -> str | None:
-    """Find an existing task folder with similar content."""
-    if not text:
-        return None
-
-    best_score = 0
-    best_folder = None
-
-    for entry in index:
-        if not entry.comparison_text:
-            continue
-        score = fuzz.token_sort_ratio(text, entry.comparison_text)
-        if score > best_score:
-            best_score = score
-            best_folder = entry.folder
-
-    if best_score >= SIMILARITY_THRESHOLD:
-        return best_folder
-    return None
-
-
-def to_folder_name(name: str, index: int = 0) -> str:
-    """Convert a skill name to a filesystem-safe folder name."""
-    folder = re.sub(r"[^a-z0-9]+", "-", name.lower()).strip("-")
-    if not folder or folder == ".":
-        folder = f"skill-{index}"
-    return folder
+def source_folder_name(owner: str, repo: str) -> str:
+    """Per-source folder name: one folder per source repo (e.g. cloudflare-skills)."""
+    return f"{owner}-{repo}"
 
 
 def to_display_name(skill_dir: str) -> str:
@@ -410,7 +347,7 @@ def write_skill_yaml(
             "path": source_path,
             "repo": f"{skill_file.owner}/{skill_file.repo}",
         },
-        "metadata": {},
+        "metadata": {"stars": skill_file.stars},
         "added_at": date.today().isoformat(),
     }
 
@@ -682,7 +619,6 @@ def main() -> None:
 
     github = Github(token)
     sources = load_sources()
-    index = build_registry_index()
 
     # --- Phase 1: Scan all sources in parallel ---
     logger.info("Phase 1: Scanning %d sources (%d workers)...", len(sources), MAX_SCAN_WORKERS)
@@ -736,27 +672,14 @@ def main() -> None:
 
     logger.info("Successfully fetched %d / %d skill(s)", len(fetched), len(to_process))
 
-    # --- Phase 3: Register skills sequentially (folder matching depends on updated index) ---
+    # --- Phase 3: Register skills (one folder per source repo) ---
     logger.info("Phase 3: Registering %d skill(s)...", len(fetched))
     new_files: list[str] = []
 
     for skill, metadata in fetched:
-        text = build_comparison_text(metadata["name"], metadata["description"])
-        folder = find_matching_folder(text, index) or to_folder_name(
-            metadata["name"] or skill.skill_dir, len(new_files)
-        )
+        folder = source_folder_name(skill.owner, skill.repo)
         filepath = write_skill_yaml(folder, skill, metadata)
         new_files.append(filepath)
-
-        index.append(
-            RegistryEntry(
-                folder=folder,
-                filename=Path(filepath).name,
-                name=metadata["name"],
-                description=metadata["description"],
-                comparison_text=text,
-            )
-        )
 
     create_pr(new_files, token)
 

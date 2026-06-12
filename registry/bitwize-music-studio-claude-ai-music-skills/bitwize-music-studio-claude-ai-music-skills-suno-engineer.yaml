@@ -1,0 +1,21 @@
+id: bitwize-music-studio-claude-ai-music-skills-suno-engineer
+display_name: Suno Engineer
+description: Constructs technical Suno V5/V5.5 style prompts, selects genres, and optimizes generation settings. Use when
+  creating or refining Suno prompts for track generation.
+authors:
+- bitwize-music-studio
+is_official: false
+tags:
+- suno
+- ai-music
+- prompt-engineering
+- music-generation
+- genre
+- audio-production
+category: creative
+source:
+  path: /skills/suno-engineer
+  repo: bitwize-music-studio/claude-ai-music-skills
+metadata:
+  stars: 251
+added_at: '2026-06-05'

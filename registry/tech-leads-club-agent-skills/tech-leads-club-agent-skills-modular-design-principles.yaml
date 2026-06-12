@@ -1,0 +1,27 @@
+id: tech-leads-club-agent-skills-modular-design-principles
+display_name: Modular Design Principles
+description: 'Technology-agnostic guidance for modular systems: bounded contexts, clear boundaries, composability, state isolation,
+  explicit contracts, failure containment, scaffolding workflows, split/merge criteria, sub-units inside a context, and compliance
+  review signals. Use when designing or reviewing module structure, service boundaries, package layout, cross-cutting dependencies,
+  "how should we split this?", modularity assessments, coupling between domains, greenfield context design, or architecture
+  discussions without assuming a specific framework, language, or repository layout. Do NOT use for executing the full Patterns
+  1–5 repo decomposition pipeline or per-pattern inventories (use modular-decomposition), phased extraction roadmaps as the
+  main deliverable (use decomposition-planning-roadmap), or end-to-end legacy migration strategy (use legacy-migration-planner).'
+authors:
+- tech-leads-club
+is_official: false
+tags:
+- software-architecture
+- modular-design
+- bounded-contexts
+- service-boundaries
+- domain-driven-design
+- coupling
+- composability
+category: coding
+source:
+  path: /packages/skills-catalog/skills/(architecture)/modular-design-principles
+  repo: tech-leads-club/agent-skills
+metadata:
+  stars: 4578
+added_at: '2026-06-05'

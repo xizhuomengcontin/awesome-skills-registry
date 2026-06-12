@@ -1,0 +1,21 @@
+id: alinaqi-maggy-base
+display_name: Base Coding Patterns
+description: Universal coding patterns, constraints, TDD workflow, atomic todos
+authors:
+- alinaqi
+is_official: false
+tags:
+- tdd
+- test-driven-development
+- coding-patterns
+- workflow
+- atomic-todos
+- constraints
+- best-practices
+category: coding
+source:
+  path: /skills/base
+  repo: alinaqi/maggy
+metadata:
+  stars: 694
+added_at: '2026-06-05'

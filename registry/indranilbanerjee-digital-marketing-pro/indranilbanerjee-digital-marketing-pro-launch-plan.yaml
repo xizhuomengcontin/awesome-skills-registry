@@ -1,0 +1,20 @@
+id: indranilbanerjee-digital-marketing-pro-launch-plan
+display_name: Launch Plan
+description: 'Build product launch playbooks. Use when: planning pre-launch, launch day, or post-launch phases.'
+authors:
+- indranilbanerjee
+is_official: false
+tags:
+- product-launch
+- launch-playbook
+- pre-launch
+- post-launch
+- launch-strategy
+- go-to-market
+category: marketing
+source:
+  path: /skills/launch-plan
+  repo: indranilbanerjee/digital-marketing-pro
+metadata:
+  stars: 136
+added_at: '2026-06-05'

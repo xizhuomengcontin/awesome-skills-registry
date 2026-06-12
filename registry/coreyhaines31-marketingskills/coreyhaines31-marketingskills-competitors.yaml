@@ -1,0 +1,26 @@
+id: coreyhaines31-marketingskills-competitors
+display_name: Competitor Comparison Pages
+description: 'When the user wants to create competitor comparison or alternative pages for SEO and sales enablement. Also
+  use when the user mentions ''alternative page,'' ''vs page,'' ''competitor comparison,'' ''comparison page,'' ''[Product]
+  vs [Product],'' ''[Product] alternative,'' ''competitive landing pages,'' ''how do we compare to X,'' ''battle card,'' or
+  ''competitor teardown.'' Use this for any content that positions your product against competitors. Covers four formats:
+  singular alternative, plural alternatives, you vs competitor, and competitor vs competitor. For sales-specific competitor
+  docs, see sales-enablement.'
+authors:
+- coreyhaines31
+is_official: false
+tags:
+- competitor-comparison
+- versus-pages
+- alternative-pages
+- seo
+- sales-enablement
+- landing-pages
+- content-creation
+category: marketing
+source:
+  path: /skills/competitors
+  repo: coreyhaines31/marketingskills
+metadata:
+  stars: 33005
+added_at: '2026-06-05'

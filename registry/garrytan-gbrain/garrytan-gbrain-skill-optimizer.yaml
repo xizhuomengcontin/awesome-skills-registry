@@ -1,0 +1,19 @@
+id: garrytan-gbrain-skill-optimizer
+display_name: Skill Optimizer (GBrain)
+description: Self-evolving skill optimization via SkillOpt-paper-grounded text-space optimizer.
+authors:
+- garrytan
+is_official: false
+tags:
+- skill-optimization
+- gbrain
+- prompt-engineering
+- self-evolving
+- ai-agents
+category: productivity
+source:
+  path: /skills/skill-optimizer
+  repo: garrytan/gbrain
+metadata:
+  stars: 22403
+added_at: '2026-06-05'

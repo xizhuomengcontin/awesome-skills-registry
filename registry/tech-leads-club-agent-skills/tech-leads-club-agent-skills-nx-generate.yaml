@@ -1,0 +1,25 @@
+id: tech-leads-club-agent-skills-nx-generate
+display_name: Nx Generate
+description: Generate code using Nx generators — scaffold projects, libraries, features, or run workspace-specific generators
+  with proper discovery, validation, and verification. Use when user says "create a new library", "scaffold a component",
+  "generate code with Nx", "run a generator", "nx generate", or any code scaffolding task in a monorepo. Prefers local workspace-plugin
+  generators over external plugins. Do NOT use for running build/test/lint tasks (use nx-run-tasks) or workspace configuration
+  (use nx-workspace).
+authors:
+- tech-leads-club
+is_official: false
+tags:
+- nx
+- code-generation
+- scaffolding
+- monorepo
+- generators
+- libraries
+- components
+category: coding
+source:
+  path: /packages/skills-catalog/skills/(tooling)/nx-generate
+  repo: tech-leads-club/agent-skills
+metadata:
+  stars: 4578
+added_at: '2026-06-05'

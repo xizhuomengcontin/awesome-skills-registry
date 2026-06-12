@@ -1,0 +1,23 @@
+id: garrytan-gbrain-data-research
+display_name: Data Research
+description: 'Structured data research: search sources, extract structured data, archive raw sources, maintain canonical tracker
+  pages, deduplicate. Parameterized via YAML recipes for investor updates, donations, company updates, or any email-to-structured-data
+  pipeline.'
+authors:
+- garrytan
+is_official: false
+tags:
+- research
+- data-extraction
+- structured-data
+- email-pipeline
+- deduplication
+- tracking
+- yaml
+category: data-ai
+source:
+  path: /skills/data-research
+  repo: garrytan/gbrain
+metadata:
+  stars: 22403
+added_at: '2026-06-05'

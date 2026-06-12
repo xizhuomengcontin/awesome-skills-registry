@@ -1,0 +1,21 @@
+id: deanpeters-Product-Manager-Skills-proto-persona
+display_name: Proto Persona Builder
+description: Create a proto-persona from current research, market signals, and team knowledge. Use when you need a working
+  customer profile before deeper validation.
+authors:
+- deanpeters
+is_official: false
+tags:
+- user-research
+- persona
+- product-management
+- customer-profile
+- market-research
+- ux-research
+category: business
+source:
+  path: /skills/proto-persona
+  repo: deanpeters/Product-Manager-Skills
+metadata:
+  stars: 5080
+added_at: '2026-06-05'

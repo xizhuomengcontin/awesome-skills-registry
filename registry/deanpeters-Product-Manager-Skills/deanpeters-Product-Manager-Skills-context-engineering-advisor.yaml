@@ -1,0 +1,21 @@
+id: deanpeters-Product-Manager-Skills-context-engineering-advisor
+display_name: Context Engineering Advisor
+description: Diagnose context stuffing vs. context engineering. Use when an AI workflow feels bloated, brittle, or hard to
+  steer reliably.
+authors:
+- deanpeters
+is_official: false
+tags:
+- context-engineering
+- ai-workflow
+- prompt-optimization
+- ai-reliability
+- llm-tuning
+- context-management
+category: data-ai
+source:
+  path: /skills/context-engineering-advisor
+  repo: deanpeters/Product-Manager-Skills
+metadata:
+  stars: 5080
+added_at: '2026-06-05'

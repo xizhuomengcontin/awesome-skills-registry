@@ -1,0 +1,20 @@
+id: alinaqi-maggy-react-native
+display_name: React Native
+description: React Native mobile patterns, platform-specific code
+authors:
+- alinaqi
+is_official: false
+tags:
+- react-native
+- mobile
+- ios
+- android
+- cross-platform
+- platform-specific
+category: coding
+source:
+  path: /skills/react-native
+  repo: alinaqi/maggy
+metadata:
+  stars: 694
+added_at: '2026-06-05'

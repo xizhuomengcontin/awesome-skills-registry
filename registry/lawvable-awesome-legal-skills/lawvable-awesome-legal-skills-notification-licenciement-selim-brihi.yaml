@@ -1,0 +1,24 @@
+id: lawvable-awesome-legal-skills-notification-licenciement-selim-brihi
+display_name: Notification de Licenciement
+description: Guide pour la rédaction de notifications de licenciement conformes au droit du travail français. Utiliser ce
+  skill quand l'utilisateur demande de rédiger, préparer, créer ou éditer une lettre de notification de licenciement, notamment
+  pour faute grave, faute lourde ou motif personnel. Le skill guide la collecte d'informations précises et la rédaction d'une
+  notification juridiquement solide avec tous les éléments obligatoires du droit français.
+authors:
+- lawvable
+is_official: false
+tags:
+- droit-du-travail
+- licenciement
+- lettre-notification
+- droit-francais
+- rh
+- faute-grave
+- conformite-legale
+category: legal
+source:
+  path: /skills/notification-licenciement-selim-brihi
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 415
+added_at: '2026-06-05'

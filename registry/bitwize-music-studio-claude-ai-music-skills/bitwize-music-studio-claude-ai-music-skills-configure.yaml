@@ -1,0 +1,20 @@
+id: bitwize-music-studio-claude-ai-music-skills-configure
+display_name: Plugin Configuration
+description: Sets up or edits the plugin configuration file interactively. Use on first-time setup, when config is missing,
+  or when the user wants to change settings.
+authors:
+- bitwize-music-studio
+is_official: false
+tags:
+- configuration
+- setup
+- plugin-settings
+- music-studio
+- onboarding
+category: miscellaneous
+source:
+  path: /skills/configure
+  repo: bitwize-music-studio/claude-ai-music-skills
+metadata:
+  stars: 251
+added_at: '2026-06-05'

@@ -1,0 +1,24 @@
+id: K-Dense-AI-claude-scientific-skills-deepchem
+display_name: DeepChem
+description: Molecular ML with diverse featurizers and pre-built datasets. Use for property prediction (ADMET, toxicity) with
+  traditional ML or GNNs when you want extensive featurization options and MoleculeNet benchmarks. Best for quick experiments
+  with pre-trained models, diverse molecular representations. For graph-first PyTorch workflows use torchdrug; for benchmark
+  datasets use pytdc.
+authors:
+- K-Dense-AI
+is_official: false
+tags:
+- machine-learning
+- molecular-ml
+- admet
+- drug-discovery
+- cheminformatics
+- gnn
+- featurization
+category: science
+source:
+  path: /skills/deepchem
+  repo: K-Dense-AI/claude-scientific-skills
+metadata:
+  stars: 28042
+added_at: '2026-06-05'

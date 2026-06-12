@@ -1,0 +1,23 @@
+id: K-Dense-AI-claude-scientific-skills-pylabrobot
+display_name: PyLabRobot Lab Automation
+description: Vendor-agnostic lab automation framework. Use when controlling multiple equipment types (Hamilton, Tecan, Opentrons,
+  plate readers, pumps) or needing unified programming across different vendors. Best for complex workflows, multi-vendor
+  setups, simulation. For Opentrons-only protocols with official API, opentrons-integration may be simpler.
+authors:
+- K-Dense-AI
+is_official: false
+tags:
+- lab-automation
+- robotics
+- liquid-handling
+- hamilton
+- tecan
+- opentrons
+- multi-vendor
+category: science
+source:
+  path: /skills/pylabrobot
+  repo: K-Dense-AI/claude-scientific-skills
+metadata:
+  stars: 28042
+added_at: '2026-06-05'

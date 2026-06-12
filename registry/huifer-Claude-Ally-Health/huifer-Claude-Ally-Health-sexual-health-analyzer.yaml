@@ -1,0 +1,21 @@
+id: huifer-Claude-Ally-Health-sexual-health-analyzer
+display_name: Sexual Health Analyzer
+description: 本技能提供全面的性健康数据分析功能,包括IIEF-5评分分析、STD筛查管理、避孕效果评估、性活动统计以及与用药、慢性病、心理、营养、运动等模块的深度关联分析。
+authors:
+- huifer
+is_official: false
+tags:
+- sexual-health
+- iief-5
+- std-screening
+- contraception
+- health-analytics
+- chronic-disease
+- data-analysis
+category: health
+source:
+  path: /skills/sexual-health-analyzer
+  repo: huifer/Claude-Ally-Health
+metadata:
+  stars: 876
+added_at: '2026-06-05'

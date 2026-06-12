@@ -1,0 +1,20 @@
+id: indranilbanerjee-digital-marketing-pro-budget-optimizer
+display_name: Budget Optimizer
+description: 'Optimize budget allocation. Use when: channel spend reallocation, data-driven budget planning, ROI-based justification.'
+authors:
+- indranilbanerjee
+is_official: false
+tags:
+- budget-allocation
+- channel-spend
+- roi-optimization
+- data-driven-planning
+- paid-media
+- spend-reallocation
+category: marketing
+source:
+  path: /skills/budget-optimizer
+  repo: indranilbanerjee/digital-marketing-pro
+metadata:
+  stars: 136
+added_at: '2026-06-05'

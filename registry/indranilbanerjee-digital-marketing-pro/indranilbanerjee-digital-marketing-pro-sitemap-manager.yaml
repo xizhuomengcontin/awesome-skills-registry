@@ -1,0 +1,20 @@
+id: indranilbanerjee-digital-marketing-pro-sitemap-manager
+display_name: Sitemap Manager
+description: 'Manage XML sitemaps. Use when: auditing sitemap health, generating sitemaps, or planning sitemap architecture.'
+authors:
+- indranilbanerjee
+is_official: false
+tags:
+- xml-sitemap
+- seo
+- sitemap-audit
+- site-structure
+- crawlability
+- search-indexing
+category: marketing
+source:
+  path: /skills/sitemap-manager
+  repo: indranilbanerjee/digital-marketing-pro
+metadata:
+  stars: 136
+added_at: '2026-06-05'

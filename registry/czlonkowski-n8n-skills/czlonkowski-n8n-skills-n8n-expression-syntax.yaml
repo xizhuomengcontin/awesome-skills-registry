@@ -1,0 +1,24 @@
+id: czlonkowski-n8n-skills-n8n-expression-syntax
+display_name: N8N Expression Syntax
+description: Validate n8n expression syntax and fix common errors. Use when writing n8n expressions, using {{}} syntax, accessing
+  $json/$node variables, troubleshooting expression errors, mapping data between nodes, or referencing webhook data in workflows.
+  Use this skill whenever configuring node fields that reference data from previous nodes — expressions are how n8n passes
+  data between nodes, and getting the syntax wrong is the most common source of workflow errors.
+authors:
+- czlonkowski
+is_official: false
+tags:
+- n8n
+- expressions
+- syntax
+- workflow-automation
+- data-mapping
+- debugging
+- variable-references
+category: coding
+source:
+  path: /skills/n8n-expression-syntax
+  repo: czlonkowski/n8n-skills
+metadata:
+  stars: 5393
+added_at: '2026-06-05'

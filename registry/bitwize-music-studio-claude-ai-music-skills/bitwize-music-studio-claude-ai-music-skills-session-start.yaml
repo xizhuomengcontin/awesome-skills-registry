@@ -1,0 +1,20 @@
+id: bitwize-music-studio-claude-ai-music-skills-session-start
+display_name: Session Start
+description: Runs the session startup procedure - verifies setup, loads config and state, checks skill models, and reports
+  project status. Use at the beginning of a fresh session.
+authors:
+- bitwize-music-studio
+is_official: false
+tags:
+- session-startup
+- configuration
+- state-loading
+- project-status
+- music-studio
+category: productivity
+source:
+  path: /skills/session-start
+  repo: bitwize-music-studio/claude-ai-music-skills
+metadata:
+  stars: 251
+added_at: '2026-06-05'

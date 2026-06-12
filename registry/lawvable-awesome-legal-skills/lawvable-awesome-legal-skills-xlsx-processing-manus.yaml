@@ -1,0 +1,23 @@
+id: lawvable-awesome-legal-skills-xlsx-processing-manus
+display_name: XLSX Processing (Manus)
+description: Professional Excel spreadsheet creation with a focus on aesthetics and data analysis. Use when creating spreadsheets
+  for organizing, analyzing, and presenting structured data in a clear and professional format.
+authors:
+- lawvable
+is_official: false
+tags:
+- excel
+- spreadsheet
+- data-analysis
+- formatting
+- professional
+- legal
+- tabular-data
+- visualization
+category: data-ai
+source:
+  path: /skills/xlsx-processing-manus
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 415
+added_at: '2026-06-05'

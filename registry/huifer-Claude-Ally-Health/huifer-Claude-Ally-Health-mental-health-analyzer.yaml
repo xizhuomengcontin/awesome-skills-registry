@@ -1,0 +1,21 @@
+id: huifer-Claude-Ally-Health-mental-health-analyzer
+display_name: Mental Health Analyzer
+description: 分析心理健康数据、识别心理模式、评估心理健康状况、提供个性化心理健康建议。支持与睡眠、运动、营养等其他健康数据的关联分析。
+authors:
+- huifer
+is_official: false
+tags:
+- mental-health
+- psychological-analysis
+- wellness-tracking
+- behavioral-patterns
+- sleep-analysis
+- personalized-recommendations
+- health-data-correlation
+category: health
+source:
+  path: /skills/mental-health-analyzer
+  repo: huifer/Claude-Ally-Health
+metadata:
+  stars: 876
+added_at: '2026-06-05'

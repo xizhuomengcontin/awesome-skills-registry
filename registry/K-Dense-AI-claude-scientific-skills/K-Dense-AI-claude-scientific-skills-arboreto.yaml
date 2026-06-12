@@ -1,0 +1,23 @@
+id: K-Dense-AI-claude-scientific-skills-arboreto
+display_name: Arboreto GRN Inference
+description: Infer gene regulatory networks (GRNs) from gene expression data using scalable algorithms (GRNBoost2, GENIE3).
+  Use when analyzing transcriptomics data (bulk RNA-seq, single-cell RNA-seq) to identify transcription factor-target gene
+  relationships and regulatory interactions. Supports distributed computation for large-scale datasets.
+authors:
+- K-Dense-AI
+is_official: false
+tags:
+- gene-regulatory-networks
+- rna-seq
+- single-cell
+- transcription-factors
+- grnboost2
+- genie3
+- bioinformatics
+category: science
+source:
+  path: /skills/arboreto
+  repo: K-Dense-AI/claude-scientific-skills
+metadata:
+  stars: 28042
+added_at: '2026-06-05'

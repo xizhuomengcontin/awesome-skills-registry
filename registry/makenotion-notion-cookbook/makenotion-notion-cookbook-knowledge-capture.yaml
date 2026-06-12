@@ -1,0 +1,22 @@
+id: makenotion-notion-cookbook-knowledge-capture
+display_name: Notion Knowledge Capture
+description: Transforms conversations and discussions into structured documentation pages in Notion. Captures insights, decisions,
+  and knowledge from chat context, formats appropriately, and saves to wikis or databases with proper organization and linking
+  for easy discovery.
+authors:
+- makenotion
+is_official: true
+tags:
+- notion
+- knowledge-management
+- documentation
+- wiki
+- structured-notes
+- information-capture
+category: productivity
+source:
+  path: /skills/claude/knowledge-capture
+  repo: makenotion/notion-cookbook
+metadata:
+  stars: 145
+added_at: '2026-06-05'

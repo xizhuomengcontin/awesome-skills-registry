@@ -1,0 +1,21 @@
+id: indranilbanerjee-digital-marketing-pro-programmatic-seo
+display_name: Programmatic SEO Planner
+description: 'Plan programmatic SEO pages. Use when: building template engines, URL patterns, thin content safeguards, or
+  quality gates.'
+authors:
+- indranilbanerjee
+is_official: false
+tags:
+- programmatic-seo
+- template-engine
+- url-structure
+- content-quality
+- seo-planning
+- thin-content
+category: marketing
+source:
+  path: /skills/programmatic-seo
+  repo: indranilbanerjee/digital-marketing-pro
+metadata:
+  stars: 136
+added_at: '2026-06-05'

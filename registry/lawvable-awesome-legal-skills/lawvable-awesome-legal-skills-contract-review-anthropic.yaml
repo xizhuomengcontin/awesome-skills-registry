@@ -1,0 +1,22 @@
+id: lawvable-awesome-legal-skills-contract-review-anthropic
+display_name: Contract Review
+description: Review contracts against your organization's negotiation playbook, flagging deviations and generating redline
+  suggestions. Use when reviewing vendor contracts, customer agreements, or any commercial agreement where you need clause-by-clause
+  analysis against standard positions.
+authors:
+- lawvable
+is_official: false
+tags:
+- contract-review
+- redlining
+- vendor-contracts
+- negotiation-playbook
+- clause-analysis
+- commercial-agreements
+category: legal
+source:
+  path: /skills/contract-review-anthropic
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 415
+added_at: '2026-06-05'

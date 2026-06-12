@@ -1,0 +1,24 @@
+id: Eronred-aso-skills-keyword-research
+display_name: ASO Keyword Research
+description: When the user wants to discover, evaluate, or prioritize App Store keywords. Also use when the user mentions
+  "keyword research", "find keywords", "search volume", "keyword difficulty", "keyword ideas", or "what keywords should I
+  target". For implementing keywords into metadata, see metadata-optimization. For auditing current keyword performance, see
+  aso-audit.
+authors:
+- Eronred
+is_official: false
+tags:
+- aso
+- app-store
+- keyword-research
+- search-volume
+- keyword-difficulty
+- mobile-apps
+- app-store-optimization
+category: marketing
+source:
+  path: /skills/keyword-research
+  repo: Eronred/aso-skills
+metadata:
+  stars: 1482
+added_at: '2026-06-05'

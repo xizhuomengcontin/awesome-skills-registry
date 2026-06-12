@@ -1,0 +1,21 @@
+id: alinaqi-maggy-aws-dynamodb
+display_name: AWS DynamoDB
+description: AWS DynamoDB single-table design, GSI patterns, SDK v3 TypeScript/Python
+authors:
+- alinaqi
+is_official: false
+tags:
+- aws
+- dynamodb
+- nosql
+- single-table-design
+- gsi
+- typescript
+- python
+category: coding
+source:
+  path: /skills/aws-dynamodb
+  repo: alinaqi/maggy
+metadata:
+  stars: 694
+added_at: '2026-06-05'

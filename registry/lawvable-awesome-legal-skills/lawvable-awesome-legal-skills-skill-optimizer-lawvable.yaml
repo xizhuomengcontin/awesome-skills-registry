@@ -1,0 +1,21 @@
+id: lawvable-awesome-legal-skills-skill-optimizer-lawvable
+display_name: Skill Optimizer (Lawvable)
+description: Guide to analyze a current work session and propose improvements to skills. Use (1) automatically after working
+  with a skill to capture learnings, (2) when the user suggests improvements, corrections, or additions during a skill-related
+  session, or (3) when the user manually invokes `self-improve`.
+authors:
+- lawvable
+is_official: false
+tags:
+- skill-optimization
+- self-improvement
+- prompt-engineering
+- ai-agents
+- session-learning
+category: productivity
+source:
+  path: /skills/skill-optimizer-lawvable
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 415
+added_at: '2026-06-05'

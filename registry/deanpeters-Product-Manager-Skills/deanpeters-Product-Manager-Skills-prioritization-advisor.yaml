@@ -1,0 +1,22 @@
+id: deanpeters-Product-Manager-Skills-prioritization-advisor
+display_name: Prioritization Advisor
+description: Choose a prioritization framework based on stage, team context, and stakeholder needs. Use when deciding between
+  RICE, ICE, value/effort, or another scoring approach.
+authors:
+- deanpeters
+is_official: false
+tags:
+- prioritization
+- product-management
+- rice-framework
+- ice-scoring
+- roadmap
+- decision-making
+- frameworks
+category: productivity
+source:
+  path: /skills/prioritization-advisor
+  repo: deanpeters/Product-Manager-Skills
+metadata:
+  stars: 5080
+added_at: '2026-06-05'

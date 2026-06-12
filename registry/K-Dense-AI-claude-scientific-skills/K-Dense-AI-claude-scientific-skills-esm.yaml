@@ -1,0 +1,25 @@
+id: K-Dense-AI-claude-scientific-skills-esm
+display_name: ESM Protein Language Models
+description: Comprehensive toolkit for EvolutionaryScale protein language models including ESM3 (generative multimodal design
+  across sequence, structure, and function) and ESM C (efficient embeddings). Use for protein sequence/structure/function
+  tasks, inverse folding, embeddings, variant design, and ESMFold2 structure prediction via Biohub. Supports local open weights
+  (Python 3.12, esm on PyPI) and cloud Forge/Biohub APIs with ESM_API_KEY authentication.
+authors:
+- K-Dense-AI
+is_official: false
+tags:
+- protein-language-model
+- esm3
+- protein-design
+- structure-prediction
+- bioinformatics
+- inverse-folding
+- embeddings
+- variant-design
+category: science
+source:
+  path: /skills/esm
+  repo: K-Dense-AI/claude-scientific-skills
+metadata:
+  stars: 28042
+added_at: '2026-06-05'

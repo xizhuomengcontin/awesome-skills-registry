@@ -1,0 +1,22 @@
+id: mattpocock-skills-git-guardrails-claude-code
+display_name: Git Guardrails for Claude Code
+description: Set up Claude Code hooks to block dangerous git commands (push, reset --hard, clean, branch -D, etc.) before
+  they execute. Use when user wants to prevent destructive git operations, add git safety hooks, or block git push/reset in
+  Claude Code.
+authors:
+- mattpocock
+is_official: false
+tags:
+- git
+- safety-hooks
+- destructive-commands
+- git-guardrails
+- claude-code
+- developer-tools
+category: coding
+source:
+  path: /skills/misc/git-guardrails-claude-code
+  repo: mattpocock/skills
+metadata:
+  stars: 126573
+added_at: '2026-06-05'

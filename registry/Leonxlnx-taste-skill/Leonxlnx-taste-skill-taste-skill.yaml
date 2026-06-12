@@ -1,0 +1,24 @@
+id: Leonxlnx-taste-skill-taste-skill
+display_name: Taste Skill
+description: Anti-slop frontend skill for landing pages, portfolios, and redesigns. The agent reads the brief, infers the
+  right design direction, and ships interfaces that do not look templated. Real design systems when applicable, audit-first
+  on redesigns, strict pre-flight check.
+authors:
+- Leonxlnx
+is_official: false
+tags:
+- frontend
+- landing-page
+- portfolio
+- ui-design
+- design-systems
+- anti-templated
+- redesign
+- web-ui
+category: design
+source:
+  path: /skills/taste-skill
+  repo: Leonxlnx/taste-skill
+metadata:
+  stars: 42062
+added_at: '2026-06-05'

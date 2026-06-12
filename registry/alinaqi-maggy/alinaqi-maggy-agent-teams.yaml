@@ -1,0 +1,21 @@
+id: alinaqi-maggy-agent-teams
+display_name: Agent Teams
+description: Claude Code Agent Teams - default team-based development with strict TDD pipeline enforcement
+authors:
+- alinaqi
+is_official: false
+tags:
+- ai-agents
+- claude-code
+- tdd
+- team-development
+- pipeline
+- multi-agent
+- software-engineering
+category: coding
+source:
+  path: /skills/agent-teams
+  repo: alinaqi/maggy
+metadata:
+  stars: 694
+added_at: '2026-06-05'

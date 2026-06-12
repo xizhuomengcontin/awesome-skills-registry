@@ -1,0 +1,22 @@
+id: indranilbanerjee-digital-marketing-pro-content-decay-scan
+display_name: Content Decay Scan
+description: 'Scan content library for decay signals: declining traffic, falling rankings, outdated stats, dropped AI citations.
+  Prioritizes refresh opportunities by business impact. Use when identifying content that needs refreshing, recovering lost
+  traffic, or auditing for stale and underperforming content.'
+authors:
+- indranilbanerjee
+is_official: false
+tags:
+- content-audit
+- seo
+- traffic-recovery
+- content-refresh
+- ranking-analysis
+- content-performance
+category: marketing
+source:
+  path: /skills/content-decay-scan
+  repo: indranilbanerjee/digital-marketing-pro
+metadata:
+  stars: 136
+added_at: '2026-06-05'

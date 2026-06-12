@@ -1,0 +1,21 @@
+id: alinaqi-maggy-site-architecture
+display_name: Site Architecture (SEO)
+description: Technical SEO - robots.txt, sitemap, meta tags, Core Web Vitals
+authors:
+- alinaqi
+is_official: false
+tags:
+- technical-seo
+- robots-txt
+- sitemap
+- meta-tags
+- core-web-vitals
+- site-structure
+- crawlability
+category: marketing
+source:
+  path: /skills/site-architecture
+  repo: alinaqi/maggy
+metadata:
+  stars: 694
+added_at: '2026-06-05'

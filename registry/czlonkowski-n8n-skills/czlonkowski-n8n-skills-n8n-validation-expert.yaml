@@ -1,0 +1,24 @@
+id: czlonkowski-n8n-skills-n8n-validation-expert
+display_name: N8N Validation Expert
+description: Interpret validation errors and guide fixing them. Use when encountering validation errors, validation warnings,
+  false positives, operator structure issues, or need help understanding validation results. Also use when asking about validation
+  profiles, error types, the validation loop process, or auto-fix capabilities. Consult this skill whenever a validate_node
+  or validate_workflow call returns errors or warnings — it knows which warnings are false positives and which errors need
+  real fixes.
+authors:
+- czlonkowski
+is_official: false
+tags:
+- n8n
+- validation
+- error-handling
+- debugging
+- workflow-automation
+- auto-fix
+category: coding
+source:
+  path: /skills/n8n-validation-expert
+  repo: czlonkowski/n8n-skills
+metadata:
+  stars: 5393
+added_at: '2026-06-05'

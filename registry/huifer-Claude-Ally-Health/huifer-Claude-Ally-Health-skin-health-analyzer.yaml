@@ -1,0 +1,21 @@
+id: huifer-Claude-Ally-Health-skin-health-analyzer
+display_name: Skin Health Analyzer
+description: 分析皮肤健康数据、识别皮肤问题模式、评估皮肤健康状况、提供个性化皮肤健康建议。支持与营养、慢性病、用药等其他健康数据的关联分析。
+authors:
+- huifer
+is_official: false
+tags:
+- skin-health
+- dermatology
+- health-analysis
+- personalized-recommendations
+- nutrition
+- chronic-disease
+- health-data
+category: health
+source:
+  path: /skills/skin-health-analyzer
+  repo: huifer/Claude-Ally-Health
+metadata:
+  stars: 876
+added_at: '2026-06-05'

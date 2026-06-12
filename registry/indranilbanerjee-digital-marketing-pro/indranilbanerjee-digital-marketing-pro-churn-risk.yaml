@@ -1,0 +1,19 @@
+id: indranilbanerjee-digital-marketing-pro-churn-risk
+display_name: Churn Risk Assessment
+description: 'Assess customer churn risk. Use when: churn scoring, at-risk segment identification, intervention playbook generation.'
+authors:
+- indranilbanerjee
+is_official: false
+tags:
+- churn-scoring
+- customer-retention
+- at-risk-segments
+- intervention-playbook
+- customer-analytics
+category: marketing
+source:
+  path: /skills/churn-risk
+  repo: indranilbanerjee/digital-marketing-pro
+metadata:
+  stars: 136
+added_at: '2026-06-05'

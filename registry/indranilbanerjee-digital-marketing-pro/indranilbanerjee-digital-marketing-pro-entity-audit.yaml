@@ -1,0 +1,21 @@
+id: indranilbanerjee-digital-marketing-pro-entity-audit
+display_name: Brand Entity Audit
+description: 'Audit brand entity consistency. Use when: checking Wikidata, Knowledge Panel, or directory discrepancies.'
+authors:
+- indranilbanerjee
+is_official: false
+tags:
+- brand-consistency
+- entity-audit
+- wikidata
+- knowledge-panel
+- seo
+- directory-listings
+- brand-management
+category: marketing
+source:
+  path: /skills/entity-audit
+  repo: indranilbanerjee/digital-marketing-pro
+metadata:
+  stars: 136
+added_at: '2026-06-05'

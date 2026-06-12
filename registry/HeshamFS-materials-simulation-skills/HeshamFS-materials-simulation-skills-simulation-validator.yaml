@@ -1,0 +1,26 @@
+id: HeshamFS-materials-simulation-skills-simulation-validator
+display_name: Simulation Validator
+description: Validate simulations across three stages — run pre-flight checks on configuration files (parameter ranges, required
+  fields, disk space), monitor runtime logs for residual growth, NaN/Inf, and adaptive dt collapse, and perform post-flight
+  validation of results (physical bounds, mass/energy conservation, convergence). Diagnose failed simulations with probable-cause
+  analysis and recommended fixes. Use when preparing to launch a simulation, checking whether a running job is healthy, verifying
+  that finished results are trustworthy, or debugging a crash or blow-up, even if the user only says "my simulation crashed"
+  or "can I trust these results."
+authors:
+- HeshamFS
+is_official: false
+tags:
+- simulation
+- validation
+- preflight-checks
+- convergence
+- materials-science
+- debugging
+- energy-conservation
+category: science
+source:
+  path: /skills/simulation-workflow/simulation-validator
+  repo: HeshamFS/materials-simulation-skills
+metadata:
+  stars: 41
+added_at: '2026-06-05'

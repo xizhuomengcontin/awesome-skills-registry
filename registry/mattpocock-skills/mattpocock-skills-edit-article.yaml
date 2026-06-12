@@ -1,0 +1,22 @@
+id: mattpocock-skills-edit-article
+display_name: Edit Article
+description: Edit and improve articles by restructuring sections, improving clarity, and tightening prose. Use when user wants
+  to edit, revise, or improve an article draft.
+authors:
+- mattpocock
+is_official: false
+tags:
+- article-editing
+- writing
+- prose-improvement
+- content-revision
+- copyediting
+- clarity
+- structure
+category: creative
+source:
+  path: /skills/personal/edit-article
+  repo: mattpocock/skills
+metadata:
+  stars: 126573
+added_at: '2026-06-05'

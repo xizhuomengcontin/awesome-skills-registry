@@ -1,0 +1,21 @@
+id: deanpeters-Product-Manager-Skills-positioning-statement
+display_name: Positioning Statement
+description: Create a Geoffrey Moore-style positioning statement. Use when clarifying who you serve, what problem you solve,
+  your category, and why you're different from alternatives.
+authors:
+- deanpeters
+is_official: false
+tags:
+- positioning
+- product-messaging
+- geoffrey-moore
+- value-proposition
+- differentiation
+- product-management
+category: marketing
+source:
+  path: /skills/positioning-statement
+  repo: deanpeters/Product-Manager-Skills
+metadata:
+  stars: 5080
+added_at: '2026-06-05'

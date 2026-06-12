@@ -1,0 +1,22 @@
+id: indranilbanerjee-digital-marketing-pro-campaign-plan
+display_name: Campaign Plan
+description: 'Build multi-channel campaign plans. Use when: objectives, audience targeting, channel mix, budget, timeline,
+  KPIs.'
+authors:
+- indranilbanerjee
+is_official: false
+tags:
+- campaign-planning
+- multi-channel
+- audience-targeting
+- channel-mix
+- budget
+- kpis
+- timeline
+category: marketing
+source:
+  path: /skills/campaign-plan
+  repo: indranilbanerjee/digital-marketing-pro
+metadata:
+  stars: 136
+added_at: '2026-06-05'

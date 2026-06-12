@@ -1,0 +1,23 @@
+id: CloudAI-X-threejs-skills-threejs-postprocessing
+display_name: Three.js Post-Processing
+description: Three.js post-processing - EffectComposer, bloom, DOF, screen effects. Use when adding visual effects, color
+  grading, blur, glow, or creating custom screen-space shaders.
+authors:
+- CloudAI-X
+is_official: false
+tags:
+- three-js
+- 3d
+- post-processing
+- bloom
+- depth-of-field
+- visual-effects
+- screen-space
+- webgl
+category: coding
+source:
+  path: /skills/threejs-postprocessing
+  repo: CloudAI-X/threejs-skills
+metadata:
+  stars: 2385
+added_at: '2026-06-05'

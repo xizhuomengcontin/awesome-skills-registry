@@ -1,0 +1,20 @@
+id: indranilbanerjee-digital-marketing-pro-budget-tracker
+display_name: Budget Tracker
+description: 'Track budget pacing in real time. Use when: cross-platform spend tracking, overspend alerts, reallocation recommendations.'
+authors:
+- indranilbanerjee
+is_official: false
+tags:
+- budget-tracking
+- spend-pacing
+- cross-platform
+- overspend-alerts
+- real-time-monitoring
+- reallocation
+category: marketing
+source:
+  path: /skills/budget-tracker
+  repo: indranilbanerjee/digital-marketing-pro
+metadata:
+  stars: 136
+added_at: '2026-06-05'

@@ -1,0 +1,21 @@
+id: alinaqi-maggy-gemini-review
+display_name: Gemini Code Review
+description: Google Gemini CLI code review with Gemini 2.5 Pro, 1M token context, CI/CD integration
+authors:
+- alinaqi
+is_official: false
+tags:
+- gemini
+- code-review
+- ci-cd
+- llm-review
+- google-gemini
+- static-analysis
+- large-context
+category: coding
+source:
+  path: /skills/gemini-review
+  repo: alinaqi/maggy
+metadata:
+  stars: 694
+added_at: '2026-06-05'

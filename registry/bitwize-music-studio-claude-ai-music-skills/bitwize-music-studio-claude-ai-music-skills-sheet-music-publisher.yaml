@@ -1,0 +1,21 @@
+id: bitwize-music-studio-claude-ai-music-skills-sheet-music-publisher
+display_name: Sheet Music Publisher
+description: Converts mastered audio to sheet music and creates printable songbooks. Use after mastering when the user wants
+  sheet music or a songbook for their album.
+authors:
+- bitwize-music-studio
+is_official: false
+tags:
+- sheet-music
+- music-notation
+- songbook
+- audio-transcription
+- music-publishing
+- print-layout
+category: creative
+source:
+  path: /skills/sheet-music-publisher
+  repo: bitwize-music-studio/claude-ai-music-skills
+metadata:
+  stars: 251
+added_at: '2026-06-05'

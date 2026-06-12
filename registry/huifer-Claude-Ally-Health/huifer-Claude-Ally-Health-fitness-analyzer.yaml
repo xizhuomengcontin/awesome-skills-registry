@@ -1,0 +1,20 @@
+id: huifer-Claude-Ally-Health-fitness-analyzer
+display_name: Fitness Analyzer
+description: 分析运动数据、识别运动模式、评估健身进展，并提供个性化训练建议。支持与慢性病数据的关联分析。
+authors:
+- huifer
+is_official: false
+tags:
+- fitness-tracking
+- exercise-data
+- training-recommendations
+- chronic-disease
+- workout-analysis
+- health-patterns
+category: health
+source:
+  path: /skills/fitness-analyzer
+  repo: huifer/Claude-Ally-Health
+metadata:
+  stars: 876
+added_at: '2026-06-05'

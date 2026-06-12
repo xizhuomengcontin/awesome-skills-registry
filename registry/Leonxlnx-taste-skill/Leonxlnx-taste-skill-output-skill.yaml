@@ -1,0 +1,21 @@
+id: Leonxlnx-taste-skill-output-skill
+display_name: Complete Output Enforcer
+description: Overrides default LLM truncation behavior. Enforces complete code generation, bans placeholder patterns, and
+  handles token-limit splits cleanly. Apply to any task requiring exhaustive, unabridged output.
+authors:
+- Leonxlnx
+is_official: false
+tags:
+- code-generation
+- complete-output
+- truncation-prevention
+- llm-behavior
+- unabridged
+- token-limit
+category: productivity
+source:
+  path: /skills/output-skill
+  repo: Leonxlnx/taste-skill
+metadata:
+  stars: 42062
+added_at: '2026-06-05'

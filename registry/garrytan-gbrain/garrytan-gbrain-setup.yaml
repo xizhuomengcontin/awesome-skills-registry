@@ -1,0 +1,21 @@
+id: garrytan-gbrain-setup
+display_name: GBrain Setup
+description: Set up GBrain with auto-provision Supabase or PGLite, AGENTS.md injection, first import
+authors:
+- garrytan
+is_official: false
+tags:
+- setup
+- supabase
+- pglite
+- agent-configuration
+- auto-provision
+- knowledge-base
+- onboarding
+category: productivity
+source:
+  path: /skills/setup
+  repo: garrytan/gbrain
+metadata:
+  stars: 22403
+added_at: '2026-06-05'

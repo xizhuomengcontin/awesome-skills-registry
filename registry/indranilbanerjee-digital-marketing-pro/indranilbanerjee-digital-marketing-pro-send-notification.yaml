@@ -1,0 +1,20 @@
+id: indranilbanerjee-digital-marketing-pro-send-notification
+display_name: Send Notification
+description: 'Send team notifications. Use when: pushing campaign updates, alerts, or approval requests via Slack or Intercom.'
+authors:
+- indranilbanerjee
+is_official: false
+tags:
+- notifications
+- slack
+- intercom
+- team-alerts
+- campaign-updates
+- approval-workflow
+category: productivity
+source:
+  path: /skills/send-notification
+  repo: indranilbanerjee/digital-marketing-pro
+metadata:
+  stars: 136
+added_at: '2026-06-05'

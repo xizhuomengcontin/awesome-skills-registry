@@ -1,0 +1,22 @@
+id: indranilbanerjee-digital-marketing-pro-pricing-test
+display_name: Pricing Test
+description: 'Test pricing strategies with synthetic data. Use when: simulating willingness to pay, price sensitivity, or
+  optimal price points.'
+authors:
+- indranilbanerjee
+is_official: false
+tags:
+- pricing-test
+- synthetic-data
+- price-sensitivity
+- willingness-to-pay
+- simulation
+- monetization
+- market-research
+category: marketing
+source:
+  path: /skills/pricing-test
+  repo: indranilbanerjee/digital-marketing-pro
+metadata:
+  stars: 136
+added_at: '2026-06-05'

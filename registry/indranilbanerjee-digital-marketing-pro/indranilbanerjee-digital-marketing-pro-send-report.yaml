@@ -1,0 +1,20 @@
+id: indranilbanerjee-digital-marketing-pro-send-report
+display_name: Send Report
+description: 'Deliver performance reports. Use when: sending KPI summaries via Slack, email, or Google Sheets with analysis.'
+authors:
+- indranilbanerjee
+is_official: false
+tags:
+- reporting
+- kpi
+- slack
+- google-sheets
+- performance-analysis
+- campaign-reports
+category: marketing
+source:
+  path: /skills/send-report
+  repo: indranilbanerjee/digital-marketing-pro
+metadata:
+  stars: 136
+added_at: '2026-06-05'

@@ -1,0 +1,23 @@
+id: tech-leads-club-agent-skills-cloudflare-deploy
+display_name: Cloudflare Deploy
+description: Deploy applications and infrastructure to Cloudflare using Workers, Pages, and related platform services. Use
+  when the user asks to deploy, host, publish, or set up a project on Cloudflare. Do NOT use for deploying to Vercel, Netlify,
+  or Render (use their respective skills).
+authors:
+- tech-leads-club
+is_official: false
+tags:
+- cloudflare
+- deployment
+- workers
+- pages
+- hosting
+- infrastructure
+- serverless
+category: coding
+source:
+  path: /packages/skills-catalog/skills/(cloud)/cloudflare-deploy
+  repo: tech-leads-club/agent-skills
+metadata:
+  stars: 4578
+added_at: '2026-06-05'

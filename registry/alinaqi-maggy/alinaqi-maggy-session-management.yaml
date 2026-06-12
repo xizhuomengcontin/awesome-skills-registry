@@ -1,0 +1,19 @@
+id: alinaqi-maggy-session-management
+display_name: Session Management
+description: Context preservation, tiered summarization, resumability
+authors:
+- alinaqi
+is_official: false
+tags:
+- context-preservation
+- summarization
+- session-resumability
+- memory-management
+- conversation-state
+category: productivity
+source:
+  path: /skills/session-management
+  repo: alinaqi/maggy
+metadata:
+  stars: 694
+added_at: '2026-06-05'

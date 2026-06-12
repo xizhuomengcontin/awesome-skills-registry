@@ -1,0 +1,21 @@
+id: deanpeters-Product-Manager-Skills-discovery-process
+display_name: Discovery Process
+description: Run a full discovery cycle from problem hypothesis to validated solution. Use when a team needs a structured
+  path through framing, interviews, synthesis, and experiments.
+authors:
+- deanpeters
+is_official: false
+tags:
+- product-discovery
+- product-management
+- user-research
+- hypothesis-validation
+- product-strategy
+- experiment-design
+category: business
+source:
+  path: /skills/discovery-process
+  repo: deanpeters/Product-Manager-Skills
+metadata:
+  stars: 5080
+added_at: '2026-06-05'

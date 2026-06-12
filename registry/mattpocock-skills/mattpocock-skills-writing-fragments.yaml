@@ -1,0 +1,23 @@
+id: mattpocock-skills-writing-fragments
+display_name: Writing Fragments
+description: Grilling session that mines the user for fragments — heterogeneous nuggets of writing (claims, vignettes, sharp
+  sentences, half-thoughts) — and appends them to a single document as raw material for a future article. Use when the user
+  wants to develop ideas before imposing structure, or mentions "fragments", "ideate", or "raw material" for writing.
+authors:
+- mattpocock
+is_official: false
+tags:
+- writing
+- ideation
+- brainstorming
+- fragments
+- raw-material
+- article-prep
+- idea-mining
+category: creative
+source:
+  path: /skills/in-progress/writing-fragments
+  repo: mattpocock/skills
+metadata:
+  stars: 126573
+added_at: '2026-06-05'

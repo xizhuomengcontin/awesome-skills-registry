@@ -4,7 +4,7 @@
 > **1023 skills** registered
 <!-- skills-count-end -->
 
-An agent-agnostic registry that scans configured GitHub repositories for `SKILL.md` files, generates structured YAML metadata entries grouped by task similarity, and opens a pull request for human review via a weekly GitHub Actions pipeline.
+An agent-agnostic registry that scans configured GitHub repositories for `SKILL.md` files, generates structured YAML metadata entries grouped by source repo, and opens a pull request for human review via a weekly GitHub Actions pipeline.
 
 Works with any skill convention — Claude, Cursor, custom agents, or anything else that uses `SKILL.md` files.
 
@@ -12,15 +12,15 @@ Works with any skill convention — Claude, Cursor, custom agents, or anything e
 
 1. **Configure sources** in [`sources.yaml`](sources.yaml) with GitHub repo URLs and optional `skills_path`.
 2. **Weekly pipeline** (Sunday midnight UTC) or manual dispatch runs [`scripts/update.py`](scripts/update.py).
-3. The script scans each source repo for `SKILL.md` files, extracts metadata, and groups new skills into task folders by similarity.
+3. The script scans each source repo for `SKILL.md` files, extracts metadata, and writes each skill into a per-source folder (`registry/{owner}-{repo}/`).
 4. A PR is opened with the new registry entries for human review.
 
 ## Repository Structure
 
 ```
 ├── sources.yaml              # Configured source repos
-├── registry/                 # Generated skill entries (grouped by task)
-│   └── {task-folder}/
+├── registry/                 # Generated skill entries (one folder per source repo)
+│   └── {owner}-{repo}/
 │       └── {owner}-{repo}-{skill-dir}.yaml
 ├── scripts/
 │   └── update.py             # Scanner and registry updater
@@ -73,7 +73,7 @@ Curated link directories like [VoltAgent/awesome-agent-skills](https://github.co
 
 ## Registry Entry Format
 
-Each skill is stored as `registry/{task-folder}/{owner}-{repo}-{skill-dir}.yaml`:
+Each skill is stored as `registry/{owner}-{repo}/{owner}-{repo}-{skill-dir}.yaml`:
 
 ```yaml
 id: anthropics-claude-code-commit
@@ -86,7 +86,8 @@ added_at: "2026-06-05"
 ```
 
 - **Filename**: `{owner}-{repo}-{skill_dir}.yaml` — globally unique across all sources.
-- **Task folders**: New skills are grouped into existing folders when similarity score >= 75 (via `rapidfuzz` token sort ratio), otherwise a new folder is created from the skill name.
+- **Source folders**: Every skill lives in `registry/{owner}-{repo}/`, so all skills from a given source repo share one folder.
+- **Popularity**: `metadata.stars` records the source repo's GitHub star count. [`scripts/build_unified_json.py`](scripts/build_unified_json.py) orders `dist/ai-skills.json` by stars (descending), so the most popular sources appear first.
 
 ## Contributing
 

@@ -1,0 +1,20 @@
+id: huifer-Claude-Ally-Health-family-health-analyzer
+display_name: Family Health Analyzer
+description: 分析家族病史、评估遗传风险、识别家庭健康模式、提供个性化预防建议
+authors:
+- huifer
+is_official: false
+tags:
+- family-history
+- genetic-risk
+- disease-patterns
+- preventive-health
+- hereditary-conditions
+- personalized-medicine
+category: health
+source:
+  path: /skills/family-health-analyzer
+  repo: huifer/Claude-Ally-Health
+metadata:
+  stars: 876
+added_at: '2026-06-05'

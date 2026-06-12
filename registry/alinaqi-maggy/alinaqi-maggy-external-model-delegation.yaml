@@ -1,0 +1,21 @@
+id: alinaqi-maggy-external-model-delegation
+display_name: External Model Delegation
+description: A `UserPromptSubmit` hook classifies every user prompt into one of six cost/performance tiers. The hook injects
+  `additionalContext` instructing Claude to run a specific delegation script and return the output.
+authors:
+- alinaqi
+is_official: false
+tags:
+- prompt-routing
+- model-delegation
+- cost-optimization
+- llm-orchestration
+- tiered-inference
+- hooks
+category: data-ai
+source:
+  path: /skills/external-model-delegation
+  repo: alinaqi/maggy
+metadata:
+  stars: 694
+added_at: '2026-06-05'

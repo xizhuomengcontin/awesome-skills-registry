@@ -1,0 +1,23 @@
+id: tech-leads-club-agent-skills-learning-opportunities
+display_name: Learning Opportunities
+description: Facilitates deliberate skill development during AI-assisted coding. Offers interactive learning exercises after
+  architectural work (new files, schema changes, refactors). Use when completing features, making design decisions, or when
+  user asks to understand code better. Triggers on "learning exercise", "help me understand", "teach me", "why does this work",
+  or after creating new files/modules. Do NOT use for urgent debugging, quick fixes, or when user says "just ship it".
+authors:
+- tech-leads-club
+is_official: false
+tags:
+- developer-learning
+- code-education
+- skill-development
+- interactive-exercises
+- code-review
+- mentoring
+category: coding
+source:
+  path: /packages/skills-catalog/skills/(learning)/learning-opportunities
+  repo: tech-leads-club/agent-skills
+metadata:
+  stars: 4578
+added_at: '2026-06-05'

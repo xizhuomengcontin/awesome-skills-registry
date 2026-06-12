@@ -1,0 +1,21 @@
+id: bitwize-music-studio-claude-ai-music-skills-lyric-refiner
+display_name: Lyric Refiner
+description: Autonomous multi-pass lyric refinement for tightening, cohesion, and album unity. Use after lyrics are written
+  to polish a track or entire album through iterative passes.
+authors:
+- bitwize-music-studio
+is_official: false
+tags:
+- lyrics
+- songwriting
+- music-production
+- editing
+- album-cohesion
+- iterative-refinement
+category: creative
+source:
+  path: /skills/lyric-refiner
+  repo: bitwize-music-studio/claude-ai-music-skills
+metadata:
+  stars: 251
+added_at: '2026-06-05'

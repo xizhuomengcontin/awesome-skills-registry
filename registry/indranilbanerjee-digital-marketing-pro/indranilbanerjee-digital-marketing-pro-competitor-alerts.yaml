@@ -1,0 +1,22 @@
+id: indranilbanerjee-digital-marketing-pro-competitor-alerts
+display_name: Competitor Alerts
+description: 'Configure competitor alerts. Use when: tracking content changes, pricing shifts, ad launches, SERP changes,
+  social spikes.'
+authors:
+- indranilbanerjee
+is_official: false
+tags:
+- competitor-monitoring
+- alerts
+- content-tracking
+- pricing-intelligence
+- serp-tracking
+- social-listening
+- ad-monitoring
+category: marketing
+source:
+  path: /skills/competitor-alerts
+  repo: indranilbanerjee/digital-marketing-pro
+metadata:
+  stars: 136
+added_at: '2026-06-05'

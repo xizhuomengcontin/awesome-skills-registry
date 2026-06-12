@@ -1,0 +1,20 @@
+id: indranilbanerjee-digital-marketing-pro-add-integration
+display_name: Add Integration
+description: 'Add MCP server integrations. Use when: connecting a custom tool, API, or service to the plugin via .mcp.json.'
+authors:
+- indranilbanerjee
+is_official: false
+tags:
+- mcp
+- integration
+- api-connection
+- configuration
+- mcp-json
+- plugin-setup
+category: productivity
+source:
+  path: /skills/add-integration
+  repo: indranilbanerjee/digital-marketing-pro
+metadata:
+  stars: 136
+added_at: '2026-06-05'

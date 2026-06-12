@@ -1,0 +1,21 @@
+id: alinaqi-maggy-typescript
+display_name: TypeScript with ESLint & Jest
+description: TypeScript strict mode with eslint and jest
+authors:
+- alinaqi
+is_official: false
+tags:
+- typescript
+- strict-mode
+- eslint
+- jest
+- testing
+- linting
+- javascript
+category: coding
+source:
+  path: /skills/typescript
+  repo: alinaqi/maggy
+metadata:
+  stars: 694
+added_at: '2026-06-05'

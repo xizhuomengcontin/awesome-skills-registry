@@ -1,0 +1,24 @@
+id: K-Dense-AI-claude-scientific-skills-phylogenetics
+display_name: Phylogenetics
+description: Build and analyze phylogenetic trees using MAFFT (multiple alignment), IQ-TREE 2 (maximum likelihood), and FastTree
+  (fast NJ/ML). Visualize with ETE3 or FigTree. For evolutionary analysis, microbial genomics, viral phylodynamics, protein
+  family analysis, and molecular clock studies.
+authors:
+- K-Dense-AI
+is_official: false
+tags:
+- phylogenetics
+- phylogenetic-trees
+- mafft
+- iq-tree
+- bioinformatics
+- molecular-evolution
+- genomics
+- viral-phylodynamics
+category: science
+source:
+  path: /skills/phylogenetics
+  repo: K-Dense-AI/claude-scientific-skills
+metadata:
+  stars: 28042
+added_at: '2026-06-05'

@@ -1,0 +1,21 @@
+id: huifer-Claude-Ally-Health-weightloss-analyzer
+display_name: Weight Loss Analyzer
+description: 分析减肥数据、计算代谢率、追踪能量缺口、管理减肥阶段
+authors:
+- huifer
+is_official: false
+tags:
+- weight-loss
+- metabolism
+- calorie-deficit
+- body-composition
+- health-tracking
+- bmr
+- energy-balance
+category: health
+source:
+  path: /skills/weightloss-analyzer
+  repo: huifer/Claude-Ally-Health
+metadata:
+  stars: 876
+added_at: '2026-06-05'

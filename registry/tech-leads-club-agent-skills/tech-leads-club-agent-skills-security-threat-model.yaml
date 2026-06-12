@@ -1,0 +1,25 @@
+id: tech-leads-club-agent-skills-security-threat-model
+display_name: Security Threat Model
+description: Repository-grounded threat modeling that enumerates trust boundaries, assets, attacker capabilities, abuse paths,
+  and mitigations, and writes a concise Markdown threat model. Use when the user asks to threat model a codebase or path,
+  enumerate threats or abuse paths, or perform AppSec threat modeling. Do NOT use for general architecture summaries, code
+  review, security best practices (use security-best-practices), or non-security design work.
+authors:
+- tech-leads-club
+is_official: false
+tags:
+- threat-modeling
+- appsec
+- trust-boundaries
+- abuse-paths
+- repository-analysis
+- markdown-report
+- security
+- mitigations
+category: coding
+source:
+  path: /packages/skills-catalog/skills/(security)/security-threat-model
+  repo: tech-leads-club/agent-skills
+metadata:
+  stars: 4578
+added_at: '2026-06-05'

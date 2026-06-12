@@ -1,0 +1,25 @@
+id: HeshamFS-materials-simulation-skills-numerical-stability
+display_name: Numerical Stability Analysis
+description: Analyze numerical stability for time-dependent PDE simulations — check CFL and Fourier criteria, perform von
+  Neumann stability analysis, detect stiffness, evaluate matrix conditioning, and recommend explicit vs implicit time-stepping
+  schemes. Use when selecting time steps, diagnosing numerical blow-up or solver divergence, checking convergence criteria,
+  or evaluating scheme stability for advection, diffusion, or reaction problems, even if the user doesn't explicitly mention
+  "stability" or "CFL."
+authors:
+- HeshamFS
+is_official: false
+tags:
+- numerical-stability
+- cfl-condition
+- von-neumann-analysis
+- pde-simulation
+- stiffness
+- time-stepping
+- convergence
+category: science
+source:
+  path: /skills/core-numerical/numerical-stability
+  repo: HeshamFS/materials-simulation-skills
+metadata:
+  stars: 41
+added_at: '2026-06-05'

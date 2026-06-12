@@ -1,0 +1,21 @@
+id: bitwize-music-studio-claude-ai-music-skills-researchers-historical
+display_name: Historical Researcher
+description: Researches archives, contemporary accounts, and timeline reconstruction. Use when the album subject involves
+  historical events that need primary source verification.
+authors:
+- bitwize-music-studio
+is_official: false
+tags:
+- historical-research
+- archives
+- timeline-reconstruction
+- primary-sources
+- music-production
+- album-context
+category: creative
+source:
+  path: /skills/researchers-historical
+  repo: bitwize-music-studio/claude-ai-music-skills
+metadata:
+  stars: 251
+added_at: '2026-06-05'

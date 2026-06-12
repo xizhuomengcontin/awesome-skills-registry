@@ -1,0 +1,24 @@
+id: Eronred-aso-skills-ab-test-store-listing
+display_name: A/B Test Store Listing
+description: When the user wants to A/B test App Store product page elements to improve conversion rate. Also use when the
+  user mentions "A/B test", "product page optimization", "test my screenshots", "test my icon", "conversion rate optimization",
+  "CPP", or "custom product pages". For screenshot design, see screenshot-optimization. For metadata optimization, see metadata-optimization.
+authors:
+- Eronred
+is_official: false
+tags:
+- a-b-testing
+- app-store-optimization
+- aso
+- conversion-rate-optimization
+- product-page
+- mobile-app
+- screenshots
+- custom-product-pages
+category: marketing
+source:
+  path: /skills/ab-test-store-listing
+  repo: Eronred/aso-skills
+metadata:
+  stars: 1482
+added_at: '2026-06-05'

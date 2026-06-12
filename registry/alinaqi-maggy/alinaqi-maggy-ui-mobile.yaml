@@ -1,0 +1,21 @@
+id: alinaqi-maggy-ui-mobile
+display_name: Mobile UI Patterns
+description: Mobile UI patterns - React Native, iOS/Android, touch targets
+authors:
+- alinaqi
+is_official: false
+tags:
+- mobile-ui
+- react-native
+- ios
+- android
+- touch-targets
+- mobile-patterns
+- ux
+category: design
+source:
+  path: /skills/ui-mobile
+  repo: alinaqi/maggy
+metadata:
+  stars: 694
+added_at: '2026-06-05'

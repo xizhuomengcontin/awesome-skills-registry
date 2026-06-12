@@ -1,0 +1,21 @@
+id: bitwize-music-studio-claude-ai-music-skills-lyric-writer
+display_name: Lyric Writer
+description: Writes or reviews lyrics with professional prosody, rhyme craft, and quality checks. Use when writing new lyrics,
+  revising existing lyrics, or when the user says 'let's work on a track.'
+authors:
+- bitwize-music-studio
+is_official: false
+tags:
+- lyrics
+- songwriting
+- rhyme-craft
+- prosody
+- music-production
+- creative-writing
+category: creative
+source:
+  path: /skills/lyric-writer
+  repo: bitwize-music-studio/claude-ai-music-skills
+metadata:
+  stars: 251
+added_at: '2026-06-05'

@@ -1,0 +1,26 @@
+id: tech-leads-club-agent-skills-positioning-icp
+display_name: Positioning & ICP
+description: When the user wants to define their ideal customer profile, position an AI product, build messaging architecture,
+  or validate product-market fit. Also use when the user mentions 'ICP,' 'ideal customer profile,' 'positioning,' 'PMF,' 'product-market
+  fit,' 'messaging,' 'buyer persona,' 'enrichment signals,' 'market positioning,' or 'competitive positioning.' This skill
+  covers market positioning, ICP definition, messaging architecture, and PMF validation for AI-native products. Do NOT use
+  for technical implementation, code review, or software architecture.
+authors:
+- tech-leads-club
+is_official: false
+tags:
+- icp
+- ideal-customer-profile
+- product-market-fit
+- positioning
+- messaging
+- buyer-persona
+- competitive-positioning
+- ai-products
+category: marketing
+source:
+  path: /packages/skills-catalog/skills/(gtm)/positioning-icp
+  repo: tech-leads-club/agent-skills
+metadata:
+  stars: 4578
+added_at: '2026-06-05'

@@ -1,0 +1,22 @@
+id: alinaqi-maggy-polyphony
+display_name: Polyphony Multi-Agent Orchestration
+description: Multi-agent orchestration with container-isolated workspaces — each agent session runs in its own Docker container
+  with independent git branches
+authors:
+- alinaqi
+is_official: false
+tags:
+- multi-agent
+- orchestration
+- docker
+- containerization
+- git-branches
+- isolated-workspaces
+- agent-framework
+category: coding
+source:
+  path: /skills/polyphony
+  repo: alinaqi/maggy
+metadata:
+  stars: 694
+added_at: '2026-06-05'
