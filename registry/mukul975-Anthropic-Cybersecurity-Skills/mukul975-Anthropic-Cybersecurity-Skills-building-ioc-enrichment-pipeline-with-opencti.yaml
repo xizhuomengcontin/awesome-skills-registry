@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-building-ioc-enrichment-pipeline-with-opencti
+display_name: building-ioc-enrichment-pipeline-with-opencti
+description: OpenCTI is an open-source platform for managing cyber threat intelligence
+  knowledge, built on STIX 2.1 as its native data model. This skill covers building
+  an automated IOC enrichment pipeline using O
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/building-ioc-enrichment-pipeline-with-opencti
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 15612
+added_at: '2026-06-14'

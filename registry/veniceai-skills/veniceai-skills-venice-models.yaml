@@ -1,0 +1,17 @@
+id: veniceai-skills-venice-models
+display_name: venice-models
+description: Discover Venice models, their capabilities, constraints, and pricing.
+  Covers GET /models (with ?type filter), /models/traits, /models/compatibility_mapping,
+  the ModelResponse schema (capabilities, constraints, pricing per type), and how
+  to use this to pick the right model programmatically.
+authors:
+- veniceai
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/venice-models
+  repo: veniceai/skills
+metadata:
+  stars: 92
+added_at: '2026-06-14'

@@ -1,0 +1,17 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-performing-windows-artifact-analysis-with-eric-zimmerman-tools
+display_name: performing-windows-artifact-analysis-with-eric-zimmerman-tools
+description: Perform comprehensive Windows forensic artifact analysis using Eric Zimmerman's
+  open-source EZ Tools suite including KAPE, MFTECmd, PECmd, LECmd, JLECmd, and Timeline
+  Explorer for parsing registry hives, prefetch files, event logs, and file system
+  metadata.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/performing-windows-artifact-analysis-with-eric-zimmerman-tools
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 15612
+added_at: '2026-06-14'

@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-runtime-security-with-tetragon
+display_name: implementing-runtime-security-with-tetragon
+description: Implement eBPF-based runtime security observability and enforcement in
+  Kubernetes clusters using Cilium Tetragon for kernel-level threat detection and
+  policy enforcement.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-runtime-security-with-tetragon
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 15612
+added_at: '2026-06-14'

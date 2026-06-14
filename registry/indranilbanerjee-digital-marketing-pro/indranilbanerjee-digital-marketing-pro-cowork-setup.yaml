@@ -1,0 +1,18 @@
+id: indranilbanerjee-digital-marketing-pro-cowork-setup
+display_name: cowork-setup
+description: One-shot setup that wires Digital Marketing Pro for team usage in Anthropic
+  Cowork. Verifies the Cowork sandbox, checks for a Google Drive integration, creates
+  the canonical Drive folder layout, and confirms team-ready brand-state routing.
+  Use this the first time a Cowork user installs DMP OR when brand profiles aren't
+  persisting across sessions.
+authors:
+- indranilbanerjee
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/cowork-setup
+  repo: indranilbanerjee/digital-marketing-pro
+metadata:
+  stars: 140
+added_at: '2026-06-14'

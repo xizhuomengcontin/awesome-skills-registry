@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-configuring-network-segmentation-with-vlans
+display_name: configuring-network-segmentation-with-vlans
+description: Designs and implements VLAN-based network segmentation on managed switches
+  to isolate network zones, enforce access control between segments, and reduce the
+  attack surface by limiting lateral movement paths in enterprise network environments.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/configuring-network-segmentation-with-vlans
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 15612
+added_at: '2026-06-14'

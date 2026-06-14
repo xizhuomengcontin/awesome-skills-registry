@@ -1,0 +1,17 @@
+id: Xquik-dev-x-twitter-scraper-x-twitter-scraper
+display_name: x-twitter-scraper
+description: 'Use when the user needs X (Twitter) data or confirmation-gated X actions
+  through Xquik: tweet search, user lookup, follower extraction, media download, monitoring,
+  webhooks, MCP, SDKs, posting, likes, DMs, and profile updates. Requires a Xquik
+  API key. Never ask for X login material.'
+authors:
+- Xquik-dev
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/x-twitter-scraper
+  repo: Xquik-dev/x-twitter-scraper
+metadata:
+  stars: 113
+added_at: '2026-06-14'

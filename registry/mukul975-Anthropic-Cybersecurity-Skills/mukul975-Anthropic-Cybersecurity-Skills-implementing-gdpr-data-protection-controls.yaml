@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-gdpr-data-protection-controls
+display_name: implementing-gdpr-data-protection-controls
+description: The General Data Protection Regulation (EU) 2016/679 (GDPR) is the EU's
+  comprehensive data protection law governing the collection, processing, storage,
+  and transfer of personal data. This skill cover
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-gdpr-data-protection-controls
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 15612
+added_at: '2026-06-14'

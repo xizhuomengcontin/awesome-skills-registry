@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-performing-kerberoasting-attack
+display_name: performing-kerberoasting-attack
+description: Kerberoasting is a post-exploitation technique that targets service accounts
+  in Active Directory by requesting Kerberos TGS (Ticket Granting Service) tickets
+  for accounts with Service Principal Names
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/performing-kerberoasting-attack
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 15612
+added_at: '2026-06-14'

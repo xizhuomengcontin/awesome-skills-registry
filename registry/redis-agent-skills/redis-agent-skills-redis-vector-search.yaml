@@ -1,0 +1,20 @@
+id: redis-agent-skills-redis-vector-search
+display_name: redis-vector-search
+description: Redis vector search guidance covering HNSW vs FLAT algorithm choice,
+  vector index configuration (dims, distance metric, datatype), filtered hybrid search
+  combining vector similarity with TAG or NUMERIC filters, and the RAG retrieval pattern
+  with RedisVL. Use when defining a VECTOR field in FT.CREATE, integrating embeddings
+  (OpenAI, Cohere, sentence-transformers), tuning HNSW parameters (M, EF_CONSTRUCTION,
+  EF_RUNTIME), building a retrieval-augmented generation pipeline, or filtering vector
+  results by attribute.
+authors:
+- redis
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/redis-vector-search
+  repo: redis/agent-skills
+metadata:
+  stars: 71
+added_at: '2026-06-14'

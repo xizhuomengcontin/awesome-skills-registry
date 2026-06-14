@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-analyzing-apt-group-with-mitre-navigator
+display_name: analyzing-apt-group-with-mitre-navigator
+description: Analyze advanced persistent threat (APT) group techniques using MITRE
+  ATT&CK Navigator to create layered heatmaps of adversary TTPs for detection gap
+  analysis and threat-informed defense.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/analyzing-apt-group-with-mitre-navigator
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 15612
+added_at: '2026-06-14'

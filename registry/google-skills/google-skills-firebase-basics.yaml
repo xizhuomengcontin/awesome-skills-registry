@@ -1,0 +1,15 @@
+id: google-skills-firebase-basics
+display_name: firebase-basics
+description: Use this skill whenever you are working on a project that uses Firebase
+  products or services, especially for mobile or web apps.
+authors:
+- google
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/cloud/firebase-basics
+  repo: google/skills
+metadata:
+  stars: 13637
+added_at: '2026-06-14'

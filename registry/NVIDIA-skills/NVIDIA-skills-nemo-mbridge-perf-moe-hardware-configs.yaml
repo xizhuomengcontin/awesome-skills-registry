@@ -1,0 +1,16 @@
+id: NVIDIA-skills-nemo-mbridge-perf-moe-hardware-configs
+display_name: nemo-mbridge-perf-moe-hardware-configs
+description: Representative MoE training playbooks by hardware platform and model
+  family. Summarizes rounded throughput bands, parallelism patterns, and common tuning
+  stacks.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/nemo-mbridge-perf-moe-hardware-configs
+  repo: NVIDIA/skills
+metadata:
+  stars: 1238
+added_at: '2026-06-14'

@@ -1,0 +1,20 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-api-gateway-security-controls
+display_name: implementing-api-gateway-security-controls
+description: Implements security controls at the API gateway layer including authentication
+  enforcement, rate limiting, request validation, IP allowlisting, TLS termination,
+  and threat protection. The engineer configures API gateways (Kong, AWS API Gateway,
+  Azure APIM, Apigee) to act as a centralized security enforcement point that validates,
+  throttles, and monitors all API traffic before it reaches backend services. Activates
+  for requests involving API gateway security, API management security, gateway authentication,
+  or centralized API protection.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-api-gateway-security-controls
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 15612
+added_at: '2026-06-14'

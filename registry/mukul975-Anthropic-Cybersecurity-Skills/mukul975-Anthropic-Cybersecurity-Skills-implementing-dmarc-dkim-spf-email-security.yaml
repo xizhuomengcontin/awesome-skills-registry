@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-dmarc-dkim-spf-email-security
+display_name: implementing-dmarc-dkim-spf-email-security
+description: SPF, DKIM, and DMARC form the three pillars of email authentication.
+  Together they prevent domain spoofing, validate message integrity, and define policies
+  for handling unauthenticated mail. Proper im
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-dmarc-dkim-spf-email-security
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 15612
+added_at: '2026-06-14'

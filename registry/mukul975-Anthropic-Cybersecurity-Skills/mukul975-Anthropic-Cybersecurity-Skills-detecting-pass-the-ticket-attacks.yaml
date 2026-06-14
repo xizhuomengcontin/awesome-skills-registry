@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-detecting-pass-the-ticket-attacks
+display_name: detecting-pass-the-ticket-attacks
+description: Detect Kerberos Pass-the-Ticket (PtT) attacks by analyzing Windows Event
+  IDs 4768, 4769, and 4771 for anomalous ticket usage patterns in Splunk and Elastic
+  SIEM
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/detecting-pass-the-ticket-attacks
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 15612
+added_at: '2026-06-14'

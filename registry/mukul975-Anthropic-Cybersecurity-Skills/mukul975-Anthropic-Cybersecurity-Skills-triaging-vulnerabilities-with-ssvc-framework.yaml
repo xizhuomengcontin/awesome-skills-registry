@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-triaging-vulnerabilities-with-ssvc-framework
+display_name: triaging-vulnerabilities-with-ssvc-framework
+description: Triage and prioritize vulnerabilities using CISA's Stakeholder-Specific
+  Vulnerability Categorization (SSVC) decision tree framework to produce actionable
+  remediation priorities.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/triaging-vulnerabilities-with-ssvc-framework
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 15612
+added_at: '2026-06-14'

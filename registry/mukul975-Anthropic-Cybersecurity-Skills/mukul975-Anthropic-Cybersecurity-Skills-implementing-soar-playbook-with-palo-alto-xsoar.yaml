@@ -1,0 +1,15 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-soar-playbook-with-palo-alto-xsoar
+display_name: implementing-soar-playbook-with-palo-alto-xsoar
+description: Implement automated incident response playbooks in Cortex XSOAR to orchestrate
+  security workflows across SOC tools and reduce manual response time.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-soar-playbook-with-palo-alto-xsoar
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 15612
+added_at: '2026-06-14'

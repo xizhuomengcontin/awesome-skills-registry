@@ -1,0 +1,16 @@
+id: NVIDIA-skills-nemoclaw-user-monitor-sandbox
+display_name: nemoclaw-user-monitor-sandbox
+description: Inspects sandbox health, traces agent behavior, and diagnoses problems.
+  Use when monitoring a running sandbox, debugging agent issues, or checking sandbox
+  logs. Trigger keywords - monitor nemoclaw sandbox, debug nemoclaw agent issues.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/nemoclaw-user-monitor-sandbox
+  repo: NVIDIA/skills
+metadata:
+  stars: 1238
+added_at: '2026-06-14'

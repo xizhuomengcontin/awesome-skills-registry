@@ -1,0 +1,19 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-integrating-sast-into-github-actions-pipeline
+display_name: integrating-sast-into-github-actions-pipeline
+description: "This skill covers integrating Static Application Security Testing (SAST)\
+  \ tools\u2014CodeQL and Semgrep\u2014into GitHub Actions CI/CD pipelines. It addresses\
+  \ configuring automated code scanning on pull requests and pushes, tuning rules\
+  \ to reduce false positives, uploading SARIF results to GitHub Advanced Security,\
+  \ and establishing quality gates that block merges when high-severity vulnerabilities\
+  \ are detected."
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/integrating-sast-into-github-actions-pipeline
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 15612
+added_at: '2026-06-14'

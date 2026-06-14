@@ -1,0 +1,16 @@
+id: NVIDIA-skills-vss-generate-video-report
+display_name: vss-generate-video-report
+description: "Use this skill when producing a VSS analysis report \u2014 Mode A per-clip\
+  \ VLM, Mode B incident-range via video-analytics. Not for standalone video summarization,\
+  \ real-time alerts, or ad-hoc Q&A."
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/vss-generate-video-report
+  repo: NVIDIA/skills
+metadata:
+  stars: 1238
+added_at: '2026-06-14'

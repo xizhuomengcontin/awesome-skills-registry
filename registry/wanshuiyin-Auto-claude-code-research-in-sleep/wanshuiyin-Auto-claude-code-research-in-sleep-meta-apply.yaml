@@ -1,0 +1,18 @@
+id: wanshuiyin-Auto-claude-code-research-in-sleep-meta-apply
+display_name: meta-apply
+description: "Privileged applier that LANDS meta-optimize / corpus-audit patches the\
+  \ user approved \u2014 the ONLY skill permitted to mutate the skill corpus from\
+  \ a self-modification proposal, with cross-model jury and human approval at landing.\
+  \ Use when the user says \"meta apply\", \"/meta-apply\", \"land the staged patches\"\
+  , \"\u5E94\u7528\u4F18\u5316\", after a /meta-optimize run."
+authors:
+- wanshuiyin
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/skills-codex/meta-apply
+  repo: wanshuiyin/Auto-claude-code-research-in-sleep
+metadata:
+  stars: 12026
+added_at: '2026-06-14'
