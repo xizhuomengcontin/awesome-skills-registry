@@ -6,10 +6,10 @@ README="$REPO_ROOT/README.md"
 
 # --- Update skill count in README ---
 SKILL_COUNT=$(find "$REPO_ROOT/registry" -name '*.yaml' -type f | wc -l | tr -d ' ')
-CURRENT=$(sed -n '/<!-- skills-count-start -->/,/<!-- skills-count-end -->/{ /^> \*\*/{ s/.*\*\*\([0-9]*\) skills.*/\1/p; }; }' "$README")
+CURRENT=$(sed -n '/<!-- skills-count-start -->/,/<!-- skills-count-end -->/{ s|.*badge/skills-\([0-9]*\)-.*|\1|p; }' "$README")
 
 if [ "$SKILL_COUNT" != "$CURRENT" ]; then
-  sed "s/> \*\*[0-9]* skills\*\* registered/> **${SKILL_COUNT} skills** registered/" "$README" > "$README.tmp" && mv "$README.tmp" "$README"
+  sed "/<!-- skills-count-start -->/,/<!-- skills-count-end -->/{ s|badge/skills-[0-9]*-|badge/skills-${SKILL_COUNT}-|; s|alt=\"[0-9]* skills\"|alt=\"${SKILL_COUNT} skills\"|; }" "$README" > "$README.tmp" && mv "$README.tmp" "$README"
   git add "$README"
   echo "Updated README skill count: $CURRENT → $SKILL_COUNT"
 fi
