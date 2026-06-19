@@ -3,11 +3,6 @@
 ![TrueFoundry Skills Registry — the open agent skills ecosystem](images/2026-06-19_18.12.25.png)
 
 <p align="center">
-  <b>The open, agent-agnostic registry of reusable skills for AI agents.</b><br/>
-  Drop them into any agent with a single <code>SKILL.md</code> file to give it access to procedural knowledge — search, install, and ship faster.
-</p>
-
-<p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
   <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome" /></a>
   <a href="#license"><img src="https://img.shields.io/badge/License-Apache_2.0-blue.svg?style=flat-square" alt="License: Apache-2.0" /></a>
