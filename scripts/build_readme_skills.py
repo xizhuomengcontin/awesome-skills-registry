@@ -153,21 +153,35 @@ def render_group(name: str, skills: list[dict], *, is_open: bool, official: bool
     stars = max((_stars(s) for s in skills), default=0)
     count = len(skills)
     noun = "skill" if count == 1 else "skills"
-    summary_bits = [f"<strong>{name}</strong>", f"{count} {noun}"]
+    meta_bits = [f"{count} {noun}"]
     if stars:
-        summary_bits.append(f"⭐ {stars:,}")
+        meta_bits.append(f"⭐ {stars:,}")
     if official:
-        summary_bits.append("official")
-    summary = " &nbsp;·&nbsp; ".join(summary_bits)
+        meta_bits.append("official")
+    meta = " &nbsp;·&nbsp; ".join(meta_bits)
 
-    lines = [f"<details{' open' if is_open else ''}>", f"<summary>{summary}</summary>", ""]
+    items = []
     for s in sorted(skills, key=lambda x: display_name(x).lower()):
         label = skill_label(s)
         url = skill_url(s)
         desc = short_description(s.get("description", ""))
         link = f"[{label}]({url})" if url else f"`{label}`"
-        lines.append(f"- {link} — {desc}" if desc else f"- {link}")
-    lines.extend(["", "</details>"])
+        items.append(f"- {link} — {desc}" if desc else f"- {link}")
+
+    # Blank lines between items render a "loose" list on GitHub (each bullet
+    # wrapped in <p>), giving the listing room to breathe.
+    body = "\n\n".join(items)
+
+    lines = [
+        f"<details{' open' if is_open else ''}>",
+        f"<summary><h3>{name}</h3></summary>",
+        "",
+        f"<sub>{meta}</sub>",
+        "",
+        body,
+        "",
+        "</details>",
+    ]
     return "\n".join(lines)
 
 
@@ -191,7 +205,7 @@ def build_section(skills: list[dict], open_count: int) -> str:
         blocks.append(
             render_group(name, group, is_open=idx < open_count, official=official)
         )
-    return "\n\n".join(blocks)
+    return "\n\n<br/>\n\n".join(blocks)
 
 
 def write_readme(section: str) -> None:
