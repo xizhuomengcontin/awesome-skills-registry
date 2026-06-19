@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-detecting-golden-ticket-attacks-in-kerberos-logs
+display_name: detecting-golden-ticket-attacks-in-kerberos-logs
+description: Detect Golden Ticket attacks in Active Directory by analyzing Kerberos
+  TGT anomalies including mismatched encryption types, impossible ticket lifetimes,
+  non-existent accounts, and forged PAC signatures in domain controller event logs.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/detecting-golden-ticket-attacks-in-kerberos-logs
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 16604
+added_at: '2026-06-19'

@@ -1,0 +1,15 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-analyzing-disk-image-with-autopsy
+display_name: analyzing-disk-image-with-autopsy
+description: Perform comprehensive forensic analysis of disk images using Autopsy
+  to recover files, examine artifacts, and build investigation timelines.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/analyzing-disk-image-with-autopsy
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 16604
+added_at: '2026-06-19'

@@ -1,0 +1,15 @@
+id: NeoLabHQ-context-engineering-kit-do-in-steps
+display_name: do-in-steps
+description: "Execute complex tasks through sequential sub-agent orchestration with\
+  \ intelligent model selection, meta-judge \u2192 LLM-as-a-judge verification"
+authors:
+- NeoLabHQ
+is_official: false
+tags: []
+category: none
+source:
+  path: /plugins/sadd/skills/do-in-steps
+  repo: NeoLabHQ/context-engineering-kit
+metadata:
+  stars: 1142
+added_at: '2026-06-19'

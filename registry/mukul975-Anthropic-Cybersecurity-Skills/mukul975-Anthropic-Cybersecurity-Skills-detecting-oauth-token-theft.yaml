@@ -1,0 +1,19 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-detecting-oauth-token-theft
+display_name: detecting-oauth-token-theft
+description: Detects and responds to OAuth token theft and replay attacks in cloud
+  environments, focusing on Microsoft Entra ID (Azure AD) token protection, conditional
+  access policies, and sign-in anomaly detection. Covers access token theft, refresh
+  token replay, Primary Refresh Token (PRT) abuse, and pass-the-cookie attacks. Activates
+  for requests involving OAuth token theft detection, token replay prevention, Azure
+  AD conditional access token protection, or cloud identity attack investigation.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/detecting-oauth-token-theft
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 16604
+added_at: '2026-06-19'

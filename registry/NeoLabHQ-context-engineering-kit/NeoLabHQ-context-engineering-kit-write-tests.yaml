@@ -1,0 +1,16 @@
+id: NeoLabHQ-context-engineering-kit-write-tests
+display_name: write-tests
+description: Systematically add test coverage for all local code changes using specialized
+  review and development agents. Add tests for uncommitted changes (including untracked
+  files), or if everything is commited, then will cover latest commit.
+authors:
+- NeoLabHQ
+is_official: false
+tags: []
+category: none
+source:
+  path: /plugins/tdd/skills/write-tests
+  repo: NeoLabHQ/context-engineering-kit
+metadata:
+  stars: 1142
+added_at: '2026-06-19'

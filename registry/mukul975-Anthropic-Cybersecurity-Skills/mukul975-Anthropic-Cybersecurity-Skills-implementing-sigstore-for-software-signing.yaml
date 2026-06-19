@@ -1,0 +1,21 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-sigstore-for-software-signing
+display_name: implementing-sigstore-for-software-signing
+description: Implements Sigstore-based software signing and verification using Cosign
+  keyless signing, Rekor transparency log verification, and Fulcio certificate authority
+  integration to establish cryptographic provenance for container images, binaries,
+  and software artifacts. The practitioner configures OIDC-based identity binding,
+  verifies signing events against the Rekor transparency log, and integrates signing
+  workflows into CI/CD pipelines. Activates for requests involving software supply
+  chain signing, keyless container signing, Sigstore deployment, or artifact provenance
+  verification.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-sigstore-for-software-signing
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 16604
+added_at: '2026-06-19'

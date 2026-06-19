@@ -1,0 +1,17 @@
+id: NVIDIA-skills-tao-finetune-cosmos-reason
+display_name: tao-finetune-cosmos-reason
+description: Cosmos-Reason2-8B video QA supervised fine-tuning with FSDP parallelism.
+  Use when training or evaluating video question-answering models, fine-tuning Cosmos-Reason2
+  with SFT, or working with Cosmos-RL. Trigger phrases include "fine-tune Cosmos-Reason",
+  "Cosmos-RL SFT", "video QA fine-tune", "Cosmos-Reason2-8B training".
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/tao-finetune-cosmos-reason
+  repo: NVIDIA/skills
+metadata:
+  stars: 1331
+added_at: '2026-06-19'

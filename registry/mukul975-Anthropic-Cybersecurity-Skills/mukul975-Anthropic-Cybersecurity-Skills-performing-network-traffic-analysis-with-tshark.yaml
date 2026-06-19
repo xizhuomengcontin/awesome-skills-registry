@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-performing-network-traffic-analysis-with-tshark
+display_name: performing-network-traffic-analysis-with-tshark
+description: Automate network traffic analysis using tshark and pyshark for protocol
+  statistics, suspicious flow detection, DNS anomaly identification, and IOC extraction
+  from PCAP files
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/performing-network-traffic-analysis-with-tshark
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 16604
+added_at: '2026-06-19'

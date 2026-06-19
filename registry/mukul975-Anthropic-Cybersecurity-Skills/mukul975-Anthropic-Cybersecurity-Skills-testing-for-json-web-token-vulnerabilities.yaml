@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-testing-for-json-web-token-vulnerabilities
+display_name: testing-for-json-web-token-vulnerabilities
+description: Test JWT implementations for critical vulnerabilities including algorithm
+  confusion, none algorithm bypass, kid parameter injection, and weak secret exploitation
+  to achieve authentication bypass and privilege escalation.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/testing-for-json-web-token-vulnerabilities
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 16604
+added_at: '2026-06-19'

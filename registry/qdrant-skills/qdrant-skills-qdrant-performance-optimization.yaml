@@ -1,0 +1,16 @@
+id: qdrant-skills-qdrant-performance-optimization
+display_name: qdrant-performance-optimization
+description: Different techniques to optimize the performance of Qdrant, including
+  indexing strategies, query optimization, and hardware considerations. Use when you
+  want to improve the speed and efficiency of your Qdrant deployment.
+authors:
+- qdrant
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/qdrant-performance-optimization
+  repo: qdrant/skills
+metadata:
+  stars: 169
+added_at: '2026-06-19'

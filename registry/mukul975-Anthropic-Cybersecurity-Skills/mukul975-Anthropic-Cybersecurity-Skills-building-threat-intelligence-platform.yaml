@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-building-threat-intelligence-platform
+display_name: building-threat-intelligence-platform
+description: Building a Threat Intelligence Platform (TIP) involves deploying and
+  integrating multiple CTI tools into a unified system for collecting, analyzing,
+  enriching, and disseminating threat intelligence. T
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/building-threat-intelligence-platform
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 16604
+added_at: '2026-06-19'

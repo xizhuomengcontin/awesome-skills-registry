@@ -1,0 +1,17 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-aws-security-hub-compliance
+display_name: implementing-aws-security-hub-compliance
+description: Implementing AWS Security Hub to aggregate security findings across AWS
+  accounts, enable compliance standards like CIS AWS Foundations and PCI DSS, configure
+  automated remediation with EventBridge and Lambda, and create custom security insights
+  for organizational risk management.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-aws-security-hub-compliance
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 16604
+added_at: '2026-06-19'

@@ -1,0 +1,18 @@
+id: sanjay3290-ai-skills-google-chat
+display_name: google-chat
+description: 'Interact with Google Chat - list spaces, send messages, read conversations,
+  and manage DMs. Use when user asks to: send a message on Google Chat, read chat
+  messages, list chat spaces, find a chat room, send a DM, or create a new chat space.
+  Lightweight alternative to full Google Workspace MCP server with standalone OAuth
+  authentication.'
+authors:
+- sanjay3290
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/google-chat
+  repo: sanjay3290/ai-skills
+metadata:
+  stars: 324
+added_at: '2026-06-19'

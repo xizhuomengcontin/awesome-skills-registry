@@ -1,0 +1,15 @@
+id: qdrant-skills-qdrant-version-upgrade
+display_name: qdrant-version-upgrade
+description: Guidance on how to upgrade your Qdrant version without interrupting the
+  availability of your application and ensuring data integrity.
+authors:
+- qdrant
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/qdrant-version-upgrade
+  repo: qdrant/skills
+metadata:
+  stars: 169
+added_at: '2026-06-19'

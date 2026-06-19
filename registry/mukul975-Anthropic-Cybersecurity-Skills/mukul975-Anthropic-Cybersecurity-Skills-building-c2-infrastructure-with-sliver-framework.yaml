@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-building-c2-infrastructure-with-sliver-framework
+display_name: building-c2-infrastructure-with-sliver-framework
+description: Build and configure a resilient command-and-control infrastructure using
+  BishopFox's Sliver C2 framework with redirectors, HTTPS listeners, and multi-operator
+  support for authorized red team engagements.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/building-c2-infrastructure-with-sliver-framework
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 16604
+added_at: '2026-06-19'

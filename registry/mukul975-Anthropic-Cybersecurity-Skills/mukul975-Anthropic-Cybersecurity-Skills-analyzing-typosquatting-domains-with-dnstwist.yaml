@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-analyzing-typosquatting-domains-with-dnstwist
+display_name: analyzing-typosquatting-domains-with-dnstwist
+description: Detect typosquatting, homograph phishing, and brand impersonation domains
+  using dnstwist to generate domain permutations and identify registered lookalike
+  domains targeting your organization.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/analyzing-typosquatting-domains-with-dnstwist
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 16604
+added_at: '2026-06-19'

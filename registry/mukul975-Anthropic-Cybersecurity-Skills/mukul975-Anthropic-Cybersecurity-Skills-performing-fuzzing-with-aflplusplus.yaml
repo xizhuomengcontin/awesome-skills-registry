@@ -1,0 +1,19 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-performing-fuzzing-with-aflplusplus
+display_name: performing-fuzzing-with-aflplusplus
+description: Perform coverage-guided fuzzing of compiled binaries using AFL++ (American
+  Fuzzy Lop Plus Plus) to discover memory corruption, crashes, and security vulnerabilities.
+  The tester instruments target binaries with afl-cc/afl-clang-fast, manages input
+  corpora with afl-cmin and afl-tmin, runs parallel fuzzing campaigns with afl-fuzz,
+  and triages crashes using CASR or GDB scripts. Activates for requests involving
+  binary fuzzing, crash discovery, coverage-guided testing, or AFL++ fuzzing campaigns.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/performing-fuzzing-with-aflplusplus
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 16604
+added_at: '2026-06-19'

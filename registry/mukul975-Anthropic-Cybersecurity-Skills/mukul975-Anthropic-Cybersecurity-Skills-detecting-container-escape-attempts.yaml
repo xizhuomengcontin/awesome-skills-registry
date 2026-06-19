@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-detecting-container-escape-attempts
+display_name: detecting-container-escape-attempts
+description: Container escape is a critical attack technique where an adversary breaks
+  out of container isolation to access the host system or other containers. Detection
+  involves monitoring for escape indicators
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/detecting-container-escape-attempts
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 16604
+added_at: '2026-06-19'

@@ -1,0 +1,19 @@
+id: NVIDIA-skills-vss-deploy-detection-tracking-3d
+display_name: vss-deploy-detection-tracking-3d
+description: 'Deploy and operate the RTVI-CV-3D microservice as MV3DT (`MODE=mv3dt`):
+  per-camera DeepStream perception plus BEV Fusion over calibrated cameras. Supports
+  the bundled sample dataset, custom video files, and RTSP streams, and chains to
+  `vss-generate-video-calibration` when calibration is missing. Use `vss-deploy-profile`
+  for the full warehouse blueprint and `vss-deploy-detection-tracking-2d` for single-camera
+  2D detection.'
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/vss-deploy-detection-tracking-3d
+  repo: NVIDIA/skills
+metadata:
+  stars: 1331
+added_at: '2026-06-19'

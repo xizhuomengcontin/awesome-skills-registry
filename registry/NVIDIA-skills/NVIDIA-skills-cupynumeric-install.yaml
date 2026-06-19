@@ -1,0 +1,15 @@
+id: NVIDIA-skills-cupynumeric-install
+display_name: cupynumeric-install
+description: "Install and verify cuPyNumeric for Python \u2014 requirements, commands,\
+  \ verification. Source builds are out of scope."
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/cupynumeric-install
+  repo: NVIDIA/skills
+metadata:
+  stars: 1331
+added_at: '2026-06-19'

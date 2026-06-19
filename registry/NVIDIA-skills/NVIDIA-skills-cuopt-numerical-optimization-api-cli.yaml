@@ -1,0 +1,15 @@
+id: NVIDIA-skills-cuopt-numerical-optimization-api-cli
+display_name: cuopt-numerical-optimization-api-cli
+description: "LP, MILP, and QP (beta) with cuOpt \u2014 CLI only (MPS files, cuopt_cli).\
+  \ Use when the user is solving LP, MILP, or QP from MPS via command line."
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/cuopt-numerical-optimization-api-cli
+  repo: NVIDIA/skills
+metadata:
+  stars: 1331
+added_at: '2026-06-19'

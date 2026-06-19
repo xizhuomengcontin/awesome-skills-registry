@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-analyzing-threat-actor-ttps-with-mitre-attack
+display_name: analyzing-threat-actor-ttps-with-mitre-attack
+description: MITRE ATT&CK is a globally-accessible knowledge base of adversary tactics,
+  techniques, and procedures (TTPs) based on real-world observations. This skill covers
+  systematically mapping threat actor beh
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/analyzing-threat-actor-ttps-with-mitre-attack
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 16604
+added_at: '2026-06-19'
