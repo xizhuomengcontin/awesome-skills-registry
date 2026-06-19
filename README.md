@@ -114,47 +114,47 @@ the full set lives in [`dist/ai-skills.json`](dist/ai-skills.json).
 
 ### Marketing
 
-248 skills — growth, SEO, ads, content, branding, and outreach. *(listings coming soon)*
+248 skills — growth, SEO, ads, content, branding, and outreach.
 
 ### Coding
 
-208 skills — dev workflows, testing, code review, infra, and tooling. *(listings coming soon)*
+208 skills — dev workflows, testing, code review, infra, and tooling.
 
 ### Productivity
 
-138 skills — files, tasks, notes, and personal or team workflows. *(listings coming soon)*
+138 skills — files, tasks, notes, and personal or team workflows.
 
 ### Science
 
-129 skills — research, simulation, scientific computing, and analysis. *(listings coming soon)*
+129 skills — research, simulation, scientific computing, and analysis.
 
 ### Design
 
-67 skills — UI/UX, visual identity, brand systems, and layout. *(listings coming soon)*
+67 skills — UI/UX, visual identity, brand systems, and layout.
 
 ### Data & AI
 
-66 skills — data analysis, ML, agents, observability, and pipelines. *(listings coming soon)*
+66 skills — data analysis, ML, agents, observability, and pipelines.
 
 ### Creative
 
-58 skills — images, video, audio, and generative or creative work. *(listings coming soon)*
+58 skills — images, video, audio, and generative or creative work.
 
 ### Business
 
-46 skills — strategy, finance, operations, and product management. *(listings coming soon)*
+46 skills — strategy, finance, operations, and product management.
 
 ### Legal
 
-30 skills — contracts, compliance, privilege, and legal review. *(listings coming soon)*
+30 skills — contracts, compliance, privilege, and legal review.
 
 ### Health
 
-22 skills — health, wellbeing, and care workflows. *(listings coming soon)*
+22 skills — health, wellbeing, and care workflows.
 
 ### Miscellaneous
 
-11 skills — everything that doesn't fit a single bucket. *(listings coming soon)*
+11 skills — everything that doesn't fit a single bucket.
 
 [↑ Back to categories](#browse-by-category)
 
