@@ -8,12 +8,23 @@
 </p>
 
 <p align="center">
+  <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
+  <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome" /></a>
+  <a href="#license"><img src="https://img.shields.io/badge/License-Apache_2.0-blue.svg?style=flat-square" alt="License: Apache-2.0" /></a>
+</p>
+
+<p align="center">
   <!-- skills-count-start -->
   <img src="https://img.shields.io/badge/skills-1023-6E56CF?style=flat-square" alt="1023 skills" />
   <!-- skills-count-end -->
   <img src="https://img.shields.io/badge/official-91-22C55E?style=flat-square" alt="91 official skills" />
   <img src="https://img.shields.io/badge/sources-71_repos-3B82F6?style=flat-square" alt="71 source repos" />
-  <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome" /></a>
+</p>
+
+<p align="center">
+  <a href="https://x.com/truefoundry"><img src="https://img.shields.io/badge/Follow%20on%20X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Follow on X" /></a>
+  <a href="https://www.linkedin.com/company/truefoundry"><img src="https://img.shields.io/badge/Follow%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Follow on LinkedIn" /></a>
+  <a href="https://discord.gg/truefoundry"><img src="https://img.shields.io/badge/Join%20our%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join our Discord" /></a>
 </p>
 
 <p align="center">
@@ -272,9 +283,10 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) for the details.
 
 ## License
 
-This repository's tooling is maintained by TrueFoundry. Individual skills remain
-under the licenses of their **source repositories** — always check the original
-repo (linked via each entry's `source.repo`) before using a skill.
+This repository's tooling is maintained by TrueFoundry and licensed under the
+**Apache License 2.0**. Individual skills remain under the licenses of their
+**source repositories** — always check the original repo (linked via each entry's
+`source.repo`) before using a skill.
 
 ---
 
