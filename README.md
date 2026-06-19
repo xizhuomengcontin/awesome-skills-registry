@@ -40,6 +40,7 @@
 - [What Are Agent Skills?](#what-are-agent-skills)
 - [Why a Registry?](#why-a-registry)
 - [Browse by Category](#browse-by-category)
+- [Categories](#categories)
 - [How the Registry Works](#how-the-registry-works)
 - [Getting Started](#getting-started)
 - [Using the Catalog](#using-the-catalog)
@@ -90,21 +91,72 @@ Every skill is classified into exactly one category plus freeform discovery tags
 
 | Category | Skills | What's inside |
 |----------|-------:|---------------|
-| Marketing | 248 | Growth, SEO, ads, content, branding, outreach |
-| Coding | 208 | Dev workflows, testing, code review, infra, tooling |
-| Productivity | 138 | Files, tasks, notes, personal and team workflows |
-| Science | 129 | Research, simulation, scientific computing, analysis |
-| Design | 67 | UI/UX, visual identity, brand systems, layout |
-| Data & AI | 66 | Data analysis, ML, agents, observability, pipelines |
-| Creative | 58 | Images, video, audio, generative and creative work |
-| Business | 46 | Strategy, finance, operations, product management |
-| Legal | 30 | Contracts, compliance, privilege, legal review |
-| Health | 22 | Health, wellbeing, and care workflows |
-| Miscellaneous | 11 | Everything that doesn't fit a single bucket |
+| [Marketing](#marketing) | 248 | Growth, SEO, ads, content, branding, outreach |
+| [Coding](#coding) | 208 | Dev workflows, testing, code review, infra, tooling |
+| [Productivity](#productivity) | 138 | Files, tasks, notes, personal and team workflows |
+| [Science](#science) | 129 | Research, simulation, scientific computing, analysis |
+| [Design](#design) | 67 | UI/UX, visual identity, brand systems, layout |
+| [Data & AI](#data--ai) | 66 | Data analysis, ML, agents, observability, pipelines |
+| [Creative](#creative) | 58 | Images, video, audio, generative and creative work |
+| [Business](#business) | 46 | Strategy, finance, operations, product management |
+| [Legal](#legal) | 30 | Contracts, compliance, privilege, legal review |
+| [Health](#health) | 22 | Health, wellbeing, and care workflows |
+| [Miscellaneous](#miscellaneous) | 11 | Everything that doesn't fit a single bucket |
 
 > Counts reflect the current catalog and update as new sources are scanned.
 > The full machine-readable list lives in [`dist/ai-skills.json`](dist/ai-skills.json),
 > sorted so the most-starred source repos lead.
+
+## Categories
+
+Jump to a category to browse its skills. Skill listings are coming soon — for now
+the full set lives in [`dist/ai-skills.json`](dist/ai-skills.json).
+
+### Marketing
+
+248 skills — growth, SEO, ads, content, branding, and outreach. *(listings coming soon)*
+
+### Coding
+
+208 skills — dev workflows, testing, code review, infra, and tooling. *(listings coming soon)*
+
+### Productivity
+
+138 skills — files, tasks, notes, and personal or team workflows. *(listings coming soon)*
+
+### Science
+
+129 skills — research, simulation, scientific computing, and analysis. *(listings coming soon)*
+
+### Design
+
+67 skills — UI/UX, visual identity, brand systems, and layout. *(listings coming soon)*
+
+### Data & AI
+
+66 skills — data analysis, ML, agents, observability, and pipelines. *(listings coming soon)*
+
+### Creative
+
+58 skills — images, video, audio, and generative or creative work. *(listings coming soon)*
+
+### Business
+
+46 skills — strategy, finance, operations, and product management. *(listings coming soon)*
+
+### Legal
+
+30 skills — contracts, compliance, privilege, and legal review. *(listings coming soon)*
+
+### Health
+
+22 skills — health, wellbeing, and care workflows. *(listings coming soon)*
+
+### Miscellaneous
+
+11 skills — everything that doesn't fit a single bucket. *(listings coming soon)*
+
+[↑ Back to categories](#browse-by-category)
 
 ## How the Registry Works
 
