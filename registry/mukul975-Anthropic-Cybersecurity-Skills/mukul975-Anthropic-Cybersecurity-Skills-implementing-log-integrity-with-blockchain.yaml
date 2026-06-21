@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-log-integrity-with-blockchain
+display_name: implementing-log-integrity-with-blockchain
+description: Build an append-only log integrity chain using SHA-256 hash chaining
+  for tamper detection. Each log entry is hashed with the previous entry's hash to
+  create a blockchain-like structure where modifying any entry invalidates all subsequent
+  hashes. Implements log ingestion, chain verification, tamper detection with pinpoint
+  identification, and periodic checkpoint anchoring to external timestamping services.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-log-integrity-with-blockchain
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 17074
+added_at: '2026-06-21'

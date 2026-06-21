@@ -1,0 +1,17 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-dragos-platform-for-ot-monitoring
+display_name: implementing-dragos-platform-for-ot-monitoring
+description: Deploy and configure the Dragos Platform for OT network monitoring, leveraging
+  its 600+ industrial protocol parsers, intelligence-driven threat detection analytics,
+  and asset visibility capabilities to protect ICS environments against threat groups
+  like VOLTZITE, GRAPHITE, and BAUXITE.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-dragos-platform-for-ot-monitoring
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 17074
+added_at: '2026-06-21'

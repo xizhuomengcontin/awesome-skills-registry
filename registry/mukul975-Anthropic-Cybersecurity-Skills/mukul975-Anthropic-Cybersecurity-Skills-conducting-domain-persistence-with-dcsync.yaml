@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-conducting-domain-persistence-with-dcsync
+display_name: conducting-domain-persistence-with-dcsync
+description: Perform DCSync attacks to replicate Active Directory credentials and
+  establish domain persistence by extracting KRBTGT, Domain Admin, and service account
+  hashes for Golden Ticket creation.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/conducting-domain-persistence-with-dcsync
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 17074
+added_at: '2026-06-21'

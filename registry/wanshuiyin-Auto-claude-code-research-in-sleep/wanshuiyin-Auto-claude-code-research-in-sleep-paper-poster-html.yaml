@@ -1,0 +1,14 @@
+id: wanshuiyin-Auto-claude-code-research-in-sleep-paper-poster-html
+display_name: Paper Poster Html
+description: '---'
+authors:
+- wanshuiyin
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/skills-codex/paper-poster-html
+  repo: wanshuiyin/Auto-claude-code-research-in-sleep
+metadata:
+  stars: 12390
+added_at: '2026-06-21'

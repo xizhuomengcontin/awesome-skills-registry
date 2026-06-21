@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-envelope-encryption-with-aws-kms
+display_name: implementing-envelope-encryption-with-aws-kms
+description: Envelope encryption is a strategy where data is encrypted with a data
+  encryption key (DEK), and the DEK itself is encrypted with a master key (KEK) managed
+  by AWS KMS. This approach allows encrypting
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-envelope-encryption-with-aws-kms
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 17074
+added_at: '2026-06-21'

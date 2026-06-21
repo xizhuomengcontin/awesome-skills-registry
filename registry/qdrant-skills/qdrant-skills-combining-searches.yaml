@@ -1,0 +1,16 @@
+id: qdrant-skills-combining-searches
+display_name: qdrant-hybrid-search-combining
+description: Use when someone asks 'RRF or DBSF?', 'how to combine sparse and dense',
+  'how to combine scores from multiple searches?', 'custom fusion', or 'fusion is
+  not producing good results'
+authors:
+- qdrant
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/qdrant-search-quality/search-strategies/hybrid-search/combining-searches
+  repo: qdrant/skills
+metadata:
+  stars: 171
+added_at: '2026-06-21'

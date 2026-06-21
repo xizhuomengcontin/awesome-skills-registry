@@ -1,0 +1,14 @@
+id: NeoLabHQ-context-engineering-kit-review-pr
+display_name: review-pr
+description: Comprehensive pull request review using specialized agents
+authors:
+- NeoLabHQ
+is_official: false
+tags: []
+category: none
+source:
+  path: /plugins/review/skills/review-pr
+  repo: NeoLabHQ/context-engineering-kit
+metadata:
+  stars: 1149
+added_at: '2026-06-21'

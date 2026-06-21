@@ -1,0 +1,20 @@
+id: google-skills-iam-recommendations-simulator
+display_name: iam-recommendations-simulator
+description: Simulates a batch of proposed IAM policy changes using Google Cloud Policy
+  Simulator. Takes an array of simulations (resource, member, proposed_policy or proposed_policy_file),
+  runs the simulation replay, and returns mapped results. Use when you have a batch
+  of proposed IAM policy changes and need to simulate their impact on recent access
+  patterns using Google Cloud Policy Simulator. Don't use for analyzing live IAM policies,
+  applying policy changes, or simulating individual policy changes without a batch
+  structure.
+authors:
+- google
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/cloud/iam-recommendations-simulator
+  repo: google/skills
+metadata:
+  stars: 13982
+added_at: '2026-06-21'

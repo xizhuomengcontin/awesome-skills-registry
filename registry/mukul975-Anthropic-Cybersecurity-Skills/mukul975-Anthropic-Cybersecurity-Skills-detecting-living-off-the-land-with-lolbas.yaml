@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-detecting-living-off-the-land-with-lolbas
+display_name: detecting-living-off-the-land-with-lolbas
+description: Detect Living Off the Land Binaries (LOLBins/LOLBAS) abuse including
+  certutil, regsvr32, mshta, and rundll32 via process telemetry, Sigma rules, and
+  parent-child process analysis
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/detecting-living-off-the-land-with-lolbas
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 17074
+added_at: '2026-06-21'

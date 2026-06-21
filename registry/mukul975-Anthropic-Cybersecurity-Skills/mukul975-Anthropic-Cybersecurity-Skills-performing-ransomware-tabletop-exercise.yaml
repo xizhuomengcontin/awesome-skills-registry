@@ -1,0 +1,20 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-performing-ransomware-tabletop-exercise
+display_name: performing-ransomware-tabletop-exercise
+description: Plans and facilitates tabletop exercises simulating ransomware incidents
+  to test organizational readiness, decision-making, and communication procedures.
+  Designs realistic scenarios based on current ransomware threat actors (LockBit,
+  ALPHV/BlackCat, Cl0p), injects covering double extortion, backup destruction, and
+  regulatory notification requirements. Evaluates participant responses against NIST
+  CSF and CISA guidelines. Activates for requests involving ransomware tabletop, incident
+  response exercise, or ransomware readiness drill.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/performing-ransomware-tabletop-exercise
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 17074
+added_at: '2026-06-21'

@@ -1,0 +1,14 @@
+id: mattpocock-skills-implement
+display_name: implement
+description: Implement a piece of work based on a PRD or set of issues.
+authors:
+- mattpocock
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/engineering/implement
+  repo: mattpocock/skills
+metadata:
+  stars: 138226
+added_at: '2026-06-21'

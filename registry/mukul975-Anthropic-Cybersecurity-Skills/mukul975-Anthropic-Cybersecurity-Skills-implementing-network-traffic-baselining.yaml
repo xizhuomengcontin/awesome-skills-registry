@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-network-traffic-baselining
+display_name: implementing-network-traffic-baselining
+description: Build network traffic baselines from NetFlow/IPFIX data using Python
+  pandas for statistical analysis, z-score anomaly detection, and hourly/daily traffic
+  pattern profiling
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-network-traffic-baselining
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 17074
+added_at: '2026-06-21'

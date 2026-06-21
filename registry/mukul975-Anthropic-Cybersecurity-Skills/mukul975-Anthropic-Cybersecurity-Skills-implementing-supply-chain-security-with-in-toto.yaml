@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-supply-chain-security-with-in-toto
+display_name: implementing-supply-chain-security-with-in-toto
+description: Implement software supply chain integrity verification for container
+  builds using the in-toto framework to create cryptographically signed attestations
+  across CI/CD pipeline steps.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-supply-chain-security-with-in-toto
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 17074
+added_at: '2026-06-21'

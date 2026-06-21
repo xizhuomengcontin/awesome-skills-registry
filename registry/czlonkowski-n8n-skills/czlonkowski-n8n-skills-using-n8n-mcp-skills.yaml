@@ -1,0 +1,14 @@
+id: czlonkowski-n8n-skills-using-n8n-mcp-skills
+display_name: Using N8N Mcp Skills
+description: '---'
+authors:
+- czlonkowski
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/using-n8n-mcp-skills
+  repo: czlonkowski/n8n-skills
+metadata:
+  stars: 5504
+added_at: '2026-06-21'

@@ -1,0 +1,20 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-testing-for-xss-vulnerabilities
+display_name: testing-for-xss-vulnerabilities
+description: Tests web applications for Cross-Site Scripting (XSS) vulnerabilities
+  by injecting JavaScript payloads into reflected, stored, and DOM-based contexts
+  to demonstrate client-side code execution, session hijacking, and user impersonation.
+  The tester identifies all injection points and output contexts, crafts context-appropriate
+  payloads, and bypasses sanitization and CSP protections. Activates for requests
+  involving XSS testing, cross-site scripting assessment, client-side injection testing,
+  or JavaScript injection vulnerability testing.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/testing-for-xss-vulnerabilities
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 17074
+added_at: '2026-06-21'

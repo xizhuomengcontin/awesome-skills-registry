@@ -1,0 +1,15 @@
+id: santifer-career-ops-career-ops
+display_name: career-ops
+description: AI job search command center -- evaluate offers, generate CVs, scan portals,
+  track applications
+authors:
+- santifer
+is_official: false
+tags: []
+category: none
+source:
+  path: /.agents/skills/career-ops
+  repo: santifer/career-ops
+metadata:
+  stars: 54919
+added_at: '2026-06-21'

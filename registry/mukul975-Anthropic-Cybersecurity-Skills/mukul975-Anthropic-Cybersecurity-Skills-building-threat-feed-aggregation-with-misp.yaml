@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-building-threat-feed-aggregation-with-misp
+display_name: building-threat-feed-aggregation-with-misp
+description: Deploy MISP (Malware Information Sharing Platform) to aggregate, correlate,
+  and distribute threat intelligence feeds from multiple sources for centralized IOC
+  management and automated SIEM integration.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/building-threat-feed-aggregation-with-misp
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 17074
+added_at: '2026-06-21'

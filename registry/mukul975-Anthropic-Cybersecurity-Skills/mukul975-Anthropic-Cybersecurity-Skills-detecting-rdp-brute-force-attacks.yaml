@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-detecting-rdp-brute-force-attacks
+display_name: detecting-rdp-brute-force-attacks
+description: Detect RDP brute force attacks by analyzing Windows Security Event Logs
+  for failed authentication patterns (Event ID 4625), successful logons after failures
+  (Event ID 4624), NLA failures, and source IP frequency analysis.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/detecting-rdp-brute-force-attacks
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 17074
+added_at: '2026-06-21'

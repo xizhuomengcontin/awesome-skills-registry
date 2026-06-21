@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-building-attack-pattern-library-from-cti-reports
+display_name: building-attack-pattern-library-from-cti-reports
+description: Extract and catalog attack patterns from cyber threat intelligence reports
+  into a structured STIX-based library mapped to MITRE ATT&CK for detection engineering
+  and threat-informed defense.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/building-attack-pattern-library-from-cti-reports
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 17074
+added_at: '2026-06-21'

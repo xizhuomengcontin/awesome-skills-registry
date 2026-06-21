@@ -1,0 +1,19 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-ransomware-kill-switch-detection
+display_name: implementing-ransomware-kill-switch-detection
+description: Detects and exploits ransomware kill switch mechanisms including mutex-based
+  execution guards, domain-based kill switches, and registry-based termination checks.
+  Implements proactive mutex vaccination and kill switch domain monitoring to prevent
+  ransomware from executing. Activates for requests involving ransomware kill switch
+  analysis, mutex vaccination, WannaCry-style domain kill switches, or malware execution
+  guard detection.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-ransomware-kill-switch-detection
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 17074
+added_at: '2026-06-21'

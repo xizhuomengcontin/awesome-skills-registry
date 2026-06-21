@@ -1,0 +1,15 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-detecting-api-enumeration-attacks
+display_name: detecting-api-enumeration-attacks
+description: Detect and prevent API enumeration attacks including BOLA and IDOR exploitation
+  by monitoring sequential identifier access patterns and authorization failures.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/detecting-api-enumeration-attacks
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 17074
+added_at: '2026-06-21'

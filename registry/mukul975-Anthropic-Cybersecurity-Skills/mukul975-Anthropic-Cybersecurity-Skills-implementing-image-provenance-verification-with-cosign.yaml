@@ -1,0 +1,15 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-image-provenance-verification-with-cosign
+display_name: implementing-image-provenance-verification-with-cosign
+description: Sign and verify container image provenance using Sigstore Cosign with
+  keyless OIDC-based signing, attestations, and Kubernetes admission enforcement.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-image-provenance-verification-with-cosign
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 17074
+added_at: '2026-06-21'

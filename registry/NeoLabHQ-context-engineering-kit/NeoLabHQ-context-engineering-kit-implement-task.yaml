@@ -1,0 +1,14 @@
+id: NeoLabHQ-context-engineering-kit-implement-task
+display_name: implement-task
+description: Implement a task with automated LLM-as-Judge verification per step
+authors:
+- NeoLabHQ
+is_official: false
+tags: []
+category: none
+source:
+  path: /plugins/sdd/skills/implement-task
+  repo: NeoLabHQ/context-engineering-kit
+metadata:
+  stars: 1149
+added_at: '2026-06-21'

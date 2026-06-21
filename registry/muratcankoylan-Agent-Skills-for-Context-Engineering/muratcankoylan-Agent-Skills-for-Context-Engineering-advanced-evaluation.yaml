@@ -1,0 +1,14 @@
+id: muratcankoylan-Agent-Skills-for-Context-Engineering-advanced-evaluation
+display_name: Advanced Evaluation
+description: '---'
+authors:
+- muratcankoylan
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/advanced-evaluation
+  repo: muratcankoylan/Agent-Skills-for-Context-Engineering
+metadata:
+  stars: 16648
+added_at: '2026-06-21'

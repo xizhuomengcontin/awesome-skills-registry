@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-google-workspace-admin-security
+display_name: implementing-google-workspace-admin-security
+description: Implements comprehensive Google Workspace security hardening including
+  admin console configuration, phishing-resistant MFA enforcement, DLP policies, email
+  authentication (SPF/DKIM/DMARC), OAuth app control, and external sharing restrictions.
+  Activates for requests involving Google Workspace hardening, G Suite security configuration,
+  or cloud office security administration.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-google-workspace-admin-security
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 17074
+added_at: '2026-06-21'

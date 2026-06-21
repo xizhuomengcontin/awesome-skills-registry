@@ -1,0 +1,15 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-detecting-mimikatz-execution-patterns
+display_name: detecting-mimikatz-execution-patterns
+description: Detect Mimikatz execution through command-line patterns, LSASS access
+  signatures, binary indicators, and in-memory detection of known modules.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/detecting-mimikatz-execution-patterns
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 17074
+added_at: '2026-06-21'
