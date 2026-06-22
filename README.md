@@ -28,7 +28,6 @@
 
 - [Skills](#skills)
 - [Getting Started](getting-started.md)
-- [Registry Entry Format](#registry-entry-format)
 - [Contributing](#contributing)
 - [Resources](#resources)
 - [License](#license)
@@ -933,67 +932,14 @@ author your own skill.
 - [Using the catalog](getting-started.md#using-the-catalog)
 - [Creating skills](getting-started.md#creating-skills)
 
-## Registry Entry Format
-
-Each skill is generated as `registry/{owner}-{repo}/{owner}-{repo}-{skill-dir}.yaml`:
-
-```yaml
-id: anthropics-skills-algorithmic-art
-display_name: Algorithmic Art
-description: Creating algorithmic art using p5.js with seeded randomness ...
-authors:
-  - anthropics
-is_official: true
-tags:
-  - generative-art
-  - p5js
-  - creative-coding
-category: creative
-source:
-  path: /skills/algorithmic-art
-  repo: anthropics/skills
-metadata:
-  stars: 149805
-added_at: "2026-06-05"
-```
-
-- **Filename** `{owner}-{repo}-{skill_dir}.yaml` is globally unique; it's also the
-  dedupe key, so a skill is "known" if that stem exists in any folder.
-- **One folder per source repo** keeps every source's skills together.
-- **`metadata.stars`** records the source repo's GitHub star count and drives the
-  ordering of `dist/ai-skills.json`.
-
 ## Contributing
 
 Contributing is simple: **add a GitHub repo to [`sources.yaml`](sources.yaml)** and
-open a PR. A GitHub Action scans the repo for `SKILL.md` files, classifies each
-skill, and adds it to the catalog automatically — you never hand-write entries.
+open a PR. A GitHub Action scans it for `SKILL.md` files, classifies each skill, and
+adds it to the catalog automatically — you never hand-write entries.
 
-- Found a repo with skills? Add its URL.
-- Wrote your own skill? Push the `SKILL.md` to a public repo and add that URL.
-
-Add a source by picking the line that matches where the `SKILL.md` files live:
-
-```yaml
-sources:
-  # SKILL.md at the repo root
-  - url: https://github.com/owner/my-skill
-
-  # Skills inside a folder (each subfolder with a SKILL.md becomes an entry)
-  - url: https://github.com/owner/my-skills
-    skills_path: skills/
-
-  # Multiple scan roots with no shared parent
-  - url: https://github.com/huggingface/skills
-    skills_paths:
-      - skills/
-      - hf-mcp/skills/
-```
-
-Add `is_official: true` for first-party/vendor repos. Then open a PR titled
-something like `chore(sources): add owner/repo`.
-
-See [`CONTRIBUTING.md`](CONTRIBUTING.md) for the full guide.
+See **[CONTRIBUTING.md](CONTRIBUTING.md)** for the full guide, including how to add a
+source and the generated [registry entry format](CONTRIBUTING.md#registry-entry-format).
 
 ## Resources
 
