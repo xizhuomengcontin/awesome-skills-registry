@@ -45,6 +45,9 @@ DEFAULT_OPEN = 8
 # Max skills to list per publisher before linking out to "view all".
 MAX_ITEMS = 10
 
+# Target on-screen length (label + description) so each row stays on one line.
+LINE_BUDGET = 95
+
 # Nicely-cased display names for publishers we know about. Everything else is
 # humanized automatically from the owner slug.
 PUBLISHER_OVERRIDES = {
@@ -156,7 +159,8 @@ def short_description(text: str, limit: int = 110) -> str:
         return ""
     first = re.split(r"(?<=[.!?])\s", text, maxsplit=1)[0]
     if len(first) > limit:
-        first = first[: limit - 1].rstrip() + "…"
+        # Trim on a word boundary so we never cut mid-word.
+        first = first[:limit].rsplit(" ", 1)[0].rstrip(" ,;:—-") + "…"
     return first
 
 
@@ -170,9 +174,11 @@ def render_group(name: str, skills: list[dict], *, is_open: bool, official: bool
     noun = "skill" if count == 1 else "skills"
 
     # Stars lead the inline meta, shown right alongside the publisher name.
+    # Use the text star "★" (not the ⭐ emoji) so it sits inline with the
+    # text at the same size and colour.
     meta_bits = []
     if stars:
-        meta_bits.append(f"⭐ {stars:,}")
+        meta_bits.append(f"★ {stars:,}")
     meta_bits.append(f"{count} {noun}")
     if official:
         meta_bits.append("official")
@@ -183,7 +189,9 @@ def render_group(name: str, skills: list[dict], *, is_open: bool, official: bool
     for s in ordered[:MAX_ITEMS]:
         label = skill_label(s)
         url = skill_url(s)
-        desc = short_description(s.get("description", ""))
+        # Budget the description against the label so the row fits one line.
+        avail = max(40, LINE_BUDGET - len(label))
+        desc = short_description(s.get("description", ""), limit=avail)
         link = f"[`{label}`]({url})" if url else f"`{label}`"
         items.append(f"- {link} — {desc}" if desc else f"- {link}")
 
