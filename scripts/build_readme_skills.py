@@ -42,6 +42,9 @@ END_MARKER = "<!-- skills-list-end -->"
 # How many publishers to expand by default; the rest are collapsed.
 DEFAULT_OPEN = 8
 
+# Max skills to list per publisher before linking out to "view all".
+MAX_ITEMS = 10
+
 # Nicely-cased display names for publishers we know about. Everything else is
 # humanized automatically from the owner slug.
 PUBLISHER_OVERRIDES = {
@@ -113,16 +116,15 @@ def humanize(owner: str) -> str:
 
 
 def skill_label(skill: dict) -> str:
-    owner = _owner(skill)
+    # Skills are grouped under their publisher, so the owner prefix is
+    # redundant — show just the leaf name (e.g. ``ab-testing``).
     path = _path(skill)
     repo = _repo(skill)
     if path and path not in ("/", ""):
-        leaf = path.rstrip("/").rsplit("/", 1)[-1]
-    elif "/" in repo:
-        leaf = repo.split("/", 1)[1]
-    else:
-        leaf = repo
-    return f"{owner}/{leaf}"
+        return path.rstrip("/").rsplit("/", 1)[-1]
+    if "/" in repo:
+        return repo.split("/", 1)[1]
+    return repo
 
 
 def skill_url(skill: dict) -> str:
@@ -135,7 +137,20 @@ def skill_url(skill: dict) -> str:
     return f"https://github.com/{repo}"
 
 
-def short_description(text: str, limit: int = 120) -> str:
+def provider_url(skills: list[dict]) -> str:
+    """Best link for browsing all of a publisher's skills.
+
+    If every skill shares one source repo, link to that repo; otherwise fall
+    back to the publisher's GitHub profile.
+    """
+    repos = {_repo(s) for s in skills if _repo(s)}
+    if len(repos) == 1:
+        return f"https://github.com/{next(iter(repos))}"
+    owner = _owner(skills[0]) if skills else ""
+    return f"https://github.com/{owner}" if owner else ""
+
+
+def short_description(text: str, limit: int = 110) -> str:
     text = " ".join((text or "").split())
     if not text:
         return ""
@@ -153,30 +168,36 @@ def render_group(name: str, skills: list[dict], *, is_open: bool, official: bool
     stars = max((_stars(s) for s in skills), default=0)
     count = len(skills)
     noun = "skill" if count == 1 else "skills"
-    meta_bits = [f"{count} {noun}"]
+
+    # Stars lead the inline meta, shown right alongside the publisher name.
+    meta_bits = []
     if stars:
         meta_bits.append(f"⭐ {stars:,}")
+    meta_bits.append(f"{count} {noun}")
     if official:
         meta_bits.append("official")
-    meta = " &nbsp;·&nbsp; ".join(meta_bits)
+    meta = " · ".join(meta_bits)
 
+    ordered = sorted(skills, key=lambda x: display_name(x).lower())
     items = []
-    for s in sorted(skills, key=lambda x: display_name(x).lower()):
+    for s in ordered[:MAX_ITEMS]:
         label = skill_label(s)
         url = skill_url(s)
         desc = short_description(s.get("description", ""))
-        link = f"[{label}]({url})" if url else f"`{label}`"
+        link = f"[`{label}`]({url})" if url else f"`{label}`"
         items.append(f"- {link} — {desc}" if desc else f"- {link}")
 
-    # Blank lines between items render a "loose" list on GitHub (each bullet
-    # wrapped in <p>), giving the listing room to breathe.
-    body = "\n\n".join(items)
+    if count > MAX_ITEMS:
+        more = provider_url(skills)
+        if more:
+            items.append(f"- [**View all {count} skills →**]({more})")
+
+    # Tight list (no blank lines) keeps each publisher compact and readable.
+    body = "\n".join(items)
 
     lines = [
         f"<details{' open' if is_open else ''}>",
-        f"<summary><h3>{name}</h3></summary>",
-        "",
-        f"<sub>{meta}</sub>",
+        f"<summary><h3>{name} &nbsp;<sub>{meta}</sub></h3></summary>",
         "",
         body,
         "",
