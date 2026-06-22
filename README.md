@@ -27,7 +27,7 @@
 ## Contents
 
 - [Skills](#skills)
-- [Getting Started](getting-started.md)
+- [Getting Started](docs/getting-started.md)
 - [Contributing](#contributing)
 - [Resources](#resources)
 - [License](#license)
@@ -923,14 +923,14 @@ new skills land to refresh the listing.
 
 ## Getting Started
 
-New here? The full walkthrough lives in **[Getting Started](getting-started.md)** —
+New here? The full walkthrough lives in **[Getting Started](docs/getting-started.md)** —
 how to use a skill in your agent, query the catalog JSON programmatically, and
 author your own skill.
 
-- [Use a skill in your agent](getting-started.md#use-a-skill-in-your-agent)
-- [Find skills programmatically](getting-started.md#find-skills-programmatically)
-- [Using the catalog](getting-started.md#using-the-catalog)
-- [Creating skills](getting-started.md#creating-skills)
+- [Use a skill in your agent](docs/getting-started.md#use-a-skill-in-your-agent)
+- [Find skills programmatically](docs/getting-started.md#find-skills-programmatically)
+- [Using the catalog](docs/getting-started.md#using-the-catalog)
+- [Creating skills](docs/getting-started.md#creating-skills)
 
 ## Contributing
 
