@@ -39,7 +39,7 @@ jq '[.[] | select(.category == "coding")][:10] | .[].display_name' dist/ai-skill
 
 ## Using the Catalog
 
-[`dist/ai-skills.json`](dist/ai-skills.json) is the canonical export. Each entry
+[`dist/ai-skills.json`](../dist/ai-skills.json) is the canonical export. Each entry
 carries the skill's `id`, `display_name`, `description`, `authors`, `tags`,
 `category`, `source` (repo + path), `metadata.stars`, and `added_at`. Entries are
 ordered by source-repo stars (descending) so the most popular sources lead and
@@ -87,4 +87,4 @@ Detailed description of the skill's purpose and capabilities.
 **Best practices:** focus on specific, repeatable tasks; write instructions for
 the agent, not the end user; include clear examples and edge cases; confirm
 before destructive operations; and document prerequisites. The full guide,
-including a richer template, lives in [`CONTRIBUTING.md`](CONTRIBUTING.md).
+including a richer template, lives in [`CONTRIBUTING.md`](../CONTRIBUTING.md).

@@ -75,6 +75,37 @@ Push that to a public repo, then add the repo URL to `sources.yaml` as above.
 - Confirm before destructive operations.
 - Credit the original author or source where applicable.
 
+## Registry Entry Format
+
+You never write these by hand — the pipeline generates one YAML file per skill at
+`registry/{owner}-{repo}/{owner}-{repo}-{skill-dir}.yaml`:
+
+```yaml
+id: anthropics-skills-algorithmic-art
+display_name: Algorithmic Art
+description: Creating algorithmic art using p5.js with seeded randomness ...
+authors:
+  - anthropics
+is_official: true
+tags:
+  - generative-art
+  - p5js
+  - creative-coding
+category: creative
+source:
+  path: /skills/algorithmic-art
+  repo: anthropics/skills
+metadata:
+  stars: 149805
+added_at: "2026-06-05"
+```
+
+- **Filename** `{owner}-{repo}-{skill_dir}.yaml` is globally unique; it's also the
+  dedupe key, so a skill is "known" if that stem exists in any folder.
+- **One folder per source repo** keeps every source's skills together.
+- **`metadata.stars`** records the source repo's GitHub star count and drives the
+  ordering of `dist/ai-skills.json`.
+
 ## Questions?
 
 Open an [issue](https://github.com/truefoundry/tfy-skills-repo/issues) if you need
