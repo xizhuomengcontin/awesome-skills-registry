@@ -1,6 +1,6 @@
 <h1 align="center">TrueFoundry Skills Registry</h1>
 
-![TrueFoundry Skills Registry — the open agent skills ecosystem](images/tf_banner.svg)
+![TrueFoundry Skills Registry — the open agent skills ecosystem](images/tf-banner.png)
 
 <p align="center">
   <a href="https://truefoundry.com/ai-gateway"><img src="https://img.shields.io/badge/TrueFoundry-AI_Gateway-6E56CF?style=flat-square" alt="TrueFoundry AI Gateway" /></a>
