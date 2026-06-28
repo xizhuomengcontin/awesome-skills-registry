@@ -1,0 +1,17 @@
+id: Xquik-dev-tweetclaw-tweetclaw
+display_name: tweetclaw
+description: Safety-reviewed guide for @xquik/tweetclaw, the Xquik OpenClaw plugin
+  for structured X/Twitter workflows. Covers setup, credential boundaries, explicit
+  approval for writes and paid actions, spending limits, private-data handling, and
+  monitor controls.
+authors:
+- Xquik-dev
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/tweetclaw
+  repo: Xquik-dev/tweetclaw
+metadata:
+  stars: 80
+added_at: '2026-06-28'

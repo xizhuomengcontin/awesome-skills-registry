@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-hunting-for-webshell-activity
+display_name: hunting-for-webshell-activity
+description: Hunt for web shell deployments on internet-facing servers by analyzing
+  file creation in web directories, suspicious process spawning from web servers,
+  and anomalous HTTP patterns.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/hunting-for-webshell-activity
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 22197
+added_at: '2026-06-28'

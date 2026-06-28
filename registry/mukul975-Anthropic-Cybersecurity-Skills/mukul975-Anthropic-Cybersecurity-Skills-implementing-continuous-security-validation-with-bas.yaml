@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-continuous-security-validation-with-bas
+display_name: implementing-continuous-security-validation-with-bas
+description: Deploy Breach and Attack Simulation tools to continuously validate security
+  control effectiveness by safely emulating real-world attack techniques across the
+  kill chain.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-continuous-security-validation-with-bas
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 22197
+added_at: '2026-06-28'

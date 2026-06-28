@@ -1,0 +1,14 @@
+id: czlonkowski-n8n-skills-n8n-code-tool
+display_name: N8N Code Tool
+description: '---'
+authors:
+- czlonkowski
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/n8n-code-tool
+  repo: czlonkowski/n8n-skills
+metadata:
+  stars: 5608
+added_at: '2026-06-28'

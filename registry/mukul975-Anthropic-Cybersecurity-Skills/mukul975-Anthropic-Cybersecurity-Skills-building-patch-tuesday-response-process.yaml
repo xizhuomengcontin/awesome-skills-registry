@@ -1,0 +1,15 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-building-patch-tuesday-response-process
+display_name: building-patch-tuesday-response-process
+description: Establish a structured operational process to triage, test, and deploy
+  Microsoft Patch Tuesday security updates within risk-based remediation SLAs.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/building-patch-tuesday-response-process
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 22197
+added_at: '2026-06-28'

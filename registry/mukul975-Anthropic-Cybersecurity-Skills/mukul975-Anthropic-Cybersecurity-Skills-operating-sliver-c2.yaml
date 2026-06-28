@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-operating-sliver-c2
+display_name: operating-sliver-c2
+description: Stand up a Sliver C2 server and listeners, generate cross-platform implants
+  and beacons, and run post-exploitation, pivoting, and BOF/.NET tooling via the armory
+  for adversary emulation.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/operating-sliver-c2
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 22197
+added_at: '2026-06-28'

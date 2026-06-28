@@ -1,0 +1,16 @@
+id: veniceai-skills-venice-auth
+display_name: venice-auth
+description: Authenticate to the Venice API with a Bearer API key or with an x402
+  / SIWE wallet. Covers header formats, the SIWE message fields, TTL and nonce rules,
+  the venice-x402-client SDK, and how to choose between the two modes.
+authors:
+- veniceai
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/venice-auth
+  repo: veniceai/skills
+metadata:
+  stars: 101
+added_at: '2026-06-28'

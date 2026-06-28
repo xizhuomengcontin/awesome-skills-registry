@@ -1,0 +1,17 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-hunting-for-cobalt-strike-beacons
+display_name: hunting-for-cobalt-strike-beacons
+description: Detect Cobalt Strike beacon network activity using default TLS certificate
+  signatures (serial 8BB00EE), JA3/JA3S/JARM fingerprints, HTTP C2 profile pattern
+  matching, beacon jitter analysis, and named pipe detection via Zeek, Suricata, and
+  Python PCAP analysis.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/hunting-for-cobalt-strike-beacons
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 22197
+added_at: '2026-06-28'

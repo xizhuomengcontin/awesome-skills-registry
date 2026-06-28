@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-cloud-waf-rules
+display_name: implementing-cloud-waf-rules
+description: This skill covers deploying and tuning Web Application Firewall rules
+  on AWS WAF, Azure WAF, and Cloudflare to protect cloud-hosted applications against
+  OWASP Top 10 attacks. It details configuring managed rule sets, creating custom
+  rules for business logic protection, implementing rate limiting, deploying bot management,
+  and reducing false positives through rule tuning and logging analysis.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-cloud-waf-rules
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 22197
+added_at: '2026-06-28'

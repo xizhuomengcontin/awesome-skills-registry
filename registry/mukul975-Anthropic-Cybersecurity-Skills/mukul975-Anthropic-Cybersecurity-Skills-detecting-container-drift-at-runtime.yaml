@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-detecting-container-drift-at-runtime
+display_name: detecting-container-drift-at-runtime
+description: Detect unauthorized modifications to running containers by monitoring
+  for binary execution drift, file system changes, and configuration deviations from
+  the original container image.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/detecting-container-drift-at-runtime
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 22197
+added_at: '2026-06-28'

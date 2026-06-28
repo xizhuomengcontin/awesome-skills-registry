@@ -1,0 +1,24 @@
+id: czlonkowski-n8n-skills-n8n-multi-instance
+display_name: n8n-multi-instance
+description: "Use when an n8n-mcp account targets more than one n8n instance \u2014\
+  \ i.e. the `n8n_instances` tool is available, the user mentions multiple n8n instances\
+  \ or environments (prod vs staging, several teams or clients), a workflow / datatable\
+  \ / credential / execution call returns an unexpected NOT_FOUND or reads data you\
+  \ don't recognize, or a credential create/update/delete is refused with an `INSTANCE_AMBIGUOUS`\
+  \ error. Covers choosing and switching which instance this MCP session targets,\
+  \ verifying the target before high-stakes work \u2014 credential writes above all\
+  \ \u2014 and recovering from misroutes and ambiguous-write fail-closes. Always consult\
+  \ this skill before operating on a specific instance, before any credential create/update/delete\
+  \ on a multi-instance account, or when a call hits the wrong/empty data or an `INSTANCE_AMBIGUOUS`\
+  \ error."
+authors:
+- czlonkowski
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/n8n-multi-instance
+  repo: czlonkowski/n8n-skills
+metadata:
+  stars: 5608
+added_at: '2026-06-28'

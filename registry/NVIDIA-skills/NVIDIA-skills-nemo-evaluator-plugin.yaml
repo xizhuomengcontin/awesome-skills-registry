@@ -1,0 +1,15 @@
+id: NVIDIA-skills-nemo-evaluator-plugin
+display_name: nemo-evaluator-plugin
+description: Use when working on the Evaluator plugin CLI, jobs, SDK-backed specs,
+  metric types, or plugin-owned Evaluator skills.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/nemo-evaluator-plugin
+  repo: NVIDIA/skills
+metadata:
+  stars: 1972
+added_at: '2026-06-28'

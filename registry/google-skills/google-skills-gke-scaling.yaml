@@ -1,0 +1,17 @@
+id: google-skills-gke-scaling
+display_name: gke-scaling
+description: Configures GKE autoscaling, including HPA, VPA, and Node Auto-Provisioning
+  (NAP). Use when configuring GKE autoscaling, setting up GKE HPA, setting up GKE
+  VPA, or configuring GKE NAP. Don't use for configuring static cluster sizes or setting
+  node-level machine styles directly (use gke-compute-classes instead).
+authors:
+- google
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/cloud/gke-scaling
+  repo: google/skills
+metadata:
+  stars: 14185
+added_at: '2026-06-28'

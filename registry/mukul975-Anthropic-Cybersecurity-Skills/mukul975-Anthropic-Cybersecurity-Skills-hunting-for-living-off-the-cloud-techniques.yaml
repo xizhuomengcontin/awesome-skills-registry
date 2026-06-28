@@ -1,0 +1,15 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-hunting-for-living-off-the-cloud-techniques
+display_name: hunting-for-living-off-the-cloud-techniques
+description: Hunt for adversary abuse of legitimate cloud services for C2, data staging,
+  and exfiltration including abuse of Azure, AWS, GCP services, and SaaS platforms.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/hunting-for-living-off-the-cloud-techniques
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 22197
+added_at: '2026-06-28'

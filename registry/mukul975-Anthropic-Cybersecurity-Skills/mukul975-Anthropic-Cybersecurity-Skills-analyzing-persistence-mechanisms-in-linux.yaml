@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-analyzing-persistence-mechanisms-in-linux
+display_name: analyzing-persistence-mechanisms-in-linux
+description: Detect and analyze Linux persistence mechanisms including crontab entries,
+  systemd service units, LD_PRELOAD hijacking, bashrc modifications, and authorized_keys
+  backdoors using auditd and file integrity monitoring
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/analyzing-persistence-mechanisms-in-linux
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 22197
+added_at: '2026-06-28'

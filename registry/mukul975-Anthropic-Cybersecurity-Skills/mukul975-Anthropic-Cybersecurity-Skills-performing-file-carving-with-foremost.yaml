@@ -1,0 +1,15 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-performing-file-carving-with-foremost
+display_name: performing-file-carving-with-foremost
+description: Recover files from disk images and unallocated space using Foremost's
+  header-footer signature carving to extract evidence regardless of file system state.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/performing-file-carving-with-foremost
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 22197
+added_at: '2026-06-28'

@@ -1,0 +1,19 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-anti-ransomware-group-policy
+display_name: implementing-anti-ransomware-group-policy
+description: Configures Windows Group Policy Objects (GPO) to prevent ransomware execution
+  and limit its spread. Implements AppLocker rules, Software Restriction Policies,
+  Controlled Folder Access, attack surface reduction rules, and network protection
+  settings. Activates for requests involving Windows GPO hardening against ransomware,
+  AppLocker configuration, Controlled Folder Access setup, or endpoint protection
+  via Group Policy.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-anti-ransomware-group-policy
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 22197
+added_at: '2026-06-28'

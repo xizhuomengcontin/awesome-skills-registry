@@ -1,0 +1,16 @@
+id: transloadit-skills-transform-remove-background-with-transloadit
+display_name: transform-remove-background-with-transloadit
+description: One-off background removal (local image -> transparent PNG) using the
+  official `@transloadit/node` CLI. Use a minimal `/image/bgremove` steps JSON and
+  download the result to an explicit `.png` path via `-o`.
+authors:
+- transloadit
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/transform-remove-background-with-transloadit
+  repo: transloadit/skills
+metadata:
+  stars: 2
+added_at: '2026-06-28'

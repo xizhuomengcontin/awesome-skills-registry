@@ -1,0 +1,19 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-conducting-phishing-incident-response
+display_name: conducting-phishing-incident-response
+description: Responds to phishing incidents by analyzing reported emails, extracting
+  indicators, assessing credential compromise, quarantining malicious messages across
+  the organization, and remediating affected accounts. Covers email header analysis,
+  URL/attachment sandboxing, and mailbox-wide purge operations. Activates for requests
+  involving phishing response, email incident, credential phishing, spear phishing
+  investigation, or phishing remediation.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/conducting-phishing-incident-response
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 22197
+added_at: '2026-06-28'

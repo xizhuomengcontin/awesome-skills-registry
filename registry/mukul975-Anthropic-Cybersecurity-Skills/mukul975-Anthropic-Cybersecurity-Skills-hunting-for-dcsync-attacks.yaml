@@ -1,0 +1,15 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-hunting-for-dcsync-attacks
+display_name: hunting-for-dcsync-attacks
+description: Detect DCSync attacks by analyzing Windows Event ID 4662 for unauthorized
+  DS-Replication-Get-Changes requests from non-domain-controller accounts.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/hunting-for-dcsync-attacks
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 22197
+added_at: '2026-06-28'

@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-hunting-for-dns-tunneling-with-zeek
+display_name: hunting-for-dns-tunneling-with-zeek
+description: Detect DNS tunneling and data exfiltration by analyzing Zeek dns.log
+  for high-entropy subdomain queries, excessive query volume, long query lengths,
+  and unusual DNS record types indicating covert channel communication.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/hunting-for-dns-tunneling-with-zeek
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 22197
+added_at: '2026-06-28'

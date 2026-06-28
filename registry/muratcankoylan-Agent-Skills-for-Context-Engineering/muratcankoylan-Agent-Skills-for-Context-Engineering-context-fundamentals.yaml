@@ -1,0 +1,14 @@
+id: muratcankoylan-Agent-Skills-for-Context-Engineering-context-fundamentals
+display_name: Context Fundamentals
+description: '---'
+authors:
+- muratcankoylan
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/context-fundamentals
+  repo: muratcankoylan/Agent-Skills-for-Context-Engineering
+metadata:
+  stars: 16774
+added_at: '2026-06-28'

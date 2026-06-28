@@ -1,0 +1,15 @@
+id: NVIDIA-skills-holoscan-install-container
+display_name: holoscan-install-container
+description: Install Holoscan SDK via the NGC Docker container. Use for container-based
+  installs; not for native apt/pip/Conda installs.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/holoscan-install-container
+  repo: NVIDIA/skills
+metadata:
+  stars: 1972
+added_at: '2026-06-28'

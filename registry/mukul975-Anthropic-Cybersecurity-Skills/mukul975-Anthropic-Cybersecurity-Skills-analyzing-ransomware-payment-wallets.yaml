@@ -1,0 +1,19 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-analyzing-ransomware-payment-wallets
+display_name: analyzing-ransomware-payment-wallets
+description: Traces ransomware cryptocurrency payment flows using blockchain analysis
+  tools such as Chainalysis Reactor, WalletExplorer, and blockchain.com APIs. Identifies
+  wallet clusters, tracks fund movement through mixers and exchanges, and supports
+  law enforcement attribution. Activates for requests involving ransomware payment
+  tracing, bitcoin wallet analysis, cryptocurrency forensics, or blockchain intelligence
+  gathering.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/analyzing-ransomware-payment-wallets
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 22197
+added_at: '2026-06-28'

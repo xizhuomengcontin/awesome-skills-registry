@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-zero-knowledge-proof-for-authentication
+display_name: implementing-zero-knowledge-proof-for-authentication
+description: Zero-Knowledge Proofs (ZKPs) allow a prover to demonstrate knowledge
+  of a secret (such as a password or private key) without revealing the secret itself.
+  This skill implements the Schnorr identificati
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-zero-knowledge-proof-for-authentication
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 22197
+added_at: '2026-06-28'

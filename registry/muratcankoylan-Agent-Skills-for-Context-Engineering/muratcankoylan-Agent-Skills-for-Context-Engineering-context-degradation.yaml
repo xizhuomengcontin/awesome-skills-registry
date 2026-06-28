@@ -1,0 +1,14 @@
+id: muratcankoylan-Agent-Skills-for-Context-Engineering-context-degradation
+display_name: Context Degradation
+description: '---'
+authors:
+- muratcankoylan
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/context-degradation
+  repo: muratcankoylan/Agent-Skills-for-Context-Engineering
+metadata:
+  stars: 16774
+added_at: '2026-06-28'

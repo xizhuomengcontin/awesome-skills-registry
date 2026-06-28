@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-building-phishing-reporting-button-workflow
+display_name: building-phishing-reporting-button-workflow
+description: Implement a phishing report button in email clients with automated triage
+  workflow that analyzes user-reported suspicious emails and provides feedback to
+  reporters.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/building-phishing-reporting-button-workflow
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 22197
+added_at: '2026-06-28'

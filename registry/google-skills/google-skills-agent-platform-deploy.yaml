@@ -1,0 +1,21 @@
+id: google-skills-agent-platform-deploy
+display_name: agent-platform-deploy
+description: Deploy open models or custom weights from Model Garden to Agent Platform
+  endpoints, check deployment status, verify serving endpoints, or clean up resources
+  by undeploying models and deleting endpoints. Use when asked to deploy models on
+  Agent Platform, list available Model Garden models, check if a model is deployable,
+  query deployment cost, troubleshoot deployment errors (like quota limits), or undeploy/clean
+  up endpoints. Also use when copying and deploying a 1P Tuned Model. Don't use for
+  public Vertex AI deployments (use the `vertex-deploy` skill) or for running model
+  evaluations (use the `agent-platform-eval` skill).
+authors:
+- google
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/cloud/agent-platform-deploy
+  repo: google/skills
+metadata:
+  stars: 14185
+added_at: '2026-06-28'

@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-analyzing-linux-system-artifacts
+display_name: analyzing-linux-system-artifacts
+description: Examine Linux system artifacts including auth logs, cron jobs, shell
+  history, and system configuration to uncover evidence of compromise or unauthorized
+  activity.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/analyzing-linux-system-artifacts
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 22197
+added_at: '2026-06-28'

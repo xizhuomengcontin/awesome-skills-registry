@@ -1,0 +1,20 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-api-key-security-controls
+display_name: implementing-api-key-security-controls
+description: Implements secure API key generation, storage, rotation, and revocation
+  controls to protect API authentication credentials from leakage, brute force, and
+  abuse. The engineer designs API key formats with sufficient entropy, implements
+  secure hashing for storage, enforces per-key scoping and rate limiting, monitors
+  for leaked keys in public repositories, and builds key rotation workflows. Activates
+  for requests involving API key management, API key security, key rotation policy,
+  or API credential protection.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-api-key-security-controls
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 22197
+added_at: '2026-06-28'

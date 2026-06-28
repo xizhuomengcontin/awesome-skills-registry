@@ -1,0 +1,17 @@
+id: transloadit-skills-transform-convert-markdown-to-pdf-with-transloadit
+display_name: transform-convert-markdown-to-pdf-with-transloadit
+description: Convert a local Markdown file to a sibling PDF via the official `@transloadit/node`
+  CLI. Use when the user wants a `.md` file rendered as a `.pdf`, especially from
+  an agent session or local repo. The CLI resolves auth from the shell environment,
+  the current working directory `.env`, then `~/.transloadit/credentials`.
+authors:
+- transloadit
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/transform-convert-markdown-to-pdf-with-transloadit
+  repo: transloadit/skills
+metadata:
+  stars: 2
+added_at: '2026-06-28'

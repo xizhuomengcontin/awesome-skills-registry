@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-hardening-docker-containers-for-production
+display_name: hardening-docker-containers-for-production
+description: Hardening Docker containers for production involves applying security
+  best practices aligned with CIS Docker Benchmark v1.8.0 to minimize attack surface,
+  prevent privilege escalation, and enforce leas
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/hardening-docker-containers-for-production
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 22197
+added_at: '2026-06-28'

@@ -1,0 +1,17 @@
+id: qdrant-skills-hybrid-search
+display_name: qdrant-hybrid-search
+description: Explains hybrid search in Qdrant. Use when someone asks 'how do I setup
+  hybrid search?', 'how to combine keyword and semantic search?', 'sparse plus dense
+  vectors?', 'missing keyword matches', 'how to combine results from multiple searches?'
+  and 'combining multiple representations'
+authors:
+- qdrant
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/qdrant-search-quality/search-strategies/hybrid-search
+  repo: qdrant/skills
+metadata:
+  stars: 181
+added_at: '2026-06-28'
