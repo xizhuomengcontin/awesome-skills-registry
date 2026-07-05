@@ -1,0 +1,14 @@
+id: lawvable-awesome-legal-skills-eu-ai-act-classification-werner-plutat
+display_name: Eu Ai Act Classification Werner Plutat
+description: '---'
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/eu-ai-act-classification-werner-plutat
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 549
+added_at: '2026-07-05'

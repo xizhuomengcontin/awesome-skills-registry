@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-executing-red-team-engagement-planning
+display_name: executing-red-team-engagement-planning
+description: Red team engagement planning is the foundational phase that defines scope,
+  objectives, rules of engagement (ROE), threat model selection, and operational timelines
+  before any offensive testing begins.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/executing-red-team-engagement-planning
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 24400
+added_at: '2026-07-05'

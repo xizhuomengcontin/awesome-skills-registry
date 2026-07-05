@@ -1,0 +1,17 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-hunting-for-ntlm-relay-attacks
+display_name: hunting-for-ntlm-relay-attacks
+description: Detect NTLM relay attacks by analyzing Windows Event 4624 logon type
+  3 with NTLMSSP authentication, identifying IP-to-hostname mismatches, Responder
+  traffic signatures, SMB signing status, and suspicious authentication patterns across
+  the domain.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/hunting-for-ntlm-relay-attacks
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 24400
+added_at: '2026-07-05'

@@ -1,0 +1,15 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-analyzing-prefetch-files-for-execution-history
+display_name: analyzing-prefetch-files-for-execution-history
+description: Parse Windows Prefetch files to determine program execution history including
+  run counts, timestamps, and referenced files for forensic investigation.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/analyzing-prefetch-files-for-execution-history
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 24400
+added_at: '2026-07-05'

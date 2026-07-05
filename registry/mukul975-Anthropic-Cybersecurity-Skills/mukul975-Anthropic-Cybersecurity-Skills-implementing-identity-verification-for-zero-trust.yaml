@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-identity-verification-for-zero-trust
+display_name: implementing-identity-verification-for-zero-trust
+description: Implement continuous identity verification for zero trust using phishing-resistant
+  MFA (FIDO2/WebAuthn), risk-based conditional access, and identity governance aligned
+  with the CISA Zero Trust Maturity Model.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-identity-verification-for-zero-trust
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 24400
+added_at: '2026-07-05'

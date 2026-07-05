@@ -1,0 +1,15 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-building-devsecops-pipeline-with-gitlab-ci
+display_name: building-devsecops-pipeline-with-gitlab-ci
+description: Design and implement a comprehensive DevSecOps pipeline in GitLab CI/CD
+  integrating SAST, DAST, container scanning, dependency scanning, and secret detection.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/building-devsecops-pipeline-with-gitlab-ci
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 24400
+added_at: '2026-07-05'

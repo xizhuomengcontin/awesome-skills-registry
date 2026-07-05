@@ -1,0 +1,19 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-analyzing-bootkit-and-rootkit-samples
+display_name: analyzing-bootkit-and-rootkit-samples
+description: Analyzes bootkit and advanced rootkit malware that infects the Master
+  Boot Record (MBR), Volume Boot Record (VBR), or UEFI firmware to gain persistence
+  below the operating system. Covers boot sector analysis, UEFI module inspection,
+  and anti-rootkit detection techniques. Activates for requests involving bootkit
+  analysis, MBR malware investigation, UEFI persistence analysis, or pre-OS malware
+  detection.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/analyzing-bootkit-and-rootkit-samples
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 24400
+added_at: '2026-07-05'

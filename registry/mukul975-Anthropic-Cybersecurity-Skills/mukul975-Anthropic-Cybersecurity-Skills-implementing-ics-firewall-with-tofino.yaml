@@ -1,0 +1,17 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-ics-firewall-with-tofino
+display_name: implementing-ics-firewall-with-tofino
+description: Deploy and configure Tofino industrial firewalls from Belden/Hirschmann
+  to protect SCADA systems and PLCs using deep packet inspection for OT protocols
+  including Modbus, EtherNet/IP, OPC, and S7comm, enforcing granular access control
+  between ICS security zones.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-ics-firewall-with-tofino
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 24400
+added_at: '2026-07-05'

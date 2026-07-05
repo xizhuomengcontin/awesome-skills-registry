@@ -1,0 +1,15 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-building-c2-redirector-infrastructure
+display_name: building-c2-redirector-infrastructure
+description: Architect redirectors with nginx and Apache, malleable profiles, and
+  OPSEC for resilient C2.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/building-c2-redirector-infrastructure
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 24400
+added_at: '2026-07-05'

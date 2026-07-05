@@ -1,0 +1,16 @@
+id: obra-superpowers-brainstorming
+display_name: brainstorming
+description: You MUST use this before any creative work - creating features, building
+  components, adding functionality, or modifying behavior. Explores user intent, requirements
+  and design before implementation.
+authors:
+- obra
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/brainstorming
+  repo: obra/superpowers
+metadata:
+  stars: 246206
+added_at: '2026-07-05'

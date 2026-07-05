@@ -1,0 +1,17 @@
+id: google-skills-gke-cluster-creation
+display_name: gke-cluster-creation
+description: Plans and executes GKE cluster creation, provisioning, and production
+  readiness audits. Use when creating GKE clusters, provisioning GKE environments,
+  or auditing GKE clusters. Don't use for application onboarding or deployment configuration
+  (use gke-app-onboarding instead).
+authors:
+- google
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/cloud/gke-cluster-creation
+  repo: google/skills
+metadata:
+  stars: 14386
+added_at: '2026-07-05'

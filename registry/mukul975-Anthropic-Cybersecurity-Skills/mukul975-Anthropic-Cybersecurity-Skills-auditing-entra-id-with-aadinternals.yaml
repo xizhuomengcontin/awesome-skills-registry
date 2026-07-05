@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-auditing-entra-id-with-aadinternals
+display_name: auditing-entra-id-with-aadinternals
+description: Run Microsoft Entra ID tenant reconnaissance, token acquisition and manipulation,
+  and federation backdoor testing with the AADInternals PowerShell toolkit to validate
+  identity-attack resilience.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/auditing-entra-id-with-aadinternals
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 24400
+added_at: '2026-07-05'

@@ -1,0 +1,15 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-hunting-for-registry-persistence-mechanisms
+display_name: hunting-for-registry-persistence-mechanisms
+description: Hunt for registry-based persistence mechanisms including Run keys, Winlogon
+  modifications, IFEO injection, and COM hijacking in Windows environments.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/hunting-for-registry-persistence-mechanisms
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 24400
+added_at: '2026-07-05'

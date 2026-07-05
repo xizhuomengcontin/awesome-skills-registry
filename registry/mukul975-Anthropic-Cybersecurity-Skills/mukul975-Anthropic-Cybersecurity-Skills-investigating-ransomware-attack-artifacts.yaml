@@ -1,0 +1,15 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-investigating-ransomware-attack-artifacts
+display_name: investigating-ransomware-attack-artifacts
+description: Identify, collect, and analyze ransomware attack artifacts to determine
+  the variant, initial access vector, encryption scope, and recovery options.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/investigating-ransomware-attack-artifacts
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 24400
+added_at: '2026-07-05'

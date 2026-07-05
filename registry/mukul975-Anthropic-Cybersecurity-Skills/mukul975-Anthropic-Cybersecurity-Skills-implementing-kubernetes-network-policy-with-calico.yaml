@@ -1,0 +1,15 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-kubernetes-network-policy-with-calico
+display_name: implementing-kubernetes-network-policy-with-calico
+description: Implement Kubernetes network segmentation using Calico NetworkPolicy
+  and GlobalNetworkPolicy for zero-trust pod-to-pod communication.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-kubernetes-network-policy-with-calico
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 24400
+added_at: '2026-07-05'

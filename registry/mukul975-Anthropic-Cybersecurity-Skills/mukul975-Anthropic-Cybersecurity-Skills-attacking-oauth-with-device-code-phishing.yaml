@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-attacking-oauth-with-device-code-phishing
+display_name: attacking-oauth-with-device-code-phishing
+description: Run OAuth 2.0 device-code and illicit-consent phishing against Microsoft
+  Entra ID to steal access and refresh tokens, bypass MFA, and pivot across Microsoft
+  365 services.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/attacking-oauth-with-device-code-phishing
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 24400
+added_at: '2026-07-05'

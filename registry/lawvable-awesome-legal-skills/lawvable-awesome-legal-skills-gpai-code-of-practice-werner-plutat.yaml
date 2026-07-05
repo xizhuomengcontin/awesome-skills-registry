@@ -1,0 +1,14 @@
+id: lawvable-awesome-legal-skills-gpai-code-of-practice-werner-plutat
+display_name: Gpai Code Of Practice Werner Plutat
+description: '---'
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/gpai-code-of-practice-werner-plutat
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 549
+added_at: '2026-07-05'

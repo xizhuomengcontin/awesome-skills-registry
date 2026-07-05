@@ -1,0 +1,15 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-detecting-dll-sideloading-attacks
+display_name: detecting-dll-sideloading-attacks
+description: Detect DLL side-loading attacks where adversaries place malicious DLLs
+  alongside legitimate applications to hijack execution flow for defense evasion.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/detecting-dll-sideloading-attacks
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 24400
+added_at: '2026-07-05'

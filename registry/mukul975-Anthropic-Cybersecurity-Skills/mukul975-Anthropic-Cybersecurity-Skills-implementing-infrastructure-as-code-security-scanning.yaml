@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-infrastructure-as-code-security-scanning
+display_name: implementing-infrastructure-as-code-security-scanning
+description: This skill covers implementing automated security scanning for Infrastructure
+  as Code (IaC) templates using tools like Checkov, tfsec, and KICS. It addresses
+  detecting misconfigurations in Terraform, CloudFormation, Kubernetes manifests,
+  and Helm charts before deployment, establishing policy-based governance, and integrating
+  IaC scanning into CI/CD pipelines to prevent insecure cloud resource provisioning.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-infrastructure-as-code-security-scanning
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 24400
+added_at: '2026-07-05'

@@ -1,0 +1,17 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-zero-trust-for-saas-applications
+display_name: implementing-zero-trust-for-saas-applications
+description: Implementing zero trust access controls for SaaS applications using CASB,
+  SSPM, conditional access policies, OAuth app governance, and session controls to
+  enforce identity verification, device compliance, and data protection for cloud-hosted
+  services.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-zero-trust-for-saas-applications
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 24400
+added_at: '2026-07-05'

@@ -1,0 +1,15 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-aws-iam-permission-boundaries
+display_name: implementing-aws-iam-permission-boundaries
+description: Configure IAM permission boundaries in AWS to delegate role creation
+  to developers while enforcing maximum privilege limits set by the security team.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-aws-iam-permission-boundaries
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 24400
+added_at: '2026-07-05'

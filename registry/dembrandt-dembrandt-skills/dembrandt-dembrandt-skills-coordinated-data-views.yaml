@@ -1,0 +1,18 @@
+id: dembrandt-dembrandt-skills-coordinated-data-views
+display_name: coordinated-data-views
+description: When data has both a tabular/list representation and a visual representation,
+  show both simultaneously and keep them synchronized. Clicking a row highlights the
+  corresponding element in the visual view, and vice versa. Applies to maps, diagrams,
+  timelines, and charts that accompany a data table. Use when designing any UI where
+  data appears in two different representations at once.
+authors:
+- dembrandt
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/coordinated-data-views
+  repo: dembrandt/dembrandt-skills
+metadata:
+  stars: 22
+added_at: '2026-07-05'

@@ -1,0 +1,17 @@
+id: veniceai-skills-venice-audio-music
+display_name: venice-audio-music
+description: Async music / audio-track generation via Venice. Covers the /audio/quote
+  + /audio/queue + /audio/retrieve + /audio/complete lifecycle, lyrics vs instrumental,
+  voice selection, duration, language, speed, model capability probing, and webhook-free
+  polling.
+authors:
+- veniceai
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/venice-audio-music
+  repo: veniceai/skills
+metadata:
+  stars: 108
+added_at: '2026-07-05'

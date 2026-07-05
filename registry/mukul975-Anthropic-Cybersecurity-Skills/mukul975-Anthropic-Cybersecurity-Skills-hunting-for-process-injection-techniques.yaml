@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-hunting-for-process-injection-techniques
+display_name: hunting-for-process-injection-techniques
+description: Detect process injection techniques (T1055) including CreateRemoteThread,
+  process hollowing, and DLL injection via Sysmon Event IDs 8 and 10 and EDR process
+  telemetry
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/hunting-for-process-injection-techniques
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 24400
+added_at: '2026-07-05'

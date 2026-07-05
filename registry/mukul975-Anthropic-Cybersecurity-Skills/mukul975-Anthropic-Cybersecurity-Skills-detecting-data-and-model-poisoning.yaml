@@ -1,0 +1,14 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-detecting-data-and-model-poisoning
+display_name: detecting-data-and-model-poisoning
+description: Identify poisoned training data and backdoored models across the ML pipeline.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/detecting-data-and-model-poisoning
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 24400
+added_at: '2026-07-05'

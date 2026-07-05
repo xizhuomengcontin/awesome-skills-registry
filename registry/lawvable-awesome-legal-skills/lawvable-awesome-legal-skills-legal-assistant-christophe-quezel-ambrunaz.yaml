@@ -1,0 +1,22 @@
+id: lawvable-awesome-legal-skills-legal-assistant-christophe-quezel-ambrunaz
+display_name: assistant-juridique-fr
+description: "Assistant juridique expert en droit fran\xE7ais. Recherches, consultations,\
+  \ r\xE9daction d'actes, contre-argumentaires, analyses de contrats et de pi\xE8\
+  ces, veille, v\xE9rification et harmonisation de r\xE9f\xE9rences. Produit des documents\
+  \ Word (computer use) ou des r\xE9ponses conversationnelles structur\xE9es. MCP\
+  \ : OpenLegi, Themia, LegalDataHunter. D\xE9clencher pour toute question juridique,\
+  \ tout concept de droit fran\xE7ais (contrat, responsabilit\xE9, jurisprudence,\
+  \ code civil, tribunal, indemnisation), toute question sur le droit de l'UE, la\
+  \ CJUE ou la CEDH, et toute demande de v\xE9rification ou harmonisation de r\xE9\
+  f\xE9rences bibliographiques juridiques."
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/legal-assistant-christophe-quezel-ambrunaz
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 549
+added_at: '2026-07-05'

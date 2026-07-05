@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-analyzing-threat-landscape-with-misp
+display_name: analyzing-threat-landscape-with-misp
+description: Analyze the threat landscape using MISP (Malware Information Sharing
+  Platform) by querying event statistics, attribute distributions, threat actor galaxy
+  clusters, and tag trends over time. Uses PyMISP to pull event data, compute IOC
+  type breakdowns, identify top threat actors and malware families, and generate threat
+  landscape reports with temporal trends.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/analyzing-threat-landscape-with-misp
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 24400
+added_at: '2026-07-05'
