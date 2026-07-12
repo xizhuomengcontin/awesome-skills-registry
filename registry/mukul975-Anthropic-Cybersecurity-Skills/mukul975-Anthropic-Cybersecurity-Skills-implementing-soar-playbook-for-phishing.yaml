@@ -1,0 +1,15 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-soar-playbook-for-phishing
+display_name: implementing-soar-playbook-for-phishing
+description: Automate phishing incident response using Splunk SOAR REST API to create
+  containers, add artifacts, and trigger playbooks
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-soar-playbook-for-phishing
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 25322
+added_at: '2026-07-12'

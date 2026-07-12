@@ -1,0 +1,19 @@
+id: dembrandt-dembrandt-skills-operational-expert-tool-ui
+display_name: operational-expert-tool-ui
+description: "Operational expert tools \u2014 used by domain specialists for hours\
+  \ every day \u2014 require a different design approach than consumer or occasional-use\
+  \ software. Information density, workflow linearity, and at-a-glance status take\
+  \ priority over whitespace and discoverability. Use when designing dispatch tools,\
+  \ warehouse management, logistics, scheduling, or any B2B tool whose primary users\
+  \ are trained specialists."
+authors:
+- dembrandt
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/operational-expert-tool-ui
+  repo: dembrandt/dembrandt-skills
+metadata:
+  stars: 25
+added_at: '2026-07-12'

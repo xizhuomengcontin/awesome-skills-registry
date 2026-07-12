@@ -1,0 +1,17 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-ot-network-traffic-analysis-with-nozomi
+display_name: implementing-ot-network-traffic-analysis-with-nozomi
+description: Deploy Nozomi Networks Guardian sensors for passive OT network traffic
+  analysis to achieve comprehensive asset visibility, real-time threat detection,
+  and vulnerability assessment across industrial control systems without disrupting
+  operations, leveraging behavioral anomaly detection and protocol-aware monitoring.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-ot-network-traffic-analysis-with-nozomi
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 25322
+added_at: '2026-07-12'

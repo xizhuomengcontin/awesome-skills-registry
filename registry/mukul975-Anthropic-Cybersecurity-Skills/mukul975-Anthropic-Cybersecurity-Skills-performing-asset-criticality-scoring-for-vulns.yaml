@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-performing-asset-criticality-scoring-for-vulns
+display_name: performing-asset-criticality-scoring-for-vulns
+description: Develop and apply a multi-factor asset criticality scoring model to weight
+  vulnerability prioritization based on business impact, data sensitivity, and operational
+  importance.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/performing-asset-criticality-scoring-for-vulns
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 25322
+added_at: '2026-07-12'

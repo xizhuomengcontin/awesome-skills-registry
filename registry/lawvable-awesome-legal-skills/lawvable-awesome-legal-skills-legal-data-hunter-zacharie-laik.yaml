@@ -1,0 +1,16 @@
+id: lawvable-awesome-legal-skills-legal-data-hunter-zacharie-laik
+display_name: install-legal-data-hunter
+description: Install and set up the Legal Data Hunter MCP server. Use when the user
+  wants to connect their AI agent to legal data, install legal-data-hunter, add a
+  legal search MCP, or search legal documents across jurisdictions.
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/legal-data-hunter-zacharie-laik
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 570
+added_at: '2026-07-12'

@@ -1,0 +1,15 @@
+id: google-skills-gke-basics
+display_name: gke-basics
+description: Core GKE cluster discovery and hub. Use to route to specialized GKE skills.
+  Do not use for specialized tasks (networking, security, etc.) directly.
+authors:
+- google
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/cloud/gke-basics
+  repo: google/skills
+metadata:
+  stars: 14521
+added_at: '2026-07-12'

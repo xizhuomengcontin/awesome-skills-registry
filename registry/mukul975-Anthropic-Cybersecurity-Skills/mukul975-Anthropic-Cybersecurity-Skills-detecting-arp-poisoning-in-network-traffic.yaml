@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-detecting-arp-poisoning-in-network-traffic
+display_name: detecting-arp-poisoning-in-network-traffic
+description: Detect and prevent ARP spoofing attacks using ARPWatch, Dynamic ARP Inspection,
+  Wireshark analysis, and custom monitoring scripts to protect against man-in-the-middle
+  interception.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/detecting-arp-poisoning-in-network-traffic
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 25322
+added_at: '2026-07-12'

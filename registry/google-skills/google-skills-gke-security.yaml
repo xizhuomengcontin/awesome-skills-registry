@@ -1,0 +1,19 @@
+id: google-skills-gke-security
+display_name: gke-security
+description: Plans, configures, and hardens Google Kubernetes Engine (GKE) security.
+  Covers Workload Identity Federation, Secret Manager integration, RBAC hardening,
+  Binary Authorization, Network Policies (Dataplane V2), Pod Security Standards, and
+  IAM roles. Use when securing GKE clusters, setting up Workload Identity, hardening
+  RBAC configurations, or configuring GKE secrets. Don't use for general network routing
+  configuration (use gke-networking instead).
+authors:
+- google
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/cloud/gke-security
+  repo: google/skills
+metadata:
+  stars: 14521
+added_at: '2026-07-12'

@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-testing-for-business-logic-vulnerabilities
+display_name: testing-for-business-logic-vulnerabilities
+description: Identifying flaws in application business logic that allow price manipulation,
+  workflow bypass, and privilege escalation beyond what technical vulnerability scanners
+  can detect.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/testing-for-business-logic-vulnerabilities
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 25322
+added_at: '2026-07-12'

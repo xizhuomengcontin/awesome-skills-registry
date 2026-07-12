@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-hunting-for-data-staging-before-exfiltration
+display_name: hunting-for-data-staging-before-exfiltration
+description: Detect data staging activity before exfiltration by monitoring for archive
+  creation with 7-Zip/RAR, unusual temp folder access, large file consolidation, and
+  staging directory patterns via EDR and process telemetry
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/hunting-for-data-staging-before-exfiltration
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 25322
+added_at: '2026-07-12'

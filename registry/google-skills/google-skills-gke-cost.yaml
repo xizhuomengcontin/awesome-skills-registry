@@ -1,0 +1,17 @@
+id: google-skills-gke-cost
+display_name: gke-cost
+description: Optimizes GKE costs, rightsizes workloads, and configures Spot VMs and
+  CUDs. Use when optimizing GKE costs, rightsizing GKE workloads, or configuring GKE
+  Spot VMs. Don't use for general compute class provisioning or GPU Selection (use
+  gke-compute-classes instead).
+authors:
+- google
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/cloud/gke-cost
+  repo: google/skills
+metadata:
+  stars: 14521
+added_at: '2026-07-12'

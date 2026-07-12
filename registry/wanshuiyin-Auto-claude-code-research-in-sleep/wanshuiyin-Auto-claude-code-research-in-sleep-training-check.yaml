@@ -1,0 +1,16 @@
+id: wanshuiyin-Auto-claude-code-research-in-sleep-training-check
+display_name: training-check
+description: Interactively monitor training metrics from the current Codex session,
+  periodically checking WandB or fallback logs for NaN, divergence, plateaus, and
+  broken runs.
+authors:
+- wanshuiyin
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/skills-codex/training-check
+  repo: wanshuiyin/Auto-claude-code-research-in-sleep
+metadata:
+  stars: 13277
+added_at: '2026-07-12'

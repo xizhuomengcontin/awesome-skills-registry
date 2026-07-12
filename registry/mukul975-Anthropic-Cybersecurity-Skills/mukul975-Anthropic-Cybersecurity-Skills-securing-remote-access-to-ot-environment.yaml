@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-securing-remote-access-to-ot-environment
+display_name: securing-remote-access-to-ot-environment
+description: This skill covers implementing secure remote access to OT/ICS environments
+  for operators, engineers, and vendors while preventing unauthorized access that
+  could compromise industrial operations. It addresses jump server architecture, multi-factor
+  authentication, session recording, privileged access management, vendor remote access
+  controls, and compliance with IEC 62443 and NERC CIP-005 remote access requirements.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/securing-remote-access-to-ot-environment
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 25322
+added_at: '2026-07-12'

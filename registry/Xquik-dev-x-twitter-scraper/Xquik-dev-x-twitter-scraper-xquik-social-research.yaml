@@ -1,0 +1,17 @@
+id: Xquik-dev-x-twitter-scraper-xquik-social-research
+display_name: xquik-social-research
+description: Research public X data with Xquik. Use for tweet search, tweet lookup,
+  user discovery, profile timelines, threads, followers, trends, exports, monitoring
+  plans, or MCP setup. Keep public reads bounded. Require explicit approval before
+  private reads, writes, persistent resources, or bulk jobs.
+authors:
+- Xquik-dev
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/xquik-social-research
+  repo: Xquik-dev/x-twitter-scraper
+metadata:
+  stars: 152
+added_at: '2026-07-12'

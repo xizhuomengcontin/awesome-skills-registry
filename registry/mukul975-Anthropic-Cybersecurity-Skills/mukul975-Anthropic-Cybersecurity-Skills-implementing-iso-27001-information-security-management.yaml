@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-iso-27001-information-security-management
+display_name: implementing-iso-27001-information-security-management
+description: ISO/IEC 27001:2022 is the international standard for establishing, implementing,
+  maintaining, and continually improving an Information Security Management System
+  (ISMS). This skill covers the complete
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-iso-27001-information-security-management
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 25322
+added_at: '2026-07-12'

@@ -1,0 +1,15 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-analyzing-slack-space-and-file-system-artifacts
+display_name: analyzing-slack-space-and-file-system-artifacts
+description: Examine file system slack space, MFT entries, USN journal, and alternate
+  data streams to recover hidden data and reconstruct file activity on NTFS volumes.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/analyzing-slack-space-and-file-system-artifacts
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 25322
+added_at: '2026-07-12'

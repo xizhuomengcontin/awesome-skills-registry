@@ -1,0 +1,22 @@
+id: google-skills-google-cloud-solution-architecture
+display_name: google-cloud-solution-architecture
+description: Interactively discovers requirements for a specific cloud workload and
+  generates design recommendations and architectural guidance to build a multi-product
+  solution in Google Cloud. Use when users need holistic, end-to-end design recommendations
+  and architectural guidance for complex workloads on Google Cloud for specific use
+  cases. Don't use this skill when other specialized skills exist that directly address
+  the user-specified workload or use case. If the user's request is narrowly focused
+  on a specific Google Cloud product, use the skills that are specific to that product.
+  When users need assistance with workflows for onboarding, authentication, or designing
+  foundational infrastructure, use the recipe skills that are specific to those workflows.
+authors:
+- google
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/cloud/google-cloud-solution-architecture
+  repo: google/skills
+metadata:
+  stars: 14521
+added_at: '2026-07-12'

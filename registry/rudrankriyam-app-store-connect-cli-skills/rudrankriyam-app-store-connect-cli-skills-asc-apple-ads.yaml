@@ -1,0 +1,15 @@
+id: rudrankriyam-app-store-connect-cli-skills-asc-apple-ads
+display_name: asc-apple-ads
+description: Use when managing Apple Ads with asc, including auth, org lookup, campaigns,
+  ad groups, ads, keywords, reports, raw API calls, and safe live testing.
+authors:
+- rudrankriyam
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/asc-apple-ads
+  repo: rudrankriyam/app-store-connect-cli-skills
+metadata:
+  stars: 900
+added_at: '2026-07-12'

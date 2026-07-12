@@ -1,0 +1,18 @@
+id: NVIDIA-skills-tao-run-on-local-docker
+display_name: tao-run-on-local-docker
+description: Local or remote Docker execution for TAO SDK job containers using a Docker
+  daemon with NVIDIA GPU runtime. Use when running TAO jobs on the current machine,
+  a directly attached Docker host, or a remote GPU box exposed through DOCKER_HOST.
+  Trigger phrases include "run locally", "local Docker", "remote Docker", "use my
+  GPU", "run on my machine", "host Docker daemon".
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/tao-run-on-local-docker
+  repo: NVIDIA/skills
+metadata:
+  stars: 2432
+added_at: '2026-07-12'

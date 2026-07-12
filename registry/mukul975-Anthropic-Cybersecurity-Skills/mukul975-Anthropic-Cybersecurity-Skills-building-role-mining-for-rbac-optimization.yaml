@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-building-role-mining-for-rbac-optimization
+display_name: building-role-mining-for-rbac-optimization
+description: Apply bottom-up and top-down role mining techniques to discover optimal
+  RBAC roles from existing user-permission assignments, reducing role explosion and
+  enforcing least privilege.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/building-role-mining-for-rbac-optimization
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 25322
+added_at: '2026-07-12'

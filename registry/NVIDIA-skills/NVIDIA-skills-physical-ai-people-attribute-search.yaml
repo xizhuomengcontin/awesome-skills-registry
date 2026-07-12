@@ -1,0 +1,18 @@
+id: NVIDIA-skills-physical-ai-people-attribute-search
+display_name: physical-ai-people-attribute-search
+description: 'Use when running people attribute search (PAS) image augmentation and
+  auto-labeling workflows on OSMO: flow selection, preflight, submit-time interpolation,
+  monitoring, and output retrieval. Trigger keywords: people attribute search, PAS,
+  person augmentation, attribute search, person re-identification, clothing augmentation,
+  person crop augmentation.'
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/physical-ai-people-attribute-search
+  repo: NVIDIA/skills
+metadata:
+  stars: 2432
+added_at: '2026-07-12'

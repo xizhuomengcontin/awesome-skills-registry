@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-performing-linux-log-forensics-investigation
+display_name: performing-linux-log-forensics-investigation
+description: Perform forensic investigation of Linux system logs including syslog,
+  auth.log, systemd journal, kern.log, and application logs to reconstruct user activity,
+  detect unauthorized access, and establish event timelines on compromised Linux systems.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/performing-linux-log-forensics-investigation
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 25322
+added_at: '2026-07-12'

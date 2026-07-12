@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-analyzing-powershell-empire-artifacts
+display_name: analyzing-powershell-empire-artifacts
+description: Detect PowerShell Empire framework artifacts in Windows event logs by
+  identifying Base64 encoded launcher patterns, default user agents, staging URL structures,
+  stager IOCs, and known Empire module signatures in Script Block Logging events.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/analyzing-powershell-empire-artifacts
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 25322
+added_at: '2026-07-12'

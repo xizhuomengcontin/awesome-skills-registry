@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-digital-signatures-with-ed25519
+display_name: implementing-digital-signatures-with-ed25519
+description: Ed25519 is a high-performance digital signature algorithm using the Edwards
+  curve Curve25519. It provides 128-bit security with 64-byte signatures and 32-byte
+  keys, offering significant advantages ove
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-digital-signatures-with-ed25519
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 25322
+added_at: '2026-07-12'
