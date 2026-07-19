@@ -1,0 +1,26 @@
+id: NVIDIA-skills-doca-flow
+display_name: doca-flow
+description: "Use this skill for DOCA Flow on a supported NVIDIA NIC/DPU \u2014 both\
+  \ for DOCA Flow application knowledge and for writing Flow applications: defining\
+  \ match/action pipes, bringing up ports / representors, forwarding with FWD_PORT\
+  \ (or another fwd target), reading flow counters, validating a pipe before hardware\
+  \ programming, picking the right Flow version against an installed DOCA, or debugging\
+  \ DOCA_ERROR_* from the Flow API. Trigger even when the user does not explicitly\
+  \ mention \"DOCA Flow\" or \"pipe\" \u2014 typical implicit phrasings include \"\
+  packets aren't reaching my representor\", \"rule isn't matching on the BF\", \"\
+  PMD reports init failed\", \"match/action drop on egress\", \"how do I steer this\
+  \ 5-tuple to a queue\", \"ConnectX hairpin routing on Linux\", or any flow-steering\
+  \ / packet-classifier question where DOCA is installed. Refuse and route elsewhere\
+  \ for non-Flow pipelines (DPDK rte_flow without DOCA, kernel TC offload, OVS), BFB\
+  \ bring-up, or DPU OS install \u2014 those belong to other skills."
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/doca-flow
+  repo: NVIDIA/skills
+metadata:
+  stars: 2585
+added_at: '2026-07-19'

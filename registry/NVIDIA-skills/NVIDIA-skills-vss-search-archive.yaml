@@ -1,0 +1,17 @@
+id: NVIDIA-skills-vss-search-archive
+display_name: vss-search-archive
+description: Use this skill to run top-level VSS fusion search on archived video,
+  or to ingest video files / RTSP streams for search. Do NOT use for ad-hoc visual
+  Q&A (use vss-ask-video), live captioning (use vss-deploy-dense-captioning), or video
+  summarization and reports (use vss-summarize-video).
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/vss-search-archive
+  repo: NVIDIA/skills
+metadata:
+  stars: 2585
+added_at: '2026-07-19'

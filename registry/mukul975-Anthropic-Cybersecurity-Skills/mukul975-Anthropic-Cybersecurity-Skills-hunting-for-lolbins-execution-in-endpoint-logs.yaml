@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-hunting-for-lolbins-execution-in-endpoint-logs
+display_name: hunting-for-lolbins-execution-in-endpoint-logs
+description: Hunt for adversary abuse of Living Off the Land Binaries (LOLBins) by
+  analyzing endpoint process creation logs for suspicious execution patterns of legitimate
+  Windows system binaries used for malicious purposes.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/hunting-for-lolbins-execution-in-endpoint-logs
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 25841
+added_at: '2026-07-19'

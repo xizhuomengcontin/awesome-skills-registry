@@ -1,0 +1,17 @@
+id: indranilbanerjee-digital-marketing-pro-seo-drift
+display_name: seo-drift
+description: "Compare two SEO snapshots (GSC, GSC AI Performance, rank tracker, AEO\
+  \ probe) and surface biggest movers per metric \u2014 impressions, clicks, position,\
+  \ AI citations. Use when: monthly performance reviews, post-Core-Update triage,\
+  \ AI Mode citation tracking, or before/after content-refresh evaluation."
+authors:
+- indranilbanerjee
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/seo-drift
+  repo: indranilbanerjee/digital-marketing-pro
+metadata:
+  stars: 236
+added_at: '2026-07-19'

@@ -1,0 +1,16 @@
+id: NVIDIA-skills-vss-query-analytics
+display_name: vss-query-analytics
+description: Use this skill when reading video-analytics metrics, incidents, alerts,
+  and sensor data via the VA-MCP server (port 9901). Not for live VLM or incident-range
+  narrative reports.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/vss-query-analytics
+  repo: NVIDIA/skills
+metadata:
+  stars: 2585
+added_at: '2026-07-19'

@@ -1,0 +1,20 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-hardware-security-key-authentication
+display_name: implementing-hardware-security-key-authentication
+description: Implements FIDO2/WebAuthn hardware security key authentication including
+  registration ceremonies, authentication flows, YubiKey enrollment, and passkey migration
+  strategies. Builds a complete relying party server using the python-fido2 library
+  that supports cross-platform authenticators, resident key (discoverable credential)
+  workflows, and user verification policies. Activates for requests involving FIDO2
+  implementation, WebAuthn registration, hardware security key enrollment, YubiKey
+  integration, or passkey migration from password-based authentication.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-hardware-security-key-authentication
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 25841
+added_at: '2026-07-19'

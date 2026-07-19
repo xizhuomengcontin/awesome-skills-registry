@@ -1,0 +1,15 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-defending-llms-with-guardrails
+display_name: defending-llms-with-guardrails
+description: Deploy Llama Guard, NeMo Guardrails, and LLM Guard input/output scanners
+  as runtime defenses.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/defending-llms-with-guardrails
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 25841
+added_at: '2026-07-19'

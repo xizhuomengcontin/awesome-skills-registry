@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-network-intrusion-prevention-with-suricata
+display_name: implementing-network-intrusion-prevention-with-suricata
+description: Deploy and configure Suricata as a network intrusion prevention system
+  with custom rules, Emerging Threats rulesets, and inline traffic inspection for
+  real-time threat blocking.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-network-intrusion-prevention-with-suricata
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 25841
+added_at: '2026-07-19'

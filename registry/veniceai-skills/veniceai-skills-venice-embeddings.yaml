@@ -1,0 +1,16 @@
+id: veniceai-skills-venice-embeddings
+display_name: venice-embeddings
+description: Call POST /embeddings on Venice. Covers request shape (input, model,
+  encoding_format, dimensions, user), OpenAI compatibility, response compression (gzip/br),
+  and practical usage for retrieval, clustering, and RAG.
+authors:
+- veniceai
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/venice-embeddings
+  repo: veniceai/skills
+metadata:
+  stars: 121
+added_at: '2026-07-19'

@@ -1,0 +1,19 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-detecting-ransomware-encryption-behavior
+display_name: detecting-ransomware-encryption-behavior
+description: Detects ransomware encryption activity in real time using entropy analysis,
+  file system I/O monitoring, and behavioral heuristics. Identifies mass file modification
+  patterns, abnormal entropy spikes in written data, and suspicious process behavior
+  characteristic of ransomware encryption routines. Activates for requests involving
+  ransomware behavioral detection, entropy-based file monitoring, I/O anomaly detection,
+  or real-time encryption activity alerting.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/detecting-ransomware-encryption-behavior
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 25841
+added_at: '2026-07-19'

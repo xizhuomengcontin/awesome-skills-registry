@@ -1,0 +1,17 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-purdue-model-network-segmentation
+display_name: implementing-purdue-model-network-segmentation
+description: Implement network segmentation based on the Purdue Enterprise Reference
+  Architecture (PERA) model to separate industrial control system networks into hierarchical
+  security zones from Level 0 physical process through Level 5 enterprise, enforcing
+  strict traffic control between OT and IT domains.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-purdue-model-network-segmentation
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 25841
+added_at: '2026-07-19'

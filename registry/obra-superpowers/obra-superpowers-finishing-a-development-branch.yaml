@@ -1,0 +1,16 @@
+id: obra-superpowers-finishing-a-development-branch
+display_name: finishing-a-development-branch
+description: Use when implementation is complete, all tests pass, and you need to
+  decide how to integrate the work - guides completion of development work by presenting
+  structured options for merge, PR, or cleanup
+authors:
+- obra
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/finishing-a-development-branch
+  repo: obra/superpowers
+metadata:
+  stars: 257106
+added_at: '2026-07-19'

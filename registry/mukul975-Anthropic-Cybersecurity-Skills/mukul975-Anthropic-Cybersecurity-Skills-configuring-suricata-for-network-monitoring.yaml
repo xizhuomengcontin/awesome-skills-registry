@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-configuring-suricata-for-network-monitoring
+display_name: configuring-suricata-for-network-monitoring
+description: Deploys and configures Suricata IDS/IPS with Emerging Threats rulesets,
+  EVE JSON logging, and custom rules for real-time network traffic inspection, threat
+  detection, and integration with SIEM platforms for centralized security monitoring.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/configuring-suricata-for-network-monitoring
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 25841
+added_at: '2026-07-19'

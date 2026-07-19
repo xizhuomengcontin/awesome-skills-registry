@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-network-access-control-with-cisco-ise
+display_name: implementing-network-access-control-with-cisco-ise
+description: Deploy Cisco Identity Services Engine for 802.1X wired and wireless authentication,
+  MAC Authentication Bypass, posture assessment, and dynamic VLAN assignment for network
+  access control.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-network-access-control-with-cisco-ise
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 25841
+added_at: '2026-07-19'

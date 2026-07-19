@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-network-policies-for-kubernetes
+display_name: implementing-network-policies-for-kubernetes
+description: Kubernetes NetworkPolicies provide pod-level network segmentation by
+  defining ingress and egress rules that control traffic flow between pods, namespaces,
+  and external endpoints. Combined with CNI plu
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-network-policies-for-kubernetes
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 25841
+added_at: '2026-07-19'

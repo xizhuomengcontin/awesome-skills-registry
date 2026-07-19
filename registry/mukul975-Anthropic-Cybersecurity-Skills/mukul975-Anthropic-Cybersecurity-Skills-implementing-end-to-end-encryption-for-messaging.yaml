@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-end-to-end-encryption-for-messaging
+display_name: implementing-end-to-end-encryption-for-messaging
+description: End-to-end encryption (E2EE) ensures that only the communicating parties
+  can read messages, with no intermediary (including the server) able to decrypt them.
+  This skill implements a simplified version
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-end-to-end-encryption-for-messaging
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 25841
+added_at: '2026-07-19'

@@ -1,0 +1,15 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-analyzing-email-headers-for-phishing-investigation
+display_name: analyzing-email-headers-for-phishing-investigation
+description: Parse and analyze email headers to trace the origin of phishing emails,
+  verify sender authenticity, and identify spoofing through SPF, DKIM, and DMARC validation.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/analyzing-email-headers-for-phishing-investigation
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 25841
+added_at: '2026-07-19'

@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-detecting-model-extraction-attacks
+display_name: detecting-model-extraction-attacks
+description: Detect model stealing, model inversion, and membership inference performed
+  through inference-API abuse by monitoring query patterns, applying output perturbation,
+  and red-teaming your own model's extractability.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/detecting-model-extraction-attacks
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 25841
+added_at: '2026-07-19'

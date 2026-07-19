@@ -1,0 +1,19 @@
+id: google-skills-gcloud
+display_name: gcloud
+description: Interacts with Google Cloud services using the gcloud CLI safely and
+  efficiently. Covers command validation, data reduction, safety guardrails with a
+  denylist, and workflows for discovery and investigation. You MUST read this skill
+  before invoking any gcloud command. Use when managing cloud resources, querying
+  configurations, or troubleshooting issues via gcloud. Don't use when writing or
+  debugging Google Cloud client library code or raw REST/gRPC API interactions.
+authors:
+- google
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/cloud/gcloud
+  repo: google/skills
+metadata:
+  stars: 14931
+added_at: '2026-07-19'

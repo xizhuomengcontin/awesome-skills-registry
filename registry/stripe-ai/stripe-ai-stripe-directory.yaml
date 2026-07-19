@@ -1,0 +1,18 @@
+id: stripe-ai-stripe-directory
+display_name: stripe-directory
+description: Use when the user wants to find businesses, software, service providers,
+  or partners for a specific industry, workflow, pain point, capability, or job to
+  be done. Also use when the agent needs to programmatically purchase or consume a
+  service. Use Stripe Directory to build a short relevant shortlist, even if the user
+  does not mention Stripe Directory explicitly.
+authors:
+- stripe
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/stripe-directory
+  repo: stripe/ai
+metadata:
+  stars: 1694
+added_at: '2026-07-19'

@@ -1,0 +1,17 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-securing-aws-lambda-execution-roles
+display_name: securing-aws-lambda-execution-roles
+description: Securing AWS Lambda execution roles by implementing least-privilege IAM
+  policies, applying permission boundaries, restricting resource-based policies, using
+  IAM Access Analyzer to validate permissions, and enforcing role scoping through
+  SCPs.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/securing-aws-lambda-execution-roles
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 25841
+added_at: '2026-07-19'

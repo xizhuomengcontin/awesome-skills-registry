@@ -1,0 +1,19 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-securing-historian-server-in-ot-environment
+display_name: securing-historian-server-in-ot-environment
+description: This skill covers hardening and securing process historian servers (OSIsoft
+  PI, Honeywell PHD, GE Proficy, AVEVA Historian) in OT environments. It addresses
+  network placement across Purdue levels, access control for historian interfaces,
+  data replication through DMZ using data diodes or PI-to-PI connectors, SQL injection
+  prevention in historian queries, and integrity protection of process data used for
+  safety analysis, regulatory reporting, and process optimization.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/securing-historian-server-in-ot-environment
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 25841
+added_at: '2026-07-19'

@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-conditional-access-policies-azure-ad
+display_name: implementing-conditional-access-policies-azure-ad
+description: Configure Microsoft Entra ID (Azure AD) Conditional Access policies for
+  zero trust access control. Covers signal-based policy design, device compliance
+  requirements, risk-based authentication, named l
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-conditional-access-policies-azure-ad
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 25841
+added_at: '2026-07-19'

@@ -1,0 +1,17 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-azure-defender-for-cloud
+display_name: implementing-azure-defender-for-cloud
+description: Implementing Microsoft Defender for Cloud to enable cloud security posture
+  management, workload protection across VMs, containers, databases, and storage,
+  configure security recommendations, and set up adaptive security controls with automated
+  remediation.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-azure-defender-for-cloud
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 25841
+added_at: '2026-07-19'

@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-detecting-azure-service-principal-abuse
+display_name: detecting-azure-service-principal-abuse
+description: Detect and investigate Azure service principal abuse including privilege
+  escalation, credential compromise, admin consent bypass, and unauthorized enumeration
+  in Microsoft Entra ID environments.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/detecting-azure-service-principal-abuse
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 25841
+added_at: '2026-07-19'

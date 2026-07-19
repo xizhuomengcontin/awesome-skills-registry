@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-taxii-server-with-opentaxii
+display_name: implementing-taxii-server-with-opentaxii
+description: Deploy and configure an OpenTAXII server to share and consume STIX-formatted
+  cyber threat intelligence using the TAXII 2.1 protocol for automated indicator exchange
+  between organizations.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-taxii-server-with-opentaxii
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 25841
+added_at: '2026-07-19'

@@ -1,0 +1,17 @@
+id: mattpocock-skills-wizard
+display_name: wizard
+description: "Generate an interactive bash wizard that walks a human through a manual\
+  \ procedure \u2014 third-party setup, a one-off migration, an A\u2192B state transition\
+  \ \u2014 opening URLs, capturing values, confirming each step, and writing .env\
+  \ files and GitHub Actions secrets."
+authors:
+- mattpocock
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/in-progress/wizard
+  repo: mattpocock/skills
+metadata:
+  stars: 176571
+added_at: '2026-07-19'

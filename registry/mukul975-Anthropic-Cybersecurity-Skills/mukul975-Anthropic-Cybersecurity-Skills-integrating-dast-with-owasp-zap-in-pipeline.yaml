@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-integrating-dast-with-owasp-zap-in-pipeline
+display_name: integrating-dast-with-owasp-zap-in-pipeline
+description: This skill covers integrating OWASP ZAP (Zed Attack Proxy) for Dynamic
+  Application Security Testing in CI/CD pipelines. It addresses configuring baseline,
+  full, and API scans against running applications, interpreting ZAP findings, tuning
+  scan policies, and establishing DAST quality gates in GitHub Actions and GitLab
+  CI.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/integrating-dast-with-owasp-zap-in-pipeline
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 25841
+added_at: '2026-07-19'

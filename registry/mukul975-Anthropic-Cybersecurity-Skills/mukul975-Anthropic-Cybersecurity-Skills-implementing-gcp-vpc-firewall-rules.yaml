@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-gcp-vpc-firewall-rules
+display_name: implementing-gcp-vpc-firewall-rules
+description: Implementing and auditing GCP VPC firewall rules to enforce network segmentation,
+  restrict ingress and egress traffic, apply hierarchical firewall policies across
+  the organization, and monitor firewall rule effectiveness using VPC Flow Logs.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-gcp-vpc-firewall-rules
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 25841
+added_at: '2026-07-19'

@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-detecting-pass-the-hash-attacks
+display_name: detecting-pass-the-hash-attacks
+description: Detect Pass-the-Hash attacks by analyzing NTLM authentication patterns,
+  identifying Type 3 logons with NTLM where Kerberos is expected, and correlating
+  with credential dumping.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/detecting-pass-the-hash-attacks
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 25841
+added_at: '2026-07-19'

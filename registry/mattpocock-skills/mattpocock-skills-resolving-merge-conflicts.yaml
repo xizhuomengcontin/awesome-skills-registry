@@ -1,0 +1,14 @@
+id: mattpocock-skills-resolving-merge-conflicts
+display_name: resolving-merge-conflicts
+description: Use when you need to resolve an in-progress git merge/rebase conflict.
+authors:
+- mattpocock
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/engineering/resolving-merge-conflicts
+  repo: mattpocock/skills
+metadata:
+  stars: 176571
+added_at: '2026-07-19'

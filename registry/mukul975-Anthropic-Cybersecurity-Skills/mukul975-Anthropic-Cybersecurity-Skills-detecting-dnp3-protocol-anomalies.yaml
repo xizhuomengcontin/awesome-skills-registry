@@ -1,0 +1,17 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-detecting-dnp3-protocol-anomalies
+display_name: detecting-dnp3-protocol-anomalies
+description: Detect anomalies in DNP3 (Distributed Network Protocol 3) communications
+  used in SCADA systems by monitoring for unauthorized control commands, firmware
+  update attempts, protocol violations, and deviations from baseline traffic patterns
+  using deep packet inspection and machine learning approaches.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/detecting-dnp3-protocol-anomalies
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 25841
+added_at: '2026-07-19'

@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-hunting-for-suspicious-scheduled-tasks
+display_name: hunting-for-suspicious-scheduled-tasks
+description: Hunt for adversary persistence and execution via Windows scheduled tasks
+  by analyzing task creation events, suspicious task properties, and unusual execution
+  patterns that indicate T1053.005 abuse.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/hunting-for-suspicious-scheduled-tasks
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 25841
+added_at: '2026-07-19'
