@@ -1,0 +1,19 @@
+id: dembrandt-dembrandt-skills-authentic-product-representation
+display_name: authentic-product-representation
+description: "Product visuals \u2014 hero shots, demos, screenshots, landing-page\
+  \ panels \u2014 must reproduce the real product, not a stylised poster of it. Design\
+  \ with real content and real data, mirror the actual output the product generates,\
+  \ keep every label and number truthful, and refuse fabricated marketing chrome.\
+  \ Use when building landing pages, hero sections, product screenshots, demo panels,\
+  \ or any visual that stands in for the real thing."
+authors:
+- dembrandt
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/authentic-product-representation
+  repo: dembrandt/dembrandt-skills
+metadata:
+  stars: 31
+added_at: '2026-07-26'

@@ -1,0 +1,15 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-performing-kubernetes-cis-benchmark-with-kube-bench
+display_name: performing-kubernetes-cis-benchmark-with-kube-bench
+description: Audit Kubernetes cluster security posture against CIS benchmarks using
+  kube-bench with automated checks for control plane, worker nodes, and RBAC.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/performing-kubernetes-cis-benchmark-with-kube-bench
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 26570
+added_at: '2026-07-26'

@@ -1,0 +1,15 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-detecting-suspicious-powershell-execution
+display_name: detecting-suspicious-powershell-execution
+description: Detect suspicious PowerShell execution patterns including encoded commands,
+  download cradles, AMSI bypass attempts, and constrained language mode evasion.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/detecting-suspicious-powershell-execution
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 26570
+added_at: '2026-07-26'

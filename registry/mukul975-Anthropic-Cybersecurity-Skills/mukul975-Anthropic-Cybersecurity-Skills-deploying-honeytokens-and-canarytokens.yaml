@@ -1,0 +1,14 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-deploying-honeytokens-and-canarytokens
+display_name: deploying-honeytokens-and-canarytokens
+description: Plant canarytokens and honey credentials and alert on breach.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/deploying-honeytokens-and-canarytokens
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 26570
+added_at: '2026-07-26'

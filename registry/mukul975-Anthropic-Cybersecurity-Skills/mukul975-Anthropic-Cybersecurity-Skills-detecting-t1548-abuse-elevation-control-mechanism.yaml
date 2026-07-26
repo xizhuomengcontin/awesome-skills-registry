@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-detecting-t1548-abuse-elevation-control-mechanism
+display_name: detecting-t1548-abuse-elevation-control-mechanism
+description: Detect abuse of elevation control mechanisms including UAC bypass, sudo
+  exploitation, and setuid/setgid manipulation by monitoring registry modifications,
+  process elevation flags, and unusual parent-child process relationships.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/detecting-t1548-abuse-elevation-control-mechanism
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 26570
+added_at: '2026-07-26'

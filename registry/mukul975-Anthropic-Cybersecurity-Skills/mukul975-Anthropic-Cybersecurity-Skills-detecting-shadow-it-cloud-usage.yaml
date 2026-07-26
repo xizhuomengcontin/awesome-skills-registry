@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-detecting-shadow-it-cloud-usage
+display_name: detecting-shadow-it-cloud-usage
+description: Detect unauthorized SaaS and cloud service usage (shadow IT) by analyzing
+  proxy logs, DNS query logs, and netflow data using Python pandas for traffic pattern
+  analysis and domain classification.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/detecting-shadow-it-cloud-usage
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 26570
+added_at: '2026-07-26'

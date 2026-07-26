@@ -1,0 +1,26 @@
+id: NVIDIA-skills-doca-container-deployment
+display_name: doca-container-deployment
+description: "Use this skill when the user is hands-on deploying an in-bundle DOCA\
+  \ service container (Argus, DMS, Firefly, Flow-Inspector, OS-Inspector, UROM service)\
+  \ on a BlueField \u2014 kubelet standalone watching a static-pod manifests directory,\
+  \ YAML pod-spec drop, kubelet status / ENTRYPOINT logs / per-service liveness, smoke-before-bulk,\
+  \ and the layered error taxonomy (pod-spec, scheduling, image pull, runtime, mount,\
+  \ network, version, host). Trigger even when the user does not say \"container deployment\"\
+  \ \u2014 typical implicit phrasings include \"how do I run my built service on the\
+  \ BlueField?\", \"where do I drop the pod-spec YAML?\", \"pod stuck in Pending /\
+  \ ImagePullBackOff / CrashLoopBackOff\", \"container Running but service isn't ready\"\
+  , \"pod restart-loops after edit\", or \"DMS and Firefly together\". Refuse and\
+  \ route elsewhere for per-service config schemas, DOCA install, library-API questions,\
+  \ external NVIDIA services (BlueMan, HBN, SNAP, Virtio-net), or full Kubernetes-cluster\
+  \ ops \u2014 those belong to other skills."
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/doca-container-deployment
+  repo: NVIDIA/skills
+metadata:
+  stars: 2675
+added_at: '2026-07-26'

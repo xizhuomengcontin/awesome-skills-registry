@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-deception-based-detection-with-canarytoken
+display_name: implementing-deception-based-detection-with-canarytoken
+description: Deploy and monitor Canary Tokens via the Thinkst Canary API for deception-based
+  breach detection using web bug tokens, DNS tokens, document tokens, and AWS key
+  tokens.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-deception-based-detection-with-canarytoken
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 26570
+added_at: '2026-07-26'

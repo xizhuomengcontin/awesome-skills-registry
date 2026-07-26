@@ -1,0 +1,17 @@
+id: dembrandt-dembrandt-skills-modal-and-overlay-patterns
+display_name: modal-and-overlay-patterns
+description: "Overlays \u2014 modals, drawers, bottom sheets, popovers \u2014 interrupt\
+  \ or augment the main flow. Each type has a different scope, blocking level, and\
+  \ appropriate use case. Use when designing dialogs, confirmation prompts, side panels,\
+  \ action sheets, or any UI element that appears above the main content layer."
+authors:
+- dembrandt
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/modal-and-overlay-patterns
+  repo: dembrandt/dembrandt-skills
+metadata:
+  stars: 31
+added_at: '2026-07-26'

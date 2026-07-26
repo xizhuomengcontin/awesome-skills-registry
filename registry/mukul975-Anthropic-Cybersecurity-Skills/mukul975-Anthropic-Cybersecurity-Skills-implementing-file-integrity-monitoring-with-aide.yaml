@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-file-integrity-monitoring-with-aide
+display_name: implementing-file-integrity-monitoring-with-aide
+description: Configure AIDE (Advanced Intrusion Detection Environment) for file integrity
+  monitoring including baseline creation, scheduled integrity checks, change detection,
+  and alerting
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-file-integrity-monitoring-with-aide
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 26570
+added_at: '2026-07-26'

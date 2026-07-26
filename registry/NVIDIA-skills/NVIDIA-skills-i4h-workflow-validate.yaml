@@ -1,0 +1,15 @@
+id: NVIDIA-skills-i4h-workflow-validate
+display_name: i4h-workflow-validate
+description: Validate, evaluate, or run i4h envs. Use for policy/checkpoint rollouts
+  and scripted state-machine smoke runs.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/i4h-workflow-validate
+  repo: NVIDIA/skills
+metadata:
+  stars: 2675
+added_at: '2026-07-26'

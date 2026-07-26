@@ -1,0 +1,15 @@
+id: mattpocock-skills-writing-great-skills
+display_name: writing-great-skills
+description: "Reference for writing and editing skills well \u2014 the vocabulary\
+  \ and principles that make a skill predictable."
+authors:
+- mattpocock
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/productivity/writing-great-skills
+  repo: mattpocock/skills
+metadata:
+  stars: 188249
+added_at: '2026-07-26'

@@ -1,0 +1,16 @@
+id: cloudflare-skills-cloudflare-one-migrations
+display_name: cloudflare-one-migrations
+description: Plans migrations from Zscaler ZIA/ZPA, Palo Alto, legacy VPN, SWG, or
+  SASE stacks to Cloudflare One. Use for migration assessments, policy mapping, rollout
+  plans, and parity/gap analysis.
+authors:
+- cloudflare
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/cloudflare-one-migrations
+  repo: cloudflare/skills
+metadata:
+  stars: 2481
+added_at: '2026-07-26'

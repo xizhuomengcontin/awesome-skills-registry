@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-analyzing-command-and-control-communication
+display_name: analyzing-command-and-control-communication
+description: Analyzes malware command-and-control (C2) communication protocols to
+  understand beacon patterns, command structures, data encoding, and infrastructure.
+  Covers HTTP, HTTPS, DNS, and custom protocol C2 analysis for detection development
+  and threat intelligence. Activates for requests involving C2 analysis, beacon detection,
+  C2 protocol reverse engineering, or command-and-control infrastructure mapping.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/analyzing-command-and-control-communication
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 26570
+added_at: '2026-07-26'

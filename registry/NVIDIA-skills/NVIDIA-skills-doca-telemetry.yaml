@@ -1,0 +1,26 @@
+id: NVIDIA-skills-doca-telemetry
+display_name: doca-telemetry
+description: "Use this skill when reading **DOCA hardware-counter events** from a\
+  \ `doca_dev` via the per-domain DOCA Telemetry reader libraries \u2014 `doca_telemetry_pcc`,\
+  \ `_dpa`, `_diag`, `_adp_retx`, `_phy`, `_pci`. This is the **counter-READER** surface\
+  \ \u2014 there is no NetFlow / IPFIX / local-socket collector framework here; the\
+  \ bundle previously framed it that way and that framing is wrong. Each domain ships\
+  \ its own `doca_telemetry_{domain}_*` API: cap-query `_cap_is_supported(devinfo)`,\
+  \ `_create()` on a `doca_dev`, `_start()`, then per-domain read / sample. Trigger\
+  \ even when the user does not say \"DOCA Telemetry\" \u2014 typical implicit phrasings:\
+  \ \"read PCC counters from my BlueField app\", \"sample DPA counter exports\", \"\
+  expose PHY / PCI / DIAG counters from this `doca_dev`\". Refuse and route elsewhere\
+  \ for the publishing / export side (`doca-telemetry-exporter`), DOCA Telemetry Service\
+  \ (DTS) as deployed (out of scope), NetFlow / IPFIX collectors, and plain stdout\
+  \ logging."
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/doca-telemetry
+  repo: NVIDIA/skills
+metadata:
+  stars: 2675
+added_at: '2026-07-26'

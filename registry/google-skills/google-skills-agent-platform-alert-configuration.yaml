@@ -1,0 +1,20 @@
+id: google-skills-agent-platform-alert-configuration
+display_name: agent-platform-alert-configuration
+description: 'Configures best-practice alerting policies for Google Cloud Vertex AI
+  / Agent Platform agents on Agent Runtime. Use when analyzing, writing, or deploying
+  alerting policies to monitor agent latency, error rates, and quality metrics (response
+  quality, tool use, hallucination). Also use when provisioning online monitors for
+  quality evaluation, or analyzing live metrics traffic footprints. NOTE: This skill
+  currently only works for the Agent Runtime. Don''t use for configuring general GCP
+  alert policies or non-agent GCP alerting policies.'
+authors:
+- google
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/cloud/agent-platform-alert-configuration
+  repo: google/skills
+metadata:
+  stars: 15248
+added_at: '2026-07-26'

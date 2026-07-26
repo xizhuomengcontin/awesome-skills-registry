@@ -1,0 +1,14 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-building-super-timelines-with-plaso
+display_name: building-super-timelines-with-plaso
+description: Generate log2timeline and Plaso super-timelines and triage them in Timesketch.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/building-super-timelines-with-plaso
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 26570
+added_at: '2026-07-26'

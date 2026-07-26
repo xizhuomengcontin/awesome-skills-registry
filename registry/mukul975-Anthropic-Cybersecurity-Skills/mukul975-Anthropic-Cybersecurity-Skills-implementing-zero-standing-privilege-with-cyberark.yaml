@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-zero-standing-privilege-with-cyberark
+display_name: implementing-zero-standing-privilege-with-cyberark
+description: Deploy CyberArk Secure Cloud Access to eliminate standing privileges
+  in hybrid and multi-cloud environments using just-in-time access with time, entitlement,
+  and approval controls.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-zero-standing-privilege-with-cyberark
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 26570
+added_at: '2026-07-26'

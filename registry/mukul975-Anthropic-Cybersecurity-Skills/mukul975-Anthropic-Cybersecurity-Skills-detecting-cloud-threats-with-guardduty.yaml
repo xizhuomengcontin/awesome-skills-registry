@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-detecting-cloud-threats-with-guardduty
+display_name: detecting-cloud-threats-with-guardduty
+description: This skill teaches security teams how to deploy and operationalize Amazon
+  GuardDuty for continuous threat detection across AWS accounts and workloads. It
+  covers enabling protection plans for S3, EKS, EC2 runtime monitoring, and Lambda,
+  interpreting finding severity levels, and building automated response workflows
+  using EventBridge and Lambda.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/detecting-cloud-threats-with-guardduty
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 26570
+added_at: '2026-07-26'

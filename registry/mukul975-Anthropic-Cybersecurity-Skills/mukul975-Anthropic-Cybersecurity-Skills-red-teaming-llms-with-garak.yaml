@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-red-teaming-llms-with-garak
+display_name: red-teaming-llms-with-garak
+description: Run NVIDIA garak probe suites against an LLM endpoint to test for jailbreaks,
+  prompt injection, data leakage, and toxic generation, then interpret the hit-rate
+  report for triage and reporting.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/red-teaming-llms-with-garak
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 26570
+added_at: '2026-07-26'

@@ -1,0 +1,17 @@
+id: veniceai-skills-venice-image-generate
+display_name: venice-image-generate
+description: Generate images with Venice. Covers POST /image/generate (Venice-native),
+  POST /images/generations (OpenAI-compatible), GET /image/styles (style presets),
+  request fields (prompt, dimensions, cfg_scale, seed, variants, style_preset, style_references,
+  aspect_ratio, resolution, safe_mode, watermark), and response formats.
+authors:
+- veniceai
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/venice-image-generate
+  repo: veniceai/skills
+metadata:
+  stars: 122
+added_at: '2026-07-26'

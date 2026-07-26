@@ -1,0 +1,17 @@
+id: santifer-career-ops-career-ops
+display_name: career-ops
+description: AI job search command center -- evaluate offers, tailor CVs, scan portals,
+  track applications. Use when the user pastes a job description or URL, asks to evaluate
+  an offer, tailor a resume or cover letter, scan job boards, prepare for an interview,
+  or track/update their applications.
+authors:
+- santifer
+is_official: false
+tags: []
+category: none
+source:
+  path: /.agents/skills/career-ops
+  repo: santifer/career-ops
+metadata:
+  stars: 61545
+added_at: '2026-07-26'

@@ -1,0 +1,19 @@
+id: dembrandt-dembrandt-skills-domain-expert-configuration
+display_name: domain-expert-configuration
+description: "Configuration UIs for domain experts \u2014 users who understand their\
+  \ field deeply but are not software developers \u2014 require domain language, sensible\
+  \ defaults, and grouping by professional concept rather than technical parameter.\
+  \ Use when designing settings panels, solver or algorithm configuration, constraint\
+  \ editors, or any UI where the user needs to tune the behaviour of a complex system\
+  \ without understanding its internals."
+authors:
+- dembrandt
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/domain-expert-configuration
+  repo: dembrandt/dembrandt-skills
+metadata:
+  stars: 31
+added_at: '2026-07-26'

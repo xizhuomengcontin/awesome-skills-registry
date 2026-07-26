@@ -1,0 +1,15 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-pod-security-admission-controller
+display_name: implementing-pod-security-admission-controller
+description: Implement Kubernetes Pod Security Admission to enforce baseline and restricted
+  security profiles at namespace level using built-in admission controller.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-pod-security-admission-controller
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 26570
+added_at: '2026-07-26'

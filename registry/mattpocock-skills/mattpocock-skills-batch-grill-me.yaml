@@ -1,0 +1,15 @@
+id: mattpocock-skills-batch-grill-me
+display_name: batch-grill-me
+description: A relentless interview that asks every frontier question at once, round
+  by round.
+authors:
+- mattpocock
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/in-progress/batch-grill-me
+  repo: mattpocock/skills
+metadata:
+  stars: 188249
+added_at: '2026-07-26'
