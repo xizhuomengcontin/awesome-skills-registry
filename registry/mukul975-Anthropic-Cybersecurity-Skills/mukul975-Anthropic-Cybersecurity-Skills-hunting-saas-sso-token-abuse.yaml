@@ -1,0 +1,14 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-hunting-saas-sso-token-abuse
+display_name: hunting-saas-sso-token-abuse
+description: Detect SSO and OAuth token replay and SaaS lateral movement.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/hunting-saas-sso-token-abuse
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 27110
+added_at: '2026-08-02'

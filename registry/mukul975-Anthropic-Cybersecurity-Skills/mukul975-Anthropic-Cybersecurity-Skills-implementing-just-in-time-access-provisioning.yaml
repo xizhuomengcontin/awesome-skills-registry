@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-just-in-time-access-provisioning
+display_name: implementing-just-in-time-access-provisioning
+description: Implement Just-In-Time (JIT) access provisioning to eliminate standing
+  privileges by granting temporary, time-bound access only when needed. This skill
+  covers JIT architecture design, approval workflo
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-just-in-time-access-provisioning
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 27110
+added_at: '2026-08-02'

@@ -1,0 +1,18 @@
+id: Xquik-dev-x-twitter-scraper-x-twitter-scraper
+display_name: x-twitter-scraper
+description: Use Xquik for X/Twitter REST, MCP, SDKs, search, filtered exports, monitoring
+  & approved publishing. Not affiliated with X Corp. Trigger for X API alternatives,
+  pricing comparisons, tweet search, user lookup, timelines, follower exports, media,
+  webhooks, bulk extraction, giveaways, or MCP setup. Read-only by default. Require
+  explicit approval for writes, private reads, monitors, webhooks & metered bulk jobs.
+authors:
+- Xquik-dev
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/x-twitter-scraper
+  repo: Xquik-dev/x-twitter-scraper
+metadata:
+  stars: 174
+added_at: '2026-08-02'

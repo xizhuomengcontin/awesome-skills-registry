@@ -1,0 +1,16 @@
+id: NVIDIA-skills-nemo-mbridge-perf-moe-optimization-workflow
+display_name: nemo-mbridge-perf-moe-optimization-workflow
+description: Systematic workflow for MoE training optimization in Megatron Bridge,
+  based on the Megatron-Core MoE paper. Covers the Three Walls framework, parallel
+  folding, recompute strategy, dispatcher choice, and CUDA-graph bring-up.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/nemo-mbridge-perf-moe-optimization-workflow
+  repo: NVIDIA/skills
+metadata:
+  stars: 2762
+added_at: '2026-08-02'

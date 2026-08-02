@@ -1,0 +1,17 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-analyzing-kubernetes-audit-logs
+display_name: analyzing-kubernetes-audit-logs
+description: Parses Kubernetes API server audit logs (JSON lines) to detect exec-into-pod,
+  secret access, RBAC modifications, privileged pod creation, and anonymous API access.
+  Builds threat detection rules from audit event patterns. Use when investigating
+  Kubernetes cluster compromise or building k8s-specific SIEM detection rules.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/analyzing-kubernetes-audit-logs
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 27110
+added_at: '2026-08-02'

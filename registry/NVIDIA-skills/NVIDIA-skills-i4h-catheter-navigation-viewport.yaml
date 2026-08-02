@@ -1,0 +1,16 @@
+id: NVIDIA-skills-i4h-catheter-navigation-viewport
+display_name: i4h-catheter-navigation-viewport
+description: Launch the interactive Slang fluoroscopy viewport with XPBD catheter
+  physics. Use when asked to open the viewport, teleop a catheter, or demo fluoro
+  navigation.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/i4h-catheter-navigation-viewport
+  repo: NVIDIA/skills
+metadata:
+  stars: 2762
+added_at: '2026-08-02'

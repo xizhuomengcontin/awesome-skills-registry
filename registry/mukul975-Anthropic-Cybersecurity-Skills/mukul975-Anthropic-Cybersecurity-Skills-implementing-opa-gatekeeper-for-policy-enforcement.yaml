@@ -1,0 +1,15 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-opa-gatekeeper-for-policy-enforcement
+display_name: implementing-opa-gatekeeper-for-policy-enforcement
+description: Enforce Kubernetes admission policies using OPA Gatekeeper with ConstraintTemplates,
+  Rego rules, and the Gatekeeper policy library.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-opa-gatekeeper-for-policy-enforcement
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 27110
+added_at: '2026-08-02'

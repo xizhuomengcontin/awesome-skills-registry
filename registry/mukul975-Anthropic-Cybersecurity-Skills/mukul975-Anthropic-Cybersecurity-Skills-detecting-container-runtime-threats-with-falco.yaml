@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-detecting-container-runtime-threats-with-falco
+display_name: detecting-container-runtime-threats-with-falco
+description: Write and deploy Falco rules with the modern eBPF driver to detect container
+  escape, namespace abuse, privileged mounts, and anomalous syscalls at runtime in
+  Kubernetes and Docker.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/detecting-container-runtime-threats-with-falco
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 27110
+added_at: '2026-08-02'

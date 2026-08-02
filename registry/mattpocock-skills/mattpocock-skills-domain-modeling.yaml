@@ -1,0 +1,16 @@
+id: mattpocock-skills-domain-modeling
+display_name: domain-modeling
+description: Build and sharpen a project's domain model. Use when the user wants to
+  pin down domain terminology or a ubiquitous language, record an architectural decision,
+  or when another skill needs to maintain the domain model.
+authors:
+- mattpocock
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/engineering/domain-modeling
+  repo: mattpocock/skills
+metadata:
+  stars: 198973
+added_at: '2026-08-02'

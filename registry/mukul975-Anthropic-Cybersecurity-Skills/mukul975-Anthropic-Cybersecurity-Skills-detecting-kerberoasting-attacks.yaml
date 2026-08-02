@@ -1,0 +1,15 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-detecting-kerberoasting-attacks
+display_name: detecting-kerberoasting-attacks
+description: Detect Kerberoasting attacks by monitoring for anomalous Kerberos TGS
+  requests targeting service accounts with SPNs for offline password cracking.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/detecting-kerberoasting-attacks
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 27110
+added_at: '2026-08-02'

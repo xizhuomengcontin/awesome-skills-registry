@@ -1,0 +1,16 @@
+id: deanpeters-Product-Manager-Skills-incoming-request-advisor
+display_name: incoming-request-advisor
+description: Decode an incoming message into a structured breakdown that separates
+  the literal ask from the job-to-be-done. Use before replying to a loaded Slack ping,
+  email, mandate, or escalation.
+authors:
+- deanpeters
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/incoming-request-advisor
+  repo: deanpeters/Product-Manager-Skills
+metadata:
+  stars: 6174
+added_at: '2026-08-02'

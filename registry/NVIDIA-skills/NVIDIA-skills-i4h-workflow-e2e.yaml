@@ -1,0 +1,17 @@
+id: NVIDIA-skills-i4h-workflow-e2e
+display_name: i4h-workflow-e2e
+description: "Run the full end-to-end agentic pipeline (record \u2192 mimic \u2192\
+  \ annotate \u2192 replay \u2192 convert \u2192 visualize \u2192 finetune \u2192\
+  \ validate). Use when asked to run the whole pipeline or do an e2e, smoke, or demo\
+  \ run."
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/i4h-workflow-e2e
+  repo: NVIDIA/skills
+metadata:
+  stars: 2762
+added_at: '2026-08-02'

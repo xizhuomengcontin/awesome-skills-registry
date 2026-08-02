@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-building-adversary-infrastructure-tracking-system
+display_name: building-adversary-infrastructure-tracking-system
+description: Build an automated system to track adversary infrastructure using passive
+  DNS, certificate transparency, WHOIS data, and IP enrichment to map and monitor
+  threat actor command-and-control networks.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/building-adversary-infrastructure-tracking-system
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 27110
+added_at: '2026-08-02'

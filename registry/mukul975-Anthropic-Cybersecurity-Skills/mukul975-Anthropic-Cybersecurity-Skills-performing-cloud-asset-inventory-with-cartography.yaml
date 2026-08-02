@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-performing-cloud-asset-inventory-with-cartography
+display_name: performing-cloud-asset-inventory-with-cartography
+description: Perform comprehensive cloud asset inventory and relationship mapping
+  using Cartography to build a Neo4j security graph of infrastructure assets, IAM
+  permissions, and attack paths across AWS, GCP, and Azure.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/performing-cloud-asset-inventory-with-cartography
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 27110
+added_at: '2026-08-02'

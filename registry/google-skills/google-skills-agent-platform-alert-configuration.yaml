@@ -1,0 +1,19 @@
+id: google-skills-agent-platform-alert-configuration
+display_name: agent-platform-alert-configuration
+description: 'Configures best-practice alerting policies for AI agents using OpenTelemetry
+  (OTel) metrics. Use when analyzing, writing, or deploying alerting policies to monitor
+  agent latency, error rates, token usage, and quality metrics. NOTE: Reliability,
+  Cost, Safety, and Security alerts use generic OTel metrics and work across runtimes
+  (e.g., Cloud Run, Vertex AI). Quality alerts rely on Vertex AI Online Monitors and
+  are strictly bound to Vertex AI deployments.'
+authors:
+- google
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/cloud/agent-platform-alert-configuration
+  repo: google/skills
+metadata:
+  stars: 15378
+added_at: '2026-08-02'

@@ -1,0 +1,17 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-zero-trust-network-access
+display_name: implementing-zero-trust-network-access
+description: Implementing Zero Trust Network Access (ZTNA) in cloud environments by
+  configuring identity-aware proxies, micro-segmentation, continuous verification
+  with conditional access policies, and replacing traditional VPN-based access with
+  BeyondCorp-style architectures across AWS, Azure, and GCP.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-zero-trust-network-access
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 27110
+added_at: '2026-08-02'

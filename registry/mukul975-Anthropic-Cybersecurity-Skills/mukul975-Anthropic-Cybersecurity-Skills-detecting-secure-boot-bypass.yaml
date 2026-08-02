@@ -1,0 +1,15 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-detecting-secure-boot-bypass
+display_name: detecting-secure-boot-bypass
+description: Detect bootkits such as BlackLotus and Bootkitty and Secure Boot bypass
+  via DBX and binary checks.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/detecting-secure-boot-bypass
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 27110
+added_at: '2026-08-02'

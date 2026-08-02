@@ -1,0 +1,17 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-configuring-zscaler-private-access-for-ztna
+display_name: configuring-zscaler-private-access-for-ztna
+description: Configuring Zscaler Private Access (ZPA) to replace traditional VPN with
+  zero trust network access by deploying App Connectors, defining application segments,
+  configuring access policies based on user identity and device posture, and integrating
+  with IdPs.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/configuring-zscaler-private-access-for-ztna
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 27110
+added_at: '2026-08-02'

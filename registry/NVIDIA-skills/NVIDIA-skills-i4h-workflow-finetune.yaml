@@ -1,0 +1,16 @@
+id: NVIDIA-skills-i4h-workflow-finetune
+display_name: i4h-workflow-finetune
+description: Fine-tune a GR00T or openpi PI0 policy on a LeRobot dataset. Use when
+  asked to finetune, train, or post-train a policy on demos; not for evaluating a
+  checkpoint (use [[i4h-workflow-validate]]).
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/i4h-workflow-finetune
+  repo: NVIDIA/skills
+metadata:
+  stars: 2762
+added_at: '2026-08-02'

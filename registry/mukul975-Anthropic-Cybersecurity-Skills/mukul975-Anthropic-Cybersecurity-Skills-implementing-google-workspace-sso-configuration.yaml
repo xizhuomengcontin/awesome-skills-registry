@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-google-workspace-sso-configuration
+display_name: implementing-google-workspace-sso-configuration
+description: Configure SAML 2.0 single sign-on for Google Workspace with a third-party
+  identity provider, enabling centralized authentication and enforcing organization-wide
+  access policies.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-google-workspace-sso-configuration
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 27110
+added_at: '2026-08-02'

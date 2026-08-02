@@ -1,0 +1,17 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-securing-container-registry-images
+display_name: securing-container-registry-images
+description: Securing container registry images by implementing vulnerability scanning
+  with Trivy and Grype, enforcing image signing with Cosign and Sigstore, configuring
+  registry access controls, and building CI/CD pipelines that prevent deploying unscanned
+  or unsigned images.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/securing-container-registry-images
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 27110
+added_at: '2026-08-02'

@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-detecting-aws-guardduty-findings-automation
+display_name: detecting-aws-guardduty-findings-automation
+description: Automate AWS GuardDuty threat detection findings processing using EventBridge
+  and Lambda to enable real-time incident response, automatic quarantine of compromised
+  resources, and security notification workflows.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/detecting-aws-guardduty-findings-automation
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 27110
+added_at: '2026-08-02'

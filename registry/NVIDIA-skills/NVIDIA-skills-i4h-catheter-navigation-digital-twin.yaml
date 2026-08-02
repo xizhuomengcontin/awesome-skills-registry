@@ -1,0 +1,16 @@
+id: NVIDIA-skills-i4h-catheter-navigation-digital-twin
+display_name: i4h-catheter-navigation-digital-twin
+description: Build a patient vasculature digital twin from CT (preprocess + segment).
+  Use when asked to preprocess CT, segment vessels, extract centerline, or prepare
+  ct_cache for viewport/DRR.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/i4h-catheter-navigation-digital-twin
+  repo: NVIDIA/skills
+metadata:
+  stars: 2762
+added_at: '2026-08-02'

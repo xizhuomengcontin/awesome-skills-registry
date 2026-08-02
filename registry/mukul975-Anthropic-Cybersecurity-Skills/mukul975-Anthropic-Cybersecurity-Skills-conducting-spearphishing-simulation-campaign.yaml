@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-conducting-spearphishing-simulation-campaign
+display_name: conducting-spearphishing-simulation-campaign
+description: Spearphishing simulation is a targeted social engineering attack vector
+  used by red teams to gain initial access. Unlike broad phishing campaigns, spearphishing
+  uses OSINT-derived intelligence to craf
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/conducting-spearphishing-simulation-campaign
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 27110
+added_at: '2026-08-02'

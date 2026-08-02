@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-operating-havoc-c2
+display_name: operating-havoc-c2
+description: Deploy a Havoc team server with Yaotl profiles, generate evasive Demon
+  agents with indirect syscalls and sleep obfuscation, and run post-exploitation and
+  pivoting for adversary emulation.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/operating-havoc-c2
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 27110
+added_at: '2026-08-02'

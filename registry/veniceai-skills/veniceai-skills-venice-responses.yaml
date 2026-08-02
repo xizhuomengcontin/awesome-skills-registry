@@ -1,0 +1,17 @@
+id: veniceai-skills-venice-responses
+display_name: venice-responses
+description: Use Venice's Alpha POST /responses endpoint - an OpenAI-compatible Responses
+  API with typed output blocks (reasoning, message, function_call, web_search_call).
+  Covers request shape, streaming, differences from /chat/completions, supported venice_parameters
+  subset, and E2EE behavior.
+authors:
+- veniceai
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/venice-responses
+  repo: veniceai/skills
+metadata:
+  stars: 124
+added_at: '2026-08-02'
