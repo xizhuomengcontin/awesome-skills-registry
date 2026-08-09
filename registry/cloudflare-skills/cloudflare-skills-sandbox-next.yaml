@@ -1,0 +1,18 @@
+id: cloudflare-skills-sandbox-next
+display_name: sandbox-next
+description: "Use when building or changing Cloudflare Sandbox apps on @cloudflare/sandbox@next\
+  \ (Sandbox SDK 1.0 preview)\u2014code execution, AI runners, interpreters, CI-like\
+  \ jobs, terminals, files, mounts, tunnels, preview URLs, lifecycle, or errors. Not\
+  \ for the default stable package (use sandbox-stable) or for porting stable to @next\
+  \ (use sandbox-migrate-to-next)."
+authors:
+- cloudflare
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/sandbox-next
+  repo: cloudflare/skills
+metadata:
+  stars: 2583
+added_at: '2026-08-09'

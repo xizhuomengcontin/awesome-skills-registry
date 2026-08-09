@@ -1,0 +1,19 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-container-image-minimal-base-with-distroless
+display_name: implementing-container-image-minimal-base-with-distroless
+description: Reduces container attack surface by building application images on Google
+  distroless base images that contain only the app runtime with no shell, package
+  manager, or OS utilities, using multi-stage Docker build patterns and debug/scanning
+  techniques for distroless containers. Use when hardening container images, cutting
+  attack surface in a container security architecture, or responding to a security
+  assessment that flags bloated base images.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-container-image-minimal-base-with-distroless
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 27473
+added_at: '2026-08-09'

@@ -1,0 +1,16 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-escaping-containers-to-host
+display_name: escaping-containers-to-host
+description: Exploit privileged pods, host mounts, runC CVEs, and exposed Docker sockets
+  to break out of a container and reach the underlying host during authorized container-security
+  assessments.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/escaping-containers-to-host
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 27473
+added_at: '2026-08-09'

@@ -1,0 +1,16 @@
+id: NVIDIA-skills-i4h-catheter-navigation
+display_name: i4h-catheter-navigation
+description: Overview of `workflows/catheter_navigation/` (fluorosim DRR, XPBD physics,
+  vasculature digital twin). Use when the user asks what the catheter navigation workflow
+  is, what's supported, or where to start.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/i4h-catheter-navigation
+  repo: NVIDIA/skills
+metadata:
+  stars: 2826
+added_at: '2026-08-09'

@@ -1,0 +1,15 @@
+id: NVIDIA-skills-i4h-workflow
+display_name: i4h-workflow
+description: Overview of `workflows/agentic/` (IsaacLab-Arena + GR00T/openpi). Use
+  when the user asks what i4h workflow is, what's supported, or where to start.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/i4h-workflow
+  repo: NVIDIA/skills
+metadata:
+  stars: 2826
+added_at: '2026-08-09'
