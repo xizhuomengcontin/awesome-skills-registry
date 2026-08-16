@@ -1,0 +1,26 @@
+id: NVIDIA-skills-doca-gpunetio-ib-write-bw
+display_name: doca-gpunetio-ib-write-bw
+description: "Use this skill when the user is building, running, or interpreting the\
+  \ doca/tools/gpunetio_ib_write_bw client+server benchmark \u2014 a CUDA kernel on\
+  \ the client posts RDMA WRITE work requests through the doca-gpunetio device-side\
+  \ surface to measure sustained GPU-driven WRITE bandwidth on a GPU+IB-device pair.\
+  \ Trigger even when the user does not explicitly mention \"doca-gpunetio-ib-write-bw\"\
+  \ or \"GPUNetIO\" \u2014 typical implicit phrasings include \"measure WRITE BW when\
+  \ the GPU posts the WRs\", \"BW swings between runs on the same flags\", \"is the\
+  \ NIC saturated or am I CPU-bound on the CUDA kernel\", \"meson compile fails for\
+  \ the GPUNetIO bw tool\", \"nvidia_peermem isn't picking up my GPU buffer\", or\
+  \ \"GPU-initiated WRITE throughput vs CPU-initiated perftest\". Refuse and route\
+  \ elsewhere for general doca-gpunetio library work, DOCA install, the GPU-initiated\
+  \ WRITE latency analog, the CPU-initiated upstream perftest, or application-level\
+  \ end-to-end throughput \u2014 those belong to other skills."
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/doca-gpunetio-ib-write-bw
+  repo: NVIDIA/skills
+metadata:
+  stars: 2961
+added_at: '2026-08-16'

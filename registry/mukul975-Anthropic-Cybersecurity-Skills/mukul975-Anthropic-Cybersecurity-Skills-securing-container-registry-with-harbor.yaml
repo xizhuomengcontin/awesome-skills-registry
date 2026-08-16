@@ -1,0 +1,19 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-securing-container-registry-with-harbor
+display_name: securing-container-registry-with-harbor
+description: "Configures the Harbor open-source container registry's security features\
+  \ \u2014 integrated Trivy vulnerability scanning, Notary/Cosign image signing and\
+  \ content trust policies, project-level RBAC, immutable tag retention rules, and\
+  \ OIDC authentication \u2014 to enforce image provenance and block vulnerable image\
+  \ deployment. Use when deploying or hardening a Harbor registry, or when access\
+  \ control and compliance requirements call for signed, scanned images."
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/securing-container-registry-with-harbor
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 27842
+added_at: '2026-08-16'

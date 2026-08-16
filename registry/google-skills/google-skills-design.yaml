@@ -1,0 +1,17 @@
+id: google-skills-design
+display_name: design
+description: Processes cloud architectural design and local validation. Use when designing
+  modular Terraform architectures, authoring local HCL, validating HCL via terraform
+  validate, or planning HCL via terraform plan. Don't use for deploying templates,
+  plan assessment, or troubleshooting deployment failures.
+authors:
+- google
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/cloud/design-deploy/references/design
+  repo: google/skills
+metadata:
+  stars: 18326
+added_at: '2026-08-16'

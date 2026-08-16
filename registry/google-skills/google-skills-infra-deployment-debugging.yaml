@@ -1,0 +1,16 @@
+id: google-skills-infra-deployment-debugging
+display_name: infra-deployment-debugging
+description: Troubleshoots infrastructure deployment failures. Use when analyzing
+  deployment failures of ADC applications or direct/raw Terraform deployment errors.
+  Don't use for design, local validation, plan assessment, or non-deployment troubleshooting.
+authors:
+- google
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/cloud/design-deploy/references/infra-deployment-debugging
+  repo: google/skills
+metadata:
+  stars: 18326
+added_at: '2026-08-16'

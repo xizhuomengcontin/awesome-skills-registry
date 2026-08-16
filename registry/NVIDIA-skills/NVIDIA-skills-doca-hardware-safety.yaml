@@ -1,0 +1,26 @@
+id: NVIDIA-skills-doca-hardware-safety
+display_name: doca-hardware-safety
+description: "Use this skill whenever the agent is about to recommend or apply a change\
+  \ that touches DPU / NIC hardware state on a live system \u2014 mlxconfig firmware-parameter\
+  \ write, NIC firmware burn, BFB reflash, NIC \u2194 DPU mode flip, SR-IOV or device-emulation\
+  \ slot enable, kernel boot-parameter change (IOMMU, hugepages, VFIO), PCIe rebind\
+  \ / rescan / link-state flip, or BlueField cold reboot. Wraps the change in pre-flight\
+  \ inventory, OOB reachability, a maintenance window, the mlxconfig cold-power-cycle\
+  \ rule, replica rehearsal, and rollback. Trigger even when the user does not say\
+  \ \"hardware safety\" \u2014 implicit phrasings: \"flip BlueField mode over SSH\"\
+  , \"enable SR-IOV and reboot\", \"burned firmware but mlxconfig shows old value\"\
+  , \"reflashed BFB and lost representors\", \"reflash during business hours\", \"\
+  vendor says this is one-way\". Refuse for general DOCA orientation (doca-public-knowledge-map),\
+  \ install or env debug (doca-setup), and program-side debug (doca-debug, doca-programming-guide)\
+  \ \u2014 those belong to other skills."
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/doca-hardware-safety
+  repo: NVIDIA/skills
+metadata:
+  stars: 2961
+added_at: '2026-08-16'

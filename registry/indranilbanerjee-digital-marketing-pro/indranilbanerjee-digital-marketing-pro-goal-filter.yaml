@@ -1,0 +1,22 @@
+id: indranilbanerjee-digital-marketing-pro-goal-filter
+display_name: goal-filter
+description: "Lock ONE primary marketing goal per brand, then judge any idea, draft,\
+  \ campaign, or plan against it \u2014 ON GOAL, PARTIAL, or OFF \u2014 always returning\
+  \ the fix or a sharper version that pulls harder toward the metric, and naming drift\
+  \ patterns across the verdict history. Triggers on \"/digital-marketing-pro:goal-filter\"\
+  , \"is this on goal\", \"lock the goal for this quarter\", \"does this serve the\
+  \ objective\", \"keep me focused\", \"what's our priority\". Stores the lock in\
+  \ the brand workspace (goal-lock.json) so every session reads the same goal; inside\
+  \ a 12-Part engagement it offers to lock Part 1's primary objective rather than\
+  \ inventing a parallel one."
+authors:
+- indranilbanerjee
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/goal-filter
+  repo: indranilbanerjee/digital-marketing-pro
+metadata:
+  stars: 742
+added_at: '2026-08-16'

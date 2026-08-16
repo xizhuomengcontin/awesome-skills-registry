@@ -1,0 +1,18 @@
+id: google-skills-design-deploy
+display_name: design-deploy
+description: 'Processes GCP infrastructure design and deployment workflows. Use when:
+  - Designing GCP infrastructure with Terraform. - Validating local HCL. - Performing
+  best-practice plan scans. - Importing templates to Application Design Center (ADC).
+  - Deploying templates. - Troubleshooting deployment failures. Don''t use for non-GCP
+  cloud providers, or general Terraform coding outside the ADC context.'
+authors:
+- google
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/cloud/design-deploy
+  repo: google/skills
+metadata:
+  stars: 18326
+added_at: '2026-08-16'

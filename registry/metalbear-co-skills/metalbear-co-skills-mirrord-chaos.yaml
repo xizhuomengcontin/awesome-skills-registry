@@ -1,0 +1,14 @@
+id: metalbear-co-skills-mirrord-chaos
+display_name: Mirrord Chaos
+description: '---'
+authors:
+- metalbear-co
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/mirrord-chaos
+  repo: metalbear-co/skills
+metadata:
+  stars: 27
+added_at: '2026-08-16'
