@@ -1,0 +1,16 @@
+id: huggingface-skills-trl-training
+display_name: trl-training
+description: Train and fine-tune transformer language models using TRL (Transformers
+  Reinforcement Learning). Supports SFT, DPO, GRPO, KTO, RLOO and Reward Model training
+  via CLI commands.
+authors:
+- huggingface
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/trl-training
+  repo: huggingface/skills
+metadata:
+  stars: 10953
+added_at: '2026-08-23'

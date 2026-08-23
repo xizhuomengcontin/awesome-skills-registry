@@ -1,0 +1,16 @@
+id: NVIDIA-skills-i4h-workflow-dataset-mimic
+display_name: i4h-workflow-dataset-mimic
+description: Expand an HDF5 recording by cloning trajectories with action/state noise.
+  Use when asked to mimic, expand, or augment a dataset; not for recording new demos
+  (use [[i4h-workflow-dataset-teleop]]).
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/i4h-workflow-dataset-mimic
+  repo: NVIDIA/skills
+metadata:
+  stars: 3065
+added_at: '2026-08-23'

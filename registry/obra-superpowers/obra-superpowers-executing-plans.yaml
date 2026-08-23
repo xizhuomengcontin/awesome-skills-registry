@@ -1,0 +1,15 @@
+id: obra-superpowers-executing-plans
+display_name: executing-plans
+description: Use when you have a written implementation plan to execute in a separate
+  session with review checkpoints
+authors:
+- obra
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/executing-plans
+  repo: obra/superpowers
+metadata:
+  stars: 276184
+added_at: '2026-08-23'

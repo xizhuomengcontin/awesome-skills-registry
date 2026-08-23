@@ -1,0 +1,16 @@
+id: NVIDIA-skills-vss-deploy-dense-captioning
+display_name: vss-deploy-dense-captioning
+description: Use this skill when deploying standalone RT-VLM dense captioning or calling
+  its REST API (uploads, captions, streams, chat-completions, Kafka). Not for VSS
+  profile deploy or video-search ingestion.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/vss-deploy-dense-captioning
+  repo: NVIDIA/skills
+metadata:
+  stars: 3065
+added_at: '2026-08-23'

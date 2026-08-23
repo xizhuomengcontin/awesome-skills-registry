@@ -1,0 +1,14 @@
+id: mattpocock-skills-implement-spec
+display_name: implement-spec
+description: Implement a specification in code.
+authors:
+- mattpocock
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/in-progress/implement-spec
+  repo: mattpocock/skills
+metadata:
+  stars: 232009
+added_at: '2026-08-23'

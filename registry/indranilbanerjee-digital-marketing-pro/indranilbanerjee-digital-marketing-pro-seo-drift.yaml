@@ -1,0 +1,22 @@
+id: indranilbanerjee-digital-marketing-pro-seo-drift
+display_name: seo-drift
+description: "Compare two SEO snapshots from the same source \u2014 GSC, the GSC AI\
+  \ Performance report, a rank-tracker export, or aeo-audit probes \u2014 into a drift\
+  \ report: top gainers and losers per metric, growth/decline/reshuffle/stable/new/lost\
+  \ classification, and a four-gate quality scorecard. Triggers on \"/digital-marketing-pro:seo-drift\"\
+  , \"compare this month's GSC export to last month's\", \"what moved after the core\
+  \ update\", \"did the content refresh work\", \"which queries lost AI Mode impressions\"\
+  . Runs scripts/seo_drift.py on two CSVs, reads the brand profile for noise thresholds,\
+  \ and branches findings to /digital-marketing-pro:seo-audit, /digital-marketing-pro:aeo-geo,\
+  \ or /digital-marketing-pro:content-engine."
+authors:
+- indranilbanerjee
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/seo-drift
+  repo: indranilbanerjee/digital-marketing-pro
+metadata:
+  stars: 764
+added_at: '2026-08-23'

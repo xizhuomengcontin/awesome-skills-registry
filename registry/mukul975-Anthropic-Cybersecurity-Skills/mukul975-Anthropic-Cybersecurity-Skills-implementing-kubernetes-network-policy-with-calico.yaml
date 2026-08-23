@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-kubernetes-network-policy-with-calico
+display_name: implementing-kubernetes-network-policy-with-calico
+description: Implements Kubernetes network segmentation using Calico's Kubernetes
+  NetworkPolicy and GlobalNetworkPolicy resources, including default-deny rules, policy
+  ordering, and service-account-based selectors for zero-trust pod-to-pod communication.
+  Use when installing Calico CNI and writing or auditing network policies to restrict
+  east-west traffic within a Kubernetes cluster.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-kubernetes-network-policy-with-calico
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 30661
+added_at: '2026-08-23'

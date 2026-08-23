@@ -1,0 +1,17 @@
+id: veniceai-skills-venice-billing
+display_name: venice-billing
+description: Venice billing and usage analytics - GET /billing/balance, GET /billing/usage-history
+  (keyset-paginated per-request ledger, JSON or CSV), GET /billing/usage (deprecated
+  predecessor), and GET /billing/usage-analytics (aggregated by date/model/key). Covers
+  the DIEM/USD/BUNDLED_CREDITS consumption priority and building dashboards. (Beta)
+authors:
+- veniceai
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/venice-billing
+  repo: veniceai/skills
+metadata:
+  stars: 138
+added_at: '2026-08-23'

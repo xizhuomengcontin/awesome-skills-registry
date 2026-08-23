@@ -1,0 +1,18 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-implementing-pod-security-admission-controller
+display_name: implementing-pod-security-admission-controller
+description: Implement Kubernetes Pod Security Admission (PSA), the built-in admission
+  controller stable since v1.25, to enforce Privileged, Baseline, and Restricted Pod
+  Security Standards at the namespace level with enforce, audit, and warn modes, replacing
+  the deprecated PodSecurityPolicy. Use when hardening Kubernetes namespaces, migrating
+  off PodSecurityPolicy, or enforcing pod-level security baselines.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/implementing-pod-security-admission-controller
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 30661
+added_at: '2026-08-23'

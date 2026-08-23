@@ -1,0 +1,19 @@
+id: mukul975-Anthropic-Cybersecurity-Skills-securing-helm-chart-deployments
+display_name: securing-helm-chart-deployments
+description: Secures Helm chart deployments by verifying chart signatures and provenance,
+  rendering and scanning templates for misconfigurations with helm lint, enforcing
+  pod security contexts in values.yaml, managing secrets via external stores instead
+  of Helm values, and scoping RBAC for Helm operations in a CI/CD pipeline. Use when
+  deploying Helm charts to Kubernetes or when a security review of chart provenance,
+  templates, or release RBAC is needed.
+authors:
+- mukul975
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/securing-helm-chart-deployments
+  repo: mukul975/Anthropic-Cybersecurity-Skills
+metadata:
+  stars: 30661
+added_at: '2026-08-23'
