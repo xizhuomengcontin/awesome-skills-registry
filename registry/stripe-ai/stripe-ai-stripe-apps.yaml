@@ -1,0 +1,25 @@
+id: stripe-ai-stripe-apps
+display_name: stripe-apps
+description: "Use when building, modifying, or reviewing a Stripe App \u2014 or when\
+  \ the user describes something that implies one (e.g. \"add a panel to the customer\
+  \ page\", \"customize my Stripe Dashboard\", \"react to Stripe events from my app\"\
+  , \"connect my service to Stripe without sharing API keys\"). Covers the full app\
+  \ development workflow (scaffold, preview, upload, versioning), UI extension architecture\
+  \ (sandboxed iframe, Stripe UI toolkit, viewports), extension types (UI extensions,\
+  \ backend-only, extension interfaces, embedded apps), authentication (platform keys,\
+  \ OAuth, restricted API keys), stripe-app.yaml manifest setup (permissions, viewports,\
+  \ CSP), webhook configuration for apps, Secret Store API, `fetchStripeSignature`\
+  \ auth, and marketplace publishing, plus submitting one agentic feedback report\
+  \ after a build. Use when the user mentions Stripe Apps, UI extensions, @stripe/ui-extension-sdk,\
+  \ stripe-app.yaml, Dashboard extensions, or customizing the Stripe Dashboard."
+authors:
+- stripe
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/stripe-apps
+  repo: stripe/ai
+metadata:
+  stars: 1778
+added_at: '2026-08-30'

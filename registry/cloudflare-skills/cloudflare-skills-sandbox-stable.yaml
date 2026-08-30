@@ -1,0 +1,18 @@
+id: cloudflare-skills-sandbox-stable
+display_name: sandbox-stable
+description: "Use when building or changing Cloudflare Sandbox apps on the current\
+  \ stable @cloudflare/sandbox package (default npm tag)\u2014commands, sessions,\
+  \ files, ports, tunnels, terminals, bridge, production, or deprecated-API cleanup\
+  \ while staying on stable. Not for @cloudflare/sandbox@next (use sandbox-next) or\
+  \ for porting to 1.0 (use sandbox-migrate-to-next)."
+authors:
+- cloudflare
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/sandbox-stable
+  repo: cloudflare/skills
+metadata:
+  stars: 2741
+added_at: '2026-08-30'

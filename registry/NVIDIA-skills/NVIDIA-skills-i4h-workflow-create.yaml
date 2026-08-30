@@ -1,0 +1,15 @@
+id: NVIDIA-skills-i4h-workflow-create
+display_name: i4h-workflow-create
+description: Create a new agentic env by forking an existing env. Use for new env/task
+  scaffolding, not scene edits or baking.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/i4h-workflow-create
+  repo: NVIDIA/skills
+metadata:
+  stars: 3139
+added_at: '2026-08-30'

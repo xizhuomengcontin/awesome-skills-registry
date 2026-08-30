@@ -1,0 +1,20 @@
+id: dembrandt-dembrandt-skills-app-shell
+display_name: app-shell
+description: "The persistent shell around an application \u2014 the top bar, the app\
+  \ launcher, the tenant and environment cue, and in heavy tools a status bar. In\
+  \ an estate of several applications the shell belongs to the estate rather than\
+  \ to any one app, and it is what carries a user between tools. Use when designing\
+  \ a top bar, an app switcher, a tenant selector, an environment cue, a status bar,\
+  \ or navigation between separate tools behind one login. For the locale, currency\
+  \ and unit controls the shell carries, see global-toolbar-controls."
+authors:
+- dembrandt
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/app-shell
+  repo: dembrandt/dembrandt-skills
+metadata:
+  stars: 52
+added_at: '2026-08-30'

@@ -1,0 +1,15 @@
+id: Xquik-dev-tweetclaw-tweetclaw
+display_name: tweetclaw
+description: OpenClaw guide for Twitter search, follower exports, monitoring, media,
+  and approved X automation through Xquik. Not affiliated with X Corp.
+authors:
+- Xquik-dev
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/tweetclaw
+  repo: Xquik-dev/tweetclaw
+metadata:
+  stars: 92
+added_at: '2026-08-30'

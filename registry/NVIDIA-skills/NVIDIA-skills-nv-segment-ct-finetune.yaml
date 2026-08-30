@@ -1,0 +1,15 @@
+id: NVIDIA-skills-nv-segment-ct-finetune
+display_name: nv-segment-ct-finetune
+description: Used for smoke or dataset finetuning of NV-Segment-CT VISTA3D on CT NIfTI
+  labels. Not for clinical validation.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/nv-segment-ct-finetune
+  repo: NVIDIA/skills
+metadata:
+  stars: 3139
+added_at: '2026-08-30'

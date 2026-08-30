@@ -1,0 +1,19 @@
+id: PSPDFKit-labs-nutrient-agent-skill-nutrient-document-processing
+display_name: nutrient-document-processing
+description: Process documents with Nutrient DWS. Use when the user wants to generate
+  PDFs from HTML or URLs, convert Office/images/PDFs, assemble or split packets, OCR
+  scans, extract text/tables/key-value pairs, redact PII, watermark, sign, fill forms,
+  optimize PDFs, or produce compliance outputs like PDF/A or PDF/UA. Triggers include
+  convert to PDF, merge these PDFs, OCR this scan, extract tables, redact PII, sign
+  this PDF, make this PDF/A, or linearize for web delivery.
+authors:
+- PSPDFKit-labs
+is_official: true
+tags: []
+category: none
+source:
+  path: /nutrient-document-processing
+  repo: PSPDFKit-labs/nutrient-agent-skill
+metadata:
+  stars: 16
+added_at: '2026-08-30'
