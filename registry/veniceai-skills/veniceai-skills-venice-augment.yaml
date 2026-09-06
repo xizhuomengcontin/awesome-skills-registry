@@ -1,0 +1,19 @@
+id: veniceai-skills-venice-augment
+display_name: venice-augment
+description: Venice augmentation endpoints for agent pipelines. Covers POST /augment/text-parser
+  (extract text from PDF/DOCX/XLSX/plain text, multipart, up to 25MB, JSON or plain
+  text response), POST /augment/scrape (fetch a URL and return markdown; blocks X/Reddit),
+  and POST /augment/search (Brave ZDR or anonymized Google; structured title/url/content/date
+  results, up to 20 per query). Privacy (zero data retention), rate limits, and error
+  shapes.
+authors:
+- veniceai
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/venice-augment
+  repo: veniceai/skills
+metadata:
+  stars: 139
+added_at: '2026-09-06'

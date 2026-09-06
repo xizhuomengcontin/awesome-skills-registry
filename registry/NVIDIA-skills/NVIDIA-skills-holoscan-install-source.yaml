@@ -1,0 +1,15 @@
+id: NVIDIA-skills-holoscan-install-source
+display_name: holoscan-install-source
+description: Build Holoscan SDK from source via the in-tree ./run script. Use only
+  when published packages don't meet the user's needs.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/holoscan-install-source
+  repo: NVIDIA/skills
+metadata:
+  stars: 3211
+added_at: '2026-09-06'
