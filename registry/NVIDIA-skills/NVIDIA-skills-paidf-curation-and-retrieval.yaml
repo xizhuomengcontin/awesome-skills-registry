@@ -1,0 +1,19 @@
+id: NVIDIA-skills-paidf-curation-and-retrieval
+display_name: paidf-curation-and-retrieval
+description: Use when operating PAIDF Curation and Retrieval or NVIDIA Cosmos Curator
+  pipelines (split, filter, caption, embed, dedup, shard, image annotate) or PAIDF
+  Data Mining nearest-neighbor matching on Curator embeddings. Activate for Make or
+  CLI pipeline config, GPU run preflight, FFmpeg sidecar, SAM3 keys, or Curator-to-TAO
+  handoff. Do not use for generic ETL, vector-database RAG, model training, orchestration,
+  or embeddings outside Cosmos Curator and PAIDF Data Mining.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/paidf-curation-and-retrieval
+  repo: NVIDIA/skills
+metadata:
+  stars: 3270
+added_at: '2026-09-13'

@@ -1,0 +1,23 @@
+id: K-Dense-AI-claude-scientific-skills-paperclip
+display_name: paperclip
+description: Search and read full-text biomedical papers, FDA/PMDA/EMA regulatory
+  documents, clinical trial registries, and UniProt/PDB/ChEMBL entries with the Paperclip
+  CLI from GXL. Covers installing and authenticating the `paperclip` binary with a
+  PAPERCLIP_API_KEY, the read-only virtual filesystem under /papers, /fda, /trials,
+  /proteins and /clipboard, source-scoped semantic search, corpus-wide grep, metadata
+  lookup and SQL, map/reduce reading across many papers, figure vision analysis, opt-in
+  paper repositories with claim verification, and line-pinned citations. Use when
+  asked to install paperclip, run paperclip search/grep/map/reduce/sql/repo, find
+  or read biomedical literature, regulatory filings or clinical trials through paperclip,
+  or produce citations with line numbers.
+authors:
+- K-Dense-AI
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/paperclip
+  repo: K-Dense-AI/claude-scientific-skills
+metadata:
+  stars: 44603
+added_at: '2026-09-13'

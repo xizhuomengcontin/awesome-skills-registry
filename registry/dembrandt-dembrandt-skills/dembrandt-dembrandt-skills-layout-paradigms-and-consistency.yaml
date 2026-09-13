@@ -1,0 +1,24 @@
+id: dembrandt-dembrandt-skills-layout-paradigms-and-consistency
+display_name: layout-paradigms-and-consistency
+description: "A layout is not a neutral container \u2014 choosing the right layout\
+  \ paradigm (feed, board, table, canvas, master-detail, dashboard, gallery, timeline,\
+  \ map, single-focus, narrative long-scroll) is a design decision that shapes how\
+  \ content is understood. Landing and marketing pages get a product narrative framework\
+  \ \u2014 hook, problem, USP, value props, proof points, how it works, stakes, CTA\
+  \ \u2014 used to review whether the page carries a visitor to a decision. Once chosen,\
+  \ the same paradigm and page skeleton must be reused consistently across the application\
+  \ so users build one mental model. This is consistency at the macro scale, above\
+  \ component and token consistency. Use when deciding the overall structure of a\
+  \ screen, designing page templates, or reviewing whether screens across a product\
+  \ feel like one coherent application."
+authors:
+- dembrandt
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/layout-paradigms-and-consistency
+  repo: dembrandt/dembrandt-skills
+metadata:
+  stars: 54
+added_at: '2026-09-13'

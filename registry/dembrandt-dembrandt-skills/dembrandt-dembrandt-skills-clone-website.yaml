@@ -1,0 +1,19 @@
+id: dembrandt-dembrandt-skills-clone-website
+display_name: clone-website
+description: "Rebuild an existing web page 1:1 from measurement instead of by eye\
+  \ \u2014 into Figma, Penpot, or code. Captures the rendered page, the raw source\
+  \ and the computed styles, rebuilds section by section, then verifies the result\
+  \ visually, structurally and semantically. Use when reproducing a live page as editable\
+  \ layers or components, or when checking whether a rebuild actually matches the\
+  \ original."
+authors:
+- dembrandt
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/clone-website
+  repo: dembrandt/dembrandt-skills
+metadata:
+  stars: 54
+added_at: '2026-09-13'

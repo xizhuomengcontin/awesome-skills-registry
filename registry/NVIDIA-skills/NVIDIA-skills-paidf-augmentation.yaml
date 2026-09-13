@@ -1,0 +1,15 @@
+id: NVIDIA-skills-paidf-augmentation
+display_name: paidf-augmentation
+description: Use when authoring or validating PAIDF augmentation YAML configs, or
+  running remote Cosmos Transfer/Predict, image-edit, or image-to-video inference.
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/paidf-augmentation
+  repo: NVIDIA/skills
+metadata:
+  stars: 3270
+added_at: '2026-09-13'

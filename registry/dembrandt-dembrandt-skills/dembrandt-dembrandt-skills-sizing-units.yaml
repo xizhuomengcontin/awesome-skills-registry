@@ -1,0 +1,19 @@
+id: dembrandt-dembrandt-skills-sizing-units
+display_name: sizing-units
+description: "Which CSS unit a value should be written in. rem for anything a text-size\
+  \ preference must move \u2014 type, control heights, padding around text. px only\
+  \ for what must not move \u2014 hairlines, borders, shadow offsets. Relative units\
+  \ for layout widths. Use when defining spacing and sizing tokens, choosing between\
+  \ px and rem, setting control heights, writing media queries, or fixing a layout\
+  \ that breaks when the user enlarges text."
+authors:
+- dembrandt
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/sizing-units
+  repo: dembrandt/dembrandt-skills
+metadata:
+  stars: 54
+added_at: '2026-09-13'

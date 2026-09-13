@@ -1,0 +1,24 @@
+id: tech-leads-club-agent-skills-tlc-plan
+display_name: tlc-plan
+description: "Turns decided work \u2014 a PRD, design doc, RFC, or thread \u2014 into\
+  \ tasks a builder can act on without guessing. Finds slices that each prove something,\
+  \ grounds them in the code, and writes intent, observable criteria with concrete\
+  \ values, the boundary, what the change disturbs, and only the decisions that are\
+  \ hard to reverse. Walks every surface the work exposes and sweeps the nine unwritten\
+  \ requirements, recording each landing as a criterion already in the source, existing\
+  \ behaviour, n/a, or Unresolved \u2014 never as a criterion the walk invented. Defaults\
+  \ to one task per source. Use when the user says \"write the task\", \"cut this\
+  \ PRD into tasks\", \"turn this design doc into work\", or \"tlc-plan\". Do NOT\
+  \ use for discovery itself or to implement \u2014 a one-line ticket is a decision;\
+  \ a blank wish is not."
+authors:
+- tech-leads-club
+is_official: false
+tags: []
+category: none
+source:
+  path: /packages/skills-catalog/skills/(development)/tlc-plan
+  repo: tech-leads-club/agent-skills
+metadata:
+  stars: 5370
+added_at: '2026-09-13'

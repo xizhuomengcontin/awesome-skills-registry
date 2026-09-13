@@ -1,0 +1,26 @@
+id: NVIDIA-skills-doca-bare-metal-deployment
+display_name: doca-bare-metal-deployment
+description: "Use this skill for launching, supervising, debugging, OR platform lifecycle\
+  \ on a BlueField \u2014 BFB install, RShim/TMFIFO, host PF rebind, post-BFB recovery\
+  \ \u2014 taking a DOCA-linked binary to a healthy run directly on hardware (host\
+  \ x86 + BlueField NIC over PCIe, or BlueField Arm bare-metal). No container, no\
+  \ kubelet. Covers launch mode (direct, tmux, systemd), PCI/NUMA/ CPU/IRQ binding,\
+  \ co-tenant isolation (cgroup-v2/netns/numactl), a seven-layer error taxonomy, and\
+  \ a six-state BlueField lifecycle classifier. Trigger even when user does not say\
+  \ \"bare-metal\" \u2014 implicit phrasings include \"binary exits 1 right after\
+  \ launch\", \"systemd keeps restarting it\", \"no matching device on the BF\", \"\
+  bfb-install exited 0 but DPU is dead\", \"ping 192.168.100.2 works but ssh fails\"\
+  , \"host PFs aren't showing netdevs\". Destructive firmware burn / mlxconfig set\
+  \ requires explicit confirmation via doca-hardware-safety; containers, library APIs,\
+  \ env prep, and build use other skills."
+authors:
+- NVIDIA
+is_official: true
+tags: []
+category: none
+source:
+  path: /skills/doca-bare-metal-deployment
+  repo: NVIDIA/skills
+metadata:
+  stars: 3270
+added_at: '2026-09-13'

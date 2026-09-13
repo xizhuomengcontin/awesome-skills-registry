@@ -1,0 +1,19 @@
+id: Xquik-dev-x-twitter-scraper-xquik-mcp
+display_name: xquik-mcp
+description: Connect, verify, and troubleshoot Xquik's remote MCP server. Use when
+  a user needs MCP setup, OAuth recovery, tool discovery, endpoint execution, or a
+  real-client MCP check in ChatGPT, Claude, Codex, Cursor, VS Code, or another compatible
+  client. Prefer live MCP discovery over copied endpoint details. Start with read-only
+  inspection. Require confirmation before private, metered, persistent, or state-changing
+  calls. Not affiliated with X Corp.
+authors:
+- Xquik-dev
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/xquik-mcp
+  repo: Xquik-dev/x-twitter-scraper
+metadata:
+  stars: 196
+added_at: '2026-09-13'

@@ -1,0 +1,24 @@
+id: lawvable-awesome-legal-skills-gouvernance-societes-cotees-gillan-saleh
+display_name: gouvernance-des-societes-cotees-gillan-saleh
+description: "Skill open source d'analyse documentaire \xE0 vocation scientifique\
+  \ sur la gouvernance des soci\xE9t\xE9s cot\xE9es fran\xE7aises (SBF 120). Il agr\xE8\
+  ge, sous forme d'index sourc\xE9s \xE0 la page pr\xE8s, le corpus r\xE9glementaire\
+  \ et doctrinal 2020-2025 \u2014 rapports AMF et HCGE, Code AFEP-MEDEF, doctrine\
+  \ AMF, priorit\xE9s ESMA, rapport s\xE9natorial Rietmann/Gay, guide Paris Europlace\
+  \ \u2014 compl\xE9t\xE9 par recherche web. Sa r\xE8gle fondatrice est le z\xE9ro\
+  \ invention : chaque chiffre, citation et page provient d'une source v\xE9rifi\xE9\
+  e, mot pour mot, en distinguant strictement le r\xE9gulateur (AMF, ESMA) de la soft\
+  \ law (HCGE, AFEP-MEDEF). Quatre usages : restitution sourc\xE9e, analyse longitudinale,\
+  \ audit d'\xE9metteur sur une grille de 13 blocs, croisement th\xE9matique multi-\xE9\
+  metteurs. Ni conseil juridique, ni conseil en investissement."
+authors:
+- lawvable
+is_official: false
+tags: []
+category: none
+source:
+  path: /skills/gouvernance-societes-cotees-gillan-saleh
+  repo: lawvable/awesome-legal-skills
+metadata:
+  stars: 691
+added_at: '2026-09-13'

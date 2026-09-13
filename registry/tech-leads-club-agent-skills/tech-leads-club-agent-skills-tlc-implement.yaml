@@ -1,0 +1,17 @@
+id: tech-leads-club-agent-skills-tlc-implement
+display_name: tlc-implement
+description: 'Implement a work already planned: extracts a checklist, builds it, and
+  proves every check with an independent verifier. Use when the user says "extract
+  a checklist", "build this ticket", "implement this spec", or "tlc-implement". Do
+  NOT use when nobody has decided what to build, or to design the work.'
+authors:
+- tech-leads-club
+is_official: false
+tags: []
+category: none
+source:
+  path: /packages/skills-catalog/skills/(development)/tlc-implement
+  repo: tech-leads-club/agent-skills
+metadata:
+  stars: 5370
+added_at: '2026-09-13'
